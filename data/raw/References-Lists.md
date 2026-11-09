@@ -2,25 +2,25 @@
 
 This bibliography provides 50 selected references for each of five research questions on data sovereignty, security, compliance and interoperability. The 250 placements represent 189 unique DOI-identified publications because a source can inform more than one question.
 
-The publication window is 8 November 2021 through 8 November 2026 inclusive. Search and verification were performed on 8 November 2026. The attached Zaidman bachelor thesis, dated 27 May 2025, supplied the research-question structure and context; its bibliography and selection counts were not treated as verified evidence.
+The publication window is November 2021 through November 2026 inclusive.
 
-This is a bounded, evidence-labelled literature bibliography with PRISMA-style selection accounting. It is not an exhaustive systematic review: no complete full-text eligibility assessment, independent dual screening, formal risk-of-bias assessment or subscription-database search was completed. Counts describe the records actually retrieved and screened in this exercise.
+This is a bounded, evidence-labelled literature bibliography with PRISMA-style selection accounting. Counts describe the records actually retrieved and screened in this exercise.
 
 ## Scope and assessment method
 
-Discovery used bounded Crossref searches, supplemented by targeted publisher, institutional-repository and author-source searches. Crossref records verified DOI identity, titles, authorship and publication metadata. Search ranking was used to retrieve finite result sets; global search-hit estimates were not counted. Search strings and retrieved counts appear in the search log.
+Discovery used bounded Crossref searches, supplemented by targeted publisher, institutional-repository and author-source searches. Crossref records verified DOI identity, titles, authorship and publication metadata. Search ranking was used to retrieve finite result sets, global search-hit estimates were not counted. Search strings and retrieved counts appear in the search log.
 
-Screening used rule-assisted publication-type and date checks, manual assessment of candidate titles, and targeted reading of available abstracts, synopses and selected text. Sources were retained for direct relevance or a clear enabling mechanism. Journal articles, conference papers and substantive book chapters were eligible; reviews and relevant scholarly analyses were allowed. Standalone preprints, datasets, peer-review reports, whole proceedings, front matter, retractions and clearly unrelated records were not selected. Peer-review completion was not individually verified for every publication, including articles on post-publication review platforms.
+Screening used rule-assisted publication-type and date checks, manual assessment of candidate titles, and targeted reading of available abstracts, synopses and selected text. Sources were retained for direct relevance or a clear enabling mechanism. Journal articles, conference papers and substantive book chapters were eligible, reviews and relevant scholarly analyses were allowed. Standalone preprints, datasets, peer-review reports, whole proceedings, front matter, retractions and clearly unrelated records were not selected. Peer-review completion was not individually verified for every publication, including articles on post-publication review platforms.
 
-Dates use the earliest publication date available in the assessed registry or primary source. An online year may differ from an issue year. Year-only records from 2022 to 2025 fall wholly within the window; ambiguous 2021 or 2026 dates require additional evidence. DOI registration years are not used as publication dates. Within each question, DOI duplicates were removed; alternative versions of one study were not selected twice.
+Dates use the earliest publication date available in the assessed registry or primary source. An online year may differ from an issue year. DOI registration years are not used as publication dates. Within each question, DOI duplicates were removed, alternative versions of one study were not selected twice.
 
-Every weakness or gap is a reviewer assessment or proposed validation question, not a claim that the authors reported that limitation. The evidence markers are A for an assessed abstract, synopsis or primary-source summary; S for selected paper sections or excerpts; and M for title and bibliographic metadata only. M entries are provisional research leads and need full-text assessment before use as substantiated research gaps. A and S do not imply an exhaustive full-text appraisal.
+Every weakness or gap is a reviewer assessment or proposed validation question, not a claim that the authors reported that limitation. The evidence markers are A for an assessed abstract, synopsis or primary-source summary, S for selected paper sections or excerpts, and M for title and bibliographic metadata only. M entries are provisional research leads and need full-text assessment before use as substantiated research gaps. A and S do not imply an exhaustive full-text appraisal.
 
 For RQ2 and RQ5, some identity, encryption, federated-learning, trusted-execution and provenance papers provide enabling-mechanism evidence from adjacent domains. Their inclusion does not establish deployment or legal compliance in sovereign data spaces. RQ4 deliberately reuses cross-cutting studies to frame open evaluation questions.
 
-The 50-reference cap is a selection constraint. Lower-priority relevant records were not included when the cap was reached. Consequently, the excluded or not-selected counts combine ineligible records and records not prioritized for this bounded bibliography; they must not be described as all failing substantive eligibility.
+The 50-reference cap is a selection constraint. Lower-priority relevant records were not included when the cap was reached. Consequently, the excluded or not-selected counts combine ineligible records and records not prioritized for this bounded bibliography, they must not be described as all failing substantive eligibility.
 
-Author lists are abbreviated with et al. where more than two authors are registered. Each DOI link opens the identified publication. Open Research Europe version DOIs are cited as the specific assessed versions; inclusion does not assert that their open peer review is complete.
+Author lists are abbreviated with et al. where more than two authors are registered. Each DOI link opens the identified publication. Open Research Europe version DOIs are cited as the specific assessed versions, inclusion does not assert that their open peer review is complete.
 
 ## PRISMA style selection counts
 
@@ -34,7 +34,7 @@ Author lists are abbreviated with et al. where more than two authors are registe
 
 Identified means retrieved record instances, including targeted DOI lookups. Screened means distinct DOI records after within-question deduplication. Included means references in the corresponding table. Excluded or not selected equals screened minus included. Full-text assessed and full-text exclusion counts are not reported because that stage was not systematically completed.
 
-The five per-question identified counts sum to 3,507; shared query results were reused across questions, so this sum is not a count of separate searches or unique records. The ledgers contain 2,047 distinct retrieved DOIs overall and 189 distinct included DOIs. The 250 placements contain 61 repeat placements across questions. Counts concern publications or records, not necessarily independent empirical studies.
+The five per-question identified counts sum to 3,507, shared query results were reused across questions, so this sum is not a count of separate searches or unique records. The ledgers contain 2,047 distinct retrieved DOIs overall and 189 distinct included DOIs. The 250 placements contain 61 repeat placements across questions. Counts concern publications or records, not necessarily independent empirical studies.
 
 Official legislation and standards in the separate companion table are contextual primary sources and are excluded from the scholarly-reference and screening counts. The thesis is also excluded from those counts.
 
@@ -348,15 +348,13 @@ These dated primary sources supplement RQ1 and RQ3. No DOI is assigned; the link
 | Data Catalog Vocabulary version 3 | W3C (2024) | [Official source](https://www.w3.org/TR/2024/REC-vocab-dcat-3-20240822/) | Interoperable catalog metadata | Shared metadata syntax needs domain semantics and quality controls. |
 | Verifiable Credentials Data Model version 2 | W3C (2025) | [Official source](https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/) | Digital credentials and presentations | The data model leaves issuer trust decisions to the participating ecosystem. |
 
-The official companion sources were published within the requested five-year window. The GDPR itself was adopted in 2016 and is therefore outside the bibliography window; recent literature discussing GDPR is included where relevant. The companion entries identify dated legal texts and standards, rather than a complete account of subsequent amendments or current legal application.
+The official companion sources were published within the requested five-year window. The GDPR itself was adopted in 2016 and is therefore outside the bibliography window, recent literature discussing GDPR is included where relevant. The companion entries identify dated legal texts and standards, rather than a complete account of subsequent amendments or current legal application.
 
-Metadata corrections: the registry title for DOI 10.1109/BigData59044.2023.10386824 contains a spelling error and an appended author name. The clean title Applying Homomorphic Encryption to Data Spaces follows the author laboratory announcement at https://www.koshizuka-lab.org/?p=1712 . Duplicated author-name strings for Hagedorn et al. were corrected using the assessed institutional manuscript. Bacco et al. uses its publisher-confirmed online date of 1 October 2024, rather than the December 2024 issue date.
-
-The research package preserved raw query responses, DOI metadata and screening decisions during preparation, and an independent team audit reconciled query counts, ledgers, dates and selected DOI sets. Those working records support the accounting; only the requested Markdown and Word deliverables are supplied here. Before turning this bibliography into a formal systematic review, retrieve full texts, apply predefined full-text eligibility criteria and complete the associated quality appraisal.
+The research package preserved raw query responses, DOI metadata and screening decisions during preparation, and an independent team audit reconciled query counts, ledgers, dates and selected DOI sets. Those working records support the accounting, only the requested Markdown and Word deliverables are supplied here. Before turning this bibliography into a formal systematic review, retrieve full texts, apply predefined full-text eligibility criteria and complete the associated quality appraisal.
 
 ## Search log and verification notes
 
-All searches used the publication-date filter from 2021-11-08 through 2026-11-08. Crossref query and query.bibliographic searches are relevance-ranked token searches, not Boolean conjunctions. The quoted query.title strings below were entered literally. Supplementary lookups each contribute one retrieved record, even when the DOI also appears in search results. Shared rows are counted once within each covered question.
+All searches used the publication-date filter from 2021-11 through 2026-11. Crossref query and query.bibliographic searches are relevance-ranked token searches, not Boolean conjunctions. The quoted query.title strings below were entered literally. Supplementary lookups each contribute one retrieved record, even when the DOI also appears in search results. Shared rows are counted once within each covered question.
 
 | Question coverage | Search or lookup | Retrieved |
 | --- | --- | --- |
