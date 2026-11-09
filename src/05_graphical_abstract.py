@@ -22,18 +22,19 @@ ev = num["evidence_total"]
 # No colour: pure black and white. Groups are told apart by labels, solid versus
 # outlined versus dashed fills, and position, never by tone.
 K, WH = "#000000", "#ffffff"
+LIGHT, VLIGHT = "#D0D0D0", "#EBEBEB"   # header boxes, evidence segment A
 W, H = 1328, 531
 g = Diagram(W, H, "Graphical abstract")
 
 # header band
-g.rect(0, 0, W, 56, fill=K, text="Data sovereignty and open innovation in data spaces: "
-       "what 189 publications show", size=28, color=WH, bold=True)
+g.rect(0, 0, W, 56, fill=LIGHT, stroke=K, stroke_w=2, text="Data sovereignty and open innovation in data spaces: "
+       "what 189 publications show", size=28, color=K, bold=True)
 
 
 def panel(x, w, title):
     g.rect(x, 70, w, 450, fill=WH, stroke=K, stroke_w=2, rounded=True, arc=3)
-    g.rect(x, 70, w, 44, fill=K, text=title, size=26, color=WH, bold=True,
-           rounded=True, arc=18)
+    g.rect(x, 70, w, 44, fill=LIGHT, stroke=K, stroke_w=2, text=title, size=26, color=K,
+           bold=True, rounded=True, arc=18)
 
 
 def chevron(x, y):
@@ -75,14 +76,14 @@ bx, bw = P2X + 14, P2W - 28
 g.rect(bx, 376, bw, 26, fill="none", text="Evidence level of the records", size=19,
        color=K, bold=True)
 x = bx
-# A solid black, S white with solid outline, M white with dashed outline
-for k, fill, tc, dashed in (("A", K, WH, False), ("S", WH, K, False), ("M", WH, K, True)):
+# A very light grey, S white with solid outline, M white with dashed outline
+for k, fill, tc, dashed in (("A", VLIGHT, K, False), ("S", WH, K, False), ("M", WH, K, True)):
     w = bw * ev[k] / tot
     g.rect(x, 406, w, 42, fill=fill, text=f"{ev[k]}", size=21, bold=True, color=tc,
            stroke=K, stroke_w=2, dashed=dashed)
     x += w
 g.rect(bx, 452, bw, 52, fill="none",
-       text="A abstract (solid), S sections (outline)<br>M metadata only (dashed)",
+       text="A abstract (shaded), S sections (outline)<br>M metadata only (dashed)",
        size=17, color=K)
 chevron(P2X + P2W + 3, 295)
 
