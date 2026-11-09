@@ -19,8 +19,9 @@ retrieved = m.group(1)                      # "2,047"
 unique, placements = num["n_unique"], num["n_placements"]
 ev = num["evidence_total"]
 
-NAVY, GREY = "#1F3A5F", "#5B6770"
-BLUE, SKY, ORANGE, GREEN, PINK = "#0072B2", "#56B4E9", "#E69F00", "#009E73", "#CC79A7"
+# black-and-white version: the former colour names now hold grey tones
+NAVY, GREY = "#000000", "#555555"
+BLUE, SKY, ORANGE, GREEN, PINK = "#1A1A1A", "#D9D9D9", "#8C8C8C", "#4D4D4D", "#BFBFBF"
 W, H = 1328, 531
 g = Diagram(W, H, "Graphical abstract")
 
@@ -30,7 +31,7 @@ g.rect(0, 0, W, 56, fill=NAVY, text="Data sovereignty and open innovation in dat
 
 
 def panel(x, w, title, color):
-    g.rect(x, 70, w, 450, fill="#F6F7F9", stroke="#D5D9DE", rounded=True, arc=3)
+    g.rect(x, 70, w, 450, fill="#F2F2F2", stroke="#999999", rounded=True, arc=3)
     g.rect(x, 70, w, 44, fill=color, text=title, size=26, color="#ffffff", bold=True,
            rounded=True, arc=18)
 
@@ -47,7 +48,7 @@ items = [("Regulation", "GDPR, DGA, Data Act"),
          ("Interoperability", "connectors, semantics")]
 for i, (a, b) in enumerate(items):
     y = 130 + i * 84
-    g.rect(P1X + 14, y, P1W - 28, 72, fill="#ffffff", stroke="#C4CAD0", rounded=True,
+    g.rect(P1X + 14, y, P1W - 28, 72, fill="#ffffff", stroke="#999999", rounded=True,
            text=f"<b>{a}</b><br><font style='font-size:21px'>{b}</font>", size=25, color="#222222"
            )
 g.rect(P1X + 14, 388, P1W - 28, 120, fill="none",
@@ -68,7 +69,7 @@ rq = [("RQ1", BLUE), ("RQ2", ORANGE), ("RQ3", GREEN), ("RQ4", PINK), ("RQ5", SKY
 cw = (P2W - 28 - 4 * 6) / 5
 for i, (q, c) in enumerate(rq):
     g.rect(P2X + 14 + i * (cw + 6), 270, cw, 44, fill=c, text=q, size=21, bold=True,
-           color="#222222" if c in (ORANGE, SKY) else "#ffffff", rounded=True, arc=20)
+           color="#222222" if c in (ORANGE, SKY, PINK) else "#ffffff", rounded=True, arc=20)
 g.rect(P2X + 14, 318, P2W - 28, 52, fill="none",
        text="Frameworks, security, interoperability, gaps, technologies", size=19,
        color="#222222")
@@ -77,7 +78,7 @@ bx, bw = P2X + 14, P2W - 28
 g.rect(bx, 376, bw, 26, fill="none", text="Evidence level of the records", size=19,
        color=GREY, bold=True)
 x = bx
-for k, c, tc in (("A", BLUE, "#ffffff"), ("S", SKY, "#222222"), ("M", "#BDBDBD", "#222222")):
+for k, c, tc in (("A", BLUE, "#ffffff"), ("S", SKY, "#222222"), ("M", "#8C8C8C", "#222222")):
     w = bw * ev[k] / tot
     g.rect(x, 406, w, 42, fill=c, text=f"{ev[k]}", size=21, bold=True, color=tc,
            stroke="#ffffff")
@@ -95,7 +96,7 @@ tens = ["Regulation versus routine", "Interoperability across environments",
         "Privacy technology versus daily workflows"]
 for i, t in enumerate(tens):
     y = 162 + i * 104
-    g.rect(P3X + 12, y, 272, 96, fill="#ffffff", stroke="#C4CAD0", rounded=True)
+    g.rect(P3X + 12, y, 272, 96, fill="#ffffff", stroke="#999999", rounded=True)
     g.rect(P3X + 22, y + 26, 44, 44, fill=GREEN, text=str(i + 1), size=24, bold=True,
            color="#ffffff", rounded=True, arc=50)
     g.rect(P3X + 72, y + 2, 208, 92, fill="none", text=t, size=21, color="#222222",
