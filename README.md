@@ -21,6 +21,18 @@ systematic review: there was no dual screening, no full-text appraisal of every
 record and no subscription-database search. See `data/raw/References-Lists.md`,
 sections "Scope and assessment method" and "Search log and verification notes".
 
+## How the records were found (not part of the scripts)
+
+The candidate records were retrieved from the Crossref REST API with
+`query.bibliographic` and `query.title` searches. Crossref ranks these results
+with the default Elasticsearch scoring, which is BM25 (statement by Crossref staff:
+<https://community.crossref.org/t/ticket-of-the-month-march-2022-getting-started-with-rest-api-queries/2587>).
+The searches are relevance-ranked and not Boolean, and each returned at most
+50 records. The queries and counts are in `data/raw/References-Lists.md`
+("Search log and verification notes"). The Python scripts in `src/` start from the
+resulting list: they do not query Crossref and they do not use BM25. The only
+service they call is OpenAlex, by DOI lookup (`02_fetch_openalex.py`).
+
 ## Folder structure
 
 ```
