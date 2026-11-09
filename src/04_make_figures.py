@@ -20,9 +20,13 @@ RQ_NAME = {
     "RQ4": "RQ4 Gaps and challenges",
     "RQ5": "RQ5 Emerging technologies",
 }
-RQ_COL = {"RQ1": "#0072B2", "RQ2": "#E69F00", "RQ3": "#009E73",
-          "RQ4": "#CC79A7", "RQ5": "#56B4E9"}
-EV_COL = {"A": "#0072B2", "S": "#56B4E9", "M": "#BDBDBD"}
+# black-and-white palette: five grey steps, darkest first; legends carry the names
+RQ_COL = {"RQ1": "#1A1A1A", "RQ2": "#4D4D4D", "RQ3": "#8C8C8C",
+          "RQ4": "#BFBFBF", "RQ5": "#E6E6E6"}
+RQ_LEGEND = {"RQ1": "RQ1 Frameworks", "RQ2": "RQ2 Security", "RQ3": "RQ3 Interoperability",
+             "RQ4": "RQ4 Gaps", "RQ5": "RQ5 Technologies"}
+BAR = "#4D4D4D"
+EV_COL = {"A": "#1A1A1A", "S": "#8C8C8C", "M": "#D9D9D9"}
 EV_NAME = {"A": "A  abstract assessed", "S": "S  sections read", "M": "M  metadata only"}
 GRID, AXIS, TXT = "#E3E3E3", "#555555", "#222222"
 
@@ -87,8 +91,8 @@ def save(g, stem):
 # ---- Figure 1: records per year, stacked by research question ---------------
 rows = read("year_by_rq.csv")
 RQS = ["RQ1", "RQ2", "RQ3", "RQ4", "RQ5"]
-W, H = 760, 430
-left, top, bottom = 70, 60, 70
+W, H = 760, 480
+left, top, bottom = 70, 60, 120
 plot_w, plot_h = W - left - 30, H - top - bottom
 totals = [sum(int(r[q]) for q in RQS) for r in rows]
 vmax = nice_max(max(totals))
@@ -112,18 +116,20 @@ for i, r in enumerate(rows):
         ycur -= h
         g.rect(x, ycur, bw, h, fill=RQ_COL[q], stroke="#ffffff", stroke_w=1,
                text=str(v) if h >= 13 else "", size=11,
-               color="#ffffff" if q in ("RQ1", "RQ3", "RQ4") else "#222222")
+               color="#ffffff" if q in ("RQ1", "RQ2") else "#222222")
     g.text(x - 10, ycur - 20, bw + 20, 18, str(totals[i]), size=12, bold=True)
     g.text(x - 15, top + plot_h + 4, bw + 30, 36,
            f"{r['year']}<br>({r['unique_records']} unique)", size=11, color=TXT)
 g.text(8, top + plot_h / 2 - 10, 20, 20, "", size=11)
 g.text(left - 60, 8, 220, 22, "Placements (bold: total per year)", size=11, color=AXIS, align="left")
-lx, ly = left, H - 28
-for q in RQS:
-    g.rect(lx, ly + 4, 12, 12, fill=RQ_COL[q])
-    g.text(lx + 15, ly, 70, 20, q, size=11, align="left")
-    lx += 80
-g.text(lx + 10, ly, 300, 20, "n = number of unique records", size=11, color=AXIS, align="left")
+g.text(left, H - 84, 300, 20, "Research question (stack order, bottom to top):", size=11,
+       color=AXIS, align="left")
+for i, q in enumerate(RQS):
+    lx = left + (i % 3) * 215
+    ly = H - 60 + (i // 3) * 28
+    g.rect(lx, ly + 4, 14, 14, fill=RQ_COL[q], stroke="#666666", stroke_w=0.5)
+    g.text(lx + 19, ly, 190, 22, RQ_LEGEND[q], size=11, align="left")
+g.text(left + 2 * 215, H - 32, 280, 22, "n = unique records", size=11, color=AXIS, align="left")
 save(g, "fig_bib_1_records_per_year")
 
 # ---- Figure 2: evidence level by research question --------------------------
@@ -155,7 +161,7 @@ for i, r in enumerate(rows):
 g.text(x0, top + 5 * (bar_h + gap) + 24, plot_w, 20, "Records per research question (50 each)", size=12)
 lx, ly = 20, H - 30
 for e in ("A", "S", "M"):
-    g.rect(lx, ly + 4, 12, 12, fill=EV_COL[e])
+    g.rect(lx, ly + 4, 14, 14, fill=EV_COL[e], stroke="#666666", stroke_w=0.5)
     g.text(lx + 15, ly, 170, 20, EV_NAME[e], size=11, align="left")
     lx += 200
 save(g, "fig_bib_2_evidence_by_rq")
@@ -164,14 +170,14 @@ save(g, "fig_bib_2_evidence_by_rq")
 kw = [(r["keyword"], int(r["records"])) for r in read("keywords_top.csv")]
 kw, k_kw = cut_ties(kw, 15)
 print(f"keywords shown: {len(kw)} (records >= {k_kw})")
-save(hbar("keywords", kw, "#0072B2",
+save(hbar("keywords", kw, BAR,
           "Records (of 189) carrying the keyword in OpenAlex", label_w=210), "fig_bib_3_keywords")
 
 # ---- Figure 4: countries ----------------------------------------------------
 co = [(r["country"], int(r["records"])) for r in read("countries.csv")]
 co, k_co = cut_ties(co, 15)
 print(f"countries shown: {len(co)} (records >= {k_co})")
-save(hbar("countries", co, "#009E73",
+save(hbar("countries", co, BAR,
           "Records (of 168 with affiliation data) with at least one author in the country",
           label_w=150), "fig_bib_4_countries")
 
@@ -179,7 +185,7 @@ save(hbar("countries", co, "#009E73",
 au = [(r["author"], int(r["records"])) for r in read("authors_top.csv")]
 au, k_au = cut_ties(au, 12)
 print(f"authors shown: {len(au)} (records >= {k_au})")
-save(hbar("authors", au, "#E69F00", "Records (of 189) with the person as author",
+save(hbar("authors", au, BAR, "Records (of 189) with the person as author",
           label_w=150), "fig_bib_5_authors")
 (RES / "figure_cutoffs.json").write_text(
     f'{{"keywords_min_records": {k_kw}, "countries_min_records": {k_co}, '
