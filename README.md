@@ -11,8 +11,8 @@ that turns the list into counts and figures, and the results.
   and privacy mechanisms; RQ3 interoperability; RQ4 gaps and challenges;
   RQ5 emerging technologies), 50 records each.
 * 250 placements, 189 unique DOI-identified publications, 61 repeat placements.
-* Publication window 8 November 2021 to 8 November 2026; Crossref searches and
-  verification on 8 November 2026.
+* Publication window November 2021 to November 2026; Crossref searches and
+  verification in November 2026.
 * Evidence level per record: **A** abstract assessed, **S** sections read,
   **M** metadata only. M records support topic statements only.
 
@@ -27,8 +27,8 @@ The candidate records were retrieved from the Crossref REST API with
 `query.bibliographic` and `query.title` searches. Crossref ranks these results
 with the default Elasticsearch scoring, which is BM25 (statement by Crossref staff:
 <https://community.crossref.org/t/ticket-of-the-month-march-2022-getting-started-with-rest-api-queries/2587>).
-The searches are relevance-ranked and not Boolean, and each returned at most
-50 records. The queries and counts are in `data/raw/References-Lists.md`
+The searches are relevance-ranked and not Boolean. Each query returned up to
+50 records (100 or 150 for broad title searches shared between questions). The queries and counts are in `data/raw/References-Lists.md`
 ("Search log and verification notes"). The Python scripts in `src/` start from the
 resulting list: they do not query Crossref and they do not use BM25. The only
 service they call is OpenAlex, by DOI lookup (`02_fetch_openalex.py`).
@@ -46,11 +46,15 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  03_build_tables.py           counts -> results/*.csv, numbers.json
                  04_make_figures.py           results -> figures/fig_bib_*.drawio + .png
                  05_graphical_abstract.py     numbers -> figures/graphical_abstract.drawio + .png
+                 06_framework_figure.py       DD-DSF layers -> figures/fig_ddsf_framework.drawio + .png
                  drawio_lib.py                small draw.io writer and PNG exporter
 results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries.csv,
                  authors_top.csv, venues_top.csv, primary_field.csv, document_type.csv,
                  prisma_counts.csv, numbers.json, figure_cutoffs.json
-figures/         *.drawio (editable source) and *.png (3x, for the manuscript)
+figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
+                 Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,
+                 Fig. 3 fig_bib_3_countries, Fig. 4 fig_bib_4_keywords, Fig. 5 fig_ddsf_framework;
+                 fig_bib_5_authors is supplementary; graphical_abstract is uploaded separately
 run_all.sh       rebuilds everything
 ```
 
@@ -80,7 +84,7 @@ snapshot; the retrieval date is recorded in the snapshot.
   assigned to any country.
 * Keywords: OpenAlex keywords, assigned by an algorithm; they are not author
   keywords. Each keyword counts once per record.
-* Figures 3 to 5 show the entries at or above the smallest count that keeps the
+* The country, keyword and author figures show the entries at or above the smallest count that keeps the
   list within the cap (`results/figure_cutoffs.json`), so a cut never splits a tie.
 
 ## Limits to keep in mind

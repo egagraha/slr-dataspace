@@ -119,7 +119,7 @@ for i, r in enumerate(rows):
                color="#ffffff" if q in ("RQ1", "RQ2") else "#222222")
     g.text(x - 10, ycur - 20, bw + 20, 18, str(totals[i]), size=12, bold=True)
     g.text(x - 15, top + plot_h + 4, bw + 30, 36,
-           f"{r['year']}<br>({r['unique_records']} unique)", size=11, color=TXT)
+           f"{r['year']}<br>(n = {r['unique_records']})", size=11, color=TXT)
 g.text(8, top + plot_h / 2 - 10, 20, 20, "", size=11)
 g.text(left - 60, 8, 220, 22, "Placements (bold: total per year)", size=11, color=AXIS, align="left")
 g.text(left, H - 84, 300, 20, "Research question (stack order, bottom to top):", size=11,
@@ -171,7 +171,7 @@ kw = [(r["keyword"], int(r["records"])) for r in read("keywords_top.csv")]
 kw, k_kw = cut_ties(kw, 15)
 print(f"keywords shown: {len(kw)} (records >= {k_kw})")
 save(hbar("keywords", kw, BAR,
-          "Records (of 189) carrying the keyword in OpenAlex", label_w=210), "fig_bib_3_keywords")
+          "Records (of 189) carrying the keyword in OpenAlex", label_w=210), "fig_bib_4_keywords")
 
 # ---- Figure 4: countries ----------------------------------------------------
 co = [(r["country"], int(r["records"])) for r in read("countries.csv")]
@@ -179,7 +179,7 @@ co, k_co = cut_ties(co, 15)
 print(f"countries shown: {len(co)} (records >= {k_co})")
 save(hbar("countries", co, BAR,
           "Records (of 168 with affiliation data) with at least one author in the country",
-          label_w=150), "fig_bib_4_countries")
+          label_w=150), "fig_bib_3_countries")
 
 # ---- Figure 5: authors ------------------------------------------------------
 au = [(r["author"], int(r["records"])) for r in read("authors_top.csv")]

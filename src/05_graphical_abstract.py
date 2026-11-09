@@ -17,7 +17,10 @@ raw = (ROOT / "data/raw/References-Lists.md").read_text(encoding="utf-8")
 m = re.search(r"([\d,]+) distinct retrieved DOIs", raw)
 retrieved = m.group(1)                      # "2,047"
 unique, placements = num["n_unique"], num["n_placements"]
-ev = num["evidence_total"]
+# evidence level per placement (250), as reported in the manuscript (Table 3, Figure 2)
+import csv
+_rows = list(csv.DictReader((ROOT / "results/evidence_by_rq.csv").open(encoding="utf-8")))
+ev = {k: sum(int(r[k]) for r in _rows) for k in ("A", "S", "M")}
 
 # No colour: pure black and white. Groups are told apart by labels, solid versus
 # outlined versus dashed fills, and position, never by tone.
@@ -73,7 +76,7 @@ g.rect(P2X + 14, 318, P2W - 28, 52, fill="none",
        text="Frameworks, security, interoperability, gaps, technologies", size=19, color=K)
 tot = sum(ev.values())
 bx, bw = P2X + 14, P2W - 28
-g.rect(bx, 376, bw, 26, fill="none", text="Evidence level of the records", size=19,
+g.rect(bx, 376, bw, 26, fill="none", text=f"Evidence level ({placements} placements)", size=18,
        color=K, bold=True)
 x = bx
 # A very light grey, S white with solid outline, M white with dashed outline
@@ -92,14 +95,14 @@ P3X, P3W = 722, 594
 panel(P3X, P3W, "Findings")
 g.rect(P3X + 12, 122, 272, 32, fill="none", text="Three tensions", size=24, bold=True,
        color=K)
-tens = ["Regulation versus routine", "Interoperability across environments",
-        "Privacy technology versus daily workflows"]
+tens = ["Regulation versus routine", "Interoperability across heterogeneous environments",
+        "Privacy-preserving technology versus everyday workflows"]
 for i, t in enumerate(tens):
     y = 162 + i * 104
     g.rect(P3X + 12, y, 272, 96, fill=WH, stroke=K, stroke_w=1.5, rounded=True)
     g.rect(P3X + 22, y + 26, 44, 44, fill=K, text=str(i + 1), size=24, bold=True,
            color=WH, rounded=True, arc=50)
-    g.rect(P3X + 72, y + 2, 208, 92, fill="none", text=t, size=21, color=K, align="left")
+    g.rect(P3X + 72, y + 2, 208, 92, fill="none", text=t, size=20, color=K, align="left")
 g.rect(P3X + 300, 122, 282, 32, fill="none", text="Framework DD-DSF", size=24, bold=True,
        color=K)
 layers = ["Governance and regulation", "Infrastructure", "Actors", "Application and value"]
