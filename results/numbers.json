@@ -1,0 +1,150 @@
+{
+ "retrieved": "2026-11-09",
+ "n_unique": 189,
+ "n_placements": 250,
+ "year_counts": {
+  "2022": 30,
+  "2023": 30,
+  "2024": 49,
+  "2025": 48,
+  "2026": 32
+ },
+ "n_with_country": 168,
+ "n_countries": 34,
+ "n_with_keywords": 189,
+ "n_distinct_keywords": 761,
+ "n_distinct_authors": 619,
+ "n_distinct_venues": 95,
+ "n_year_differs_openalex": 11,
+ "evidence_total": {
+  "A": 113,
+  "M": 60,
+  "S": 16
+ },
+ "top_countries": [
+  [
+   "DE",
+   45
+  ],
+  [
+   "ES",
+   25
+  ],
+  [
+   "IT",
+   19
+  ],
+  [
+   "BE",
+   18
+  ],
+  [
+   "GR",
+   18
+  ],
+  [
+   "GB",
+   16
+  ],
+  [
+   "CN",
+   13
+  ],
+  [
+   "NL",
+   12
+  ]
+ ],
+ "top_keywords": [
+  [
+   "data spaces",
+   76
+  ],
+  [
+   "data sovereignty",
+   57
+  ],
+  [
+   "data sharing",
+   54
+  ],
+  [
+   "data governance",
+   49
+  ],
+  [
+   "interoperability",
+   22
+  ],
+  [
+   "data governance act",
+   14
+  ],
+  [
+   "data protection",
+   14
+  ],
+  [
+   "data economy",
+   13
+  ],
+  [
+   "gaia-x",
+   13
+  ],
+  [
+   "international data spaces",
+   13
+  ]
+ ],
+ "top_authors": [
+  [
+   "Edward Curry",
+   7
+  ],
+  [
+   "Boris Otto",
+   5
+  ],
+  [
+   "Nikos Fotiou",
+   4
+  ],
+  [
+   "George C. Polyzos",
+   4
+  ],
+  [
+   "Jorge Lanza",
+   4
+  ]
+ ],
+ "top_venues": [
+  [
+   "Springer eBooks",
+   23
+  ],
+  [
+   "Data in Brief",
+   10
+  ],
+  [
+   "Oxford University Press eBooks",
+   7
+  ],
+  [
+   "International World Wide Web Conference (WWW)",
+   7
+  ],
+  [
+   "IEEE International Conference on Big Data (BigData)",
+   6
+  ]
+ ],
+ "multi_rq": {
+  "2": 42,
+  "1": 139,
+  "3": 5,
+  "4": 3
+ }
+}
