@@ -9,3 +9,8 @@ uv run python src/03_build_tables.py > /dev/null
 uv run python src/04_make_figures.py      # PNG export needs the draw.io desktop app
 uv run python src/05_graphical_abstract.py
 uv run python src/06_framework_figure.py
+uv run python src/07_audit_tables.py      # fails if a reported count does not reconcile
+# Coverage check only after the ScienceDirect exports are in data/external/coverage/
+if ls data/external/coverage/sciencedirect_*.ris >/dev/null 2>&1; then
+  uv run python src/08_coverage_check.py
+fi

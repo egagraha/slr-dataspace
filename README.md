@@ -38,6 +38,7 @@ service they call is OpenAlex, by DOI lookup (`02_fetch_openalex.py`).
 ```
 data/raw/        References-Lists.md          list, PRISMA-style counts, search log (input)
 data/external/   openalex_189.json            OpenAlex snapshot for the 189 DOIs (retrieval date inside)
+                 coverage/                    ScienceDirect RIS exports for the coverage check (Protocol A3)
 data/processed/  corpus_189.csv               one row per unique DOI: RQ membership, evidence level
                  corpus_enriched.csv          + year, authors, countries, keywords (OpenAlex)
                  references_189.bib           BibTeX for all 189 records (Crossref), for reference managers
@@ -47,10 +48,17 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  04_make_figures.py           results -> figures/fig_bib_*.drawio + .png
                  05_graphical_abstract.py     numbers -> figures/graphical_abstract.drawio + .png
                  06_framework_figure.py       DD-DSF layers + exchange-decision process -> figures/fig_ddsf_framework.drawio + .png
+                 07_audit_tables.py           list -> results/audit/ search log, placements, reconciliation checks
+                 08_coverage_check.py         ScienceDirect exports -> coverage candidates and estimate
                  drawio_lib.py                small draw.io writer and PNG exporter
+protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
+                 eligibility_rules.csv        one row per eligibility rule
+                 coverage_check.md            Protocol A3 procedure
+                 comparator_protocol.md       Protocol C procedure; comparator_matrix.csv to fill in
 results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries.csv,
                  authors_top.csv, venues_top.csv, primary_field.csv, document_type.csv,
                  prisma_counts.csv, numbers.json, figure_cutoffs.json
+results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, audit_checks.csv
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
                  Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,
                  Fig. 3 fig_bib_3_countries, Fig. 4 fig_bib_4_keywords, Fig. 5 fig_ddsf_framework;

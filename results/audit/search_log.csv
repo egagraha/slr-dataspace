@@ -1,0 +1,85 @@
+search_id,rq_coverage,kind,query_or_lookup,doi,retrieved,source,date_filter,run
+S001,RQ1,crossref query.bibliographic,data sovereignty governance framework,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S002,RQ1,crossref query.bibliographic,data spaces governance legal compliance,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S003,RQ1,crossref query.bibliographic,Data Governance Act data sharing,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S004,RQ1,crossref query.bibliographic,Data Act data sovereignty,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S005,RQ1,crossref query.bibliographic,European Health Data Space governance regulation,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S006,RQ1,crossref query.bibliographic,Gaia-X framework governance,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S007,RQ1,crossref query.bibliographic,International Data Spaces governance architecture,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S008,RQ1,crossref query.bibliographic,cross-border data transfers sovereignty regulation,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S009,RQ1,crossref query.bibliographic,data sovereignty policy control framework,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S010,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1016/j.clsr.2023.105830,10.1016/j.clsr.2023.105830,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S011,RQ1,direct DOI lookup,Direct DOI lookup 10.1016/j.clsr.2026.106303,10.1016/j.clsr.2026.106303,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S012,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1080/1369118x.2025.2516545,10.1080/1369118x.2025.2516545,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S013,RQ1,direct DOI lookup,Direct DOI lookup 10.1093/ijlit/eaae005,10.1093/ijlit/eaae005,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S014,RQ1,direct DOI lookup,Direct DOI lookup 10.1016/j.clsr.2026.106363,10.1016/j.clsr.2026.106363,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S015,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1007/s44206-023-00041-7,10.1007/s44206-023-00041-7,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S016,RQ1,direct DOI lookup,Direct DOI lookup 10.1002/poi3.358,10.1002/poi3.358,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S017,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1016/j.dib.2024.110969,10.1016/j.dib.2024.110969,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S018,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1016/j.clsr.2023.105913,10.1016/j.clsr.2023.105913,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S019,RQ1,direct DOI lookup,Direct DOI lookup 10.1007/s12525-024-00693-4,10.1007/s12525-024-00693-4,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S020,RQ1,direct DOI lookup,Direct DOI lookup 10.1177/17835917221141324,10.1177/17835917221141324,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S021,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1093/ijlit/eaae006,10.1093/ijlit/eaae006,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S022,RQ1;RQ4,direct DOI lookup,Direct DOI lookup 10.1007/s44206-024-00146-7,10.1007/s44206-024-00146-7,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S023,RQ2,crossref query,data spaces usage control security privacy,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S024,RQ2,crossref query,data sovereignty privacy preserving sharing,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S025,RQ2,crossref query,data spaces self sovereign identity trust,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S026,RQ2,crossref query,international data spaces access control policy,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S027,RQ2,crossref query,privacy preserving data sharing encryption federated learning,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S028,RQ2,crossref query,data spaces confidentiality secure multiparty computation,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S029,RQ2;RQ4;RQ5,crossref query.title,data spaces,,150,Crossref REST API,2021-11 to 2026-11,November 2026
+S030,RQ2;RQ4;RQ5,crossref query.title,data sovereignty,,100,Crossref REST API,2021-11 to 2026-11,November 2026
+S031,RQ2;RQ4;RQ5,crossref query.title,sovereign data,,100,Crossref REST API,2021-11 to 2026-11,November 2026
+S032,RQ2;RQ4;RQ5,crossref query.title,data space,,100,Crossref REST API,2021-11 to 2026-11,November 2026
+S033,RQ2,crossref query,data spaces usage control security privacy (independent bounded retrieval),,60,Crossref REST API,2021-11 to 2026-11,November 2026
+S034,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1007/s41019-025-00311-z,10.1007/s41019-025-00311-z,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S035,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1145/3771554,10.1145/3771554,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S036,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1016/j.cosrev.2024.100698,10.1016/j.cosrev.2024.100698,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S037,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1016/j.dib.2026.112882,10.1016/j.dib.2026.112882,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S038,RQ2;RQ4,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1016/j.dib.2024.110560,10.1016/j.dib.2024.110560,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S039,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1109/metroagrifor63043.2024.10948754,10.1109/metroagrifor63043.2024.10948754,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S040,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.3390/en15197113,10.3390/en15197113,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S041,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1145/3624486.3624509,10.1145/3624486.3624509,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S042,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1109/buildsec64048.2024.00016,10.1109/buildsec64048.2024.00016,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S043,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.5220/0013569100003967,10.5220/0013569100003967,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S044,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.5381/jot.2025.24.2.a9,10.5381/jot.2025.24.2.a9,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S045,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1016/j.procs.2025.07.176,10.1016/j.procs.2025.07.176,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S046,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1109/access.2024.3442968,10.1109/access.2024.3442968,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S047,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1109/bigdata66926.2025.11400909,10.1109/bigdata66926.2025.11400909,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S048,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1109/icbdse70225.2026.11635328,10.1109/icbdse70225.2026.11635328,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S049,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1016/j.cose.2024.104282,10.1016/j.cose.2024.104282,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S050,RQ2,citation chasing + DOI lookup,Citation chasing followed by exact DOI registry lookup: 10.1016/j.datak.2024.102301,10.1016/j.datak.2024.102301,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S051,RQ3,crossref query.bibliographic,data spaces interoperability,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S052,RQ3,crossref query.bibliographic,data space semantic interoperability,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S053,RQ3,crossref query.bibliographic,international data spaces connectors,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S054,RQ3,crossref query.bibliographic,data spaces ontology knowledge graph,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S055,RQ3,crossref query.bibliographic,Gaia-X interoperability,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S056,RQ3,crossref query.bibliographic,data spaces metadata standards,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S057,RQ3,crossref query.bibliographic,data space identity federation,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S058,RQ3,crossref query.bibliographic,data spaces manufacturing interoperability,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S059,RQ3,crossref query.title,data spaces,,100,Crossref REST API,2021-11 to 2026-11,November 2026
+S060,RQ3,crossref query.title,dataspace connector,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S061,RQ3,crossref query.title,semantic interoperability data space,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S062,RQ3,crossref query.title,sovereign data sharing interoperability,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S063,RQ3,targeted DOI lookup,DOI: Targeted DOI lookup following primary-source web discovery: 10.1016/j.cosrev.2025.100819,10.1016/j.cosrev.2025.100819,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S064,RQ3,targeted DOI lookup,DOI: Targeted DOI lookup following primary-source web discovery: 10.1016/j.dib.2024.110969,10.1016/j.dib.2024.110969,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S065,RQ3,targeted DOI lookup,DOI: Targeted DOI lookup following primary-source web discovery: 10.1109/mitp.2025.3545214,10.1109/mitp.2025.3545214,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S066,RQ3,targeted DOI lookup,DOI: Targeted DOI lookup following primary-source web discovery: 10.1145/3543873.3587659,10.1145/3543873.3587659,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S067,RQ3,targeted DOI lookup,DOI: Targeted DOI lookup following primary-source web discovery: 10.1145/3543873.3587689,10.1145/3543873.3587689,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S068,RQ3,targeted DOI lookup,DOI: Targeted DOI lookup following primary-source web discovery: 10.3390/rs16203824,10.3390/rs16203824,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S069,RQ4,crossref query,data spaces challenges limitations review,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S070,RQ4,crossref query,data spaces adoption barriers incentives governance,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S071,RQ4,crossref query,data sovereignty challenges cross border sharing,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S072,RQ4,crossref query,industrial data ecosystems data spaces research agenda,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S073,RQ4,crossref query,data spaces privacy interoperability challenges,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S074,RQ4,crossref query,data spaces business models trust governance,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S075,RQ4,direct DOI lookup,Supplementary DOI lookup 10.1016/j.cosrev.2025.100819,10.1016/j.cosrev.2025.100819,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S076,RQ4,direct DOI lookup,Supplementary DOI lookup 10.3233/ip-230003,10.3233/ip-230003,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S077,RQ4,direct DOI lookup,Supplementary DOI lookup 10.5220/0012760600003753,10.5220/0012760600003753,1,Crossref REST API,2021-11 to 2026-11,November 2026
+S078,RQ5,crossref query,data spaces blockchain federated learning,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S079,RQ5,crossref query,data sovereignty emerging technologies,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S080,RQ5,crossref query,data spaces self sovereign identity,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S081,RQ5,crossref query,data spaces privacy enhancing technologies,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S082,RQ5,crossref query,data spaces confidential computing trusted execution,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S083,RQ5,crossref query,blockchain privacy preserving data sharing sovereignty,,50,Crossref REST API,2021-11 to 2026-11,November 2026
+S084,RQ5,crossref query,federated learning data spaces sovereign,,50,Crossref REST API,2021-11 to 2026-11,November 2026

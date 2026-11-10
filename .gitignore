@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# publisher PDFs used for coding; not redistributed
+protocol/comparators_pdf/
