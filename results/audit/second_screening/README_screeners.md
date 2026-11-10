@@ -39,6 +39,27 @@ you are not asked whether the record would have been among the top 50.
 | E06 | it is not relevant to the research question in that row and does not describe an enabling mechanism (RQ2, RQ5) |
 | E07 | it is an alternative version of a record you have already judged in this file |
 
+## Worked examples
+
+These records are **invented** to show the format. None of them is in your
+file. Only the last three columns are yours to fill.
+
+| sample_id | rq | title (type, year) | what the abstract says | decision | rule | note |
+|---|---|---|---|---|---|---|
+| EX1 | RQ3 | A semantic connector registry for cross-company data exchange in manufacturing data spaces (article, 2024) | describes and evaluates a registry that lets participants find connectors by vocabulary and policy | include | | connector discovery, directly RQ3 |
+| EX2 | RQ2 | Usage control for sovereign data sharing: a policy enforcement architecture (preprint, 2025) | proposes an enforcement architecture | exclude | E04 | preprint |
+| EX3 | RQ2 | Review of: "Trust anchors in data spaces" (peer-review, 2024) | reviewer report | exclude | E04 | peer-review report |
+| EX4 | RQ4 | Dataspace exploration methods for spacecraft telemetry (article, 2023) | about storing satellite telemetry | exclude | E05 | unrelated meaning of "data space" |
+| EX5 | RQ1 | Improving model accuracy in federated medical imaging (article, 2025) | accuracy of a federated model; no governance, regulation or sovereignty | exclude | E06 | not relevant to RQ1 (could matter for RQ5, but the row asks RQ1) |
+| EX6 | RQ5 | Blockchain-based consent logs for health data spaces (conference paper, 2020) | ledger for consent records | exclude | E01 | published before November 2021 |
+| EX7 | RQ2 | Towards trustworthy data ecosystems (book chapter, 2023) | no abstract; publisher page shows only the title | unsure | | title only; could be RQ2 or general |
+
+Notes on the examples:
+* EX5: judge relevance to the research question **of that row**, not to the
+  review in general.
+* EX7: use `unsure` rather than guessing; give the reason in `note`.
+* Give only the **first** rule that fails, even if several do.
+
 ## When you are done
 
 Save the file under the same name and send it to Ega. Ega runs the agreement
