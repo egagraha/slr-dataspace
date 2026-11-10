@@ -12,6 +12,7 @@ The manuscript is not part of this repository, so its path is passed in.
 Output: results/evidence/source_claims.csv
 """
 import csv
+import hashlib
 import re
 import sys
 from pathlib import Path
@@ -95,7 +96,10 @@ for line in body.splitlines():
             lv = ev.get(doi, {})
             level = lv.get(rq) or (max(lv.values(), key="MSA".index) if lv else "")
             rows.append(dict(
-                claim_id=f"CL{n:04d}", subsection=sub, rq=rq,
+                # stable ID: depends only on the sentence, so editing one sentence
+                # does not renumber the others (coding files refer to these IDs)
+                claim_id="CL-" + hashlib.sha1(f"{sub}|{text}".encode()).hexdigest()[:8],
+                subsection=sub, rq=rq,
                 location=f"table {table}" if table else "prose", sentence=text, cite_key=k, doi=doi,
                 in_corpus=int(bool(lv)), evidence_level=level if lv else "context",
                 evidence_from_same_rq=int(rq in lv) if lv else "",
