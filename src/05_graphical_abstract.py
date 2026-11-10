@@ -61,7 +61,7 @@ chevron(P1X + P1W + 3, 295)
 
 # ---- panel 2: review -------------------------------------------------------
 P2X, P2W = 346, 340
-panel(P2X, P2W, "Systematic review")
+panel(P2X, P2W, "Literature mapping")
 g.rect(P2X + 14, 128, 120, 74, fill="none", text=str(unique), size=54, color=K, bold=True)
 g.rect(P2X + 136, 128, P2W - 150, 74, fill="none", align="left",
        text="publications<br>2021–2026", size=24, color=K)

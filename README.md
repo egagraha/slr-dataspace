@@ -1,7 +1,7 @@
 # Sovereign data spaces: review corpus, analysis and figures
 
-Supplementary Material S1 for a systematic literature review on data sovereignty,
-interoperability and trust in data spaces for open innovation. The repository
+Supplementary Material S1 for a bounded literature mapping and thematic synthesis
+on data sovereignty, interoperability and trust in data spaces for open innovation. The repository
 holds the list of reviewed publications, the search and selection log, the code
 that turns the list into counts and figures, and the results.
 
@@ -46,7 +46,7 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  03_build_tables.py           counts -> results/*.csv, numbers.json
                  04_make_figures.py           results -> figures/fig_bib_*.drawio + .png
                  05_graphical_abstract.py     numbers -> figures/graphical_abstract.drawio + .png
-                 06_framework_figure.py       DD-DSF layers -> figures/fig_ddsf_framework.drawio + .png
+                 06_framework_figure.py       DD-DSF layers + exchange-decision process -> figures/fig_ddsf_framework.drawio + .png
                  drawio_lib.py                small draw.io writer and PNG exporter
 results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries.csv,
                  authors_top.csv, venues_top.csv, primary_field.csv, document_type.csv,
@@ -54,7 +54,7 @@ results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
                  Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,
                  Fig. 3 fig_bib_3_countries, Fig. 4 fig_bib_4_keywords, Fig. 5 fig_ddsf_framework;
-                 fig_bib_5_authors is supplementary; graphical_abstract is uploaded separately
+                 fig_bib_5_authors is supplementary; graphical_abstract is printed on page 1 and also uploaded separately
 run_all.sh       rebuilds everything
 ```
 
