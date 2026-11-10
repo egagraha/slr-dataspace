@@ -90,12 +90,17 @@ the source of each assessment are in `results/audit/placements.csv`.
 These steps are planned, not done. Results will be added to this repository
 with their own files, and this section will be updated when each is complete.
 
-| Step | Protocol | Output |
-|---|---|---|
-| Coverage check in ScienceDirect | A3 | `protocol/coverage_check.md`, `results/audit/coverage_*.csv` |
-| Second-screener agreement on a sample | A4 | `results/audit/second_screening.csv`, agreement report |
-| Claim-level evidence ledger for the tensions | B | `results/evidence/source_claims.csv` |
-| Comparison with earlier frameworks | C | `protocol/comparator_matrix.csv` |
+| Step | Protocol | Output | Status (2026-11-10) |
+|---|---|---|---|
+| Coverage check in ScienceDirect | A3 | `protocol/coverage_check.md`, `results/audit/coverage_*.csv` | script ready; searches to run |
+| Double screening of a blinded sample (90 records: 40 included, 50 not included) by Ega and Alexis | A4 | `results/audit/second_screening/` | files issued; screening open |
+| Claim-level evidence ledger for the tensions | B | `results/evidence/source_claims.csv` | 225 rows extracted; coding open |
+| Double coding of tensions (10 calibration + 50 rows) by Ega and Alexis | B | `results/evidence/double_coding/`, `protocol/tension_codebook_v1.md` | files issued |
+| Comparison with earlier frameworks | C | `protocol/comparator_matrix.csv` | template ready; PDFs needed |
+
+In A4 the two screeners are compared with each other, not with the original
+decisions, because the original "not selected" label mixes ineligible records
+with relevant records cut by the cap.
 
 ## Change log
 

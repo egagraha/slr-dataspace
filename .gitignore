@@ -5,3 +5,6 @@ __pycache__/
 
 # publisher PDFs used for coding; not redistributed
 protocol/comparators_pdf/
+
+# answer keys kept out of git until both screeners are finished
+private/

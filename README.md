@@ -50,6 +50,10 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  06_framework_figure.py       DD-DSF layers + exchange-decision process -> figures/fig_ddsf_framework.drawio + .png
                  07_audit_tables.py           list -> results/audit/ search log, placements, reconciliation checks
                  08_coverage_check.py         ScienceDirect exports -> coverage candidates and estimate
+                 09_second_screening_sample.py  blinded double-screening sample (Protocol A4)
+                 10_screening_agreement.py    agreement between the two screeners
+                 11_claim_ledger.py           manuscript Results -> one row per claim and cited source (Protocol B)
+                 12_double_coding_sample.py   calibration and agreement sets for tension coding
                  drawio_lib.py                small draw.io writer and PNG exporter
 protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
                  eligibility_rules.csv        one row per eligibility rule
@@ -58,7 +62,10 @@ protocol/        protocol_v1.md               rules as applied (written after th
 results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries.csv,
                  authors_top.csv, venues_top.csv, primary_field.csv, document_type.csv,
                  prisma_counts.csv, numbers.json, figure_cutoffs.json
-results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, audit_checks.csv
+results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, audit_checks.csv;
+                 second_screening/ (blinded files for two screeners, instructions)
+results/evidence/ source_claims.csv (claim ledger); double_coding/ (files for two coders, instructions)
+private/         answer key of the screening sample; git-ignored until both screeners are finished
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
                  Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,
                  Fig. 3 fig_bib_3_countries, Fig. 4 fig_bib_4_keywords, Fig. 5 fig_ddsf_framework;
