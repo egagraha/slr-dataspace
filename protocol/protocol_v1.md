@@ -11,8 +11,9 @@ described as one. Any later change to these rules gets a new version number
 
 * **Design:** bounded literature mapping and thematic synthesis (manuscript
   Section 3). Not a systematic review: there was no pre-registration, no
-  independent dual screening, no systematic full-text eligibility stage and no
-  risk-of-bias appraisal.
+  independent dual screening of the full selection (a blinded sample of 90
+  records was double-screened afterwards; see Section 8), no systematic
+  full-text eligibility stage and no risk-of-bias appraisal.
 * **Why this design fits the research questions:** RQ1 to RQ5 ask which
   frameworks, mechanisms, interoperability approaches, gaps and technologies the
   literature describes. A mapping answers "what is described and where"; it does
@@ -62,8 +63,8 @@ The rules are listed one per row in `protocol/eligibility_rules.csv`.
    lower-priority records were not selected. The "excluded or not selected"
    count therefore mixes ineligible records with relevant records that were not
    prioritized; the two were not recorded separately.
-6. Screening by the research team; no independent second screener (see
-   Section 8 for the planned agreement check).
+6. Screening by the research team; no independent second screener during the
+   selection (see Section 8 for the later agreement check on a sample).
 
 ## 6. Evidence level per placement
 
@@ -87,8 +88,8 @@ the source of each assessment are in `results/audit/placements.csv`.
 
 ## 8. Planned strengthening (revision, November 2026)
 
-These steps are planned, not done. Results will be added to this repository
-with their own files, and this section will be updated when each is complete.
+These steps were added after the selection. Results are added to this
+repository with their own files; the table gives the status of each step.
 
 | Step | Protocol | Output | Status (2026-11-11) |
 |---|---|---|---|

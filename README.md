@@ -17,8 +17,9 @@ that turns the list into counts and figures, and the results.
   **M** metadata only. M records support topic statements only.
 
 The selection is bounded and evidence-labelled. It is not an exhaustive
-systematic review: there was no dual screening, no full-text appraisal of every
-record and no subscription-database search. See `data/raw/References-Lists.md`,
+systematic review: independent double screening covered only a blinded sample
+of 90 records (`results/audit/second_screening/`), and there was no full-text
+appraisal of every record and no subscription-database search. See `data/raw/References-Lists.md`,
 sections "Scope and assessment method" and "Search log and verification notes".
 
 ## How the records were found (not part of the scripts)
@@ -63,7 +64,7 @@ results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries
                  authors_top.csv, venues_top.csv, primary_field.csv, document_type.csv,
                  prisma_counts.csv, numbers.json, figure_cutoffs.json
 results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, audit_checks.csv;
-                 second_screening/ (blinded files for two screeners, instructions)
+                 second_screening/ (screening files of both screeners, agreement, resolved disagreements)
 results/evidence/ source_claims.csv (claim ledger); double_coding/ (files for two coders, instructions)
 private/         answer key of the screening sample; git-ignored until both screeners are finished
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
