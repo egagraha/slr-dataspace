@@ -93,7 +93,7 @@ with their own files, and this section will be updated when each is complete.
 | Step | Protocol | Output | Status (2026-11-11) |
 |---|---|---|---|
 | Coverage check in ScienceDirect | A3 | `protocol/coverage_check.md`, `results/audit/coverage_*.csv` | script ready; searches to run |
-| Double screening of a blinded sample (90 records: 40 included, 50 not included) by Ega and Alexis | A4 | `results/audit/second_screening/` | screening done 2026-11-11: kappa 0.666 (3 categories, n = 90), 0.844 (include/exclude, n = 80); 16 disagreements resolved by consensus (11 include, 5 exclude); 1 placement in the review judged exclude (RQ5.45), kept in the corpus and reported as a limitation |
+| Double screening of a blinded sample (90 records: 40 included, 50 not included) by Ega and Alexis | A4 | `results/audit/second_screening/` | screening done 2026-11-11: kappa 0.666 (3 categories, n = 90), 0.844 (include/exclude, n = 80); 16 disagreements resolved by consensus (11 include, 5 exclude); 2 placements in the review judged not relevant (RQ4.38, RQ5.45), kept in the corpus and reported as a limitation |
 | Claim-level evidence ledger for the tensions | B | `results/evidence/source_claims.csv` | 218 rows extracted; coding open |
 | Double coding of tensions (10 calibration + 50 rows) by Ega and Alexis | B | `results/evidence/double_coding/`, `protocol/tension_codebook_v2.md` | calibration done, codebook v2 agreed 2026-11-11; main coding open |
 | Comparison with earlier frameworks | C | `protocol/comparator_matrix.csv` | template ready; PDFs needed |

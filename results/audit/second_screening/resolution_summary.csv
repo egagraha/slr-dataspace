@@ -1,9 +1,8 @@
 measure,value
 disagreements,16
 resolved by consensus,16
-consensus include,11
-consensus exclude,5
-"consensus include, not in review (relevant, not prioritised under the cap)",5
-"consensus include, in review (confirmed)",6
-"consensus exclude, not in review (confirmed)",4
-"consensus exclude, in review (possible selection error)",1
+"consensus include, in review (confirmed), all 90 records",38
+"consensus exclude, in review (placement judged not relevant), all 90 records",2
+"consensus include, not in review (eligible, not prioritised under the cap), all 90 records",18
+"consensus exclude, not in review (confirmed), all 90 records",32
+placements in review judged not relevant,"RQ4.38 (X026, agreed independently); RQ5.45 (X013, after discussion)"
