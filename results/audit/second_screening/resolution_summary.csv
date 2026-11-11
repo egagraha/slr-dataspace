@@ -1,0 +1,9 @@
+measure,value
+disagreements,16
+resolved by consensus,16
+consensus include,11
+consensus exclude,5
+"consensus include, not in review (relevant, not prioritised under the cap)",5
+"consensus include, in review (confirmed)",6
+"consensus exclude, not in review (confirmed)",4
+"consensus exclude, in review (possible selection error)",1
