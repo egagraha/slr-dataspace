@@ -130,6 +130,11 @@ for q in sorted(raw_per_query):
     sub = [r for r in rows if q in r["queries"].split(";")]
     summary.append(dict(query=q, exported_records=raw_per_query[q], **summarise(sub)))
 summary.append(dict(query="all (distinct)", exported_records=len(records), **summarise(rows)))
+# breakdown added after screening: records found by the queries that require a data-space term
+DS = {"SD1", "SD3", "SD4"}
+summary.append(dict(query="data-space queries SD1+SD3+SD4 (distinct)",
+                    exported_records=sum(1 for r in records.values() if r["queries"] & DS),
+                    **summarise([r for r in rows if set(r["queries"].split(";")) & DS])))
 with SUMMARY.open("w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(summary[0]))
     w.writeheader()
