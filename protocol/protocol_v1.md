@@ -93,7 +93,7 @@ repository with their own files; the table gives the status of each step.
 
 | Step | Protocol | Output | Status (2026-11-11) |
 |---|---|---|---|
-| Coverage check in ScienceDirect | A3 | `protocol/coverage_check.md`, `results/audit/coverage_*.csv` | script ready; searches to run |
+| Coverage check in ScienceDirect | A3 | `protocol/coverage_check.md`, `data/external/coverage/`, `results/audit/coverage_*.csv` | done 2026-11-11: 4 queries, 259 distinct records in window, screened manually by Ega and Alexis; 5 of 184 relevant records in the corpus (coverage 0.027); data-space queries SD1, SD3, SD4 (breakdown added after screening): 4 of 96 (0.042); Data in Brief not covered by the article-type filter |
 | Double screening of a blinded sample (90 records: 40 included, 50 not included) by Ega and Alexis | A4 | `results/audit/second_screening/` | screening done 2026-11-11: kappa 0.666 (3 categories, n = 90), 0.844 (include/exclude, n = 80); 16 disagreements resolved by consensus (11 include, 5 exclude); 2 placements in the review judged not relevant (RQ4.38, RQ5.45), kept in the corpus and reported as a limitation |
 | Claim-level evidence ledger for the tensions | B | `results/evidence/source_claims.csv` | 218 rows extracted; a sample of 50 coded (next row); the other rows not coded |
 | Double coding of tensions (10 calibration + 50 rows) by Ega and Alexis | B | `results/evidence/double_coding/`, `protocol/tension_codebook_v2.md`, `src/13_coding_agreement.py` | coding done 2026-11-11 under codebook v2: tension kappa 0.700 (5 codes, n = 50), claim_type kappa 0.844; 10 disagreements resolved by consensus; final codes T1 13, T2 5, T3 7 (5 sources; 2 with counterevidence), T0 23, NA 2 |
