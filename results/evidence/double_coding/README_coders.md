@@ -1,6 +1,8 @@
 # Tension coding: instructions for Ega and Alexis
 
-Codebook: `protocol/tension_codebook_v1.md`. Read it before starting.
+Codebook: `protocol/tension_codebook_v2.md` (agreed 2026-11-11 after calibration).
+Read it before starting the main coding. Version 1 (`tension_codebook_v1.md`)
+was used for the calibration round only.
 
 1. **Calibration (10 rows).** Each of you codes `calibration_<name>.csv` alone.
    Then compare the two files together, clarify the codebook where you
