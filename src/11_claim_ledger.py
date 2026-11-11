@@ -3,7 +3,7 @@
 Extracts every sentence and table row in the manuscript's Results section that
 cites a source, one row per (sentence, cited key), and links each key to its DOI
 and to the evidence level of its placement under the research question of that
-subsection. The coding columns are left empty; see protocol/tension_codebook_v1.md.
+subsection. The coding columns are left empty; see protocol/tension_codebook_v2.md.
 
 Usage:
     uv run python src/11_claim_ledger.py <manuscript.tex> <references.bib>

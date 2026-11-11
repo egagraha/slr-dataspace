@@ -4,7 +4,7 @@ Draws, per research question, 12 claim-source rows with a DOI from
 results/evidence/source_claims.csv (seeded): the first 2 per RQ form the
 calibration set (10 rows), the other 10 per RQ the agreement set (50 rows).
 Writes identical files for both coders; the coders fill claim_type, tension,
-counter, page, supporting_passage and note, following protocol/tension_codebook_v1.md.
+counter, page, supporting_passage and note, following protocol/tension_codebook_v2.md.
 
 Output: results/evidence/double_coding/calibration_<name>.csv
         results/evidence/double_coding/coding_<name>.csv
