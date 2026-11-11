@@ -94,7 +94,7 @@ with their own files, and this section will be updated when each is complete.
 |---|---|---|---|
 | Coverage check in ScienceDirect | A3 | `protocol/coverage_check.md`, `results/audit/coverage_*.csv` | script ready; searches to run |
 | Double screening of a blinded sample (90 records: 40 included, 50 not included) by Ega and Alexis | A4 | `results/audit/second_screening/` | files issued; screening open |
-| Claim-level evidence ledger for the tensions | B | `results/evidence/source_claims.csv` | 225 rows extracted; coding open |
+| Claim-level evidence ledger for the tensions | B | `results/evidence/source_claims.csv` | 218 rows extracted; coding open |
 | Double coding of tensions (10 calibration + 50 rows) by Ega and Alexis | B | `results/evidence/double_coding/`, `protocol/tension_codebook_v2.md` | calibration done, codebook v2 agreed 2026-11-11; main coding open |
 | Comparison with earlier frameworks | C | `protocol/comparator_matrix.csv` | template ready; PDFs needed |
 
