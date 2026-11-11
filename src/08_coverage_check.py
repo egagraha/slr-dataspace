@@ -129,7 +129,7 @@ summary = []
 for q in sorted(raw_per_query):
     sub = [r for r in rows if q in r["queries"].split(";")]
     summary.append(dict(query=q, exported_records=raw_per_query[q], **summarise(sub)))
-summary.append(dict(query="all (distinct)", exported_records=sum(raw_per_query.values()), **summarise(rows)))
+summary.append(dict(query="all (distinct)", exported_records=len(records), **summarise(rows)))
 with SUMMARY.open("w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(summary[0]))
     w.writeheader()

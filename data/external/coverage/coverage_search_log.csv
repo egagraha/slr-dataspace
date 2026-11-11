@@ -1,0 +1,6 @@
+query_id,query_tak,years,article_types,search_date,results_shown,export_file,records_in_export,platform_access
+SD1,"(""data space"" OR ""data spaces"" OR dataspace) AND sovereignty",2021-2026,"Research articles; Review articles; Book chapters; Short communications",2026-11-11,20,sciencedirect_SD1_2026-11-11.ris,20,"ScienceDirect via Constructor University Bremen, Chrome"
+SD2,"""data sovereignty""",2021-2026,"Research articles; Review articles; Book chapters; Short communications",2026-11-11,184,sciencedirect_SD2_2026-11-11_p1.ris,100,"ScienceDirect via Constructor University Bremen, Chrome"
+SD2,"""data sovereignty""",2021-2026,"Research articles; Review articles; Book chapters; Short communications",2026-11-11,184,sciencedirect_SD2_2026-11-11_p2.ris,84,"ScienceDirect via Constructor University Bremen, Chrome"
+SD3,"(""data space"" OR ""data spaces"" OR dataspace) AND interoperability",2021-2026,"Research articles; Review articles; Book chapters; Short communications",2026-11-11,76,sciencedirect_SD3_2026-11-11.ris,76,"ScienceDirect via Constructor University Bremen, Chrome"
+SD4,"""International Data Spaces"" OR ""Gaia-X""",2021-2026,"Research articles; Review articles; Book chapters; Short communications",2026-11-11,36,sciencedirect_SD4_2026-11-11.ris,36,"ScienceDirect via Constructor University Bremen, Chrome"

@@ -1,0 +1,951 @@
+TY  - JOUR
+T1  - Advancing the Collaboration in Manufacturing Networks A Systematic Literature Review on Implementations of Asset Administration Shells and Data Spaces
+AU  - Zink, Fabian
+AU  - Fink, Lorenz
+AU  - Wallner, Bernhard
+AU  - Bleicher, Friedrich
+AU  - Trautner, Thomas
+JO  - Procedia CIRP
+VL  - 136
+SP  - 546
+EP  - 551
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 35th CIRP Design 2025
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2025.08.094
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827125008479
+KW  - semantic interoperability
+KW  - data
+KW  - service ecosystem
+KW  - data space
+KW  - asset administration shell
+KW  - manufacturing
+KW  - data sharing
+KW  - collaboration
+KW  - federated data infrastructure
+KW  - Gaia-X
+KW  - Digital Twin
+KW  - Asset Administration Shell
+KW  - ECLASS
+AB  - Collaboration in manufacturing networks is crucial to maximize the impact of digitalization and leveraging collected data. Addressing three key challenges overcoming data silos, achieving semantic interoperability and protecting intellectual property is essential. A promising solution is the combination of Asset Administration Shells and data space technologies. This systematic literature review investigates implementations of these two concepts in manufacturing, evaluating use cases based on their technological readiness levels and the technologies employed. The findings aim to guide researchers and practitioners and identify future research directions.
+ER  - 
+
+TY  - JOUR
+T1  - A trust implementation model for cross-domain decentralized identity ecosystems: architecture, use case, and implementation
+AU  - Jeyakumar, Isaac Henderson Johnson
+AU  - Kubach, Michael
+JO  - Procedia Computer Science
+VL  - 254
+SP  - 10
+EP  - 19
+PY  - 2025
+DA  - 2025/01/01/
+T2  - International Conference on Digital Sovereignty (ICDS)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.02.059
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925004090
+KW  - decentralized identity
+KW  - eIDAS
+KW  - ssi
+KW  - trust infrastructure
+KW  - trust registries
+KW  - verifiable credentials
+AB  - Managing interoperable trust across different domains – as required for a wide adoption of decentralized / self-sovereign identities (SSI) leveraging verifiable credentials – remains a challenge. Verifiable credentials are a part of numerous international and European initiatives like the EUDI Wallet, EBSI, and Gaia-X to enable sovereign data sharing. Nevertheless, a standardized reference framework addressing interoperability challenges around trust in cross-domain environments based on decentralized identities is missing and is one factor hindering wider adoption. To facilitate the interoperability of credentials across borders and organizations this paper proposes a new trust implementation model architecture that enables credentials issued by different entities to be shared and verified in a trustworthy manner. This implementation model architecture also contains a novel unified signature and verification model for the trust list. A use case and implementation details for the model are presented. Furthermore, it discusses potential integration possibilities with existing initiatives using the proposed architecture.
+ER  - 
+
+TY  - JOUR
+T1  - Automatic Publication of Data to Data- and Service Ecosystems from the Shopfloor
+AU  - Gast, Fabian
+AU  - Berchtenbreiter, Viktor
+AU  - Dumss, Stefan
+AU  - Gehrer, Roman
+AU  - Weißenbach, Paul
+AU  - Weigold, Matthias
+AU  - Grafinger, Manfred
+JO  - Procedia CIRP
+VL  - 130
+SP  - 1589
+EP  - 1597
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 57th CIRP Conference on Manufacturing Systems 2024 (CMS 2024)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.10.287
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124014446
+KW  - System architecture
+KW  - Service
+KW  - Integration
+KW  - Manufacturing network
+AB  - In the manufacturing sector, vast volumes of data are generated at the field layer, offering valuable insights into the quality of produced parts, process efficiency, and various other applications. Traditionally, these data have been managed and analyzed through centralized infrastructures either in a cloud or on-premise. However, to tackle trust-related concerns from data providers and enable value creation through services by external companies, the concept of data spaces and ecosystems has emerged. Multiple drafts for standards for ecosystems exist; all offering different approaches for trustful cross-company collaboration. Notably, the Gaia-X initiative aims to establish a federated and sovereign data infrastructure. This paper introduces a novel approach for automatically publishing production data and associated services to multiple instances of such ecosystems directly from the shopfloor by deploying microservices on edge devices close to the machine. The developed architecture combines data acquisition of machine data through standards like OPC UA, creation of verifiable metadata description for the collected data sets, and publishing the metadata to different data and service ecosystems adhering to the Gaia-X standard, enabling trustful machine-to-machine connections. It is shown how services like data storage, ERP/MES, and asset management systems can be seamlessly deployed along the cloud edge continuum into this process. This approach fosters data integrity, sovereignty and enables coherent integration within the evolving cooperative manufacturing landscape.
+ER  - 
+
+TY  - JOUR
+T1  - Design and implementation of a data space application architecture for sovereign engineering collaboration
+AU  - Schellander, Martin
+AU  - Hader, Bernd
+AU  - Jeon, Somin
+AU  - Leitner, Lukas
+AU  - Dehnavi, Zahra Safari
+AU  - Pichler, Rudolf
+AU  - Heiss, Michael
+AU  - Haas, Franz
+AU  - Schlund, Sebastian
+JO  - Procedia CIRP
+VL  - 140
+SP  - 821
+EP  - 826
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 33rd CIRP Conference on Life Cycle Engineering (LCE 2026)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2026.05.138
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827126006402
+KW  - Data Space
+KW  - Federated Collaboration
+KW  - Data Sovereignty
+KW  - PLM Integration
+AB  - Collaborative product development across organizations is frequently challenged by heterogeneous IT landscapes, organization-bounded Product Lifecycle Management (PLM) systems, and insufficient trust in data exchange. These issues are especially critical in early design phases, where secure and seamless exchange of sensitive engineering data is essential. This paper presents a data space architecture designed to address these challenges. Building on these conceptual foundations, a prototype of a federated co-design application has been implemented, leveraging emerging data space technologies to enable secure and interoperable collaboration. This application follows Gaia-X principles and combines several key components: the Eclipse Dataspace Connector for secure and policy-based data exchange, the Open Digital Rights Language for machine-readable usage rules designed for contractual embedding, and the Asset Administration Shell for standardized asset representation. The architecture enables traceable workflows, granular access control, and semantic interoperability between distributed PLM systems, without centralizing data. By ensuring both technical interoperability and legal compliance, the platform shows how data spaces can support scalable, trusted, and sovereign co-design across organizations, and contributes a transferable architecture pattern that links co-design requirements to concrete data-space mechanisms. The prototype was evaluated by industry experts, providing valuable insights for future developments in this domain and clarifying how data-space concepts can be operationalized in early life-cycle co-design settings.
+ER  - 
+
+TY  - JOUR
+T1  - EuProGigant: A decentralized Federated Learning Approach based on Compute-to-Data and Gaia-X
+AU  - Gehrer, Roman
+AU  - Dumss, Stefan
+AU  - Gast, Fabian
+AU  - Wünschel, Willi
+AU  - Schwill, Frederic
+AU  - Šoša, Mateo
+AU  - Zhou, Shiyang
+AU  - Ristow, Gerald H.
+AU  - Gharagyozyan, Tatevik
+AU  - Heistracher, Clemens
+AU  - Grafinger, Manfred
+AU  - Weigold, Matthias
+JO  - Procedia CIRP
+VL  - 128
+SP  - 710
+EP  - 715
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 34th CIRP Design Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.07.060
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124007595
+KW  - Federated learning
+KW  - Gaia-X
+KW  - Design methodology
+KW  - tools
+KW  - technologies
+AB  - Machine learning normally requires a considerable amount of data for model training, limiting the field of usage especially for small manufacturing companies due to their lack of machine data. Federated learning provides an opportunity to enlarge the data basis for model training without the need to directly share the machine data with other participants, addressing concerns regarding to privacy, intellectual property and potential reverse engineering of proprietary process information through competitors. Previous research focused mainly on federated learning models, mostly managed and orchestrated by some kind of centralized authority. The presented approach shows a more decentralized, self-sovereign concept of federated learning for the manufacturing industry, expanding its applicability to a broader range of participants. It combines existing solutions for machine learning and Compute-to-Data by Ocean Protocol with the concept of dataspaces as defined by Gaia-X. The methodology is demonstrated through an use case derived from industry demands involving several CNC milling machines.
+ER  - 
+
+TY  - JOUR
+T1  - Machine component monitoring in data and service ecosystems enabled by the Asset Administration Shell
+AU  - Berchtenbreiter, Viktor
+AU  - Schröder, Tizian
+AU  - Gast, Fabian
+AU  - Kohn, Oliver
+AU  - Stolze, Melanie
+AU  - Weigold, Matthias
+JO  - Procedia CIRP
+VL  - 130
+SP  - 1474
+EP  - 1479
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 57th CIRP Conference on Manufacturing Systems 2024 (CMS 2024)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.10.269
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124014264
+KW  - Asset Administration Shell
+KW  - Data Spaces
+KW  - Data Ecosystems
+KW  - Manufacturing
+KW  - Gaia-X
+KW  - Asset Monitoring
+KW  - Machine components
+AB  - Interoperable sovereign data and service ecosystems play a pivotal role in shaping digital markets within today’s manufacturing industry. These ecosystems facilitate secure connections among diverse stakeholders across manufacturing supply chains, fostering rapid and seamless communication across organizational boundaries. This connectivity empowers the deployment of services leveraging sensitive process data, allaying concerns about compromising corporate intellectual property. Standardized meta-information, which can be provided in the Asset Administration Shell, plays a critical role in enabling the deployment of these services across different environments. By describing environments in a standardized format, the need for a multitude of input parameters is minimized, streamlining the setup process for these services. Furthermore, adherence to standards like OPC UA ensures compatibility and interoperability, bolstering the efficacy and reliability of the service architecture. This approach not only facilitates efficient deployment of services but also promotes scalability and sustainability within manufacturing ecosystems.
+ER  - 
+
+TY  - JOUR
+T1  - Aligning interoperability architectures for digital agri-food platforms
+AU  - Urdu, Daoud
+AU  - Berre, Arne J.
+AU  - Sundmaeker, Harald
+AU  - Rilling, Stefan
+AU  - Roussaki, Ioanna
+AU  - Marguglio, Angelo
+AU  - Doolin, Kevin
+AU  - Zaborowski, Piotr
+AU  - Atkinson, Rob
+AU  - Palma, Raul
+AU  - Faraldi, Marianna
+AU  - Wolfert, Sjaak
+JO  - Computers and Electronics in Agriculture
+VL  - 224
+SP  - 109194
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2024.109194
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169924005854
+KW  - Digital agriculture
+KW  - AgriTech
+KW  - Smart farming
+KW  - Semantic interoperability
+KW  - Architecture
+KW  - Digital platforms
+KW  - Data marketplace
+KW  - Contextualisation
+KW  - Security & trust
+KW  - IoF2020
+KW  - Atlas
+KW  - DEMETER
+AB  - Interoperability is a critical challenge in Agri-food digitalisation, aligning with European data strategies and fostering pan-European cooperation, innovation, cost reduction, and market competition. Within the last years, the European Commission funded several projects to address interoperability in digital agriculture. We compare the projects IoF2020, ATLAS, and DEMETER which address interoperability for Agri-food systems with varying architectures and approaches, supported by the OpenDEI project. Interoperability, defined as the ability of systems to exchange and use information, encompasses multiple dimensions, including legal, organisational, semantic, and technical aspects. The analysis in this comparison focuses on the semantic and technical interoperability aspects of each project, covering architectural approaches, contextualization, marketplace functionalities, and user management and security measures. The examined projects highlight a variety of solutions, including service-oriented, data-centric, and process-oriented approaches, with the optimal choice between them remaining open, and an emphasis on the need for data consistency and plausibility. Advancements in standards and technologies, such as NGSI-LD, OGC, GAIA-X, and DSBA's implementation-driven plan, indicate a shift toward open interoperability in the broader ecosystem.
+ER  - 
+
+TY  - JOUR
+T1  - Superflare on a rapidly-rotating solar-type star captured in X-rays
+AU  - Mukhin, Andrey
+AU  - Krivonos, Roman
+AU  - Bikmaev, Ilfan
+AU  - Gorbachev, Mark
+AU  - Khamitov, Irek
+AU  - Sazonov, Sergey
+AU  - Gilfanov, Marat
+AU  - Sunyaev, Rashid
+JO  - Journal of High Energy Astrophysics
+VL  - 45
+SP  - 105
+EP  - 115
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2214-4048
+DO  - https://doi.org/10.1016/j.jheap.2024.11.016
+UR  - https://www.sciencedirect.com/science/article/pii/S2214404824001290
+KW  - X-rays: stars
+KW  - Stars: activity
+KW  - Stars: flare
+KW  - Stars: solar-type
+AB  - In this work, we studied X-ray source SRGe J021932.4−040154 (SRGe J021932), which we associated with a single X-ray active star of spectral class G2V-G4V and the rotational period Prot<9.3 days. Additional analysis of TESS light-curves allowed for the rotational period estimation of 3.2±0.5 days. SRGe J021932 was observed with the SRG/eROSITA during eUDS survey in 2019 in a much dimmer state compared to the XMM-Newton catalogue 4XMM-DR12. Detailed analysis revealed that the archival XMM-Newton observations captured the source during a flaring event in 2017. The XMM-Newton light curve demonstrates a strong flare described with the Gaussian rise and exponential decay, typical for stellar flares, characterized by timescales of ∼400 s and ∼1300 s, respectively. The spectral analysis of the quiescent state reveals ∼10 MK plasma at luminosity of (1.4±0.4)×1029 ergs−1 (0.3−4.5 keV). The spectrum of the flare is characterized by temperature of ∼40 MK and luminosity (5.5±0.6)×1030 ergs−1. The total energy emitted during the flare ∼1.7×1034 erg exceeds the canonical threshold of 1033 erg, allowing us to classify the observed event as a superflare on a rapidly-rotating solar-type star. Additionally, we present the upper limit on the surface starspot area based on the brightness variations and consider the hypothesis of the object being a binary system with G-type and M-type stars, suggested by two independent estimations of radial velocity variations from APOGEE-2 and Gaia.
+ER  - 
+
+TY  - JOUR
+T1  - Realizing Closed-Loop Supply Chain Networks based on Dataspaces and Manufacturing Marketplaces
+AU  - Kunz, Leonhard
+AU  - Reif, Manuel
+AU  - Petzsche, Teresa
+AU  - Schmallenbach, Anne
+AU  - Plociennik, Christiane
+AU  - Ruskowski, Martin
+JO  - IFAC-PapersOnLine
+VL  - 58
+IS  - 19
+SP  - 235
+EP  - 240
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 18th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.09.177
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324015921
+KW  - Information Sharing
+KW  - Sustainable Supply Chain
+KW  - Closed-loop Supply Chains
+KW  - Circular Economy
+KW  - Value Networks
+KW  - dataspaces
+KW  - Asset Administration Shell
+KW  - Digital Product Passport
+AB  - Circular economy strategies, driven by national and EU regulations and market demand, are reshaping the manufacturing industry towards sustainability and resilience. Closed-loop supply chains, integrating secondary materials, aim to minimize waste and carbon footprint while enhancing supply chain flexibility. Leveraging online B2B marketplaces, manufacturers, suppliers, and other stakeholders engage in dynamic networks, optimizing resource utilization through competitive service offerings. This work explores the integration of stakeholders across the product lifecycle into a digital marketplace with secure data exchange, following IDSA and Gaia-X concepts. It highlights the Digital Product Passport’s (DPP) role in sharing product data throughout the product lifecycle. DPP and service offerings are realized using the Asset Administration Shell. Implemented in the SmartFactoryKL demonstration environment, it showcases circular process adoption and carbon footprint reduction through a service-oriented marketplace.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 4 - Navigating digital sovereignty within regional integration: A conceptual framework
+AU  - Baykov, Andrey
+AU  - Kharkevich, Maxim
+A2  - Farina, Mirko
+A2  - Ciancarini, Paolo
+A2  - Yu, Xiao
+A2  - Chen, Jin
+BT  - Digital Transformation in Artificial Systems
+PB  - Morgan Kaufmann
+SP  - 71
+EP  - 90
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-32964-7
+DO  - https://doi.org/10.1016/B978-0-443-32964-7.00018-X
+UR  - https://www.sciencedirect.com/science/article/pii/B978044332964700018X
+KW  - Digital infrastructures
+KW  - Digital Silk Road
+KW  - Digital sovereignty
+KW  - Gaia-X
+KW  - Platform governance
+KW  - Regional integration
+AB  - This chapter investigates the evolving concept of digital sovereignty through a comparative analysis of two regional integration projects: Europe's Gaia-X and China's Digital Silk Road (DSR). Drawing on Deleuze and Guattari's distinction between smooth and striated spaces, the chapter examines how sovereignty in the digital realm is enacted through the design of infrastructures, governance frameworks, and the regulation of data flows. While Gaia-X reflects a classical model of regional integration, grounded in institutional coordination and normative convergence among sovereign states, the DSR exemplifies an alternative, infrastructural mode of integration. Rather than relying on formal membership, the DSR consolidates transnational digital space through technological embedding, platform standardization, and the creation of asymmetric dependencies across participating countries. This infrastructural regionalism positions the DSR as a distinctive non-Western model of integration, expanding China's influence beyond its borders. The chapter argues that digital sovereignty today is less about territorial control and more about the capacity to assemble, manage, and govern interconnected digital environments, revealing competing strategies for balancing autonomy and interdependence in the emerging global digital order.
+ER  - 
+
+TY  - JOUR
+T1  - Use cases for Manufacturing-X: Benefits of data spaces in industrial practice
+AU  - Neubauer, Michael
+AU  - Reiff, Colin
+AU  - Dietrich, David
+AU  - Verl, Alexander
+JO  - Journal of Engineering Research
+VL  - 14
+IS  - 3
+SP  - 3355
+EP  - 3363
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 2307-1877
+DO  - https://doi.org/10.1016/j.jer.2026.04.012
+UR  - https://www.sciencedirect.com/science/article/pii/S2307187726001550
+KW  - Manufacturing-X
+KW  - Data space
+KW  - Gaia-X
+KW  - Data ecosystems
+KW  - Data sharing
+KW  - Asset administration shell
+AB  - Manufacturing-X aims to build federated data ecosystems to increase industrial resilience, sustainability, and competitiveness. However, while this ambition is clear, the concrete pathway to achieve it remains fragmented. To address this gap, this paper systematically analyzes five diverse, advanced use cases within a physical federated testbed. Our novel contribution lies in identifying that, despite the great diversity of these use cases, the underlying technological barriers to overcome are remarkably similar. Building on this key finding, we propose a unified ”meet in the middle” architectural framework. This strategy reconciles bottom-up operational technology (OT) realities with top-down IT intent. Ultimately, this use-case-agnostic approach enables a step-by-step implementation towards a scalable ecosystem, offering greater real-time capability and automation potential than conventional approaches.
+ER  - 
+
+TY  - JOUR
+T1  - EuProGigant Resilience Approach: A Concept for Strengthening Resilience in the Manufacturing Industry on the Shop Floor.
+AU  - Weber, M.
+AU  - Brinkhaus, J.
+AU  - Dumss, S.
+AU  - Henrich, V.
+AU  - Hoffmann, F.
+AU  - Ristow, G.H.
+AU  - Schickling, C.
+AU  - Trautner, T.
+AU  - Grafinger, M.
+AU  - Weigold, M.
+AU  - Bleicher, F.
+JO  - Procedia CIRP
+VL  - 107
+SP  - 540
+EP  - 545
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Leading manufacturing systems transformation – Proceedings of the 55th CIRP Conference on Manufacturing Systems 2022
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2022.05.022
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827122003067
+KW  - resilience
+KW  - data infrastructure
+KW  - calamity
+KW  - Gaia-X
+KW  - EuProGigant
+AB  - Crises lead to adverse effects in the value creation ecosystem. In the long term, they lead to uncertainties that can destabilize the system. Resilience is getting more and more critical in connected, value-added ecosystems. Crises such as the Corona pandemic, the Suez Canal blockage, the chip crisis, and rising energy prices can cause sudden change in the market demand-supply equilibrium. Those can be expressed as calamities. This concept aims to create calamity-avoiding mechanisms in the manufacturing industry based on a common data infrastructure and smart use of data and services. Calamity-avoiding mechanisms are essential for unplannable and unknown disturbance factors connecting enterprise value creation networks in multiple layers. Resilience mechanisms must be distributed, decentralized, and interoperable to reduce the effect of self-reinforcement of calamities and enable self-orchestration functionalities. Gaia-X, the European initiative for creating a common and sovereign data infrastructure, offers data exchange based on the EU legal framework and is crucial for the (inter-)operability of the mechanisms. This paper presents the concept of such resilience mechanisms, the processing of data in the vertical plane (within a company), and the benefits at the horizontal level (across supply chains of companies). The concept is developed in the context of the EuProGigant project. It follows a bottom-up approach and starts with the Self-Descriptions (SD) of all assets on the shop floor. The resilience approach includes five key points: SDs, stress scenarios and stress mechanisms, system theory and control, anomaly detection services, and self-orchestration.
+ER  - 
+
+TY  - JOUR
+T1  - Industrial Data Marketplaces: Requirements and Potentials for Enabling Digital Twins
+AU  - Mayer, Johannes
+AU  - Unterberg, Martin
+AU  - Ortjohann, Lucia
+AU  - Becker, Marco
+AU  - Niemietz, Philipp
+AU  - Bergs, Thomas
+JO  - Procedia Computer Science
+VL  - 277
+SP  - 850
+EP  - 859
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 7th International Conference on Industry of the Future and Smart Manufacturing (former International Conference on Industry 4.0 and Smart Manufacturing)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.02.126
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926002425
+KW  - Data Marketplaces
+KW  - Data Sharing Platform
+KW  - Requirements Engineering
+KW  - Data Analysis
+KW  - Digital Twin
+AB  - The collaborative use of data across value chains, e.g., through digital twins, holds significant economic potential. Estimates suggest that full adoption of digital twins in manufacturing could generate up to USD 37.9 billion annually. This potential is often hindered by connectivity issues due to the heterogeneity of technical systems and privacy concerns stemming from the perceived risk of losing control over sensitive information and intellectual property. These concerns limit inter-organizational data sharing, which is essential for the deployment of digital twins. This paper addresses the privacy challenge by conducting a requirements engineering for industrial data marketplaces based on academic literature. The resulting framework supports the design of platforms tailored to the needs of manufacturing stakeholders and aligns these needs with key principles from frameworks such as Gaia-X. To illustrate its relevance, a use case from fineblanking is presented, in which upstream data from material suppliers is used to enhance process monitoring via vertical federated learning to enable cross-organizational model training while preserving data privacy.
+ER  - 
+
+TY  - JOUR
+T1  - EuProGigant – A Concept Towards an Industrial System Architecture for Data-Driven Production Systems
+AU  - Dumss, Stefan
+AU  - Weber, Markus
+AU  - Schwaiger, Clemens
+AU  - Sulz, Clemens
+AU  - Rosenberger, Patrick
+AU  - Bleicher, Friedrich
+AU  - Grafinger, Manfred
+AU  - Weigold, Matthias
+JO  - Procedia CIRP
+VL  - 104
+SP  - 324
+EP  - 329
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 54th CIRP CMS 2021 - Towards Digitalized Manufacturing 4.0
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2021.11.055
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827121009537
+KW  - System Architecture
+KW  - Conceptional Design
+KW  - GAIA-X
+KW  - Smart Factory
+KW  - Industrial Internet of Things
+AB  - Today, most IoT solutions for the production ecosystem stem from trends that first established at the consumer market. Although these concepts have been adapted well in the industrial environment, it led to fragmented solutions that require complex interfaces. With the recent introduction of GAIA-X, it becomes possible to develop platform independent IoT solutions tailored to the needs of manufacturers. Until now, GAIA-X is only a concept proposed by governments and economic advisory boards. This paper extends the concept into an industrial system architecture that enables the reliable exchange of information among the supply chain of a highly distributed production network.
+ER  - 
+
+TY  - JOUR
+T1  - Data sharing in Industry 4.0 - AutomationML, B2MML and International Data Spaces-based solutions
+AU  - Czvetkó, Tímea
+AU  - Abonyi, János
+JO  - Journal of Industrial Information Integration
+VL  - 33
+SP  - 100438
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 2452-414X
+DO  - https://doi.org/10.1016/j.jii.2023.100438
+UR  - https://www.sciencedirect.com/science/article/pii/S2452414X23000110
+KW  - Data sharing
+KW  - AutomationML
+KW  - B2MML
+KW  - International Data Spaces
+KW  - ISA-95
+AB  - The concept of a data ecosystem and Industry 4.0 requires high-level vertical and horizontal interconnectivity across the entire value chain. Its successful realization demands standardized data models to ensure transparent, secure and widely integrable data sharing within and between enterprises. This paper provides a PRISMA method-based systematic review about data sharing in Industry 4.0 via AutomationML, B2MML and International Data Spaces-based solutions. The interconnection of these data models and the ISA-95 standard is emphasized. This review describes the major application areas of these standards and their extension as well as supporting technologies and their contribution towards horizontal integration and data ecosystems. This review highlights how much value interconnected, exchanged and shared data gained in recent years. Standardized data sharing mechanisms enable real-time, flexible and transparent communication, which features became top requirements to gain a competitive advantage. However, to foster the shift from within company data communication towards the data ecosystem, IT- and people-oriented cultures must be well-established to ensure data protection and digital trust. We believe that this review of these standardized data exchange and sharing solutions can contribute to the development and design of Industry 4.0-related systems as well as support related scientific research.
+ER  - 
+
+TY  - JOUR
+T1  - Consumer-controlled digital twin architecture: How blockchain technology gives consumers control over their smart devices’ digital twins and data
+AU  - Pinto, Filipe
+AU  - Ferreira da Silva, Catarina
+AU  - Moro, Sergio
+AU  - Aquino, Pedro
+JO  - Blockchain: Research and Applications
+VL  - 7
+IS  - 3
+SP  - 100342
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2025.100342
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720925000697
+KW  - Digital twin
+KW  - Blockchain
+KW  - Decentralized identifiers
+KW  - Verifiable credentials
+KW  - DIDComm
+KW  - Personal data ecosystem
+AB  - This article presents Consumer-Controlled Digital Twin Architecture (C2DTA), a novel architecture that aims to empower consumers in the Personal Data Ecosystem (PDE). The hallmark of the architecture is the transfer of the smart device Digital Twin (DT) to the consumer domain, granting consumers de facto control over their data. This paradigm shift hinges on multiple decentralized technologies, chiefly Self-Sovereign Identity (SSI). C2DTA leverages blockchain to manage ecosystem transactions, assets, Decentralized Identifiers (DIDs), and Verifiable Credentials (VCs) while enabling decentralized storage. The evolved PDE allows stakeholders to engage in trustworthy and secure peer-to-peer transactions atop DIDs. We present a literature review on the convergence of DT and SSI, including GAIA-X. We provide a comprehensive architecture analysis detailing the integrated technologies and present informed predictions for the market dynamics poised to facilitate the adoption of C2DTA and its impacts on the PDE. The architecture is implemented using Eclipse Ditto and Eclipse Mosquitto as the DT platform, Hyperledger Fabric as the transaction ledger, Hyperledger Indy as the identity ledger, Hyperledger Aries to build decentralized identity software agents, and the InterPlanetary File System for decentralized storage, showcasing a business scenario that tracks the lifecycle of a smartwatch equipped with a heartbeat sensor, from manufacture to purchase, twinning, and resale. Feasibility testing confirms that C2DTA effectively empowers consumers to manage their smart device DTs and associated data. Our evaluation, although limited by the scale of our tests, suggests that the performance impacts of the decentralized infrastructure are within acceptable parameters. Finally, we discuss future research areas.
+ER  - 
+
+TY  - JOUR
+T1  - Handling Authorization and Access Control for Asset Administration Shells in Dataspaces
+AU  - Zink, F.
+AU  - Wallner, B.
+AU  - Trautner, T.
+JO  - Procedia Computer Science
+VL  - 277
+SP  - 3473
+EP  - 3482
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 7th International Conference on Industry of the Future and Smart Manufacturing (former International Conference on Industry 4.0 and Smart Manufacturing)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.02.383
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926005041
+KW  - Dataspace
+KW  - Gaia-X
+KW  - Pontus-X
+KW  - Asset Administration Shell
+KW  - Authorization
+KW  - Access Control
+KW  - Digital Product Passport
+AB  - Gaia-X compliant dataspaces and Asset Administration Shells are increasingly applied together to enable secure and interoperable data exchange in various domains. While Gaia-X ensures participant authentication through its Trust Framework, it does not provide sufficient mechanisms for fine-grained authorization and access control, particularly when combined with the detailed structure of AAS submodels and properties. Existing specifications and research contributions recognize the importance of security, but they largely focus on authentication or define policies only at a coarse-grained level, leaving authorization at the submodel and property level insufficiently addressed. To close this gap, this paper proposes an authorization and access control layer at the interface between Gaia-X compliant dataspaces and AAS, enabling attribute-based, fine-grained access control. The approach leverages open-source frameworks and tools, including Open Policy Agent, Rego, BaSyx, and NGINX, for its realization. The proposed concept is validated through a conceptual use case involving carbon footprint data of a steel product.
+ER  - 
+
+TY  - JOUR
+T1  - Enabling the Concept of an Integrated Product Data Model for Life Cycle Engineering by Digital Product Passports
+AU  - Lindow, Kai
+AU  - Steiner, Joanna
+AU  - Manoury, Marvin
+JO  - Procedia CIRP
+VL  - 140
+SP  - 845
+EP  - 850
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 33rd CIRP Conference on Life Cycle Engineering (LCE 2026)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2026.05.142
+UR  - https://www.sciencedirect.com/science/article/pii/S221282712600644X
+KW  - Integrated Product Data Model
+KW  - Digital Product Passports
+KW  - Circularity
+KW  - Life Cycle Engineering
+KW  - Sustainability
+AB  - The concept of an Integrated Product Data Model (IPDM) was introduced in the 1990s to enable Life Cycle Engineering (LCE) by connecting and managing product data across all life cycle phases, from design and production to use, service and end-of-life. Although the vision was clear, practical implementation was limited by the lack of adequate technologies for cross-domain data integration, distributed data access, and lifecycle-wide traceability. Today, this situation has changed fundamentally. Technological progress in areas such as decentralized IT architectures, semantic interoperability, cloud-edge infrastructures and IoT-based real-time data acquisition now makes it technically feasible to operationalize the IPDM. At the same time, regulatory frameworks—most notably the EU ESPR (Ecodesign for Sustainable Products Regulation) and EU Battery Regulation —are creating strong momentum for companies to implement data-driven sustainability across value chains. This paper investigates how Digital Product Passport (DPP) systems can serve as a practical, scalable implementation of the IPDM. By linking static and dynamic data across systems, actors and life cycle stages, the DPP becomes an enabler for circularity, compliance, and transparency. Initiatives such as Catena-X and Gaia-X demonstrate within industry-specific use cases how such systems can be implemented today using standardized ontologies, interoperable interfaces and trust mechanisms like identity management. We present a structured analysis of (1) the conceptual development of the IPDM, (2) current technological capabilities for data sharing and system integration and (3) the role of the DPP as a bridging mechanism between regulation, engineering and digital infrastructure. Our findings show that the DPP does not only support documentation and reporting but also opens new possibilities for engineering feedback loops between product usage and development, for smart end-of-life processes and for realization of circular economy mechanisms.
+ER  - 
+
+TY  - JOUR
+T1  - Gaia-X & Fiware: Implementation of a Federated Data Platform in Smart Cities
+AU  - Lopes, Pedro M.
+AU  - Guimarães, Pedro
+AU  - Pereira, Tiago F.
+AU  - Machado, Ricardo J.
+JO  - Procedia Computer Science
+VL  - 239
+SP  - 1506
+EP  - 1515
+PY  - 2024
+DA  - 2024/01/01/
+T2  - CENTERIS – International Conference on ENTERprise Information Systems / ProjMAN - International Conference on Project MANagement / HCist - International Conference on Health and Social Care Information Systems and Technologies 2023
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.06.325
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924015680
+KW  - Smart Cities
+KW  - Data Federation
+KW  - Context Brokers
+KW  - Interoperability
+AB  - Using and connecting different technologies to improve the quality of urban life is a significant challenge for smart cities. The interconnection of transport, energy, water, public lighting, and other urban infrastructure systems is critical to providing quality services to citizens and reducing environmental impact. However, data interoperability from these systems is a significant challenge, as data is mainly stored in different formats and locations from various sources. This paper examines the challenges of integrating existing datasets in intelligent cities and proposes solutions to create secure and interoperable data-sharing environments. To this end, an approach called data federation is discussed by implementing a federated platform for integrating such data. However, it is essential to note that there may be challenges in terms of cybersecurity and interoperability. This is where context brokers play a crucial role, regulating access to data by enforcing rules and providing security standards. In this way, these challenges can be managed appropriately, ensuring data protection and the system’s proper functioning. Finally, it is essential to mention that this work is linked to a smart cities project, which aims to promote innovation in smart cities by implementing several innovative solutions. The study presented in this research contributes to understanding the challenges in smart cities. It proposes solutions for creating secure and interoperable data-sharing environments, which are essential both for the project’s success and for the development of smart cities worldwide.
+ER  - 
+
+TY  - JOUR
+T1  - An Asset Administration Shell-Based Digital Product Passport as a Gaia-X Service
+AU  - Gleich, Kevin
+AU  - Behrendt, Sebastian
+AU  - Hörger, Moritz
+AU  - Benfer, Martin
+AU  - Lanza, Gisela
+JO  - Procedia CIRP
+VL  - 127
+SP  - 224
+EP  - 229
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 10th CIRP Conference on Assembly Technology and Systems (CIRP CATS 2024)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.07.039
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124003482
+KW  - digital product passport
+KW  - asset administration shell
+KW  - Gaia-X
+KW  - carbon footprint
+KW  - circular economy
+AB  - Within the context of the Sustainable Product Initiative of the EU, product passports will likely be required in more and more sectors. However, their introduction is associated with challenges considering data collection and technical implementation, as the degree of standardization and availability of technical implementations for product passports is still low. To address these challenges, this work presents a digital product passport using asset administration shells to enable standardized connectivity via REST interfaces and, thus, standardized information exchange. The data model created contains submodels that specify information concerning the entire lifecycle of the product. Furthermore, these data enable the determination of the carbon footprint of the products as well as remanufacturing. The product passport will be implemented as a Gaia-X service to enable a secure and decentralized collection, exchange, and storage of product related data. The developed digital product passport and the Gaia-X ecosystem will be set up as demonstrators in the Learning Factory Global Production.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Product Passport Architecture for Boosting Circularity in Footwear Industry
+AU  - Sousa, Cristóvão
+AU  - Ferreira, Ricardo
+AU  - Pinto, Pedro
+AU  - Pereira, Carla
+AU  - Rebelo, Rui
+JO  - Procedia Computer Science
+VL  - 239
+SP  - 1560
+EP  - 1567
+PY  - 2024
+DA  - 2024/01/01/
+T2  - CENTERIS – International Conference on ENTERprise Information Systems / ProjMAN - International Conference on Project MANagement / HCist - International Conference on Health and Social Care Information Systems and Technologies 2023
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.06.331
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924015746
+KW  - Digital Product Passport
+KW  - Circularity
+KW  - International Data Spaces
+KW  - Decentralized Identifiers
+AB  - This paper discusses the Digital Product Passport (DPP) as a key tool for achieving a circular economy. An architecture of the DPP is presented built upon the principles of data spaces and W3C Decentralized Identifiers (DIDs). By leveraging data spaces, the DPP enables secure and controlled data exchange among stakeholders, fostering transparency, traceability, and collaboration throughout the product’s lifecycle. The use of decentralized identifiers ensures the uniqueness and verifiability of product-related information, facilitating seamless access and sharing of data. The DPP architecture offers a promising framework for realizing the circular economy by promoting resource efficiency, sustainable practices, and informed decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - A Digital Twin and Data Spaces framework towards Resilient Manufacturing Value Chains
+AU  - Bakopoulos, Emmanouil
+AU  - Sipsas, Kostantinos
+AU  - Nikolakis, Nikolaos
+AU  - Alexopoulos, Kosmas
+JO  - IFAC-PapersOnLine
+VL  - 58
+IS  - 19
+SP  - 163
+EP  - 168
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 18th IFAC Symposium on Information Control Problems in Manufacturing INCOM 2024
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2024.09.129
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896324015398
+KW  - Digital Manufacturing
+KW  - Industry 4.0
+KW  - Asset Administration Shell
+KW  - Data spaces
+KW  - Resilient Manufacturing
+AB  - Due to the fact that uncertainties and disruptions are increasing because of the complexity of the supply chains, resilience has become a very important and imperative aspect for modern manufacturing industries. The ability to overcome challenging circumstances without significant additional costs is referred to as resilience. Digital technologies are considered as key enablers for manufacturers to achieve resilience in their manufacturing systems either in shopfloor or in value chain level. This work presents the framework of an information system for implementing Resilient Manufacturing value chains. The objective is to achieve resilience by applying the framework which leverages on data space technology, such as Gaia-X or International Data Space (IDS), and the Asset Administration Shell (AAS), where AAS supports the implementation of Digital Twins. Moreover, this work discusses the integration, within the proposed architecture, of two services namely Resilience Assessment and Reconfiguration Services. The architecture is validated in an industrial production environment from the steel industry. Finally, a discussion on existing challenges, limitations and future potentials takes place.
+ER  - 
+
+TY  - JOUR
+T1  - DigiAgro DS: An IDSA-aligned agricultural data space for sovereign data sharing in precision agriculture
+AU  - Syrigos, Ilias
+AU  - Kyriakou, Katerina
+AU  - Moutsinas, Ioannis
+AU  - Tzimotoudis, Panagiotis
+AU  - Korakis, Thanasis
+JO  - Smart Agricultural Technology
+VL  - 14
+SP  - 102247
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2772-3755
+DO  - https://doi.org/10.1016/j.atech.2026.102247
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375526004715
+KW  - Precision agriculture
+KW  - Agricultural data space
+KW  - International data spaces
+KW  - Data sovereignty
+KW  - Data interoperability
+KW  - Usage control
+KW  - Multi-tenant connectors
+KW  - Metadata broker
+KW  - Smart farming
+AB  - Precision agriculture increasingly relies on combining heterogeneous data across farms, platforms, and organisations, yet fragmentation, limited interoperability, and concerns over sovereignty and misuse continue to hinder data sharing. This article presents DigiAgro DS, an IDSA-aligned agricultural data space that extends the AgroNIT platform toward secure, policy-governed, and interoperable exchange of agricultural data and services. The study follows a design-and-implementation approach and describes a reference architecture covering data ingestion and storage, identity and access management, connector-based exchange, usage control, and metadata-driven discovery. The implementation introduces a shared multi-tenant provider-side connector and a consumer-side delegated proxy that executes IDS discovery, contract negotiation, and usage-controlled data retrieval on behalf of individual farmers while preserving per-tenant ownership and contract state. The architecture is applied to representative scenarios involving procurement planning, extreme weather monitoring, and yield-related estimation. The resulting implementation supports sovereign agricultural data sharing through IDS-compliant components while lowering the participation barrier for non-technical stakeholders and maintaining enforceable access and usage policies. Validation is scenario-based, covering three representative agricultural use cases, and does not include performance benchmarking.
+ER  - 
+
+TY  - JOUR
+T1  - Industrial Information Sharing 4.0
+AU  - Pinheiro, Pedro
+AU  - Sousa, Cristóão
+AU  - Toscano, César
+JO  - Procedia Computer Science
+VL  - 204
+SP  - 610
+EP  - 617
+PY  - 2022
+DA  - 2022/01/01/
+T2  - International Conference on Industry Sciences and Computer Science Innovation
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.08.074
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922008122
+KW  - International Data Spaces
+KW  - Digital Transformation
+KW  - Information Sharing
+KW  - Horizontal Integration
+AB  - The process of digital transformation is based on horizontal and vertical strategies, along with models and technologies used to share information and analyse data that supports decision making. In this context, sharing information securely and intelligibly using standardized architectures is crucial for the digital transformation journey of the companies. This article describes the International Data Spaces as a disruptive model for sharing information inside a network. This work will be evaluated within marketplaces platforms scope.
+ER  - 
+
+TY  - JOUR
+T1  - A Design Study on Integrating UNTP Semantics into AAS Submodels for Digital Product Passports
+AU  - Havur, Giray
+AU  - Pellegrini, Tassilo
+AU  - Schenner, Gottfried
+AU  - Fusco, Francesco
+JO  - Procedia Computer Science
+VL  - 277
+SP  - 1130
+EP  - 1139
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 7th International Conference on Industry of the Future and Smart Manufacturing (former International Conference on Industry 4.0 and Smart Manufacturing)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.02.153
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926002693
+KW  - Digital Product Passport
+KW  - Asset Administration Shell
+KW  - UN/CEFACT
+KW  - UNTP
+KW  - Semantic Interoperability
+KW  - Industry 4.0
+KW  - Digital Twin
+KW  - Circular Economy
+KW  - Sustainability
+KW  - Standardization
+AB  - The proliferation of Digital Product Passports (DPPs), driven by regulatory demands for sustainability and circularity, faces significant challenges from semantic fragmentation. This paper proposes a novel approach to achieve global semantic interoperability by embedding UN/CEFACT Transparency Protocol (UNTP) semantics as a submodel within the Asset Administration Shell (AAS). The AAS, an established framework for modular digital twins in Industrie 4.0, provides a robust technical vehicle, while UNTP offers a sector-agnostic, internationally recognized semantic base. We formalize how UNTP DPP semantics can be structured as an AAS submodel, illustrate its potential for cross-sector interoperability, and contextualize sector-specific ecosystems (e.g., Catena-X) as downstream applications. This semantic-technical alignment aims to create a scalable, extensible, and coherent foundation for DPPs, mitigating duplicative efforts and fostering a unified standard. The paper explores architectural implications, integration with data spaces like Gaia-X, synergies with existing standards (OPC UA, ECLASS), and addresses potential challenges, including the current maturity of UNTP, organizational barriers, data privacy, and the need for empirical validation. An illustrative use case, the ECO-TCO project, demonstrates practical benefits. We conclude by outlining a path toward standardization and tooling to realize a globally interoperable DPP ecosystem.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing resilience on the shopfloor through data and service ecosystems - an industrial pre-pilot
+AU  - Trautner, Thomas
+AU  - Wallner, Bernhard
+AU  - Reckendorfer, Georg
+AU  - Fink, Lorenz
+AU  - Matyas, Gergely
+AU  - Zink, Fabian
+AU  - Hackhofer, Martin
+AU  - Bleicher, Friedrich
+JO  - Procedia CIRP
+VL  - 136
+SP  - 528
+EP  - 533
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 35th CIRP Design 2025
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2025.08.091
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827125008443
+KW  - Asset Administration Shell
+KW  - Ecosystem
+KW  - Data Space
+KW  - Gaia-X
+KW  - Resilience
+AB  - In volatile markets, resilient supply chains and shopfloors are essential to mitigate the impact of disruptions, such as crises, machine failures or quality issues, which result in significant costs. To address these challenges, information about products, processes and resources is required to design, test, and deploy resilience assessment and reconfiguration tools. Nowadays, this information is intended to be made available through data spaces and ecosystems, which necessitates preserving the data sovereignty of the respective companies involved. The architecture proposed by the Flex4res project accommodates these requirements. The implemented pre-pilot use case allows testing and eases the transition for companies.
+ER  - 
+
+TY  - JOUR
+T1  - Architecture for manufacturing-X: Bringing asset administration shell, eclipse dataspace connector and OPC UA together
+AU  - Neubauer, Michael
+AU  - Steinle, Lukas
+AU  - Reiff, Colin
+AU  - Ajdinović, Samed
+AU  - Klingel, Lars
+AU  - Lechler, Armin
+AU  - Verl, Alexander
+JO  - Manufacturing Letters
+VL  - 37
+SP  - 1
+EP  - 6
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 2213-8463
+DO  - https://doi.org/10.1016/j.mfglet.2023.05.002
+UR  - https://www.sciencedirect.com/science/article/pii/S221384632300024X
+KW  - Manufacturing-X
+KW  - Asset administration shell
+KW  - Eclipse dataspace connector
+KW  - OPC UA
+KW  - Gaia-X
+KW  - CO Footprint
+AB  - Manufacturing-X represents the idea of a decentralized data economy. The aim is to increase sustainability, competitiveness and resilience by digitizing supply chains. Technically, this requires three technologies. First, a standardized data model to ensure interoperability across company boundaries. Second, a solution to realize sovereign inter-organizational data exchange. And thirdly, a component for the company’s internal data communication. Asset Administration Shell (AAS), Eclipse Dataspace Connector (EDSC) and Open Platform Communication Unified Architecture (OPC UA) are suitable solutions. This paper introduces an appropriate architecture to combine these technologies in an industrial production environment and discusses existing challenges, limitations and future potentials.
+ER  - 
+
+TY  - JOUR
+T1  - Bridging the Gaps Towards a Unified Architecture for Digital Product Passports: A Data Space Perspective on Existing Standards and Initiatives
+AU  - Kranner, Margit
+AU  - Gallina, Viola
+AU  - Al-Akrawi, Astrid
+JO  - Procedia Computer Science
+VL  - 277
+SP  - 2374
+EP  - 2387
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 7th International Conference on Industry of the Future and Smart Manufacturing (former International Conference on Industry 4.0 and Smart Manufacturing)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.02.274
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926003947
+KW  - Digital Product Passport
+KW  - Data Spaces
+KW  - Asset Administration Shell (AAS)
+KW  - Semantic Interoperability
+KW  - Verifiable Credentials
+KW  - CIRPASS Ontology
+KW  - GS1 Identifiers
+KW  - Linked Data
+KW  - Eclipse Dataspace Components
+KW  - GAIA-X
+KW  - Decentralized Data Exchange
+KW  - IDS Reference Architecture
+KW  - Supply Chain Transparency
+KW  - Product Lifecycle Data Sharing
+KW  - PASSAT
+AB  - The Digital Product Passport (DPP) plays a key role for the circular economy, aiming to provide standardized, interoperable and trustworthy product information across the entire lifecycle. However, DPP implementations differ significantly across sectors, actors and product types, and thus require context-sensitive technical architectures. In this paper, we present a structured approach to align general architectural standards for DPP systems. We investigate data spaces as an enabling infrastructure for DPPs, highlighting their role in secure, sovereign, and semantically interoperable data exchange, where participants maintain full data control. The paper details core data space components like connectors, identity and trust mechanisms, federated catalogs, and policy-based contracts. Furthermore, we analyze how linked data approaches can establish semantic foundations and data element requirements for DPPs, while GS1 standards provide global product identifiers. Ultimately, this paper proposes an example for a layered architectural blueprint that integrates data spaces (for governance and infrastructure), AAS (as a digital twin framework for structuring product data), semantic models from initiatives such as CIRPASS (for shared vocabularies and ontologies), and GS1 (for global identification and event semantics). This combined approach aims to create a truly interoperable and scalable DPP ecosystem, addressing current complexities and leveraging existing technological components.
+ER  - 
+
+TY  - JOUR
+T1  - An industrial data-spaces framework for resilient manufacturing value chains
+AU  - Alexopoulos, Kosmas
+AU  - Weber, Markus
+AU  - Trautner, Thomas
+AU  - Manns, Martin
+AU  - Nikolakis, Nikolaos
+AU  - Weigold, Matthias
+AU  - Engel, Bernd
+JO  - Procedia CIRP
+VL  - 116
+SP  - 299
+EP  - 304
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 30th CIRP Life Cycle Engineering Conference
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.02.051
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123000598
+KW  - Digital Manufacturing
+KW  - Digitalization of industry
+KW  - Industrial data-spaces
+KW  - Industry 4.0
+AB  - Manufacturing industries continuously face the challenge of delivering high-quality products under high production rates while minimizing non-value adding activities. The recent COVID-19 pandemic has caused manufacturers to rethink and reassess their global supply chains and the flexibility of their production sites. Resilience means the ability to withstand difficult situations without incurring significant extra costs. The deficiencies can be attributed largely to the lack of efficient ways for trusted data sharing among the value chain stakeholders without interoperability barriers. There is a need to be able to determine when such changes lead to deterministic-chaotic behavior with far reaching consequences. This work presents a framework to support production networks' reconfiguration for resilient manufacturing value chains. The proposed concept utilizes platform-based manufacturing that builds on the concept of dataspace and its reference implementations of Gaia-X and IDS for data-sharing in the horizontal supply chain and the Asset Administration Shell (AAS) for implementing intra-factory reconfiguration practices. Moreover, the proposed framework considers the Digital Twin of the value-adding network as a key enabling technology to achieve reconfiguration of production systems and networks. The concept has been projected upon an industrial case in order to validate its potential.
+ER  - 
+
+TY  - JOUR
+T1  - Data Spaces Based Approach for B2B Data Exchange: A Footwear Industry Case
+AU  - Pinto, Pedro
+AU  - Sousa, Cristóvão
+AU  - Cardeiro, Carlos
+JO  - Procedia Computer Science
+VL  - 219
+SP  - 933
+EP  - 940
+PY  - 2023
+DA  - 2023/01/01/
+T2  - CENTERIS – International Conference on ENTERprise Information Systems / ProjMAN – International Conference on Project MANagement / HCist – International Conference on Health and Social Care Information Systems and Technologies 2022
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2023.01.369
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050923003782
+KW  - International Data Spaces
+KW  - Industry 4.0
+KW  - Footwear Industry
+KW  - B2B Data Exchange
+AB  - This paper discusses the problem of information sharing and data interoperability in a B2B context. Therefore, this paper presents a case study on the scope of data-sharing in collaborative networks in an industrial cluster. It explores the feasibility of International Data Spaces in the context of the footwear industry cluster. This work also discusses how the adoption of digital processes might contribute to support data-based management to optimize the production planning of a footwear industry. As a result, it is defined and specified the foundations for the development and implementation of an dataspace oriented IIoT architecture, following a fully compliant Industry 4.0 solution for the footwear industry cluster.
+ER  - 
+
+TY  - JOUR
+T1  - Information systems engineering with Digital Shadows: Concept and use cases in the Internet of Production
+AU  - Liebenberg, Martin
+AU  - Jarke, Matthias
+JO  - Information Systems
+VL  - 114
+SP  - 102182
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0306-4379
+DO  - https://doi.org/10.1016/j.is.2023.102182
+UR  - https://www.sciencedirect.com/science/article/pii/S0306437923000182
+KW  - Digital Shadow
+KW  - Internet of Production (IoP)
+KW  - Database views
+KW  - World Wide Lab (WWL)
+KW  - Cooperative information systems
+KW  - Digital twin
+KW  - Informed machine learning
+KW  - Knowledge pipeline
+AB  - Entering the second decade of the Industrie 4.0 vision, the production sector is facing challenges in taking full advantage of global digitalization. Production research has focused on sophisticated mathematical models ranging from molecular materials modeling to production control to supply chain logistics. These models help simulate and control the related physical system but the variety of individual situations and behaviors is captured only as statistical uncertainty. The emergence of data-driven methods adds statistical or AI models learned from real-time production data to Digital Twins, and ideally allows for continuous synchronization (twinning) between physical and virtual system. However, the complexity of today’s production systems precludes Digital Twins covering more than just a few system perspectives, especially if realtime performance is required. To achieve better performance and more precise context adaptation, the interdisciplinary research cluster “Internet of Production” at RWTH Aachen University is exploring the concept of Digital Shadows. We conceptualize Digital Shadows as a generalization of compact views on dynamic processes, whose defining “query” combines condensed measurement data with efficient simplified mathematical models. Their small size makes Digital Shadows amenable to dynamic function allocation in hybrid cloud–edge settings. In addition to showing the similarities and differences to the traditional view concept, we also present a conceptual embedding of Digital Shadows in the context of large distributed system architectures, and sovereign data exchange in international Data Space communities. Two production use case experiences demonstrate that Digital Shadows can be valuable carriers of deep and reusable engineering knowledge for technical and ecological progress.
+ER  - 
+
+TY  - JOUR
+T1  - Issues in inter-organizational data sharing: Findings from practice and research challenges
+AU  - Jussen, Ilka
+AU  - Möller, Frederik
+AU  - Schweihoff, Julia
+AU  - Gieß, Anna
+AU  - Giussani, Giulia
+AU  - Otto, Boris
+JO  - Data & Knowledge Engineering
+VL  - 150
+SP  - 102280
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0169-023X
+DO  - https://doi.org/10.1016/j.datak.2024.102280
+UR  - https://www.sciencedirect.com/science/article/pii/S0169023X24000041
+KW  - Data sharing
+KW  - Qualitative Interview study
+KW  - Data ecosystems
+KW  - Actor-network theory
+AB  - Sharing data is highly potent in assisting companies in internal optimization and designing new products and services. While the benefits seem obvious, sharing data is accompanied by a spectrum of concerns ranging from fears of sharing something of value, unawareness of what will happen to the data, or simply a lack of understanding of the short- and mid-term benefits. The article analyzes data sharing in inter-organizational relationships by examining 13 cases in a qualitative interview study and through public data analysis. Given the importance of inter-organizational data sharing as indicated by large research initiatives such as Gaia-X and Catena-X, we explore issues arising in this process and formulate research challenges. We use the theoretical lens of Actor-Network Theory to analyze our data and entangle its constructs with concepts in data sharing.
+ER  - 
+
+TY  - JOUR
+T1  - Declarative Policy Control for Data Spaces: A DSL-Based Approach for Manufacturing-X
+AU  - Pfeiffer, Jérôme
+AU  - Maisch, Nicolai
+AU  - Friedl, Sebastian
+AU  - Strljic, Matthias Milan
+AU  - Lechler, Armin
+AU  - Riedel, Oliver
+AU  - Wortmann, Andreas
+JO  - Procedia CIRP
+VL  - 142
+SP  - 1082
+EP  - 1087
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 36th CIRP Design Conference (CIRP Design 2026)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2026.05.396
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827126009844
+KW  - Data Spaces
+KW  - Domain-Specific Languages (DSLs)
+KW  - Industry 4.0
+KW  - Data Governance
+KW  - Manufacturing-X
+AB  - The growing adoption of federated data spaces, such as in the GAIA-X and the International Data Spaces (IDS) initiative, promises secure and sovereign data sharing across organizational boundaries in Industry 4.0. In manufacturing ecosystems, this enables use cases, such as cross-factory process optimization, predictive maintenance, and supplier integration. Frameworks and standards, such as the Asset Administration Shell (AAS), Eclipse Dataspace Connector (EDC), ID-Link and Open Platform Communications Unified Architecture (OPC UA) provide a strong foundation to realize this ecosystem. However, a major open challenge is the practical description and enforcement of context-dependent data usage policies using these base technologies, especially by domain experts without software engineering backgrounds. Therefore, this article proposes a method for leveraging domain-specific languages (DSLs) to enable declarative, human-readable, and machine-executable policy definitions for sovereign data sharing via data space connectors. The DSL empowers domain experts to specify fine-grained data governance requirements—such as restricting access to data from specific production batches or enforcing automatic deletion after a defined retention period—without writing imperative code.
+ER  - 
+
+TY  - JOUR
+T1  - From self-descriptions (SD) to self-recommendations (SR): Evolving Gaia-X for the future European economy
+AU  - Geilenberg, Vincent
+AU  - Schulz, Wolfgang H.
+AU  - Mize, Jonathan
+AU  - Kleis, Henrik
+JO  - International Journal of Information Management Data Insights
+VL  - 4
+IS  - 2
+SP  - 100249
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 2667-0968
+DO  - https://doi.org/10.1016/j.jjimei.2024.100249
+UR  - https://www.sciencedirect.com/science/article/pii/S2667096824000387
+KW  - Gaia-X
+KW  - Decentralization
+KW  - Self-description, self-recommendation, platform competition
+AB  - The European decentralized-organized data-infrastructure ecosystem Gaia-X faces the challenge of initiating, maintaining, and intensifying data exchange between data providers and data consumers in all its Gaia-X data exchange domains to contribute significantly to the future viability of the European economy. The overall success of Gaia-X would enhance the innovative power and competitiveness of European companies and reduce their dependence on American and Chinese platform companies. This paper analyzes how the Big Data era affects the design of centralized-organized and decentralized-organized platforms and applies the findings to Gaia-X. It proposes to extend the Self-Descriptions (SD) already firmly embedded in Gaia-X with so-called Self-Recommendations (SR) because, in this way, the decentralized-organized data-infrastructure ecosystem Gaia-X can better express its advantages over centralized-organized platform companies.
+ER  - 
+
+TY  - JOUR
+T1  - Systematic AI Support for Decision-Making in the Healthcare Sector: Obstacles and Success Factors
+AU  - Bertl, Markus
+AU  - Ross, Peeter
+AU  - Draheim, Dirk
+JO  - Health Policy and Technology
+VL  - 12
+IS  - 3
+SP  - 100748
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 2211-8837
+DO  - https://doi.org/10.1016/j.hlpt.2023.100748
+UR  - https://www.sciencedirect.com/science/article/pii/S2211883723000266
+KW  - Decision support systems
+KW  - Healthcare information systems
+KW  - Health informatics
+KW  - Delivery of health care
+KW  - Artificial intelligence (AI)
+KW  - Machine learning (ML)
+KW  - Decision-making
+KW  - GAIA-X, e-health, Digital health
+AB  - Background
+Currently, health care is expert-centric, especially with regard to decision-making. Innovations such as artificial intelligence (AI) or interconnected electronic health records (EHRs) suffer from low adoption rates. In the rare cases of technically successful implementation, they often result in inefficient or error-prone processes.
+Aim & Methods
+This paper explores the state of the art in AI-based digital decision support systems (DDSSs). To overcome the low adoption rates, we propose a systematic strategy for bringing DDSS research into clinical practice based on a design science approach. DDSSs can transform health care to be more innovative, patient-centric, accurate and efficient. We contribute by providing a framework for the successful development, evaluation and analysis of systems for AI-based decision-making. This framework is then evaluated using focus group interviews.
+Results
+Centred around our framework, we define a systematic approach for the use of AI in health care. Our systematic AI support approach highlights essential perspectives on DDSSs for systematic development and analysis. The aim is to develop and promote robust and optimal practices for clinical investigation and evaluation of DDSS in order to encourage their adoption rates. The framework contains the following dimensions: disease, data, technology, user groups, validation, decision and maturity.
+Conclusion
+DDSSs focusing on only one framework dimension are generally not successful; therefore, we propose to consider each framework dimension during analysis, design, implementation and evaluation so as to raise the number of DDSSs used in clinical practice.
+Public Interest Summary
+The digital transformation of the healthcare sector creates the potential for the sector to be more accurate, efficient and patient-centric using AI, or so-called digital decision support systems. In this research, we explore why these systems are needed and how they can be successfully implemented in clinical practice. For this, we propose a systematic approach based on our conceptual framework. Against this background, we present our vision for further advancing these technologies. We see our systematic AI support as a primary driver, with the possibility to facilitate the much-needed breakthrough of decision support systems in health care.
+ER  - 
+
+TY  - JOUR
+T1  - A data-based business concept to support product creation in reducing greenhouse gas emissions
+AU  - Hoffmann, Felix
+AU  - Koch, Tobias
+AU  - Weigold, Matthias
+AU  - Metternich, Joachim
+JO  - Procedia CIRP
+VL  - 120
+SP  - 864
+EP  - 869
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 56th CIRP International Conference on Manufacturing Systems 2023
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2023.09.089
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827123008211
+KW  - carbon reduction
+KW  - data economy
+KW  - injection molding
+AB  - The anthropogenic climate change and the resulting global warming cause a multitude of problems for humans and the environment. For this reason, politicians have set ambitious climate targets with the adoption of the Paris Climate Agreement and the implementation of the European Green Deal. However, especially in the industrial sector, the savings of climate-damaging greenhouse gas emissions have so far fallen short of the politically set targets. A significant lever to reduce emissions in production is offered when optimal decisions are already made in the product creation process. One approach is shifting the focus from the product itself to the provision of its service, so different options for geometry, material, manufacturing process and machines are enabled. By forecasting a carbon footprint for each variation of the mentioned options, the greenhouse gas optimal configuration can be identified. Automating this process requires a trustful data and service exchange framework with interfaces, where data exchanges (e.g. raw material properties) and service provisions (e.g. prognosis algorithm for energy consumption) are simplified. Lastly, an inherent changeover and investments must be justifiable in terms of measurable benefits and return on investment for participating companies. This paper aims to propose a data-driven business model for the greenhouse gas emission reduction in product creation. It addresses the data and revenue streams for the participating stakeholders by a use case from the field of plastic injection molding within the Gaia-X lighthouse project EuProGigant. In this context, the underlying business model architecture is derived. Finally, possible economic potentials and chances for saving greenhouse gas emissions are discussed. Likewise, possible obstacles that could prevent economic operation in industrial practice are also addressed.
+ER  - 

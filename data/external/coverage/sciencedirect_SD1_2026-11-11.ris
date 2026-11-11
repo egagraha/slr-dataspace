@@ -1,0 +1,534 @@
+TY  - JOUR
+T1  - VESPACE: A verifiable blockchain-based data space solution to empower the data economy
+AU  - Costagliola, Andrea Roberta
+AU  - Mazzocca, Carlo
+AU  - Bujari, Armir
+AU  - Montanari, Rebecca
+AU  - Bellavista, Paolo
+JO  - Computer Communications
+VL  - 239
+SP  - 108180
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2025.108180
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366425001379
+KW  - Data space
+KW  - Blockchain
+KW  - Decentralized Identifier
+KW  - Verifiable Credential
+KW  - Decentralized storage
+KW  - Data economy
+AB  - In the rapidly evolving data economy, the ability to securely and efficiently share data between organizations has become paramount, unlocking new opportunities for innovation and growth. In this context, different initiatives have worked on conceptual proposals and enabling technological building blocks, addressing design aspects of data spaces. However, the current landscape lacks practical implementations and integration of secure data-sharing primitives supporting a decentralized data ecosystem. To this end, we conduct an analysis of previous efforts and initiatives, identifying gaps. We then introduce VESPACE, a blockchain-based platform for data spaces that enables participants to selectively and securely share verifiable data with authorized users while maintaining control over their access. Our framework incorporates data sovereignty principles implemented through Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), and blockchain technology, qualifying decentralized identity and access control as key features to establish user trust in decentralized data ecosystems. We present a prototype system implementation of VESPACE, evaluating the design choices, showcasing the feasibility of our proposal.
+ER  - 
+
+TY  - JOUR
+T1  - HealthData@MAD-R&I: Protocol for Design and Development of a Regional Health Data Infrastructure to Enable Secondary Use of Health Data in Research and Innovation
+AU  - León-García, Montserrat
+AU  - Álvarez-Pérez, Sergio
+AU  - Gesto-Gómez, Janire
+AU  - Urbano-Molina, Clara
+AU  - Soto-Díaz, Sonia
+AU  - Cárdenas-Valladolid, Juan
+AU  - Rodríguez-Rodríguez, Luis
+AU  - Díaz-Holgado, Antonio
+AU  - del Cura-González, Isabel
+AU  - De La Cruz-Bertolo, Javier
+AU  - García-Barrio, Noelia
+AU  - Cruz-Bermúdez, Juan Luis
+AU  - García-Fernández, Cristina
+AU  - Rodríguez-Antolín, Carlos
+AU  - García-Aldars, Laila
+AU  - Moreda-Sánchez, Elsa María
+AU  - Roldán López, Álvaro
+AU  - Veganzones Alonso-Cortés, José María
+AU  - Gonzalez Gonzalez, Ana Isabel
+AU  - Salinero-Fort, Miguel A
+JO  - JMIR Research Protocols
+VL  - 15
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1929-0748
+DO  - https://doi.org/10.2196/82815
+UR  - https://www.sciencedirect.com/science/article/pii/S1929074826002659
+KW  - secondary use
+KW  - interoperability
+KW  - digital health
+KW  - advanced predictive models
+KW  - European Health Data Space
+KW  - federated data
+KW  - clinical research
+KW  - innovation
+KW  - public health
+AB  - 
+Background The exponential growth of electronic health records (EHRs), together with the recent entry into force of the European Health Data Space (EHDS) Regulation, highlights the urgent need for secure, interoperable environments that support the secondary use of health data. In response, HealthData@MAD-R&I emerges as a pioneering initiative in Madrid (Spain), aligned with the EHDS strategy and the European Commission’s vision for data sovereignty and trustworthy data reuse.
+
+Objective This study aims to design and implement HealthData@MAD-R&I, a regional health data space that enables responsible access to high-quality health data to support clinical research, health care innovation, and evidence-informed decision-making.
+
+Methods HealthData@MAD-R&I aims to establish an ethically governed, scalable, and sustainable health data space. The project adopts a structured, iterative methodology based on the Data Management Association (DAMA) framework. and it is organized into 9 work packages across three thematic areas: (1) project management and sustainability, (2) governance and technological infrastructure, and (3) validation through 4 real-world use cases. The technical architecture adopts a hybrid federated model built with open-source components, and data harmonization is performed using the Observational Medical Outcomes Partnership (OMOP) common data model to ensure semantic and syntactic interoperability. Artificial intelligence, machine learning, natural language processing, and privacy-preserving techniques are applied for data curation and secure access.
+
+Results As of November 2025, the main achievements include (1) the development of a data governance model that articulates principles of quality, transparency, and regulatory compliance; (2) the design of a secure, interoperable technological architecture with federated capabilities based on international standards (DAMA and OMOP); and (3) the implementation of 4 use cases—optimizing rheumatology referrals, characterizing care pathways for long-term survivors of breast cancer, predicting unplanned hospitalizations, and evaluating the effectiveness of statins in older adults—to validate the data space while addressing diverse clinical and policy challenges. Together, these components demonstrate the potential of regional data spaces to support evidence-based clinical practice and public policy.
+
+Conclusions HealthData@MAD-R&I seeks to strengthen Madrid’s role in digital health innovation and contribute to the broader European health data ecosystem by promoting interoperable, privacy-compliant secondary use of health data. The project’s evaluation framework includes indicators for data quality, research outputs, and health care system impact.
+
+International Registered Report Identifier (IRRID) DERR1-10.2196/82815
+ER  - 
+
+TY  - JOUR
+T1  - Automatic Publication of Data to Data- and Service Ecosystems from the Shopfloor
+AU  - Gast, Fabian
+AU  - Berchtenbreiter, Viktor
+AU  - Dumss, Stefan
+AU  - Gehrer, Roman
+AU  - Weißenbach, Paul
+AU  - Weigold, Matthias
+AU  - Grafinger, Manfred
+JO  - Procedia CIRP
+VL  - 130
+SP  - 1589
+EP  - 1597
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 57th CIRP Conference on Manufacturing Systems 2024 (CMS 2024)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2024.10.287
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827124014446
+KW  - System architecture
+KW  - Service
+KW  - Integration
+KW  - Manufacturing network
+AB  - In the manufacturing sector, vast volumes of data are generated at the field layer, offering valuable insights into the quality of produced parts, process efficiency, and various other applications. Traditionally, these data have been managed and analyzed through centralized infrastructures either in a cloud or on-premise. However, to tackle trust-related concerns from data providers and enable value creation through services by external companies, the concept of data spaces and ecosystems has emerged. Multiple drafts for standards for ecosystems exist; all offering different approaches for trustful cross-company collaboration. Notably, the Gaia-X initiative aims to establish a federated and sovereign data infrastructure. This paper introduces a novel approach for automatically publishing production data and associated services to multiple instances of such ecosystems directly from the shopfloor by deploying microservices on edge devices close to the machine. The developed architecture combines data acquisition of machine data through standards like OPC UA, creation of verifiable metadata description for the collected data sets, and publishing the metadata to different data and service ecosystems adhering to the Gaia-X standard, enabling trustful machine-to-machine connections. It is shown how services like data storage, ERP/MES, and asset management systems can be seamlessly deployed along the cloud edge continuum into this process. This approach fosters data integrity, sovereignty and enables coherent integration within the evolving cooperative manufacturing landscape.
+ER  - 
+
+TY  - JOUR
+T1  - Design and implementation of a data space application architecture for sovereign engineering collaboration
+AU  - Schellander, Martin
+AU  - Hader, Bernd
+AU  - Jeon, Somin
+AU  - Leitner, Lukas
+AU  - Dehnavi, Zahra Safari
+AU  - Pichler, Rudolf
+AU  - Heiss, Michael
+AU  - Haas, Franz
+AU  - Schlund, Sebastian
+JO  - Procedia CIRP
+VL  - 140
+SP  - 821
+EP  - 826
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 33rd CIRP Conference on Life Cycle Engineering (LCE 2026)
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2026.05.138
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827126006402
+KW  - Data Space
+KW  - Federated Collaboration
+KW  - Data Sovereignty
+KW  - PLM Integration
+AB  - Collaborative product development across organizations is frequently challenged by heterogeneous IT landscapes, organization-bounded Product Lifecycle Management (PLM) systems, and insufficient trust in data exchange. These issues are especially critical in early design phases, where secure and seamless exchange of sensitive engineering data is essential. This paper presents a data space architecture designed to address these challenges. Building on these conceptual foundations, a prototype of a federated co-design application has been implemented, leveraging emerging data space technologies to enable secure and interoperable collaboration. This application follows Gaia-X principles and combines several key components: the Eclipse Dataspace Connector for secure and policy-based data exchange, the Open Digital Rights Language for machine-readable usage rules designed for contractual embedding, and the Asset Administration Shell for standardized asset representation. The architecture enables traceable workflows, granular access control, and semantic interoperability between distributed PLM systems, without centralizing data. By ensuring both technical interoperability and legal compliance, the platform shows how data spaces can support scalable, trusted, and sovereign co-design across organizations, and contributes a transferable architecture pattern that links co-design requirements to concrete data-space mechanisms. The prototype was evaluated by industry experts, providing valuable insights for future developments in this domain and clarifying how data-space concepts can be operationalized in early life-cycle co-design settings.
+ER  - 
+
+TY  - JOUR
+T1  - Data-as-a-Product to enable data-driven value networks in Industries 4.0 & 5.0: The Swiss Smart Factory experiment
+AU  - Nizamis, Alexandros
+AU  - Julian, Matilde
+AU  - Valero, Clara I.
+AU  - Foti, Magda
+AU  - Drigkopoulou, Ioanna
+AU  - Esbrí, Miguel Ángel
+AU  - Costa, Ruben
+AU  - Yortholt, Alexandre
+AU  - Ioannidis, Dimosthenis
+AU  - Gkonis, Panagiotis
+AU  - Trakadas, Panagiotis
+AU  - Tzovaras, Dimitrios
+AU  - Palau, Carlos E.
+JO  - Procedia Computer Science
+VL  - 257
+SP  - 793
+EP  - 800
+PY  - 2025
+DA  - 2025/01/01/
+T2  - The 16th International Conference on Ambient Systems, Networks and Technologies Networks (ANT)/ the 8th International Conference on Emerging Data and Industry 4.0 (EDI40)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.03.102
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925008397
+KW  - Data-as-a-Product
+KW  - Data Space
+KW  - Data Transformation
+KW  - Data Security
+KW  - Factory Experiment
+AB  - Over the years, the economic and strategic potential of data has been identified by companies, and nowadays, data has emerged as a valuable digital asset for them. Data can be offered as a product by combining it with a series of services related to data quality, security, trust, communication, and monetization. In this paper, an implementation of Data-as-a-Product (DaaP) developed in Horizon Europe project RE4DY for its use in industrial environments is presented. DaaP is a core concept to enable distributed data management solutions and collaboration among industrial stakeholders. The architecture of the proposed solution consists of core services to enable data abstraction, interoperability, quality, security, and traceability. In addition to them, Data Space components are considered to provide data sovereignty and trust alongside with a Marketplace to promote the discovery of the shared resources. This implementation has been tested in a use case where data from the Swiss Smart Factory was shared with an analytics service provider. The goals of this experiment were to validate the implemented DaaP solution and to perform an initial evaluation of the potential benefits of this concept. The proposed DaaP implementation provides an easy-to-use environment that simplifies the entire workflow for collecting, pre-processing, and sharing data to create data-driven services, and enhances data quality while saving time and reducing costs.
+ER  - 
+
+TY  - JOUR
+T1  - AgrospAI: A data space for sovereign data sharing and on-demand AI services in agriculture
+AU  - Chamorro-Padial, Jorge
+AU  - Colàs-Torres, Clàudia
+AU  - López-Gil, Juan-Miguel
+AU  - Gil, Rosa
+AU  - García, Roberto
+JO  - Computers and Electronics in Agriculture
+VL  - 253
+SP  - 112190
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2026.112190
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169926007866
+KW  - Agriculture
+KW  - Data space
+KW  - Data sovereignty
+KW  - Environmental certification
+KW  - Compute-to-Data
+KW  - Pig farming
+AB  - Digital transformation in agriculture is often hindered by stakeholders’ reluctance to share sensitive operational data. While regulatory pressures for environmental sustainability increase, farmers lack tools to demonstrate compliance without relinquishing control over their data. This paper presents AgrospAI, an agricultural data space demonstrator that is designed to ensure data sovereignty by design. Unlike traditional platforms that require data transfer, AgrospAI utilizes a “Compute-to-Data” (C2D) paradigm. We first demonstrate this via a high-value use case in the Spanish pig farming sector: a sovereign workflow for environmental certification. This system enables farmers to generate verifiable compliance reports while keeping raw sensor data localized and private. Additionally, we showcase a second use case: an on-demand semantic mapping that lowers entry barriers for heterogeneous data sources, allowing data to be shared as-is and mapped and integrated when needed. Our results indicate that AgrospAI provides an environment designed to support trust in which data providers remain sovereign, even when integrating data from diverse sources, and consumers receive actionable insights (e.g., sustainability scores) without ever accessing the providers’ underlying raw datasets. This helps mitigate the risks of data leakage and unauthorized reuse, may help address some of the barriers that hinder data sharing, and enables value generation from data that would otherwise remain unused.
+ER  - 
+
+TY  - JOUR
+T1  - On the use of Blockchain to enable a highly scalable Internet of Things Data Marketplace
+AU  - González, Víctor
+AU  - Sánchez, Luis
+AU  - Lanza, Jorge
+AU  - Santana, Juan Ramón
+AU  - Sotres, Pablo
+AU  - García, Alberto E.
+JO  - Internet of Things
+VL  - 22
+SP  - 100722
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2023.100722
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660523000458
+KW  - Internet of Things
+KW  - Data Marketplace
+KW  - Blockchain
+KW  - Smart Contracts
+KW  - Data subscription
+KW  - Performance evaluation
+AB  - As data becomes the new fuel of the economy and a key asset to address our societal challenges, we cannot afford to have the data of businesses, public sector and individuals stored and kept unexploited or, what is worse, exploited by others that actually have the resources and capacity to do it. This is affecting not only our economic performance but also our security, safety and sovereignty. Among the plethora of data sources that exist nowadays, the Internet of Things (IoT) is recognised as a game-changer technology that expands its applicability to a huge variety of domains. Its main asset is, precisely, the data that the myriad of sensors embedded in the environment are constantly generating. The diffusion of platforms for IoT data sharing and monetisation is one of the key success factors which may help to drive the data economy and industrial transformation. In this paper, we are presenting a data sharing platform based on Blockchain, so-called Blockchain-based IoT Data Marketplace (BIDM) over which data producers and data consumers are able to share data in a decentralised and trustworthy manner. The BIDM enables a data marketplace where owners of IoT infrastructures can expose the observations that their devices generate while retaining control over who accesses each observation and directly getting revenues according to the price they have set. The evaluation that we have carried out of the BIDM’s behaviour and performance in terms of operational execution times and scalability has been the basis for the discussion that we are presenting on the shortcomings that are typically associated with the use of Blockchain technologies as enablers for data marketplaces. This discussion also includes the evaluation of the challenges that must be considered for the creation of secure and interoperable Data Spaces based on Blockchain.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding data spaces: A Systematic Mapping Study of foundations, technical building blocks, and sectoral adoption
+AU  - Kovach, Anhelina
+AU  - Montalvillo, Leticia
+AU  - Lanza, Jorge
+AU  - Sotres, Pablo
+AU  - Urbieta, Aitor
+JO  - Computer Science Review
+VL  - 59
+SP  - 100819
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 1574-0137
+DO  - https://doi.org/10.1016/j.cosrev.2025.100819
+UR  - https://www.sciencedirect.com/science/article/pii/S1574013725000954
+KW  - Data spaces
+KW  - Systematic Mapping Study
+KW  - Building blocks
+KW  - Data interoperability
+KW  - Data sovereignty
+KW  - Data value creation
+KW  - Survey
+AB  - Data spaces are emerging as a key paradigm for enabling sovereign, secure, and interoperable data sharing across sectors. Beyond data governance, they represent a transformation in communication architectures—where communication is no longer merely about establishing connections, but about who is allowed to share what, under which conditions, and for what purpose. Despite growing attention, the research landscape remains fragmented and under-synthesized. This paper presents a Systematic Mapping Study (SMS) of 149 peer-reviewed publications, analyzing the conceptual foundations, technical building blocks, and sectoral adoption of data spaces. Following established SMS methodologies, we classify the literature across key technical themes defined by the Data Spaces Support Centre (DSSC) and assess methodological maturity, technical novelty, and application domains. Our findings show that 46.3% of studies address data value creation enablers, 30.8% focus on data interoperability, and 22.9% explore data sovereignty. The study provides a structured synthesis of current research and offers guidance for advancing federated, trust-aware communication infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - Data-Sovereign Architecture for Quality-As-A-Service Across Industrial Supply Chain Partners
+AU  - Araya-Martinez, Jose Moises
+AU  - Kannanthodath Induchoodan, Ajay Menon
+AU  - Kalpathy Sundaram, Srinidhi Krishna
+AU  - Görzig, David
+AU  - Diemer, Johannes
+AU  - Lambrecht, Jens
+AU  - Krüger, Jörg
+JO  - Procedia CIRP
+VL  - 136
+SP  - 822
+EP  - 827
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 35th CIRP Design 2025
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2025.08.140
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827125008935
+KW  - Quality-as-a-service
+KW  - Data Sovereignty
+KW  - Asset Administration Shells
+KW  - Eclipse Dataspace Connector (EDC)
+KW  - sim-to-real
+AB  - The digital orchestration of value chains in Industry 4.0 is crucial for exploiting the potential of globalized partner networks. However, ensuring data sovereignty, standardizing data models, and incorporating recent advances in Artificial Intelligence to increase partner trustworthiness are just a few ongoing challenges to enable flexibility, ensure security, reduce bureaucracy, and increase resilience and scalability among companies. In this context, we propose a Quality-as-a-Service (QaaS) architecture and a reference implementation to enhance trust and automation of product quality assurance in industrial supply chains. Our solution eliminates the need to transfer large datasets or deep-learning models. Instead, it leverages recent advances in Simulation-to-Reality (sim-to-real) domain gap reduction to train supervised deep-learning models using only partners’ design files, enabling in-situ product quality assessments on 2D/3D shop floor images. The generated quality data is standardized according to Industrial Digital Twin Association (IDTA) submodels and securely stored within an Asset Administration Shell (AAS), ensuring data integrity. Furthermore, peer-to-peer data transfers are carried out through Eclipse Data Space Connectors (EDCs), enabling sovereign asset access to industrial partners within the secure dataspace. Our framework enables automated quality insights across companies without transmission overhead, thereby fostering transparency, trust, and efficiency in globalized manufacturing processes.
+ER  - 
+
+TY  - JOUR
+T1  - Enabling secure and self-sovereign machine learning model exchange in manufacturing data spaces
+AU  - Ranathunga, Tharindu
+AU  - McGibney, Alan
+AU  - Bharti, Sourabh
+JO  - Journal of Industrial Information Integration
+VL  - 42
+SP  - 100733
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 2452-414X
+DO  - https://doi.org/10.1016/j.jii.2024.100733
+UR  - https://www.sciencedirect.com/science/article/pii/S2452414X24001766
+KW  - Data spaces
+KW  - Transfer learning
+KW  - Self sovereignty
+KW  - Energy efficiency
+KW  - Semantic interoperability
+AB  - With the rapid digital transformation of manufacturing, vast amounts of data are being generated and analyzed to uncover valuable patterns in areas such as energy efficiency, predictive maintenance, production scheduling etc. However, much of this data and the intelligence derived from it remain isolated within individual companies. This is strongly influenced by companies reluctance to share data due to concerns over privacy and security associated with the commercially sensitive information. As a result, the potential shared value that can be derived from a richer, larger pool of data and intelligence across multiple companies remains untapped. While solutions such as federated learning exist to address privacy and security issues, strong governance so that the privacy is preserved is crucial to its successful implementation. Currently, there is a lack of software infrastructure that guarantees data sovereignty and governance for data owners in this space. This paper introduces COllaboRative Data Space (CORDS), a framework that enables companies to engage in a machine learning model-sharing ecosystem, providing full control over the access and usage of their data. Aligned with the European Data Space initiative, CORDS aims to foster trusted collaboration by providing a software infrastructure constituting a set of tools for both intra and inter-organization data asset management and ML model exchange. To the best of our knowledge, CORDS is the first minimum viable data space (MVDS) designed to address the broader challenges of sovereignty, interoperability, compliance & governance in cross-party ML model sharing. This paper also highlights the value of data sharing by applying CORDS to a use-case focused on improving energy efficiency in manufacturing. Extensive performance evaluation showcases CORDS’ utility in securely managing data assets and facilitating machine learning model exchanges. CORDS is available as open-source software, supporting further research and practical applications of trusted data spaces in both academia and industry.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain for data spaces: A survey of architectures, capabilities, and challenges
+AU  - Shi, Jianfeng
+AU  - Xu, Lianggen
+AU  - Li, Feiwen
+AU  - Yin, Lingyuan
+AU  - Yin, Zihang
+AU  - Liu, Yang
+JO  - Results in Engineering
+VL  - 32
+SP  - 111927
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 2590-1230
+DO  - https://doi.org/10.1016/j.rineng.2026.111927
+UR  - https://www.sciencedirect.com/science/article/pii/S259012302602949X
+KW  - Data space
+KW  - Blockchain
+KW  - Decentralized data sharing
+KW  - Data sovereignty
+KW  - Data governance
+AB  - Data spaces have emerged as a promising paradigm for cross-organizational data sharing; however, their practical deployment still faces multiple technical and governance challenges. This paper presents a comprehensive survey of how blockchain technologies can support the construction and operation of data spaces. Specifically, we first analyze the key challenges encountered in existing data space initiatives, including identity verification, data sovereignty, assetization, contract fulfillment, compliance, governance, security, and cross-space interoperability. We then synthesize seven fundamental capabilities of blockchain that are relevant to addressing these challenges. Based on this capability-challenge perspective, we further organize and conceptualize a layered architectural framework for blockchain-enabled data spaces, consisting of identity, asset, circulation, usage, application, security, governance, and cross-space layers, illustrating how blockchain mechanisms may support each layer. A comprehensive review of representative academic studies and industrial practices is conducted to examine the current design patterns and technological approaches in this area. Finally, the paper summarizes open research challenges and outlines future research directions for integrating blockchain technologies into data spaces. Overall, this survey provides a structured perspective and research roadmap for the design of trustworthy, interoperable, and sustainable data spaces.
+ER  - 
+
+TY  - JOUR
+T1  - DigiAgro DS: An IDSA-aligned agricultural data space for sovereign data sharing in precision agriculture
+AU  - Syrigos, Ilias
+AU  - Kyriakou, Katerina
+AU  - Moutsinas, Ioannis
+AU  - Tzimotoudis, Panagiotis
+AU  - Korakis, Thanasis
+JO  - Smart Agricultural Technology
+VL  - 14
+SP  - 102247
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2772-3755
+DO  - https://doi.org/10.1016/j.atech.2026.102247
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375526004715
+KW  - Precision agriculture
+KW  - Agricultural data space
+KW  - International data spaces
+KW  - Data sovereignty
+KW  - Data interoperability
+KW  - Usage control
+KW  - Multi-tenant connectors
+KW  - Metadata broker
+KW  - Smart farming
+AB  - Precision agriculture increasingly relies on combining heterogeneous data across farms, platforms, and organisations, yet fragmentation, limited interoperability, and concerns over sovereignty and misuse continue to hinder data sharing. This article presents DigiAgro DS, an IDSA-aligned agricultural data space that extends the AgroNIT platform toward secure, policy-governed, and interoperable exchange of agricultural data and services. The study follows a design-and-implementation approach and describes a reference architecture covering data ingestion and storage, identity and access management, connector-based exchange, usage control, and metadata-driven discovery. The implementation introduces a shared multi-tenant provider-side connector and a consumer-side delegated proxy that executes IDS discovery, contract negotiation, and usage-controlled data retrieval on behalf of individual farmers while preserving per-tenant ownership and contract state. The architecture is applied to representative scenarios involving procurement planning, extreme weather monitoring, and yield-related estimation. The resulting implementation supports sovereign agricultural data sharing through IDS-compliant components while lowering the participation barrier for non-technical stakeholders and maintaining enforceable access and usage policies. Validation is scenario-based, covering three representative agricultural use cases, and does not include performance benchmarking.
+ER  - 
+
+TY  - JOUR
+T1  - Requirements Engineering for Data Spaces in Cross-Organizational Co-Design: A Case Study Approach
+AU  - Hader, Bernd
+AU  - Schellander, Martin
+AU  - Jeon, Somin
+AU  - Leitner, Lukas
+AU  - Saliger, Alexandra
+AU  - Dehnavi, Zahra Safari
+AU  - Grafinger, Manfred
+AU  - Haas, Franz
+AU  - Schlund, Sebastian
+JO  - Procedia Computer Science
+VL  - 277
+SP  - 831
+EP  - 840
+PY  - 2026
+DA  - 2026/01/01/
+T2  - 7th International Conference on Industry of the Future and Smart Manufacturing (former International Conference on Industry 4.0 and Smart Manufacturing)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.02.124
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926002401
+KW  - Co-Design
+KW  - Data Space
+KW  - Data Sharing
+KW  - Data Sovereignty
+AB  - Due to increasing product complexity and numerous suppliers, CAD-based co-design is becoming increasingly important. However, cross-company collaboration via email, cloud services, or centralized platforms raises issues around data sovereignty, transparency, efficiency, and security. Data space technology, seems to be a promising solution for the secure exchange of sensitive data with partners across company boundaries. However, in the field of industrial co-design, specific requirements must be considered for future data space applications. During the collaborative development of a product involving 12 organisations, a focus group was formed to identify current challenges in cross-company collaboration and derive requirements. These were assessed qualitatively and quantitatively using a mixed methods approach. Six key requirements were identified, highlighting the need for structured workflows, fine-grained access control, and flexible integration. These findings provide concrete design guidance for future data space solutions.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing resilience on the shopfloor through data and service ecosystems - an industrial pre-pilot
+AU  - Trautner, Thomas
+AU  - Wallner, Bernhard
+AU  - Reckendorfer, Georg
+AU  - Fink, Lorenz
+AU  - Matyas, Gergely
+AU  - Zink, Fabian
+AU  - Hackhofer, Martin
+AU  - Bleicher, Friedrich
+JO  - Procedia CIRP
+VL  - 136
+SP  - 528
+EP  - 533
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 35th CIRP Design 2025
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2025.08.091
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827125008443
+KW  - Asset Administration Shell
+KW  - Ecosystem
+KW  - Data Space
+KW  - Gaia-X
+KW  - Resilience
+AB  - In volatile markets, resilient supply chains and shopfloors are essential to mitigate the impact of disruptions, such as crises, machine failures or quality issues, which result in significant costs. To address these challenges, information about products, processes and resources is required to design, test, and deploy resilience assessment and reconfiguration tools. Nowadays, this information is intended to be made available through data spaces and ecosystems, which necessitates preserving the data sovereignty of the respective companies involved. The architecture proposed by the Flex4res project accommodates these requirements. The implemented pre-pilot use case allows testing and eases the transition for companies.
+ER  - 
+
+TY  - JOUR
+T1  - Review: Opportunities for data-based on-farm estimation of greenhouse gas emissions from ruminant farming systems
+AU  - Pastell, M.
+AU  - Anestis, V.
+AU  - Romera, A.
+AU  - Mazzetto, A.M.
+AU  - Ricci, P.
+AU  - Eugène, M.
+JO  - animal
+SP  - 101946
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 1751-7311
+DO  - https://doi.org/10.1016/j.animal.2026.101946
+UR  - https://www.sciencedirect.com/science/article/pii/S175173112600193X
+KW  - Data sharing
+KW  - Digital technologies
+KW  - Monitoring tools
+KW  - On-farm emissions
+KW  - Uncertainty estimation
+AB  - Livestock farming has become increasingly digitalised in large parts of the world. Sensor technologies can be used to mitigate emissions from farming in several ways, including improved efficiency of operations. The data that farmers collect to monitor and optimise their production offer a possibility to increase the accuracy of greenhouse gas (GHG) emission estimation if utilised fully. However, technologies developed for farm management may not meet requirements for monitoring of GHG emissions where high accuracy is required. The cost-benefit and reliability of farm-level data collection need to be considered before investing effort in their widespread adoption. The lack of access to data and poor interoperability of the data across different software systems also currently limits the use of data; however, there are several data sharing initiatives, such as data spaces, that aim to develop the farmers’ right to data sovereignty and provide contractual and technical solutions for increasing data availability. This review assesses the state-of-the-art of digital data collection and sharing usable for GHG accounting from a ruminant farming systems perspective, with a focus on commercially available on-farm technology. A review of the accuracy of different methods and two case studies on the impact of the uncertainty of digital data sources on CH4 emission prediction uncertainty quantified using Monte Carlo simulation are presented. In conclusion, the greatest potential for automating the life cycle assessment process and coverage of production for national inventories exists for dairy cattle, sheep and goat farms with daily milk yield recording and high technology feeding systems and the lowest for pasture-based meat production systems. The use of on-farm data for GHG accounting provides an opportunity for more targeted mitigation and even differential product pricing favouring the lowest emitting farms within a region. The reliability as well as contribution to overall emissions of each additional data source collected from farms should be assessed before it is taken into use, and calibration protocols for farmers to ensure accurate data should be developed and their application monitored.
+ER  - 
+
+TY  - JOUR
+T1  - Federated electronic health records for the European Health Data Space
+AU  - Raab, René
+AU  - Küderle, Arne
+AU  - Zakreuskaya, Anastasiya
+AU  - Stern, Ariel D
+AU  - Klucken, Jochen
+AU  - Kaissis, Georgios
+AU  - Rueckert, Daniel
+AU  - Boll, Susanne
+AU  - Eils, Roland
+AU  - Wagener, Harald
+AU  - Eskofier, Bjoern M
+JO  - The Lancet Digital Health
+VL  - 5
+IS  - 11
+SP  - e840
+EP  - e847
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 2589-7500
+DO  - https://doi.org/10.1016/S2589-7500(23)00156-5
+UR  - https://www.sciencedirect.com/science/article/pii/S2589750023001565
+AB  - Summary
+The European Commission's draft for the European Health Data Space (EHDS) aims to empower citizens to access their personal health data and share it with physicians and other health-care providers. It further defines procedures for the secondary use of electronic health data for research and development. Although this planned legislation is undoubtedly a step in the right direction, implementation approaches could potentially result in centralised data silos that pose data privacy and security risks for individuals. To address this concern, we propose federated personal health data spaces, a novel architecture for storing, managing, and sharing personal electronic health records that puts citizens at the centre—both conceptually and technologically. The proposed architecture puts citizens in control by storing personal health data on a combination of personal devices rather than in centralised data silos. We describe how this federated architecture fits within the EHDS and can enable the same features as centralised systems while protecting the privacy of citizens. We further argue that increased privacy and control do not contradict the use of electronic health data for research and development. Instead, data sovereignty and transparency encourage active participation in studies and data sharing. This combination of privacy-by-design and transparent, privacy-preserving data sharing can enable health-care leaders to break the privacy-exploitation barrier, which currently limits the secondary use of health data in many cases.
+ER  - 
+
+TY  - JOUR
+T1  - Pattern-based Requirements Elicitation for Sovereign Data Sharing
+AU  - Pampus, Julia
+AU  - Heisel, Maritta
+JO  - Procedia Computer Science
+VL  - 254
+SP  - 147
+EP  - 156
+PY  - 2025
+DA  - 2025/01/01/
+T2  - International Conference on Digital Sovereignty (ICDS)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.02.073
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925004235
+KW  - Data Sharing
+KW  - Sovereignty
+KW  - Data Usage Conditions
+KW  - Data Spaces
+KW  - Patterns
+KW  - Requirements Engineering
+AB  - The growing data economy increasingly focuses on self-determined and autonomous data sharing, supported by infrastructures that create a trustful and secure environment. A key feature in this context is the offering, negotiation, and enforcement of so-called data usage conditions (DUCs), also known as policies. The design of involved software systems requires a structured and stakeholder-specific elicitation of technical requirements. To address this issue, we define a requirements model, consisting of actor, dataset, and condition entities, for sovereign data sharing and present a method for requirements elicitation in form of a five-step agenda with 13 validation conditions (VCs). The application of this method produces a set of instantiated requirements templates that provide descriptive information about involved actors, identified datasets, and applied DUCs. We demonstrate our method using an established use case from the automotive industry and evaluate it in qualitative expert interviews.
+ER  - 
+
+TY  - JOUR
+T1  - Activating data and services in data spaces: A mobility case study
+AU  - Navarro, Álvaro
+AU  - Lavalle, Ana
+AU  - Panagiotidis-Arrizabalaga, Alejandro
+AU  - Reina-Reina, A.
+AU  - Maté, Alejandro
+JO  - Information Systems
+VL  - 141
+SP  - 102769
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 0306-4379
+DO  - https://doi.org/10.1016/j.is.2026.102769
+UR  - https://www.sciencedirect.com/science/article/pii/S0306437926000839
+KW  - Data spaces
+KW  - Data services
+KW  - Data activation
+KW  - Data visualizations
+KW  - Mobility case study
+AB  - The mobility sector plays a critical role in modern societies, encompassing diverse types of movement for both tourism and work-related purposes. Moreover, this sector is linked with the current ability to widely generate real-time data, providing valuable information that can be leveraged for analytics and informed decision-making. However, extracting actionable insights remains challenging due to the pronounced heterogeneity of data sources and the often unreliable nature of traditional data exchange environments. Data spaces have emerged as a solution to these challenges, providing secure and governed environments for inter-organizational data sharing while ensuring that data owners retain full sovereignty over what they provide. Specifically, data spaces enable secure collaborations between consumers, who need to exploit their data, and providers, who offer value-added services to support decision-making processes. Nonetheless, despite their potential, research on data spaces is still in its early stages, and there is no clear consensus on the core concepts that underpin their practical implementation. Therefore, we first conduct a comprehensive literature review to design an architecture for data spaces and then we present the implementation of this architecture in a mobility data space. Our case study demonstrates the practical applicability of data spaces in the mobility domain, illustrating how they can be used not only to activate datasets but also to enable value-added services built upon those data, such as interactive dashboards. The results show that data spaces offer a viable approach for effectively leveraging mobility data, supporting both operational optimization and strategic decision-making in transportation services.
+ER  - 
+
+TY  - JOUR
+T1  - Supporting Changes in Digital Ownership and Data Sovereignty Across the Automotive Value Chain with Catena-X
+AU  - Manoury, Marvin
+AU  - Riedelsheimer, Theresa
+AU  - Hellmeier, Malte
+AU  - Meyer, Tom
+JO  - Procedia Computer Science
+VL  - 253
+SP  - 374
+EP  - 383
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 6th International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.01.099
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925001073
+KW  - Digital Twins
+KW  - Ownership
+KW  - Circular Economy
+KW  - Data Sovereignty
+KW  - Supply Chain
+KW  - Catena-X
+AB  - Considering the concept of a Circular Economy, which entails several life cycles of, e.g., vehicles, their components, and materials, it is important to investigate how the respective Digital Twins are managed over the lifecycle of their physical assets. This publication presents and compares three approaches for managing Digital Twins in industrial use cases. For the aggregation of these approaches, a user-centered design approach has been used in the research project Catena-X which focuses on the automotive industry. The results are analyzed qualitatively based on aspects such as data ownership and data sovereignty. It was identified, that all three approaches have limitations and benefits which make them useful in different scenarios. An overview of their strengths and weaknesses is presented to select an appropriate approach In similar setups. The results described in this publication can be used to select the best update approach in data spaces where multiple stakeholders are able to update information on a single asset.
+ER  - 
+
+TY  - JOUR
+T1  - Data sovereignty does matter! Effects on trust, perceived risk, and willingness to share (business) data
+AU  - Abbas, Antragama Ewa
+AU  - Zuiderwijk, Anneke
+AU  - de Reuver, Mark
+JO  - Technology in Society
+VL  - 87
+SP  - 103409
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 0160-791X
+DO  - https://doi.org/10.1016/j.techsoc.2026.103409
+UR  - https://www.sciencedirect.com/science/article/pii/S0160791X26001983
+KW  - Data economy
+KW  - Data sharing
+KW  - Data ecosystems
+KW  - Data spaces
+KW  - Data marketplaces
+KW  - Data sovereignty
+AB  - The data economy relies on interorganizational data sharing, which has become a key driver of value creation in many industries. In emerging settings such as data marketplaces and ecosystems, businesses can control their shared data, triggering political and academic debates over data sovereignty. Yet, we lack empirical evidence on the extent to which data sovereignty matters for data providers. This study theorizes the impact of data sovereignty on data-sharing antecedents in the societal context of the data economy. We conducted three preliminary studies and two vignette-based online surveys (n1 = 89, n2 = 102) to construct and validate a nomological network of data sovereignty, which we analyzed using structural equation modeling. We find that providers are more willing to share data when they perceive a high degree of sovereignty, as this reduces their perception of risk. Surprisingly, our analysis shows that trust in data consumers does not mediate the link between data sovereignty and willingness to share data. This study is among the first to theorize the concept of data sovereignty in the data economy, thus providing a foundational building block and a justificatory mechanism to inform future theory development. We discuss the relevance of our findings for practitioners and policymakers, highlighting how current efforts to implement data sovereignty mechanisms can yield a range of potentially advantageous outcomes.
+ER  - 

@@ -1,0 +1,6 @@
+query,exported_records,records_in_window,in_corpus,screened,relevant,relevant_in_corpus,coverage
+SD1,20,19,2,2,2,2,
+SD2,184,170,3,3,3,3,
+SD3,76,70,4,4,4,4,
+SD4,36,35,0,0,0,0,
+all (distinct),279,259,5,5,5,5,
