@@ -92,8 +92,8 @@ chevron(P2X + P2W + 3, 295)
 
 # ---- panel 3: findings -----------------------------------------------------
 P3X, P3W = 722, 594
-panel(P3X, P3W, "Findings")
-g.rect(P3X + 12, 122, 272, 32, fill="none", text="Three tensions", size=24, bold=True,
+panel(P3X, P3W, "Synthesis")
+g.rect(P3X + 12, 122, 272, 32, fill="none", text="Three proposed tensions", size=22, bold=True,
        color=K)
 tens = ["Regulation versus routine", "Interoperability across heterogeneous environments",
         "Privacy-preserving technology versus everyday workflows"]
