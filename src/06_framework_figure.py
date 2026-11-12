@@ -2,7 +2,7 @@
 
 Left: the four layers. Right: the proposed exchange-decision process of
 Section 5.2 (request -> legal and policy determination -> identity, semantic and
-policy checks -> actor decision -> exchange and application outcome), with
+policy checks -> actor decision -> exchange -> reuse in the application layer), with
 rejection branches and the feedback path to governance. Black and white; there
 are no data in this figure, and the process has not been evaluated empirically.
 """
@@ -24,7 +24,7 @@ steps = [
     "<b>2</b>&nbsp; Determine applicable obligations and permitted conditions of use",
     "<b>3</b>&nbsp; Check identity, semantic compatibility, and whether policies can be expressed and enforced",
     "<b>4</b>&nbsp; Organizations decide on expected benefit, effort, and remaining risk",
-    "<b>5</b>&nbsp; Approved exchange supports a new service, analytical model, or joint activity",
+    "<b>5</b>&nbsp; Approved exchange&nbsp; &rarr;&nbsp; <b>6</b>&nbsp; Recipient reuses the data in a new service, analytical model, or joint activity",
 ]
 
 W, H = 960, 585
