@@ -59,7 +59,11 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
 protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
                  eligibility_rules.csv        one row per eligibility rule
                  coverage_check.md            Protocol A3 procedure
-                 comparator_protocol.md       Protocol C procedure; comparator_matrix.csv to fill in
+                 comparator_protocol.md       Protocol C procedure
+                 comparator_matrix.csv        comparison with earlier frameworks (manuscript Table 11):
+                                              8 related works and the DD-DSF x features F1-F7, with
+                                              first and final rating, page, supporting quotation,
+                                              coder and checker
 results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries.csv,
                  authors_top.csv, venues_top.csv, primary_field.csv, document_type.csv,
                  prisma_counts.csv, numbers.json, figure_cutoffs.json
