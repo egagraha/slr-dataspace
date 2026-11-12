@@ -43,6 +43,7 @@ data/raw/        References-Lists.md          list, PRISMA-style counts, search 
                                               reason per DOI, included records) and crossref_responses/
                                               (the 84 stored Crossref responses and DOI lookups)
 data/external/   openalex_189.json            OpenAlex snapshot for the 189 DOIs (retrieval date inside)
+                 metadata_only_abstracts.json  abstracts for the 60 DOIs of the M placements (+ _manual.json)
                  coverage/                    ScienceDirect RIS exports for the coverage check (Protocol A3)
 data/processed/  corpus_189.csv               one row per unique DOI: RQ membership, evidence level
                  corpus_enriched.csv          + year, authors, countries, keywords (OpenAlex)
@@ -63,6 +64,11 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                                               2,047 distinct DOIs, checked against the list (runs before step 7)
                  15_tension_sensitivity.py    agreed tension codes -> support per tension under the
                                               evidence rules S1-S4 (Protocol B, step 5)
+                 16_metadata_only_abstracts.py  M placements -> abstracts from OpenAlex, Crossref,
+                                              Semantic Scholar (+ manual publisher look-ups) (needs network)
+                 17_upgrade_coding_files.py   blank coding files for the M -> A upgrade (two coders)
+                 18_upgrade_agreement.py      agreement and kappa; with --apply, writes the agreed
+                                              upgrades into data/raw/References-Lists.md
                  drawio_lib.py                small draw.io writer and PNG exporter
 protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
                  eligibility_rules.csv        one row per eligibility rule
@@ -83,7 +89,8 @@ results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, a
                  second_screening/ (screening files of both screeners, agreement, resolved disagreements)
 results/evidence/ source_claims.csv (claim ledger); double_coding/ (files for two coders, instructions);
                  final_tension_codes.csv (the 50 agreed codes); sensitivity_tensions.csv (support per
-                 tension under S1-S4)
+                 tension under S1-S4); upgrade/ (M -> A upgrade: abstract retrieval log,
+                 coding files for two coders, instructions, agreement, decisions)
 private/         answer key of the screening sample; git-ignored until both screeners are finished
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
                  Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,
