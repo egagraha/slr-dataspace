@@ -61,11 +61,17 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  12_double_coding_sample.py   calibration and agreement sets for tension coding
                  14_retrieval_recount.py      retrieval ledgers -> identified, screened, included and
                                               2,047 distinct DOIs, checked against the list (runs before step 7)
+                 15_tension_sensitivity.py    agreed tension codes -> support per tension under the
+                                              evidence rules S1-S4 (Protocol B, step 5)
                  drawio_lib.py                small draw.io writer and PNG exporter
 protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
                  eligibility_rules.csv        one row per eligibility rule
                  coverage_check.md            Protocol A3 procedure
                  comparator_protocol.md       Protocol C procedure
+                 construct_dictionary.md      definitions, layer, indicator and direction of each DD-DSF
+                                              construct (Protocol C, step 3)
+                 proposition_test_map.csv     P1-P4: indicator, data source, observation that counts
+                                              against the proposition, suggested design (Protocol C, step 4)
                  comparator_matrix.csv        comparison with earlier frameworks (manuscript Table 11):
                                               8 related works and the DD-DSF x features F1-F7, with
                                               first and final rating, page, supporting quotation,
@@ -75,7 +81,9 @@ results/         year_by_rq.csv, evidence_by_rq.csv, keywords_top.csv, countries
                  prisma_counts.csv, numbers.json, figure_cutoffs.json
 results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, audit_checks.csv;
                  second_screening/ (screening files of both screeners, agreement, resolved disagreements)
-results/evidence/ source_claims.csv (claim ledger); double_coding/ (files for two coders, instructions)
+results/evidence/ source_claims.csv (claim ledger); double_coding/ (files for two coders, instructions);
+                 final_tension_codes.csv (the 50 agreed codes); sensitivity_tensions.csv (support per
+                 tension under S1-S4)
 private/         answer key of the screening sample; git-ignored until both screeners are finished
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
                  Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,

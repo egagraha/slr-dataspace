@@ -11,6 +11,7 @@ uv run python src/05_graphical_abstract.py
 uv run python src/06_framework_figure.py
 uv run python src/14_retrieval_recount.py # original retrieval ledgers -> distinct DOIs (read by step 7)
 uv run python src/07_audit_tables.py      # fails if a reported count does not reconcile
+uv run python src/15_tension_sensitivity.py # agreed tension codes -> sensitivity S1-S4
 # Coverage check only after the ScienceDirect exports are in data/external/coverage/
 if ls data/external/coverage/sciencedirect_*.ris >/dev/null 2>&1; then
   uv run python src/08_coverage_check.py

@@ -1,0 +1,16 @@
+setting,rows_in_setting,tension,rows,supporting_sources,counter_sources,status,sources,counter_keys
+S1 all coded pairs,50,T1,13,12,0,robust,Baur2025; Casolari2023; CerveraDeLaCruz2026; Christakis2023; DelRe2024; Lazarotto2022; Le2023; Oliveira2024; Parziale2025; Su2025; Wong2022; Xia2024,
+S1 all coded pairs,50,T2,5,5,0,robust,Hmimou2025; KhandpurSingh2025; SanchezSerna2026; Santipantakis2026; Soininen2026,
+S1 all coded pairs,50,T3,7,3,2,robust,Bonura2022; Galij2025; Siska2024,Calvo2026; Fotiou2026
+S2 without metadata-only sources,46,T1,13,12,0,robust,Baur2025; Casolari2023; CerveraDeLaCruz2026; Christakis2023; DelRe2024; Lazarotto2022; Le2023; Oliveira2024; Parziale2025; Su2025; Wong2022; Xia2024,
+S2 without metadata-only sources,46,T2,5,5,0,robust,Hmimou2025; KhandpurSingh2025; SanchezSerna2026; Santipantakis2026; Soininen2026,
+S2 without metadata-only sources,46,T3,7,3,2,robust,Bonura2022; Galij2025; Siska2024,Calvo2026; Fotiou2026
+S3 proxy: findings located beyond the abstract,19,T1,11,10,0,robust,Baur2025; Casolari2023; CerveraDeLaCruz2026; Christakis2023; DelRe2024; Le2023; Parziale2025; Su2025; Wong2022; Xia2024,
+S3 proxy: findings located beyond the abstract,19,T2,2,2,0,weakened,KhandpurSingh2025; SanchezSerna2026,
+S3 proxy: findings located beyond the abstract,19,T3,6,2,2,weakened,Galij2025; Siska2024,Calvo2026; Fotiou2026
+S4a without 2026 publications,41,T1,12,11,0,robust,Baur2025; Casolari2023; Christakis2023; DelRe2024; Lazarotto2022; Le2023; Oliveira2024; Parziale2025; Su2025; Wong2022; Xia2024,
+S4a without 2026 publications,41,T2,2,2,0,weakened,Hmimou2025; KhandpurSingh2025,
+S4a without 2026 publications,41,T3,5,3,0,robust,Bonura2022; Galij2025; Siska2024,
+S4b without Computer Science,22,T1,12,11,0,robust,Baur2025; Casolari2023; CerveraDeLaCruz2026; Christakis2023; DelRe2024; Lazarotto2022; Oliveira2024; Parziale2025; Su2025; Wong2022; Xia2024,
+S4b without Computer Science,22,T2,0,0,0,not supported,,
+S4b without Computer Science,22,T3,0,0,0,not supported,,

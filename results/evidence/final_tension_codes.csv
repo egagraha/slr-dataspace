@@ -1,0 +1,51 @@
+claim_id,cite_key,doi,rq,evidence_level,claim_type,tension,counter,year,primary_field,passage_beyond_abstract
+CL-02b18a6f,Zhang2026,10.1109/icbdse70225.2026.11635328,RQ5,M,proposal,T0,,2026,Computer Science,0
+CL-04435970,Santipantakis2026,10.1016/j.dib.2026.112675,RQ3,A,proposal,T2,,2026,Computer Science,0
+CL-09d06b38,Qin2026,10.1109/icbdse70225.2026.11635411,RQ5,M,description,NA,,2026,Computer Science,0
+CL-0f0bdf7c,Baur2025,10.1080/1369118x.2025.2516545,RQ1,A,finding,T1,,2025,Social Sciences,1
+CL-0f698db3,Inigo2022,10.1109/iecon49645.2022.9968592,RQ3,A,proposal,T0,,2022,Engineering,0
+CL-0fa3237f,Lazarotto2022,10.37307/j.2196-9817.2022.05.04,RQ1,A,finding,T1,,2022,Social Sciences,0
+CL-16f4a523,Lazarotto2022,10.37307/j.2196-9817.2022.05.04,RQ1,A,description,T0,,2022,Social Sciences,0
+CL-1d6209f3,Bacco2024,10.1016/j.dib.2024.110969,RQ1,A,description,T0,,2024,Computer Science,0
+CL-1d6209f3,OttoJarke2019,10.1007/s12525-019-00362-x,RQ1,context,description,T0,,2019,not in corpus,0
+CL-1e115f93,Galij2025,10.3390/app15179841,RQ2,A,finding,T3,,2025,Computer Science,1
+CL-1e115f93,Guo2023,10.1109/ccisp59915.2023.10355841,RQ2,context,description,NA,,2023,not in corpus,0
+CL-203c201a,Firdausy2022c,10.1007/978-3-031-17834-4_14,RQ3,A,proposal,T0,,2022,Computer Science,0
+CL-26a679a0,Casolari2023,10.1093/ijlit/eaae005,RQ1,A,finding,T1,,2023,Social Sciences,1
+CL-2d9a08b9,Fotiou2026,10.1007/s41019-025-00320-y,RQ2,S,finding,T3,1,2026,Computer Science,1
+CL-3100207e,Santana2025,10.1109/mitp.2025.3545214,RQ4,A,finding,T0,,2025,Computer Science,0
+CL-39fc08d5,SanchezSerna2026,10.1016/j.dib.2026.112668,RQ2,S,finding,T2,,2026,Computer Science,1
+CL-3e5a2071,Calvo2026,10.1016/j.dib.2026.112882,RQ2,A,finding,T3,1,2026,Computer Science,1
+CL-4a61a6d1,Galij2025,10.3390/app15179841,RQ2,A,finding,T3,,2025,Computer Science,1
+CL-4cc83638,Le2023,10.1017/dap.2023.41,RQ5,A,finding,T1,,2023,Computer Science,1
+CL-618c2179,Bonura2022,10.1007/978-3-030-98636-0_5,RQ5,A,description,T3,,2022,Computer Science,1
+CL-6eb0ff99,Morabito2023,10.1145/3603166.3632239,RQ2,A,proposal,T0,,2023,Computer Science,0
+CL-72ce488b,Baur2025,10.1080/1369118x.2025.2516545,RQ4,A,finding,T1,,2025,Social Sciences,1
+CL-74c2ce6d,OttoJarke2019,10.1007/s12525-019-00362-x,RQ1,context,description,T0,,2019,not in corpus,0
+CL-77a55289,Bonura2022,10.1007/978-3-030-98636-0_5,RQ5,A,description,T0,,2022,Computer Science,0
+CL-77a55289,Zhu2025,10.3390/app15105472,RQ5,A,proposal,T0,,2025,Computer Science,0
+CL-7df821b4,DelRe2024,10.3390/info15080444,RQ4,A,finding,T1,,2024,Social Sciences,1
+CL-7df821b4,KhandpurSingh2025,10.1007/s41019-025-00311-z,RQ4,S,finding,T2,,2025,Computer Science,1
+CL-8153e2d8,Galij2025,10.3390/app15179841,RQ4,A,finding,T3,,2025,Computer Science,1
+CL-82bf1589,Parziale2025,10.1163/15718093-bja10158,RQ1,A,finding,T1,,2025,Social Sciences,1
+CL-85b2aecc,Uslander2022,10.1007/978-3-030-93975-5_19,RQ3,A,proposal,T0,,2022,Engineering,0
+CL-8a19c216,Wong2022,10.1017/dap.2021.40,RQ1,A,finding,T1,,2022,Social Sciences,1
+CL-8d07640e,Oliveira2024,10.5220/0012699600003690,RQ3,A,proposal,T1,,2024,Social Sciences,1
+CL-8e5e6868,Su2025,10.17645/pag.10413,RQ4,A,finding,T1,,2025,Social Sciences,1
+CL-8e5e6868,Xia2024,10.2147/rmhp.s450082,RQ4,context,finding,T1,,2024,not in corpus,1
+CL-9437ed81,Le2023,10.1017/dap.2023.41,RQ2,A,description,T0,,2023,Computer Science,0
+CL-9543047d,CerveraDeLaCruz2026,10.3389/fmed.2025.1699941,RQ4,A,finding,T1,,2026,Medicine,1
+CL-9543047d,Toscano2026,10.3390/info17070695,RQ4,A,review_assessment,T0,,2026,Engineering,0
+CL-96cb706b,Christakis2023,10.1093/oso/9780197582794.003.0015,RQ1,A,finding,T1,,2023,Social Sciences,1
+CL-9a7cc5ef,Giess2025,10.1016/j.compind.2024.104212,RQ3,M,finding,T0,,2025,"Business, Management and Accounting",0
+CL-b4772838,Jung2022,10.1007/978-3-030-93975-5_8,RQ2,S,description,T0,,2022,Computer Science,0
+CL-b80e7795,Giess2024,10.24251/hicss.2024.511,RQ4,A,finding,T0,,2024,Computer Science,0
+CL-c6321144,Hmimou2025,10.1007/s41019-025-00317-7,RQ3,A,proposal,T2,,2025,Computer Science,1
+CL-cee94d86,Le2023,10.1017/dap.2023.41,RQ5,A,finding,T0,,2023,Computer Science,0
+CL-cee94d86,Schardong2022,10.3390/s22155641,RQ5,A,description,T0,,2022,Computer Science,0
+CL-de2e97e7,Siska2024,10.5220/0012734600003711,RQ5,S,finding,T3,,2024,Computer Science,1
+CL-e2ea0b5c,Bonura2022,10.1007/978-3-030-98636-0_5,RQ2,A,description,T0,,2022,Computer Science,0
+CL-e4156ed0,Noardo2024,10.3390/rs16203824,RQ3,A,finding,T0,,2024,Social Sciences,0
+CL-e4156ed0,Soininen2026,10.1016/j.dib.2026.112678,RQ3,S,proposal,T2,,2026,Computer Science,1
+CL-e5be1a25,Giess2025,10.1016/j.compind.2024.104212,RQ3,M,finding,T0,,2025,"Business, Management and Accounting",0
+CL-fca6c870,Prinz2022,10.1007/978-3-030-93975-5_10,RQ5,A,description,T0,,2022,Computer Science,1
