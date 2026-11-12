@@ -71,3 +71,34 @@ Two sentences in manuscript Section 3.7 (scope, number of records, coverage
 estimate) and the files in Supplementary Material S1. Missed relevant records
 are not added to the corpus; adding them would change the 189 and every count
 built on it.
+
+## Results (searches and screening done 2026-11-11)
+
+Screened manually by Ega and Alexis. Source: `results/audit/coverage_summary.csv`.
+
+| Query | Exported | In window | Relevant | Relevant and in corpus | Coverage |
+|---|---|---|---|---|---|
+| SD1 | 20 | 19 | 19 | 2 | 0.105 |
+| SD2 | 184 | 170 | 103 | 3 | 0.029 |
+| SD3 | 76 | 70 | 65 | 4 | 0.062 |
+| SD4 | 36 | 35 | 32 | 0 | 0.000 |
+| All queries (distinct records) | 279 | 259 | 184 | 5 | 0.027 |
+| Data-space queries SD1, SD3, SD4 (distinct records) | 111 | 104 | 96 | 4 | 0.042 |
+
+A record found by more than one query is counted once in each query row and
+once in the two "distinct" rows.
+
+**Data-space queries** are SD1, SD3 and SD4, the queries that require a
+data-space term ("data space", "data spaces", "dataspace", "International Data
+Spaces" or "Gaia-X"). SD2 ("data sovereignty") does not require one and returns
+many sovereignty records from outside data spaces, which is why the overall
+coverage is lower than the data-space coverage.
+
+The data-space breakdown was made after screening; it was not planned before
+the searches were run.
+
+No Data in Brief record was returned, possibly because of the article-type
+filter [UNVERIFIED].
+
+The manuscript reports these results in Section 3.7 (5 of 184, 2.7%; 4 of 96,
+4.2%, for the data-space queries).
