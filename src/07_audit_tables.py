@@ -171,7 +171,7 @@ for rq in RQS:
               int(old[rq][lvl]), ev_pl[rq][lvl], hard=False,
               note="evidence_by_rq.csv uses the highest level of the publication across RQs")
 tot = Counter(p["evidence_placement"] for p in placements)
-check("evidence A/S/M over 250 placements (manuscript: 147/29/74)", "147/29/74",
+check("evidence A/S/M over 250 placements (manuscript: 146/30/74)", "146/30/74",
       f"{tot['A']}/{tot['S']}/{tot['M']}", hard=False)
 checks.append(dict(check="2,047 distinct retrieved DOIs", expected=2047, observed="not reproducible",
                    status="not checkable", severity="soft",

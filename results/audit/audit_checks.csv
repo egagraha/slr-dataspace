@@ -31,12 +31,12 @@ RQ5 excluded or not selected = screened - included,708,708,pass,hard,
 "identified record instances, all RQs",3507,3507,pass,hard,
 "screened records, all RQs",3221,3221,pass,hard,
 register entries cover every placement,250,250,pass,hard,
-evidence marker agrees with register wording,0,1,differs,soft,RQ2.19
+evidence marker agrees with register wording,0,0,pass,soft,
 RQ1 evidence A: per-placement marker vs evidence_by_rq.csv,47,47,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ1 evidence S: per-placement marker vs evidence_by_rq.csv,0,0,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ1 evidence M: per-placement marker vs evidence_by_rq.csv,3,3,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
-RQ2 evidence A: per-placement marker vs evidence_by_rq.csv,17,17,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
-RQ2 evidence S: per-placement marker vs evidence_by_rq.csv,12,12,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
+RQ2 evidence A: per-placement marker vs evidence_by_rq.csv,16,16,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
+RQ2 evidence S: per-placement marker vs evidence_by_rq.csv,13,13,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ2 evidence M: per-placement marker vs evidence_by_rq.csv,21,21,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ3 evidence A: per-placement marker vs evidence_by_rq.csv,34,34,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ3 evidence S: per-placement marker vs evidence_by_rq.csv,6,6,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
@@ -47,5 +47,5 @@ RQ4 evidence M: per-placement marker vs evidence_by_rq.csv,14,14,pass,soft,evide
 RQ5 evidence A: per-placement marker vs evidence_by_rq.csv,17,17,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ5 evidence S: per-placement marker vs evidence_by_rq.csv,7,7,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ5 evidence M: per-placement marker vs evidence_by_rq.csv,26,26,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
-evidence A/S/M over 250 placements (manuscript: 147/29/74),147/29/74,147/29/74,pass,soft,
+evidence A/S/M over 250 placements (manuscript: 146/30/74),146/30/74,146/30/74,pass,soft,
 "2,047 distinct retrieved DOIs",2047,not reproducible,not checkable,soft,the per-query retrieval ledgers are not in the repository; the figure is taken from the list
