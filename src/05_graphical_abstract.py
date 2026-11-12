@@ -31,7 +31,7 @@ g = Diagram(W, H, "Graphical abstract")
 
 # header band
 g.rect(0, 0, W, 56, fill=LIGHT, stroke=K, stroke_w=2, text="Data sovereignty and open innovation in data spaces: "
-       "what 189 publications show", size=28, color=K, bold=True)
+       "what 189 publications suggest", size=28, color=K, bold=True)
 
 
 def panel(x, w, title):
