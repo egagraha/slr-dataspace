@@ -122,5 +122,11 @@ snapshot; the retrieval date is recorded in the snapshot.
 
 ## Licence
 
-To be set by the repository owner before the repository is made public for
-review. Code and data would normally carry separate licences.
+* Code (`src/`, `run_all.sh`): MIT License.
+* Data, protocol files, results and figures created for this review
+  (`data/processed/`, `protocol/`, `results/`, `figures/`, `data/raw/References-Lists.md`):
+  Creative Commons Attribution 4.0 International (CC BY 4.0).
+* Third-party material keeps its original terms: the Crossref responses in
+  `data/raw/retrieval_ledgers/crossref_responses/`, the OpenAlex snapshot in
+  `data/external/` and the ScienceDirect exports in `data/external/coverage/`.
+  Abstracts contained in these files remain under the publishers' copyright.

@@ -64,10 +64,3 @@ Rules:
 4. Agree the final ratings; keep the first and final rating in the file.
 5. Draft the Section 6.2 table: rows = comparators plus DD-DSF, columns = F1 to
    F7, ratings only; the evidence stays in the CSV in Supplementary Material S1.
-
-## 5. Follow-on files (Protocol C steps 3 and 4)
-
-* `protocol/construct_dictionary.md`: one line per construct with a definition
-  and a unit.
-* `protocol/proposition_test_map.csv`: P1 to P4 with indicator, data source and
-  one observation that would count against the proposition.
