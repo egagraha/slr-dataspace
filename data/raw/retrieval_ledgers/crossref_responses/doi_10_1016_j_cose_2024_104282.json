@@ -1,0 +1,566 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T22:25:38Z",
+      "timestamp": 1792103138273,
+      "version": "4.4.0"
+    },
+    "reference-count": 33,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2025-03-01T00:00:00Z",
+          "timestamp": 1740787200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2025-03-01T00:00:00Z",
+          "timestamp": 1740787200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              19
+            ]
+          ],
+          "date-time": "2024-12-19T00:00:00Z",
+          "timestamp": 1734566400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100010661",
+        "name": "Horizon 2020 Framework Programme",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100010661",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007601",
+        "name": "Horizon 2020",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100007601",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100019771",
+        "name": "European Union's Research and Innovation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "101016854"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "101016854"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100019771",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Computers &amp; Security"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cose.2024.104282",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          19
+        ]
+      ],
+      "date-time": "2024-12-19T16:52:58Z",
+      "timestamp": 1734627178000
+    },
+    "page": "104282",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "special_numbering": "C",
+    "title": [
+      "Open Digital Rights Enforcement framework (ODRE): From descriptive to enforceable policies"
+    ],
+    "prefix": "10.1016",
+    "volume": "150",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1823-4484",
+        "authenticated-orcid": false,
+        "given": "Andrea",
+        "family": "Cimmino",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5638-4977",
+        "authenticated-orcid": false,
+        "given": "Juan",
+        "family": "Cano-Benito",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0421-452X",
+        "authenticated-orcid": false,
+        "given": "Raúl",
+        "family": "García-Castro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cose.2024.104282_b1",
+        "series-title": "Usage control specification, enforcement, and robustness: A survey",
+        "author": "Akaichi",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b2",
+        "unstructured": "Akaichi, I., Slabbinck, W., Rojas, J.A., Van Gheluwe, C., Bozzi, G., Colpaert, P., Verborgh, R., Kirrane, S., 2024. Interoperable and Continuous Usage Control Enforcement in Dataspaces. In: The Second International Workshop on Semantics in Dataspaces, Co-Located with the Extended Semantic Web Conference."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.cose.2024.104282_b3",
+        "doi-asserted-by": "crossref",
+        "first-page": "2053",
+        "DOI": "10.1007/s00607-022-01076-3",
+        "article-title": "A systematic mapping study on automated analysis of privacy policies",
+        "volume": "104",
+        "author": "del Álamo",
+        "year": "2022",
+        "journal-title": "Computing"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.cose.2024.104282_b4",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/2487222.2487225",
+        "article-title": "Enforceable security policies revisited",
+        "volume": "16",
+        "author": "Basin",
+        "year": "2013",
+        "journal-title": "ACM Trans. Inf. Syst. Secur."
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b5",
+        "series-title": "Companion Proceedings of the ACM Web Conference 2023",
+        "first-page": "246",
+        "article-title": "Injecting data into ODRL privacy policies dynamically with RDF mappings",
+        "author": "Cano-Benito",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b6",
+        "series-title": "Aspects of the Theory of Syntax",
+        "author": "Chomsky",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b7",
+        "series-title": "2020 IEEE 45th Conference on Local Computer Networks",
+        "first-page": "204",
+        "article-title": "IntentKeeper: Intent-oriented data usage control for federated data analytics",
+        "author": "Cirillo",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b8",
+        "series-title": "Policy patterns for usage control in data spaces",
+        "author": "Dam",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b9",
+        "series-title": "Rules and Reasoning: Third International Joint Conference, RuleML+ RR 2019, Bolzano, Italy, September 16–19, 2019, Proceedings 3",
+        "first-page": "36",
+        "article-title": "ODRL policy modelling and compliance checking",
+        "author": "De Vos",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b10",
+        "series-title": "Usage Control in the International Data Spaces",
+        "author": "Eitel",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Erlingsson, U., Schneider, F.B., 1999. SASI enforcement of security policies: A retrospective. In: Proceedings of the 1999 Workshop on New Security Paradigms. pp. 87–95.",
+        "DOI": "10.1145/335169.335201"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b12",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.techsoc.2023.102304",
+        "article-title": "Mind the gap: The AURORAL ecosystem for the digital transformation of smart communities and rural areas",
+        "volume": "74",
+        "author": "Gómez-Carmona",
+        "year": "2023",
+        "journal-title": "Technol. Soc."
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b13",
+        "unstructured": "Guarnieri, S., Livshits, V.B., 2009. GATEKEEPER: Mostly Static Enforcement of Security and Reliability Policies for JavaScript Code. In: USENIX Security Symposium, Vol. 10. pp. 78–85."
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b14",
+        "unstructured": "Harris, S., Seaborne, A., 2013. SPARQL 1.1 Query Language. In: W3C Recommendation."
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b15",
+        "series-title": "2014 International Conference on Future Internet of Things and Cloud",
+        "first-page": "191",
+        "article-title": "User-driven privacy enforcement for cloud-based services in the internet of things",
+        "author": "Henze",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hosseinzadeh, A., Eitel, A., Jung, C., 2020. A Systematic Approach toward Extracting Technically Enforceable Policies from Data Usage Control Requirements. In: ICISSP. pp. 397–405.",
+        "DOI": "10.5220/0008936003970405"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Johansen, H.D., Birrell, E., Van Renesse, R., Schneider, F.B., Stenhaug, M., Johansen, D., 2015. Enforcing privacy policies with meta-code. In: Proceedings of the 6th Asia-Pacific Workshop on Systems. pp. 1–7.",
+        "DOI": "10.1145/2797022.2797040"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b18",
+        "series-title": "AI Approaches To the Complexity of Legal Systems XI-XII",
+        "first-page": "48",
+        "article-title": "A critical reflection on ODRL",
+        "author": "Kebede",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b19",
+        "series-title": "Proceedings of the 17th ACM Symposium on Access Control Models and Technologies",
+        "first-page": "119",
+        "article-title": "Towards a policy enforcement infrastructure for distributed usage control",
+        "author": "Kelbert",
+        "year": "2012"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.cose.2024.104282_b20",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.3233/SW-180289",
+        "article-title": "Privacy, security and policies: A review of problems and solutions with semantic web technologies",
+        "volume": "9",
+        "author": "Kirrane",
+        "year": "2018",
+        "journal-title": "Semant. Web"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b21",
+        "series-title": "2019 12th CMI Conference on Cybersecurity and Privacy",
+        "first-page": "1",
+        "article-title": "A survey on privacy policy languages: Expressiveness concerning data protection regulations",
+        "author": "Leicht",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b22",
+        "series-title": "2023 IEEE International Conference on Robotics and Automation",
+        "first-page": "9493",
+        "article-title": "Code as policies: Language model programs for embodied control",
+        "author": "Liang",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b23",
+        "series-title": "Proceedings 16th Annual International Conference on Automated Software Engineering",
+        "first-page": "81",
+        "article-title": "Certifying domain-specific policies",
+        "author": "Lowry",
+        "year": "2001"
+      },
+      {
+        "issue": "1–107",
+        "key": "10.1016/j.cose.2024.104282_b24",
+        "first-page": "6",
+        "article-title": "RDF primer",
+        "volume": "10",
+        "author": "Manola",
+        "year": "2004",
+        "journal-title": "W3C Recomm."
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b25",
+        "unstructured": "Monegraph, R.I., Villata, S., 2018. ODRL Information Model 2.2. In: W3C Recommendation."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.cose.2024.104282_b26",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/su12093885",
+        "article-title": "Data usage and access control in industrial data spaces: Implementation using FIWARE",
+        "volume": "12",
+        "author": "Munoz-Arcentales",
+        "year": "2020",
+        "journal-title": "Sustainability"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Parr, T.J., 2004. Enforcing strict model-view separation in template engines. In: Proceedings of the 13th International Conference on World Wide Web. pp. 224–233.",
+        "DOI": "10.1145/988672.988703"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b28",
+        "series-title": "Proceedings of the Fourth International Conference on Consuming Linked Data - Volume 1034",
+        "first-page": "158",
+        "article-title": "Rights declaration in linked data",
+        "author": "Rodríguez-Doncel",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b29",
+        "series-title": "Extensible access control markup language (xacml) version 3.0",
+        "author": "Standard",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b30",
+        "series-title": "Proceedings of the 10th International Conference on Semantic Systems",
+        "first-page": "20",
+        "article-title": "Defining expressive access policies for linked data using the ODRL ontology 2.0",
+        "author": "Steyskal",
+        "year": "2014"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.cose.2024.104282_b31",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.3233/AO-150145",
+        "article-title": "The NeOn methodology framework: A scenario-based methodology for ontology development",
+        "volume": "10",
+        "author": "Suárez-Figueroa",
+        "year": "2015",
+        "journal-title": "Appl. Ontology"
+      },
+      {
+        "key": "10.1016/j.cose.2024.104282_b32",
+        "series-title": "Proceedings of the 27th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+        "first-page": "254",
+        "article-title": "A type system for expressive security policies",
+        "author": "Walker",
+        "year": "2000"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.cose.2024.104282_b33",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1145/2103621.2103669",
+        "article-title": "A language for automatically enforcing privacy policies",
+        "volume": "47",
+        "author": "Yang",
+        "year": "2012",
+        "journal-title": "ACM SIGPLAN Not."
+      }
+    ],
+    "container-title": [
+      "Computers &amp; Security"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0167404824005881?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0167404824005881?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2025-01-19T15:45:24Z",
+      "timestamp": 1737301524000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167404824005881"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "references-count": 33,
+    "alternative-id": [
+      "S0167404824005881"
+    ],
+    "URL": "https://doi.org/10.1016/j.cose.2024.104282",
+    "relation": {},
+    "ISSN": [
+      "0167-4048"
+    ],
+    "issn-type": [
+      {
+        "value": "0167-4048",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Open Digital Rights Enforcement framework (ODRE): From descriptive to enforceable policies",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Computers & Security",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cose.2024.104282",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Authors. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "104282"
+  }
+}

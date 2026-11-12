@@ -1,0 +1,427 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2026-08-28T16:52:37Z",
+      "timestamp": 1787935957283,
+      "version": "build-2784847793"
+    },
+    "reference-count": 33,
+    "publisher": "Association for Computing Machinery (ACM)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "ACM Trans. Web"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    Privacy-preserving data analysis must carefully balance the need for secure, meaningful computation on sensitive personal data with the fundamental rights of individuals to retain control over their information.\n                    <jats:italic toggle=\"yes\">Solid</jats:italic>\n                    (Social Linked Data) presents an open protocol where users store and manage their data in personal, access-controlled pods. However, its potential for integration as a decentralized data store into existing infrastructures for privacy-preserving computations remains underexplored. We address how Solid can be effectively integrated into such platforms to support decentralized data sharing while meeting the technical requirements of privacy-aware research.\n                  </jats:p>\n                  <jats:p>\n                    To address this, we propose the\n                    <jats:italic toggle=\"yes\">Solid Gateway</jats:italic>\n                    , a mediator that facilitates consent-driven access to\n                    <jats:italic toggle=\"yes\">Solid Pods</jats:italic>\n                    within existing analysis environments. The\n                    <jats:italic toggle=\"yes\">Solid Gateway</jats:italic>\n                    introduces request-specific authentication and authorization, manages access permissions, and orchestrates the retrieval of only the data necessary to fulfill individual data requests. Central to this approach is a novel granular data-sharing strategy, which restructures user data into minimal request-specific subsets, thus reducing unnecessary data transfers and limiting the exposure of irrelevant information. This ensures that contributors retain sovereignty over their data, while allowing privacy-preserving analysis to operate on decentralized sources.\n                  </jats:p>\n                  <jats:p>\n                    Our experimental evaluation, conducted on controlled artificial datasets, confirms the feasibility of our integration. The results demonstrate a significant reduction in data exposure while achieving improved data retrieval performance compared to existing approaches. Also, we compare our proposed solution against the WellFort architecture and demonstrate that our approach offers competitive fetch performance and significantly improves processing efficiency. Although the controlled nature of the evaluation limits comparability with existing platforms, it provides a reproducible foundation for future studies and practical deployments. This work contributes a concrete, extensible design for combining\n                    <jats:italic toggle=\"yes\">Solid</jats:italic>\n                    with privacy-preserving computation, identifies key tradeoffs between privacy, performance, and system complexity, and opens pathways for future research into SPARQL integration, validation with established datasets, and the application of FAIR principles within\n                    <jats:italic toggle=\"yes\">Solid</jats:italic>\n                    .\n                  </jats:p>",
+    "DOI": "10.1145/3771554",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T11:13:00Z",
+      "timestamp": 1760008380000
+    },
+    "page": "1-25",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "You Shall Not Pass (Without Consent): Enforcing Data Sovereignty with Solid Pods"
+    ],
+    "prefix": "10.1145",
+    "volume": "20",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7143-0353",
+        "authenticated-orcid": false,
+        "given": "Tobias",
+        "family": "Hajszan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "TU Wien",
+            "place": [
+              "Wien, Austria"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5164-2690",
+        "authenticated-orcid": false,
+        "given": "Moritz",
+        "family": "Staudinger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "TU Wien",
+            "place": [
+              "Wien, Austria"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4929-7875",
+        "authenticated-orcid": false,
+        "given": "Tomasz",
+        "family": "Miksa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "TU Wien",
+            "place": [
+              "Wien, Austria"
+            ]
+          },
+          {
+            "name": "SBA Research gGmbH",
+            "place": [
+              "Wien, Austria"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/dint_a_00032"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "article-title": "Invenio: A modern digital library for grey literature",
+        "volume": "7",
+        "author": "Caffaro Jerome",
+        "year": "2010",
+        "unstructured": "Jerome Caffaro and Samuele Kaplun. 2010. Invenio: A modern digital library for grey literature. GL-Conference Series: Conference Proceedings 7 (012010).",
+        "journal-title": "GL-Conference Series: Conference Proceedings"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TVT.2017.2740724"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5334/dsj-2020-043"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/comst.2023.3308717"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40860-018-0054-5"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ijpo.13079"
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "unstructured": "Fajar J. Ekaputra Andreas Ekelhart Rudolf Mayer Tomasz Miksa Tanja Sarcevic Sotirios Tsepelakis and Laura Waltersdorfer. 2021. Semantic-enabled architecture for auditable privacy-preserving data analysis. (2021). Retrieved from https://www.semanticscholar.org/paper/43ded328ca33b731974a88bbf035625340a73803"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyac201"
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2861/293"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s23031477"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/info14120631"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3538969.3544464"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JCDL57899.2023.00075"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93975-5_6"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1361-3723(21)00008-7"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93975-5_30"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TWC.2019.2947046"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2872518.2890529"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93975-5_2"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Eliza Papadopoulou Alex Stobart Nick K. Taylor and M. Howard Williams. 2015. Enabling data subjects to remain data owners. DOI:10.1007/978-3-319-19728-9_20",
+        "DOI": "10.1007/978-3-319-19728-9_20"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "unstructured": "Jason Paulos. 2020. Investigating decentralized management of health and fitness data. (2020). Retrieved from https://hdl.handle.net/1721.1/127459"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-981-99-7254-8_28"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Andreas Rauber Ari Asmi Dieter Van Uytvanck and Stefan Proell. 2016. Data citation of evolving data: Recommendations of the RDA working group on data citation (WGDC). (2016). DOI:10.15497/RDA00016Publisher: Research Data Alliance Version Number: 1.",
+        "DOI": "10.15497/RDA00016"
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "unstructured": "Andrei Vlad Sambra Essam Mansour Sandro Hawke Maged Zereba Nicola Greco Abdurrahman Ghanem Dmitri Zagidulin Ashraf Aboulnaga and Tim Berners-Lee. 2016. Solid: A platform for decentralized social applications based on linked data. (2016)."
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bpa.13228"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/sw-223220"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93975-5_23"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3168389"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "unstructured": "Yuye Yang You Shi Changyan Yi Jun Cai Jiawen Kang Dusit Niyato and Xuemin Shen. 2024. Dynamic human digital twin deployment at the edge for task execution: A two-timescale accuracy-aware online optimization. arxiv:2401.16710 [cs.NI]. Retrieved from https://arxiv.org/abs/2401.16710"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TMC.2019.2891736"
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "unstructured": "Rui Zhao Naman Goel Nitin Agrawal Jun Zhao Jake Stein Ruben Verborgh Reuben Binns Tim Berners-Lee and Nigel Shadbolt. 2023. Libertas: Privacy-preserving computation for decentralised personal data stores. arXiv:2309.16365 [cs]. Retrieved from http://arxiv.org/abs/2309.16365."
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12931-023-02607-y"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on the Web"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3771554",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T22:19:03Z",
+      "timestamp": 1772749143000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3771554"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            28
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1145/3771554"
+    ],
+    "URL": "https://doi.org/10.1145/3771554",
+    "relation": {},
+    "ISSN": [
+      "1559-1131",
+      "1559-114X"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-1131",
+        "type": "print"
+      },
+      {
+        "value": "1559-114X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-03-31",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-09-10",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-02-18",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

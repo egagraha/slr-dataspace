@@ -1,0 +1,464 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2026-07-29T01:11:32Z",
+      "timestamp": 1785287492842,
+      "version": "3.55.0"
+    },
+    "reference-count": 20,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2025-01-01T00:00:00Z",
+          "timestamp": 1735689600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2025-01-01T00:00:00Z",
+          "timestamp": 1735689600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              29
+            ]
+          ],
+          "date-time": "2025-07-29T00:00:00Z",
+          "timestamp": 1753747200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 209,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100011033",
+        "name": "Agencia Estatal de Investigación",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "PID2022-136684OB-C22"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PID2022-136684OB-C22"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100011033",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100013410",
+        "name": "Instituto Nacional de Ciberseguridad",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ETD202300196"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ETD202300196"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100013410",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Procedia Computer Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.procs.2025.07.176",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2025-08-20T01:09:26Z",
+      "timestamp": 1755652166000
+    },
+    "page": "226-235",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "C",
+    "title": [
+      "Next Generation Authentication for Data Spaces: An Authentication Flow Based On Grant Negotiation And Authorization Protocol For Verifiable Presentations (GNAP4VP)"
+    ],
+    "prefix": "10.1016",
+    "volume": "265",
+    "author": [
+      {
+        "given": "Rodrigo",
+        "family": "Menéndez",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andres",
+        "family": "Munoz-Arcentales",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joaquín",
+        "family": "Salvachúa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carlos",
+        "family": "Aparicio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Irene",
+        "family": "Plaza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel",
+        "family": "Huecas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib1",
+        "series-title": "Challenges to enforce data quality in data spaces",
+        "author": "Ayala",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "105830",
+        "DOI": "10.1016/j.clsr.2023.105830",
+        "article-title": "Regulating data intermediaries: The impact of the data governance act on the eu’s data economy",
+        "volume": "50",
+        "author": "Carovano",
+        "year": "2023",
+        "journal-title": "Computer Law & Security Review"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib3",
+        "unstructured": "Foundation, D.I., 2023. Linked Verifiable Presentation. https://identity.foundation/linked-vp/. [Accessed 10-04-2025]."
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1007/s44206-023-00049-z",
+        "article-title": "Digital identity infrastructures: A critical approach of self-sovereign identity",
+        "volume": "2",
+        "author": "Giannopoulou",
+        "year": "2023",
+        "journal-title": "Digital Society"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hardt, D., 2012. Rfc 6749: The oauth 2.0 authorization framework.",
+        "DOI": "10.17487/rfc6749"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib6",
+        "series-title": "OpenID for Verifiable Credentials: formal security analysis using the Web Infrastructure Model. Master’s thesis",
+        "author": "Hauck",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Helmschmidt, F., Hosseyni, P., Küsters, R., Pruiksma, K., Waldmann, C., Würtele, T., 2023. The grant negotiation and authorization protocol: attacking, fixing, and verifying an emerging standard, in: European Symposium on Research in Computer Security, Springer. pp. 222–242.",
+        "DOI": "10.1007/978-3-031-51479-1_12"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoops, F., Matthes, F., 2024. A universal system for openid connect sign-ins with verifiable credentials and cross-device flow, in: 2024 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), IEEE. pp. 296–298.",
+        "DOI": "10.1109/ICBC59979.2024.10634364"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib9",
+        "unstructured": "Imbault, F.,. RFC 9635: Grant Negotiation and Authorization Protocol (GNAP) — rfc-editor.org. https://www.rfc-editor.org/rfc/rfc9635.html. [Accessed 29-05-2025]."
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib10",
+        "unstructured": "Kuperberg, M., Klemens, R., 2022. Integration of self-sovereign identity into conventional software using established iam protocols: A survey, in: Open Identity Summit 2022. Gesellschaft für Informatik e.V., Bonn, pp. 51–62. doi: 10.18420/OID2022_04."
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib11",
+        "first-page": "521",
+        "article-title": "Data space functionality, in: Designing Data Spaces: The Ecosystem Approach to Competitive Advantage",
+        "author": "Lycklama",
+        "year": "2022",
+        "journal-title": "Springer International Publishing Cham"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib12",
+        "unstructured": "Preukschat, A., Reed, D., 2021. Self-sovereign identity. Manning Publications. [13] Richer, F., Parecki, A., 2020. Grant negotiation and authorization protocol (gnap)."
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaae019",
+        "DOI": "10.1093/ijlit/eaae019",
+        "article-title": "Digital identity: an approach to its nature, concept, and functionalities",
+        "volume": "32",
+        "author": "Robles-Carrillo",
+        "year": "2024",
+        "journal-title": "International Journal of Law and Information Technology"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rodríguez-Doncel, V., 2025. Web technologies for decentralised identity. Governance and Control of Data and Digital Economy in the European Single Market, 111.",
+        "DOI": "10.1007/978-3-031-74889-9_5"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Scerri, S., Tuikka, T., de Vallejo, I.L., Curry, E., 2022. Common european data spaces: Challenges and opportunities. Data Spaces: Design, Deployment and Future Directions, 337–357.",
+        "DOI": "10.1007/978-3-030-98636-0_16"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib16",
+        "unstructured": "Shehu, A.S., 2024. On the compliance of self-sovereign identity with gdpr principles: A critical review. arXiv preprint arXiv:2409.03624."
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib17",
+        "series-title": "Building a dataspace: Technical overview",
+        "author": "Siska",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1016/j.dsm.2021.06.001",
+        "article-title": "Data security governance in the era of big data: status, challenges, and prospects",
+        "volume": "2",
+        "author": "Sun",
+        "year": "2021",
+        "journal-title": "Data Science and Management"
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib19",
+        "unstructured": "Terbu, O., Lodderstedt, T., Yasuda, K., Looker, T., 2023. Openid for verifiable presentations-draft 18. Internet draft."
+      },
+      {
+        "key": "10.1016/j.procs.2025.07.176_bib20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yildiz, H., Küpper, A., Thatmann, D., Göndör, S., Herbke, P., 2022. A tutorial on the interoperability of self-sovereign identities. arXiv preprint arXiv:2208.04692.",
+        "DOI": "10.36227/techrxiv.20430825"
+      }
+    ],
+    "container-title": [
+      "Procedia Computer Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1877050925022264?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1877050925022264?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T04:16:04Z",
+      "timestamp": 1763525764000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1877050925022264"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "references-count": 20,
+    "alternative-id": [
+      "S1877050925022264"
+    ],
+    "URL": "https://doi.org/10.1016/j.procs.2025.07.176",
+    "relation": {},
+    "ISSN": [
+      "1877-0509"
+    ],
+    "issn-type": [
+      {
+        "value": "1877-0509",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Next Generation Authentication for Data Spaces: An Authentication Flow Based On Grant Negotiation And Authorization Protocol For Verifiable Presentations (GNAP4VP)",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Procedia Computer Science",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.procs.2025.07.176",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Author(s). Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

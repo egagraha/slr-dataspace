@@ -1,0 +1,27 @@
+{
+  "doi": "10.3390/rs16203824",
+  "title": "Standards for Data Space Building Blocks",
+  "authors": [
+    "Francesca Noardo",
+    "Rob Atkinson",
+    "Lucy Bastin",
+    "Joan Maso",
+    "Ingo Simonis",
+    "Alejandro Villar",
+    "Marie-Françoise Voidrot",
+    "Piotr Zaborowski"
+  ],
+  "year": 2024,
+  "date": "2024-10-14",
+  "dates": [
+    "2024-10-14",
+    "2024-10-14",
+    "2024-10-14"
+  ],
+  "type": "journal-article",
+  "venue": "Remote Sensing",
+  "abstract": "Data spaces are conceptualised as a trusted and secure distributed data ecosystem through which to exchange resources in the Web. Several efforts define guidance toward data space implementation, such as reference architectures and frameworks. As yet, the proposed data space solutions do not provide common and mature implementation options yet, and this gap between concept and implementation risks confusing users and developers. However, well-recognised organisations have been developing solutions and standards that address interoperability and good data exchange practices for decades, especially in the domain of geospatial information and remote sensing. Therefore, this paper compares the available solutions, providing the mapping and integration of the proposed blueprints to available interoperable standards. This concrete mapping, followed by a discussion with experts, results in a proposal of integrated reference data space building blocks, and an overview of the related standards and solutions. It is designed to support the effective practical implementation of data spaces and to guide future solution developments. This work can form the base for effective collaboration among different organisations, clearly identifying their scopes. A key role is apparent for standards and use cases from the remote sensing and geospatial domains, which have achieved wide adoption and maturity over the past years.",
+  "evidence_url": "https://doi.org/10.3390/rs16203824",
+  "evidence_basis": "Registry abstract",
+  "in_window": true
+}

@@ -38,6 +38,10 @@ service they call is OpenAlex, by DOI lookup (`02_fetch_openalex.py`).
 
 ```
 data/raw/        References-Lists.md          list, PRISMA-style counts, search log (input)
+                 retrieval_ledgers/           original ledgers of the November 2026 selection, unchanged:
+                                              rq1-rq5.json (queries, screening ledger with decision and
+                                              reason per DOI, included records) and crossref_responses/
+                                              (the 84 stored Crossref responses and DOI lookups)
 data/external/   openalex_189.json            OpenAlex snapshot for the 189 DOIs (retrieval date inside)
                  coverage/                    ScienceDirect RIS exports for the coverage check (Protocol A3)
 data/processed/  corpus_189.csv               one row per unique DOI: RQ membership, evidence level
@@ -55,6 +59,8 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  10_screening_agreement.py    agreement between the two screeners
                  11_claim_ledger.py           manuscript Results -> one row per claim and cited source (Protocol B)
                  12_double_coding_sample.py   calibration and agreement sets for tension coding
+                 14_retrieval_recount.py      retrieval ledgers -> identified, screened, included and
+                                              2,047 distinct DOIs, checked against the list (runs before step 7)
                  drawio_lib.py                small draw.io writer and PNG exporter
 protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
                  eligibility_rules.csv        one row per eligibility rule

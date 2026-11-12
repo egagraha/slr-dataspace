@@ -1,0 +1,1012 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2026-11-05T18:27:45Z",
+      "timestamp": 1793903265487,
+      "version": "4.8.0"
+    },
+    "reference-count": 88,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2024-12-01T00:00:00Z",
+          "timestamp": 1733011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2024-12-01T00:00:00Z",
+          "timestamp": 1733011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              20
+            ]
+          ],
+          "date-time": "2024-09-20T00:00:00Z",
+          "timestamp": 1726790400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Data in Brief"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.dib.2024.110969",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2024-10-01T20:15:24Z",
+      "timestamp": 1727813724000
+    },
+    "page": "110969",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 58,
+    "special_numbering": "C",
+    "title": [
+      "What are data spaces? Systematic survey and future outlook"
+    ],
+    "prefix": "10.1016",
+    "volume": "57",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6733-1873",
+        "authenticated-orcid": false,
+        "given": "Manlio",
+        "family": "Bacco",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander",
+        "family": "Kocian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefano",
+        "family": "Chessa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonino",
+        "family": "Crivello",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paolo",
+        "family": "Barsocchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "4",
+        "key": "10.1016/j.dib.2024.110969_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1145/1107499.1107502",
+        "article-title": "From databases to dataspaces: a new abstraction for information management",
+        "volume": "34",
+        "author": "Franklin",
+        "year": "2005",
+        "journal-title": "ACM Sigmod Record"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0002",
+        "series-title": "Conceptual Modelling in Information Systems Engineering",
+        "first-page": "39",
+        "article-title": "Data integration—problems, approaches, and perspectives",
+        "author": "Ziegler",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0003",
+        "series-title": "Realtime Linked Dataspaces: Enabling Data Ecosystems for Intelligent Systems",
+        "first-page": "45",
+        "article-title": "Dataspaces: fundamentals, principles, and techniques",
+        "author": "Curry",
+        "year": "2020"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.dib.2024.110969_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1145/1978915.1978919",
+        "article-title": "Scalable SQL and NoSQL data stores",
+        "volume": "39",
+        "author": "Cattell",
+        "year": "2011",
+        "journal-title": "ACM Sigmod Record"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.csi.2016.10.003",
+        "article-title": "Data Modeling in the NoSQL World",
+        "volume": "67",
+        "author": "Atzeni",
+        "year": "2020",
+        "journal-title": "Comput. Stand. Interfaces."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0006",
+        "series-title": "Proceedings of the Twenty-Fifth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of database systems",
+        "first-page": "1",
+        "article-title": "Principles of dataspace systems",
+        "author": "Halevy",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0007",
+        "series-title": "Advances in Network Security and Applications: 4th International Conference, CNSA 2011, Chennai, India, July 15-17, 2011 4",
+        "first-page": "608",
+        "article-title": "A survey on dataspace",
+        "author": "Singh",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0008",
+        "series-title": "Seventh International Conference on Data Mining and Warehousing (ICDMW)",
+        "article-title": "A framework for data modeling and querying dataspace systems",
+        "author": "Singh",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0009",
+        "series-title": "Conceptual Modeling: Foundations and Applications: Essays in Honor of John Mylopoulos",
+        "first-page": "122",
+        "article-title": "Data modeling in dataspace support platforms",
+        "author": "Sarma",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0010",
+        "series-title": "Chapter 7: Dataspaces, Search Computing: Challenges and Directions",
+        "first-page": "114",
+        "author": "Hedeler",
+        "year": "2010"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.dib.2024.110969_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1145/3003665.3003672",
+        "article-title": "A Survey on Accessing Dataspaces",
+        "volume": "45",
+        "author": "Wang",
+        "year": "2016",
+        "journal-title": "ACM SIGMOD Record"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0012",
+        "series-title": "New Horizons for a Data-driven Economy: a Roadmap for Usage and Exploitation of Big Data in Europe",
+        "author": "Freitas",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0013",
+        "series-title": "Dataspace: The Final Frontier",
+        "author": "Sexton",
+        "year": "2009"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.dib.2024.110969_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "1516",
+        "DOI": "10.14778/1454159.1454217",
+        "article-title": "A first tutorial on dataspaces",
+        "volume": "1",
+        "author": "Franklin",
+        "year": "2008",
+        "journal-title": "Proc. VLDB Endowment"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0015",
+        "series-title": "Comprehensive Geographic Information Systems",
+        "first-page": "110",
+        "article-title": "1.09 metadata and spatial data infrastructure",
+        "author": "Simmons",
+        "year": "2018"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.dib.2024.110969_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "176",
+        "DOI": "10.3390/ijgi9030176",
+        "article-title": "From spatial data infrastructures to data spaces—a technological perspective on the evolution of european sdis",
+        "volume": "9",
+        "author": "Kotsev",
+        "year": "2020",
+        "journal-title": "ISPRS. Int. J. Geoinf."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0017",
+        "series-title": "Geospatial Web Services: Advances in Information Interoperability",
+        "article-title": "Spatial data infrastructures and linked data",
+        "author": "Granell",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0018",
+        "series-title": "National Spatial Data Clearinghouses: Worldwide DevelOpment and Impact",
+        "author": "Crompvoets",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.5194/isprs-archives-XLVIII-4-W12-2024-43-2024",
+        "article-title": "Self-assessment framework for earth observation platforms from user experience",
+        "volume": "48",
+        "author": "Di Leo",
+        "year": "2024",
+        "journal-title": "Int. Arch. Photogrammetry, Remote Sens. Spatial Inf. Sci."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0020",
+        "series-title": "Data Spaces: Design, Deployment and Future Directions",
+        "author": "Curry",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0021",
+        "series-title": "Designing Data Spaces: The Ecosystem Approach to Competitive Advantage",
+        "author": "Otto",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0022",
+        "series-title": "Solid: a Platform for Decentralized Social Applications based on Linked Data",
+        "author": "Sambra",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0023",
+        "article-title": "Verifiable credentials data model v1.1",
+        "year": "2022",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.dib.2024.110969_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "2226",
+        "DOI": "10.3390/s18072226",
+        "article-title": "Industrial data space architecture implementation using FIWARE",
+        "volume": "18",
+        "author": "Alonso",
+        "year": "2018",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1007/978-3-030-93975-5_24",
+        "article-title": "FIWARE for data spaces",
+        "author": "Ahle",
+        "year": "2022",
+        "journal-title": "Designing Data Spaces"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0026",
+        "article-title": "Simpl: cloud-to-edge federations empowering eu data spaces",
+        "year": "2024",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.dib.2024.110969_bib0027",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/s13643-021-01626-4",
+        "article-title": "The PRISMA 2020 statement: an Updated Guideline for Reporting Systematic Reviews",
+        "volume": "10",
+        "author": "Page",
+        "year": "2021",
+        "journal-title": "Syst. Rev."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0028",
+        "article-title": "Data sharing in industry 4.0-AutomationML, B2MML and international data spaces-based solutions",
+        "volume": "33",
+        "author": "Czvetk´o",
+        "year": "2023",
+        "journal-title": "J. Ind. Inf. Integrat."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.dib.2024.110969_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "1253",
+        "DOI": "10.3390/rs12081253",
+        "article-title": "An overview of platforms for big earth observation data management and analysis",
+        "volume": "12",
+        "author": "Gomes",
+        "year": "2020",
+        "journal-title": "Remote Sens. (Basel)"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0030",
+        "series-title": "Industrial Data Spaces, in: Designing Data Spaces",
+        "author": "Usl¨ander",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0031",
+        "series-title": "Proceedings of the 33rd Annual ACM Symposium on Applied Computing",
+        "article-title": "Extending model-based privacy analysis for the industrial data space by exploiting privacy level agreements",
+        "author": "Ahmadian",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0032",
+        "series-title": "Proceedings of the 4th ACM Workshop on Cyber-Physical System Security",
+        "article-title": "An ecosystem and IoT device architecture for building trust in the industrial data space",
+        "author": "Brost",
+        "year": "2018"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.dib.2024.110969_bib0033",
+        "first-page": "16",
+        "article-title": "Data governance and sovereignty in urban data spaces based on standardized ICT reference architectures",
+        "volume": "4",
+        "author": "Cuno",
+        "year": "2019",
+        "journal-title": "Data (Basel)"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.future.2018.07.019",
+        "article-title": "A real-time linked dataspace for the internet of things: enabling payas-you-go data management in smart environments",
+        "volume": "90",
+        "author": "Curry",
+        "year": "2019",
+        "journal-title": "Future Generat. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.31209/2019.100000116",
+        "article-title": "Building an open cloud virtual dataspace model for materials scientific data",
+        "author": "Li",
+        "year": "2019",
+        "journal-title": "Intell. Automat. Soft Comput."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0036",
+        "series-title": "Innovative Computing Trends and Applications",
+        "first-page": "13",
+        "article-title": "Dataspace management for large data sets",
+        "author": "Niinimaki",
+        "year": "2019"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.dib.2024.110969_bib0037",
+        "doi-asserted-by": "crossref",
+        "first-page": "561",
+        "DOI": "10.1007/s12525-019-00362-x",
+        "article-title": "Designing a multi-sided data platform: findings from the international data spaces case",
+        "volume": "29",
+        "author": "Otto",
+        "year": "2019",
+        "journal-title": "Electron. Mark."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0038",
+        "series-title": "2019 IEEE 5th World Forum on Internet of Things (WF-IoT)",
+        "article-title": "Enabling industrial data space architecture for seaport scenario",
+        "author": "Sarabia-Jacome",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0039",
+        "series-title": "2019 IEEE 17th International Conference on Industrial Informatics (INDIN)",
+        "article-title": "An industrial marketplace the smart factory web approach and integration of the international data space",
+        "author": "Volz",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0040",
+        "series-title": "2019 IEEE International Conference on Internet of Things and Intelligence System (IoTaIS)",
+        "article-title": "A method and application for constructing a authentic data space",
+        "author": "Wei",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0041",
+        "series-title": "A Policy-Agnostic Programming Language for the International Data Spaces, in: Communications in Computer and Information Science",
+        "first-page": "172",
+        "author": "Bruckner",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0042",
+        "doi-asserted-by": "crossref",
+        "first-page": "4372",
+        "DOI": "10.1109/ACCESS.2019.2963283",
+        "article-title": "Seaport data space for improving logistic maritime operations",
+        "volume": "8",
+        "author": "Sarabia-Jacome",
+        "year": "2020",
+        "journal-title": "IEEe Access."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0043",
+        "series-title": "2020 16th IEEE International Conference on Factory Communication Systems (WFCS)",
+        "article-title": "Work-in-progress: towards an international data spaces connector for the internet of things",
+        "author": "Nast",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0044",
+        "article-title": "Architektur einer adaptiven plattform fu¨r unternehmensu¨bergreifende datenbasierte dienste mit dem international data spaces; [Architecture of an adaptive platform for cross-enterprise data-based services with the international data spaces]",
+        "volume": "2020",
+        "author": "Olms",
+        "year": "2020",
+        "journal-title": "Logistics J."
+      },
+      {
+        "issue": "12)",
+        "key": "10.1016/j.dib.2024.110969_bib0045",
+        "first-page": "3868",
+        "article-title": "Industrial Dataspace for smart manufacturing: connotation, key technologies, and framework",
+        "volume": "61",
+        "author": "Guo",
+        "year": "2021",
+        "journal-title": "Int. J. Prod. Res."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0046",
+        "series-title": "2021 IEEE 45th Annual Computers, Software, and Applications Conference (COMPSAC)",
+        "article-title": "TIKD: a trusted integrated knowledge dataspace for sensitive healthcare data sharing",
+        "author": "Hernandez",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0047",
+        "series-title": "Companion Proceedings of the Web Conference 2021",
+        "article-title": "Managing knowledge in energy data spaces",
+        "author": "Janev",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0048",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/j.mfglet.2020.11.002",
+        "article-title": "Investigation on quantitative analysis of carbon footprint in discrete manufacturing by using the innovative energy dataspace approach",
+        "volume": "27",
+        "author": "Li",
+        "year": "2021",
+        "journal-title": "Manuf. Lett."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0049",
+        "series-title": "2021 IEEE Cloud Summit (Cloud Summit)",
+        "article-title": "Sovereign data exchange in cloud-connected iot using international data spaces",
+        "author": "Qarawlus",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0050",
+        "series-title": "Advances in Intelligent Systems and Computing",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1007/978-3-030-74009-2_40",
+        "article-title": "Interaction design patterns for international data space-based ecosystems",
+        "author": "Werkmeister",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0051",
+        "series-title": "Design, User Experience, and Usability: UX Research and Design",
+        "first-page": "144",
+        "article-title": "Development of user-centred interaction design patterns for the international data space",
+        "author": "Werkmeister",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0052",
+        "series-title": "2021 8th International Conference on Future Internet of Things and Cloud (FiCloud)",
+        "article-title": "Time-aware data spaces a key computing unit in the edge-to-cloud continuum",
+        "author": "Zeiner",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0053",
+        "series-title": "LAND.TECHNIK 2022",
+        "first-page": "511",
+        "article-title": "Data spaces in agriculture status quo and perspectives",
+        "author": "Doerr",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0054",
+        "series-title": "Ch. Designing Data Spaces",
+        "article-title": "Agricultural Data Space",
+        "author": "Kalmar",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0055",
+        "series-title": "A Data Connector Store for International Data Spaces, in: Cooperative Information Systems",
+        "first-page": "242",
+        "author": "Firdausy",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0056",
+        "series-title": "2022 IEEE 24th Conference on Business Informatics (CBI)",
+        "article-title": "Towards a reference enterprise architecture to enforce digital sovereignty in international data spaces",
+        "author": "Firdausy",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0057",
+        "series-title": "IECON 2022 –48th Annual Conference of the IEEE Industrial Electronics Society",
+        "article-title": "Towards standardized manufacturing as a service through asset administration shell and international data spaces connectors",
+        "author": "Inigo",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0058",
+        "series-title": "Lecture Notes in Computer Science",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1007/978-3-031-19762-8_27",
+        "article-title": "Evolving data space technologies: lessons learned from an ids connector reference implementation",
+        "author": "Pampus",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0059",
+        "series-title": "Studies in Health Technology and Informatics",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3233/SHTI220922",
+        "article-title": "Digitalization of health data: interoperability of the proposed european health data space",
+        "author": "Stellmach",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0060",
+        "series-title": "Proceedings of the Workshop of I-ESA’22, March 23–24, 2022, Valencia, Spain",
+        "article-title": "Harmonization profiles for trusted data sharing between data spaces: striking the balance between functionality and complexity",
+        "volume": "3214",
+        "author": "Stoter",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0061",
+        "series-title": "2022 IEEE International Smart Cities Conference (ISC2)",
+        "article-title": "Towards first urban data space in Bulgaria",
+        "author": "Vassilev",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0062",
+        "series-title": "2022 International Conference on Data Analytics, Computing and Artificial Intelligence (ICDACAI)",
+        "article-title": "Intelligent manufacturing core enterprise-dominated collaborative dataspace framework for new energy vehicle",
+        "author": "Zhang",
+        "year": "2022"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.dib.2024.110969_bib0063",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.3390/info14030197",
+        "article-title": "A reference architecture for enabling interoperability and data sovereignty in the agricultural data space",
+        "volume": "14",
+        "author": "Falc˜ao",
+        "year": "2023",
+        "journal-title": "Information"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.dib.2024.110969_bib0064",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1016/j.dcan.2023.01.022",
+        "article-title": "Smart and collaborative industrial iot: a federated learning and data space approach",
+        "volume": "9",
+        "author": "Farahani",
+        "year": "2023",
+        "journal-title": "Digit. Commun. Netw."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0065",
+        "series-title": "Companion Proceedings of the ACM Web Conference 2023",
+        "article-title": "The web and linked data as a solid foundation for dataspaces",
+        "author": "Meckler",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0066",
+        "series-title": "Proceedings of the 56th Hawaii International Conference on System Sciences, Vol. 2023-January",
+        "first-page": "3643",
+        "article-title": "Architecture design options for federated data spaces",
+        "author": "Schleimer",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0067",
+        "series-title": "Impact of Digital Twins in Smart Cities Development",
+        "first-page": "80",
+        "article-title": "Leveraging data spaces in digital twins for smart cities deployment",
+        "author": "Turcan",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0068",
+        "article-title": "Understanding mydata operators",
+        "author": "Langford",
+        "year": "2020",
+        "journal-title": "Tech. rep."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.dib.2024.110969_bib0069",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1109/MNET.2021.9387709",
+        "article-title": "The road to european digital sovereignty with Gaia-X and IDSA",
+        "volume": "35",
+        "author": "Braud",
+        "year": "2021",
+        "journal-title": "IEEE network"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0070",
+        "article-title": "State of finnish data spaces",
+        "author": "Poikola",
+        "year": "2024",
+        "journal-title": "Tech. rep., SITRA"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0071",
+        "article-title": "International data spaces (IDS) reference architecture model (RAM) 4.2.0",
+        "author": "Boris",
+        "year": "2023",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0072",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/j.procs.2021.12.013",
+        "article-title": "Data mesh: concepts and principles of a paradigm shift in data architectures",
+        "volume": "196",
+        "author": "Machado",
+        "year": "2022",
+        "journal-title": "Procedia Comput. Sci."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0073",
+        "article-title": "Data catalog vocabulary",
+        "year": "2024",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0074",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1007/s00287-021-01386-4",
+        "article-title": "Ans¨atze und werkzeuge zur nutzung von daten zum wohl von individuum und gemeinschaft",
+        "volume": "44",
+        "author": "Otto",
+        "year": "2021",
+        "journal-title": "Informatik Spektrum"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0075",
+        "series-title": "Proceedings of the 57th Hawaii International Conference on System Sciences",
+        "doi-asserted-by": "crossref",
+        "first-page": "4238",
+        "DOI": "10.24251/HICSS.2024.511",
+        "article-title": "What does it take to connect? Unveiling characteristics of data space connectors",
+        "author": "Gieß",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0076",
+        "article-title": "Dataspace protocol",
+        "year": "2024",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0077",
+        "series-title": "Tech. rep., European Commission",
+        "article-title": "Mapping the landscape of data intermediaries",
+        "author": "Marina",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0078",
+        "unstructured": "I. D. S. Association, IDSA connector, https://internationaldata-spaces-association.github.io/DataspaceConnector/GettingStarted, [Online; accessed 23-March-2024] (2024)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0079",
+        "unstructured": "sovity GmbH, Connecting to data space, https://sovity.de/en/connect-to-data-space-en/, [Online; accessed 23-March-2024] (2024)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0080",
+        "unstructured": "IDSA, Certification, https://internationaldataspaces.org/offers/certification/, [Online; accessed 23-March-2024] (2024)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0081",
+        "unstructured": "E. Foundation, Eclipse Dataspace Components (EDC), https://projects.eclipse.org/projects/technology.edc, [Online; accessed 23-March-2024] (2024)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0082",
+        "article-title": "Data connector report",
+        "year": "2024",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0083",
+        "series-title": "Proceedings of the 32nd international conference on Very large data bases, Citeseer",
+        "first-page": "367",
+        "article-title": "iDM: a unified and versatile data model for personal dataspace management",
+        "author": "Dittrich",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0084",
+        "first-page": "663",
+        "article-title": "iTrails: pay-as-you-go information integration in dataspaces",
+        "volume": "7",
+        "author": "Salles",
+        "year": "2007",
+        "journal-title": "VLDB"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.future.2018.07.019",
+        "article-title": "A real-rime linked dataspace for the internet of things: enabling “payas-you-go” data management in smart environments",
+        "volume": "90",
+        "author": "Curry",
+        "year": "2019",
+        "journal-title": "Future Generat. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0086",
+        "article-title": "Industrial data space",
+        "author": "Otto",
+        "year": "2016",
+        "journal-title": "Digital Souvereignity Over Data"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0087",
+        "author": "DSSC",
+        "year": "2024",
+        "journal-title": "Tech. rep"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110969_bib0088",
+        "series-title": "Proc. 14th International Symposium on Ambient Intelligence (ISAmI)",
+        "first-page": "113",
+        "article-title": "WoA: an infrastructural, web-based approach to digital agriculture",
+        "author": "Chessa",
+        "year": "2023"
+      }
+    ],
+    "container-title": [
+      "Data in Brief"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340924009314?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340924009314?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2025-07-08T11:39:20Z",
+      "timestamp": 1751974760000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352340924009314"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "references-count": 88,
+    "alternative-id": [
+      "S2352340924009314"
+    ],
+    "URL": "https://doi.org/10.1016/j.dib.2024.110969",
+    "relation": {
+      "is-supplemented-by": [
+        {
+          "id-type": "uri",
+          "id": "https://scopus.com",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "2352-3409"
+    ],
+    "issn-type": [
+      {
+        "value": "2352-3409",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "What are data spaces? Systematic survey and future outlook",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Data in Brief",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.dib.2024.110969",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Authors. Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "110969"
+  }
+}

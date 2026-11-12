@@ -1,0 +1,326 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          1
+        ]
+      ],
+      "date-time": "2026-11-01T21:48:23Z",
+      "timestamp": 1793569703020,
+      "version": "4.5.0"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2023-09-01T00:00:00Z",
+          "timestamp": 1693526400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              6,
+              2
+            ]
+          ],
+          "date-time": "2023-06-02T00:00:00Z",
+          "timestamp": 1685664000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "390727645"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "390727645"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2064/1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2064/1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100007569",
+        "name": "Carl-Zeiss-Stiftung",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100007569",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001314",
+        "name": "Durham University",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001314",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100018967",
+        "name": "Universitat Pompeu Fabra",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100018967",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Computer Law &amp; Security Review"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.clsr.2023.105830",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2023-06-30T18:02:45Z",
+      "timestamp": 1688148165000
+    },
+    "page": "105830",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "special_numbering": "C",
+    "title": [
+      "Regulating data intermediaries: The impact of the Data Governance Act on the EU's data economy"
+    ],
+    "prefix": "10.1016",
+    "volume": "50",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5406-9589",
+        "authenticated-orcid": false,
+        "given": "Gabriele",
+        "family": "Carovano",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michèle",
+        "family": "Finck",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Computer Law &amp; Security Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0267364923000407?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0267364923000407?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T03:23:04Z",
+      "timestamp": 1777519384000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0267364923000407"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S0267364923000407"
+    ],
+    "URL": "https://doi.org/10.1016/j.clsr.2023.105830",
+    "relation": {},
+    "ISSN": [
+      "2212-473X"
+    ],
+    "issn-type": [
+      {
+        "value": "2212-473X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Regulating data intermediaries: The impact of the Data Governance Act on the EU's data economy",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Computer Law & Security Review",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.clsr.2023.105830",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2023 Gabriele Carovano and Michèle Finck. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "105830"
+  }
+}

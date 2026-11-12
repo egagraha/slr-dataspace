@@ -1,0 +1,155 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2026-02-07T08:09:28Z",
+      "timestamp": 1770451768999,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "SCITEPRESS - Science and Technology Publications",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "DOI": "10.5220/0013569100003967",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2025-07-08T04:16:16Z",
+      "timestamp": 1751948176000
+    },
+    "page": "560-566",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Towards Consistent Policy Enforcement in Dataspaces"
+    ],
+    "prefix": "10.5220",
+    "author": [
+      {
+        "given": "Julia",
+        "family": "Pampus",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Fraunhofer Institute for Software and Systems Engineering ISST, Dortmund, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maritta",
+        "family": "Heisel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Duisburg-Essen, Duisburg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3171",
+    "event": {
+      "name": "14th International Conference on Data Science, Technology and Applications",
+      "location": "Bilbao, Spain",
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            10
+          ]
+        ]
+      },
+      "end": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            12
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "Proceedings of the 14th International Conference on Data Science, Technology and Applications"
+    ],
+    "original-title": [
+      "Towards Consistent Policy Enforcement in Dataspaces"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2025-07-08T04:16:16Z",
+      "timestamp": 1751948176000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0013569100003967"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5220/0013569100003967",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    }
+  }
+}

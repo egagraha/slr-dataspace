@@ -1,0 +1,791 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T21:36:26Z",
+      "timestamp": 1789594586448,
+      "version": "build-2803163510"
+    },
+    "reference-count": 58,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T00:00:00Z",
+          "timestamp": 1780272000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T00:00:00Z",
+          "timestamp": 1780272000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2026-05-18T00:00:00Z",
+          "timestamp": 1779062400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100008530",
+        "name": "European Regional Development Fund",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100008530",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Data in Brief"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.dib.2026.112882",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2026-05-21T15:20:00Z",
+      "timestamp": 1779376800000
+    },
+    "page": "112882",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "special_numbering": "C",
+    "title": [
+      "Homomorphic encryption for privacy-preserving data aggregation in data spaces"
+    ],
+    "prefix": "10.1016",
+    "volume": "66",
+    "author": [
+      {
+        "given": "Gorka",
+        "family": "Calvo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-7704-6700",
+        "authenticated-orcid": false,
+        "given": "Anhelina",
+        "family": "Kovach",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jorge",
+        "family": "Lanza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leticia",
+        "family": "Montalvillo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aitor",
+        "family": "Urbieta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0001",
+        "unstructured": "B. Otto, S. Steinbuss, A. Teuscher, and S. Bader, “International data spaces reference architecture model (IDS RAM) v4.0,” 2022."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0002",
+        "article-title": "Business models and organizational roles of data spaces: a framework for value creation in data ecosystems",
+        "volume": "61",
+        "author": "Gessler",
+        "year": "2025",
+        "journal-title": "Data Br."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0003",
+        "unstructured": "Data Spaces Support Centre (DSSC), “DSSC blueprint v2.0,” 2024."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.dib.2026.112882_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "1182",
+        "DOI": "10.1056/NEJMe1611027",
+        "article-title": "The importance — and the complexities — of data sharing",
+        "volume": "375",
+        "author": "Drazen",
+        "year": "2016",
+        "journal-title": "N. Engl. J. Med."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0005",
+        "series-title": "Designing Data Spaces: The Ecosystem Approach to Competitive Advantage",
+        "first-page": "3",
+        "article-title": "The evolution of data spaces",
+        "author": "Otto",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0006",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijmedinf.2022.104949",
+        "article-title": "Towards the European health data space (EHDS) ecosystem: a survey research on future health data scenarios",
+        "volume": "170",
+        "author": "Hussein",
+        "year": "2023",
+        "journal-title": "Int. J. Med. Inf."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0007",
+        "series-title": "Designing Data Spaces : The Ecosystem Approach to Competitive Advantage",
+        "first-page": "313",
+        "article-title": "Industrial Data spaces",
+        "author": "Usländer Thomas",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0008",
+        "series-title": "Companion Proceedings of the Web Conference2021",
+        "first-page": "7",
+        "article-title": "Managing knowledge in energy data spaces",
+        "author": "Janev",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0009",
+        "article-title": "Best practices to overcome challenges and barriers during the implementation of a data space for the energy domain: an experience report",
+        "volume": "61",
+        "author": "Copei",
+        "year": "2025",
+        "journal-title": "Data Br."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0011",
+        "article-title": "Evaluation and utilisation of privacy enhancing technologies—a data spaces perspective",
+        "volume": "55",
+        "author": "Auñón",
+        "year": "2024",
+        "journal-title": "Data Br."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0012",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cosrev.2025.100819",
+        "article-title": "Understanding data spaces: a systematic mapping study of foundations, technical building blocks, and sectoral adoption",
+        "volume": "59",
+        "author": "Kovach",
+        "year": "2026",
+        "journal-title": "Comput. Sci. Rev."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0013",
+        "series-title": "Proceedings of the 18th International Conference on Availability, Reliability and Security",
+        "article-title": "Implementing data sovereignty: requirements & challenges from practice",
+        "author": "Hellmeier",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0014",
+        "unstructured": "European Parliament and C. of the European Union, “Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation),” 2016."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.dib.2026.112882_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.1007/s41471-024-00189-z",
+        "article-title": "Knowledge leaks in data-driven business models? Exploring different types of knowledge risks and protection measures",
+        "volume": "76",
+        "author": "Fruhwirth",
+        "year": "2024",
+        "journal-title": "Schmalenbach J. Bus. Res."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/j.jnca.2016.01.008",
+        "article-title": "A survey on data leakage prevention systems",
+        "volume": "62",
+        "author": "Alneyadi",
+        "year": "2016",
+        "journal-title": "J. Netw. Comput. Appl."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0017",
+        "first-page": "202",
+        "article-title": "Re-identification of ‘anonymized data,’",
+        "volume": "1",
+        "author": "Lubarsky",
+        "year": "2017",
+        "journal-title": "Georget. Law Technol. Rev."
+      },
+      {
+        "issue": "no. 4",
+        "key": "10.1016/j.dib.2026.112882_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3214303",
+        "article-title": "A survey on homomorphic encryption schemes: theory and implementation",
+        "volume": "51",
+        "author": "Acar",
+        "year": "2019",
+        "journal-title": "ACM. Comput. Surv."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cosrev.2025.100815",
+        "article-title": "Homomorphic cryptography: challenges and perspectives",
+        "volume": "59",
+        "author": "Hariss",
+        "year": "2026",
+        "journal-title": "Comput. Sci. Rev."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0021",
+        "unstructured": "Gaia-X European Association for Data and C. AISBL, “Gaia-X Trust Framework - 22.10 release,” 2022."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0022",
+        "unstructured": "S. Steinbuss and al., “Usage control in the International Data Spaces, version 3.0,” 2021. doi: 10.5281/zenodo.5675884."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.dib.2026.112882_bib0023",
+        "first-page": "169",
+        "article-title": "On data banks and privacy homomorphisms",
+        "volume": "4",
+        "author": "Rivest",
+        "year": "1978",
+        "journal-title": "Found. Secure Comput."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0024",
+        "unstructured": "Gaia-X European Association for Data and C. AISBL, “Gaia-X architecture document - 22.10 release,” 2022."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0025",
+        "series-title": "“Dataspace Protocol v.2024-1,”",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0026",
+        "unstructured": "Eclipse Foundation, “Eclipse dataspace components (EDC),” 2023."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0027",
+        "unstructured": "European Parliament and C. of the European Union, “Regulation (EU) 2022/868 on european data governance and amending regulation (EU) 2018/1724 (Data governance Act),” 2022."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0028",
+        "unstructured": "European Parliament and C. of the European Union, “Regulation (EU) 2023/2854 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and directive (EU) 2020/1828 (Data Act),” 2023."
+      },
+      {
+        "issue": "no. 9",
+        "key": "10.1016/j.dib.2026.112882_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "3885",
+        "DOI": "10.3390/su12093885",
+        "article-title": "Data usage and access control in industrial Data spaces: implementation using FIWARE",
+        "volume": "12",
+        "author": "Munoz-Arcentales",
+        "year": "2020",
+        "journal-title": "Sustainability2020"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.dib.2026.112882_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1145/572277.572278",
+        "article-title": "Privacy protection, control of information, and privacy-enhancing technologies",
+        "volume": "31",
+        "author": "Tavani",
+        "year": "2001",
+        "journal-title": "SIGCAS Comput. Soc."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0031",
+        "series-title": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security",
+        "first-page": "1371",
+        "article-title": "Usage patterns of privacy-enhancing technologies",
+        "author": "Coopamootoo",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0032",
+        "article-title": "A systematic review on the status and progress of homomorphic encryption technologies",
+        "volume": "48",
+        "author": "Alloghani",
+        "year": "2019",
+        "journal-title": "J. Inf. Secur. Appl."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.dib.2026.112882_bib0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "827",
+        "DOI": "10.3390/electronics8080827",
+        "article-title": "Homomorphic encryption and network coding in IoT architectures: advantages and future challenges",
+        "volume": "8",
+        "author": "Peralta",
+        "year": "2019",
+        "journal-title": "Electronics"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.dib.2026.112882_bib0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "1572",
+        "DOI": "10.1109/JPROC.2022.3205665",
+        "article-title": "Survey on fully homomorphic encryption, theory, and applications",
+        "volume": "110",
+        "author": "Marcolla",
+        "year": "2022",
+        "journal-title": "Proc. IEEE"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0035",
+        "series-title": "Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing",
+        "first-page": "123",
+        "article-title": "A General framework for privacy-preserving computation on cloud environments",
+        "author": "Basilakis",
+        "year": "2019"
+      },
+      {
+        "issue": "no. 10",
+        "key": "10.1016/j.dib.2026.112882_bib0036",
+        "doi-asserted-by": "crossref",
+        "first-page": "4047",
+        "DOI": "10.3390/app14104047",
+        "article-title": "Empirical study of fully homomorphic encryption using Microsoft SEAL",
+        "volume": "14",
+        "author": "Valera-Rodriguez",
+        "year": "2024",
+        "journal-title": "Appl. Sci."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.dib.2026.112882_bib0037",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1016/j.dcan.2023.01.022",
+        "article-title": "Smart and collaborative industrial IoT: a federated learning and data space approach",
+        "volume": "9",
+        "author": "Farahani",
+        "year": "2023",
+        "journal-title": "Digit. Commun. Netw."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0038",
+        "series-title": "2024 IEEE International Conference on Big Data (BigData)",
+        "first-page": "7946",
+        "article-title": "Federated Learning governance using Eclipse Dataspace components connectors",
+        "author": "Mitrovska",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0039",
+        "series-title": "Bridging Digital Sourcing, Platforms, and Ecosystems",
+        "first-page": "78",
+        "article-title": "Common European data spaces in health care: a privacy-preserving ecosystem for cancer research",
+        "author": "J",
+        "year": "2026"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0040",
+        "series-title": "Proceedings of the 14th International Conference on Cloud Computing and Services Science - CLOSER",
+        "first-page": "346",
+        "article-title": "Integrating secure multiparty computation into data spaces",
+        "author": "Siska",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0041",
+        "first-page": "73",
+        "article-title": "Privacy preserving enablers for data space ecosystems",
+        "volume": "2328",
+        "author": "García",
+        "year": "2025",
+        "journal-title": "Commun. Comput. Inf. Sci."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0042",
+        "series-title": "EuroSec 2024 - Proceedings of the 2024 17th European Workshop on Systems Security, Part of EuroSys 2024",
+        "first-page": "44",
+        "article-title": "Data integrity protection for data spaces",
+        "author": "Fotiou",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0043",
+        "series-title": "Proceedings - 2024 China Automation Congress, CAC2024",
+        "first-page": "6888",
+        "article-title": "Design of a secure industrial data interaction system based on international data space and optimized KP-ABE algorithm",
+        "author": "Huang",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0044",
+        "first-page": "1",
+        "article-title": "Differential privacy",
+        "volume": "4052 LNCS",
+        "author": "Dwork",
+        "year": "2006",
+        "journal-title": "Lect. Note. Comput. Sci. (incl. subser. Lect. Notes Artif. Intell. Lect. Notes Bioinform.)"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0045",
+        "series-title": "2023 20th Annual International Conference on Privacy, Security and Trust, PST2023",
+        "article-title": "Combining homomorphic encryption and differential privacy in federated learning",
+        "author": "Sebert",
+        "year": "2023"
+      },
+      {
+        "issue": "no. 6",
+        "key": "10.1016/j.dib.2026.112882_bib0046",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3456629",
+        "article-title": "A survey of microarchitectural side-channel vulnerabilities, attacks, and defenses in cryptography",
+        "volume": "54",
+        "author": "Lou",
+        "year": "2022",
+        "journal-title": "ACM. Comput. Surv."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0047",
+        "author": "Cheon"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0048",
+        "series-title": "2024 IEEE International Conference on Big Data (BigData)",
+        "first-page": "2762",
+        "article-title": "A secure and trustworthy biometric data ecosystem for Cross-border suspect identification",
+        "author": "Kyriakou",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0049",
+        "series-title": "2023 IEEE International Conference on Big Data (BigData)",
+        "first-page": "4748",
+        "article-title": "Applying homomoprhic encryption to data spaces Takashi Michikata.,",
+        "author": "Michikata",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0050",
+        "series-title": "The Semantic Web - ISWC2020",
+        "first-page": "176",
+        "article-title": "The international Data spaces information model - an ontology for sovereign exchange of digital content",
+        "author": "S",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0051",
+        "article-title": "A survey of Dataspace connector implementations",
+        "author": "Dam",
+        "year": "2024",
+        "journal-title": "arXiv"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0052",
+        "series-title": "2025 International Conference on New Trends in Computing Sciences (ICTCS)",
+        "first-page": "219",
+        "article-title": "Cross-platform benchmarking of the FHE libraries: novel insights into SEAL and OpenFHE",
+        "author": "Faneela",
+        "year": "2025"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.dib.2026.112882_bib0053",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1088/1742-6596/2128/1/012021",
+        "article-title": "A comparative study of homomorphic encryption schemes using Microsoft SEAL",
+        "volume": "2128",
+        "author": "Fawaz",
+        "year": "2021",
+        "journal-title": "J. Phys. Conf. Ser."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0054",
+        "series-title": "Innovative Security Solutions For Information Technology and Communications",
+        "first-page": "425",
+        "article-title": "A comparison of the homomorphic encryption libraries HElib, SEAL and FV-NFLlib",
+        "author": "M.-O",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0055",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Kim, Y. Polyakov, and V. Zucca, “Revisiting homomorphic encryption schemes for finite fields,” 2022. [Online]. Available: https://eprint.iacr.org/2021/204.pdf",
+        "DOI": "10.1007/978-3-030-92078-4_21"
+      },
+      {
+        "issue": "no. 7",
+        "key": "10.1016/j.dib.2026.112882_bib0056",
+        "doi-asserted-by": "crossref",
+        "first-page": "3697",
+        "DOI": "10.3390/s23073697",
+        "article-title": "Privacy preservation in smart meters: current status, challenges and future directions",
+        "volume": "23",
+        "author": "Kua",
+        "year": "2023",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.dib.2026.112882_bib0057",
+        "doi-asserted-by": "crossref",
+        "first-page": "2820",
+        "DOI": "10.1109/COMST.2017.2720195",
+        "article-title": "Smart meter Data privacy: a survey",
+        "volume": "19",
+        "author": "Asghar",
+        "year": "2017",
+        "journal-title": "IEEE Commun. Surv. Tutor."
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0058",
+        "first-page": "1",
+        "article-title": "Sok: privacy technologies for smart grids–a survey of options",
+        "volume": "1",
+        "author": "Jawurek",
+        "year": "2012",
+        "journal-title": "Microsoft Res, Camb. UK"
+      },
+      {
+        "issue": "19",
+        "key": "10.1016/j.dib.2026.112882_bib0059",
+        "first-page": "7419",
+        "article-title": "Data privacy preservation and security in smart metering systems",
+        "volume": "15",
+        "author": "Abdalzaher",
+        "year": "2022",
+        "journal-title": "Energy"
+      },
+      {
+        "key": "10.1016/j.dib.2026.112882_bib0060",
+        "article-title": "Design principles for Data spaces",
+        "author": "Ahle",
+        "year": "2021",
+        "journal-title": "Int. Data Spaces Assoc."
+      }
+    ],
+    "container-title": [
+      "Data in Brief"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340926004348?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340926004348?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          8
+        ]
+      ],
+      "date-time": "2026-06-08T11:40:21Z",
+      "timestamp": 1780918821000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352340926004348"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "references-count": 58,
+    "alternative-id": [
+      "S2352340926004348"
+    ],
+    "URL": "https://doi.org/10.1016/j.dib.2026.112882",
+    "relation": {},
+    "ISSN": [
+      "2352-3409"
+    ],
+    "issn-type": [
+      {
+        "value": "2352-3409",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Homomorphic encryption for privacy-preserving data aggregation in data spaces",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Data in Brief",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.dib.2026.112882",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 The Authors. Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "112882"
+  }
+}

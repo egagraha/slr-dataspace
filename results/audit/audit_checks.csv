@@ -48,4 +48,4 @@ RQ5 evidence A: per-placement marker vs evidence_by_rq.csv,17,17,pass,soft,evide
 RQ5 evidence S: per-placement marker vs evidence_by_rq.csv,7,7,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 RQ5 evidence M: per-placement marker vs evidence_by_rq.csv,26,26,pass,soft,evidence_by_rq.csv uses the highest level of the publication across RQs
 evidence A/S/M over 250 placements (manuscript: 146/30/74),146/30/74,146/30/74,pass,soft,
-"2,047 distinct retrieved DOIs",2047,not reproducible,not checkable,soft,the per-query retrieval ledgers are not in the repository; the figure is taken from the list
+"2,047 distinct retrieved DOIs (data/raw/retrieval_ledgers)",2047,2047,pass,hard,

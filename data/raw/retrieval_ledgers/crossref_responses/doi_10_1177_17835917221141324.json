@@ -1,0 +1,475 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2026-11-05T00:36:07Z",
+      "timestamp": 1793838967481,
+      "version": "4.6.1"
+    },
+    "reference-count": 48,
+    "publisher": "SAGE Publications",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              19
+            ]
+          ],
+          "date-time": "2022-11-19T00:00:00Z",
+          "timestamp": 1668816000000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Competition and Regulation in Network Industries"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Following its approval by the European Parliament in April 2022, the Data Governance Act (DGA) is the first legislative instrument announced in the European Data Strategy to come into force. Aimed at facilitating the re-use and sharing of data in and between the private and public sectors, the DGA introduces regulation for a newly emerging type of digital platforms – the so-called “providers of data intermediation services”. In order to offer their services on the market, providers will have to submit to a prior notification procedure and show compliance with several conditions placed on their economic activities. The regulation of data intermediaries is intended to increase their trustworthiness and ensure the competitiveness of the markets in which they operate. Recent experiences with digital platforms have shown the potential of intermediaries to organise and facilitate markets. At the same time, digital platforms pose undeniable risks to their users and markets at large. Against this backdrop, the role of data intermediaries as envisioned by the DGA must be examined carefully before turning to the question whether the DGA can achieve competitive and trustworthy data sharing through registered third parties. This paper intends to shed light on these and other issues by examining, in-depth, the chapter in the DGA dedicated to data intermediaries (Art. 10–15) from a legal, policy and competition economics perspective. In particular, this paper explores how the experiences made with large-scale digital platforms have shaped the DGA. Thereby, this paper aims to contribute towards a holistic understanding of these provisions as a basis for an informed discussion on the legal framework and on possible alternatives.</jats:p>",
+    "DOI": "10.1177/17835917221141324",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2022-11-19T03:02:20Z",
+      "timestamp": 1668826940000
+    },
+    "page": "270-295",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "The Data Governance Act: – Promoting or Restricting Data Intermediaries?"
+    ],
+    "prefix": "10.1177",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Lukas",
+        "family": "von Ditfurth",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Doctoral Candidate at the Chair for European and International Information and Data Law, University of Passau Faculty of Law, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0317-1991",
+        "authenticated-orcid": false,
+        "given": "Gregor",
+        "family": "Lienemann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Doctoral Candidate and Academic Research Assistant at the Chair for European and International Information and Data Law, University of Passau Faculty of Law, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-17835917221141324",
+        "unstructured": "Ada Lovelace Institute and UK AI Council (2021), ‘Exploring legal mechanisms for data stewardship’, available at. https://www.adalovelaceinstitute.org/wp-content/uploads/2021/03/Legal-mechanisms-for-data-stewardship_report_Ada_AI-Council-2.pdf"
+      },
+      {
+        "key": "bibr2-17835917221141324",
+        "volume-title": "‘ALI-ELI principles for a data economy – data transactions and data rights’",
+        "author": "American Law Institute and European Law Institute"
+      },
+      {
+        "key": "bibr3-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10864415.1997.11518287"
+      },
+      {
+        "key": "bibr4-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.3872703"
+      },
+      {
+        "key": "bibr5-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.3350512"
+      },
+      {
+        "key": "bibr6-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/s11369-021-00224-5"
+      },
+      {
+        "key": "bibr7-17835917221141324",
+        "volume-title": "‘Competition policy for the digital era’",
+        "author": "Crémer J.",
+        "year": "2019"
+      },
+      {
+        "key": "bibr8-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-319-21569-3_3"
+      },
+      {
+        "key": "bibr9-17835917221141324",
+        "volume-title": "‘Advancing the EU data economy: Conditions for realizing the full potential of data reuse’",
+        "author": "Custers B.",
+        "year": "2017"
+      },
+      {
+        "key": "bibr10-17835917221141324",
+        "volume-title": "Optimising regulatory responses to consumer disempowerment over personal data in the digital World",
+        "author": "D’Amico A",
+        "year": "2021"
+      },
+      {
+        "key": "bibr11-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11609-020-00403-9"
+      },
+      {
+        "issue": "2",
+        "key": "bibr12-17835917221141324",
+        "first-page": "395",
+        "volume": "123",
+        "author": "Elhauge E",
+        "year": "2009",
+        "journal-title": "Harvard Law Journal"
+      },
+      {
+        "key": "bibr14-17835917221141324",
+        "unstructured": "European Commission (2020) Proposal for a regulation of the European parliament and of the Council on European data governance (data governance act). Commission, Proposal. COM(2020) 767 final."
+      },
+      {
+        "key": "bibr15-17835917221141324",
+        "volume-title": "Commission Staff Working Document on the free flow of data and emerging issues of the European data economy, Accompanying the document Building a European data economy",
+        "author": "European Commission",
+        "year": "2017"
+      },
+      {
+        "key": "bibr16-17835917221141324",
+        "volume-title": "Workshop Report: Data access and transfer with a focus on APIs and industrial data platforms",
+        "author": "European Commission",
+        "year": "2017"
+      },
+      {
+        "key": "bibr17-17835917221141324",
+        "volume-title": "Study on data sharing between companies in Europe",
+        "author": "European Commission",
+        "year": "2018"
+      },
+      {
+        "key": "bibr13-17835917221141324",
+        "unstructured": "European Commission (2020) Communication from the Commission […] ‘A European strategy for data’. Commission, Data Strategy. COM(2020) 66 final."
+      },
+      {
+        "key": "bibr18-17835917221141324",
+        "unstructured": "European CommissionCommission, SWD (2020) Commission staff working document - impact assessment Report accompanying the document proposal for a regulation of the parliament and of the Council on European data governance. SWD/2020/295 final."
+      },
+      {
+        "key": "bibr19-17835917221141324",
+        "first-page": "2",
+        "volume-title": "Platform economics: Essays on multi-sided businesses",
+        "author": "Evans R.",
+        "year": "2011"
+      },
+      {
+        "key": "bibr20-17835917221141324",
+        "volume-title": "‘Digitalisation and its impact on innovation’",
+        "author": "Ezrachi A.",
+        "year": "2022"
+      },
+      {
+        "key": "bibr21-17835917221141324",
+        "volume-title": "‘Independent assessment of the Open Data Institute’s work on data trusts and on the concept of data trusts’",
+        "author": "Godel M.",
+        "year": "2019"
+      },
+      {
+        "key": "bibr22-17835917221141324",
+        "volume-title": "‘Differentiated treatment in platform-to-business relations: EU competition law and economic dependence’",
+        "author": "Graef I",
+        "year": "2019"
+      },
+      {
+        "key": "bibr23-17835917221141324",
+        "volume-title": "‘The European Commission’s proposed data governance act: Some initial reflections on the increasingly complex EU regulatory puzzle of stimulating data sharing’",
+        "author": "Graef I.",
+        "year": "2021"
+      },
+      {
+        "key": "bibr48-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2202/1446-9022.1113"
+      },
+      {
+        "key": "bibr24-17835917221141324",
+        "unstructured": "Hartl A., Ludin A (2021) ‘Recht der Datenzugänge’. Multimedia und Recht, pp. 534–538."
+      },
+      {
+        "key": "bibr25-17835917221141324",
+        "unstructured": "Hennemann M, Von Ditfurth L (2022) ‘Datenintermediäre und Data Governance Act‘Neue Juristische Wochenschrift, pp. 1905–1910."
+      },
+      {
+        "key": "bibr26-17835917221141324",
+        "volume-title": "‘Issues around data governance in the digital transformation of agriculture: The Farmer’s Perspective’",
+        "author": "Jouanjean M.A.",
+        "year": "2020"
+      },
+      {
+        "key": "bibr27-17835917221141324",
+        "unstructured": "Judge K (2015) ‘Intermediary influence’ 82. The University of Chicago Law Review, pp. 573–642."
+      },
+      {
+        "key": "bibr28-17835917221141324",
+        "unstructured": "Khan L (2017) ‘Amazon’s Antitrust paradox’ 126. The Yale Law Journal, pp. 710–805."
+      },
+      {
+        "key": "bibr29-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/icc/dtaa002"
+      },
+      {
+        "key": "bibr30-17835917221141324",
+        "volume-title": "‘Datenschutzrechtliche dimensionen datentreuhänder: Kurzexpertise’",
+        "author": "Kühling J.",
+        "year": "2020"
+      },
+      {
+        "key": "bibr31-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5771/9783748924999-69"
+      },
+      {
+        "key": "bibr32-17835917221141324",
+        "volume-title": "‘Business-to-Business data sharing: An economic and legal analysis’",
+        "author": "Martens B.",
+        "year": "2020"
+      },
+      {
+        "key": "bibr33-17835917221141324",
+        "volume-title": "‘Skywise: Airbus bet on big data’",
+        "author": "Mitty W",
+        "year": "2020"
+      },
+      {
+        "key": "bibr34-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781003141327"
+      },
+      {
+        "key": "bibr35-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10438599.2018.1493075"
+      },
+      {
+        "key": "bibr36-17835917221141324",
+        "unstructured": "OECD (2015) ‘Data-Driven innovation: Big data for growth and well-being’. available at https://www.oecd-ilibrary.org/science-and-technology/data-driven-innovation_9789264229358-en"
+      },
+      {
+        "key": "bibr37-17835917221141324",
+        "unstructured": "OECD (2019) ‘Enhancing Access to and sharing of data: Reconciling risks and benefits for data Re-use across societies’. available at https://www.oecd-ilibrary.org/science-and-technology/enhancing-access-to-and-sharing-of-data_276aaca8-en"
+      },
+      {
+        "key": "bibr38-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.3608397"
+      },
+      {
+        "key": "bibr39-17835917221141324",
+        "unstructured": "Richter H (2021) ‘Europäisches Datenprivatrecht: Lehren aus dem Kommissionsvorschlag für eine Verordnung über europäische Daten-Governance’. Zeitschrift für Europäisches Privatrecht, pp. 634–666."
+      },
+      {
+        "key": "bibr40-17835917221141324",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40319-018-00777-7"
+      },
+      {
+        "key": "bibr41-17835917221141324",
+        "volume-title": "Global data strategies: A handbook (Beck-Hart-Nomos)",
+        "author": "Schnurr D",
+        "year": "2022"
+      },
+      {
+        "key": "bibr49-17835917221141324",
+        "first-page": "503",
+        "author": "Schweitzer H.",
+        "year": "2021",
+        "journal-title": "Zeitschrift für Europäisches Privatrecht"
+      },
+      {
+        "key": "bibr43-17835917221141324",
+        "unstructured": "Specht-Riemenschneider L., et al. (2021) ‘Die datentreuhand’. MMR-Beilage, pp. 25–48."
+      },
+      {
+        "key": "bibr44-17835917221141324",
+        "volume-title": "‘Stigler Committee on digital platforms: Final Report’",
+        "author": "Stigler Center",
+        "year": "2019"
+      },
+      {
+        "key": "bibr45-17835917221141324",
+        "volume-title": "Global data strategies: A handbook (Beck-Hart-Nomos)",
+        "author": "Veil W.",
+        "year": "2022"
+      },
+      {
+        "key": "bibr46-17835917221141324",
+        "unstructured": "Wernick A., Olk C., Grafenstein M. v. (2020) ‘Defining data intermediaries’. Technology and Regulation, pp. 65–77."
+      },
+      {
+        "key": "bibr47-17835917221141324",
+        "volume-title": "‘Advancing digital agency: The power of data intermediaries’",
+        "author": "World Economic Forum",
+        "year": "2022"
+      }
+    ],
+    "container-title": [
+      "Competition and Regulation in Network Industries"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/17835917221141324",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/17835917221141324",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/17835917221141324",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T16:58:43Z",
+      "timestamp": 1777395523000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.sagepub.com/doi/10.1177/17835917221141324"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          19
+        ]
+      ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/17835917221141324"
+    ],
+    "URL": "https://doi.org/10.1177/17835917221141324",
+    "relation": {},
+    "ISSN": [
+      "1783-5917",
+      "2399-2956"
+    ],
+    "issn-type": [
+      {
+        "value": "1783-5917",
+        "type": "print"
+      },
+      {
+        "value": "2399-2956",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          19
+        ]
+      ]
+    }
+  }
+}

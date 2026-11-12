@@ -1,0 +1,737 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ],
+      "date-time": "2026-06-24T13:25:06Z",
+      "timestamp": 1782307506651,
+      "version": "3.54.5"
+    },
+    "reference-count": 58,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              27
+            ]
+          ],
+          "date-time": "2024-08-27T00:00:00Z",
+          "timestamp": 1724716800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IP"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:p>In its regulatory enterprise to improve the conditions of data sharing and reuse, the European Union has enacted new legislation: the Data Governance Act (DGA). The DGA envisages new forms of sharing public sector data (PSD). Based on a legal analysis of the DGA and an in-depth study of data governance literature, this paper highlights what is at stake in the new regulatory framework and argues that more than the mere openness of more PSD will be necessary to ensure that the European Union policy goals are achieved, especially those concerning enhancing innovation for the common good. From this perspective, the paper argues that the public data trust model of data governance and the Responsible Research and Innovation approach offer two powerful tools for public sector data governance. In this context, this paper contributes to the debate about new data governance models and discusses tools and frameworks enabling the use of data for the common good. It also provides insights to public administration practitioners aiming to implement a framework for increased and sustainable PSD sharing.</jats:p>",
+    "DOI": "10.3233/ip-230003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          28
+        ]
+      ],
+      "date-time": "2023-11-28T11:44:04Z",
+      "timestamp": 1701171844000
+    },
+    "page": "261-276",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Managing public sector data: National challenges in the context of the European Union’s new data governance models"
+    ],
+    "prefix": "10.1177",
+    "volume": "29",
+    "author": [
+      {
+        "given": "Clarissa Valli",
+        "family": "Buttow",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sophie",
+        "family": "Weerts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "reference": [
+      {
+        "key": "10.3233/IP-230003_ref1",
+        "doi-asserted-by": "publisher",
+        "first-page": "424",
+        "DOI": "10.1016/j.ijinfomgt.2019.07.008",
+        "article-title": "Data governance: Aconceptual framework, structured review, and research agenda.",
+        "volume": "49",
+        "author": "Abraham",
+        "year": "2019",
+        "journal-title": "International Journal of Information Management"
+      },
+      {
+        "issue": "3",
+        "key": "10.3233/IP-230003_ref2",
+        "doi-asserted-by": "publisher",
+        "first-page": "388",
+        "DOI": "10.1016/j.giq.2014.02.009",
+        "article-title": "The strategic importance of information policy for thecontemporary neoliberal state: The case of Open Government Data in theUnited Kingdom.",
+        "volume": "31",
+        "author": "Bates",
+        "year": "2014",
+        "journal-title": "Government Information Quarterly"
+      },
+      {
+        "key": "10.3233/IP-230003_ref3",
+        "unstructured": "Beaulieu, A., & Leonelli, S. (2022). Data and Society: A Critical Introduction. Los Angeles, CA: SAGE PublicationsSage CA."
+      },
+      {
+        "issue": "3",
+        "key": "10.3233/IP-230003_ref4",
+        "doi-asserted-by": "publisher",
+        "first-page": "101692",
+        "DOI": "10.1016/j.giq.2022.101692",
+        "article-title": "The rise of GovTech: Trojan horse or blessing indisguise? A research agenda.",
+        "volume": "39",
+        "author": "Bharosa",
+        "year": "2022",
+        "journal-title": "Government Information Quarterly"
+      },
+      {
+        "issue": "5",
+        "key": "10.3233/IP-230003_ref5",
+        "doi-asserted-by": "publisher",
+        "first-page": "468",
+        "DOI": "10.1080/01442872.2020.1748264",
+        "article-title": "The problem ofinnovation in technoscientific capitalism: data rentiership and the policyimplications of turning personal digital data into a private asset.",
+        "volume": "41",
+        "author": "Birch",
+        "year": "2020",
+        "journal-title": "Policy Studies"
+      },
+      {
+        "key": "10.3233/IP-230003_ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2139/ssrn.3502119"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s11948-016-9782-1",
+        "article-title": "Definitions and Conceptual Dimensions of Responsible Research and Innovation: A Literature Review.",
+        "volume": "23",
+        "author": "Burget",
+        "year": "2017",
+        "journal-title": "Sci Eng Ethics"
+      },
+      {
+        "issue": "4",
+        "key": "10.3233/IP-230003_ref8",
+        "doi-asserted-by": "publisher",
+        "first-page": "236",
+        "DOI": "10.1093/idpl/ipz014",
+        "article-title": "Bottom-up data Trusts: Disturbing the ‘one size fits all’ approach to data governance.",
+        "volume": "9",
+        "author": "Delacroix",
+        "year": "2019",
+        "journal-title": "International Data Privacy Law"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref9",
+        "doi-asserted-by": "publisher",
+        "first-page": "57",
+        "DOI": "10.26116/techreg.2020.006",
+        "article-title": "Beyond the data flow paradigm: governing data requires to look beyond data.",
+        "volume": "12",
+        "author": "Ducuing",
+        "year": "2020",
+        "journal-title": "Technology and Regulation"
+      },
+      {
+        "key": "10.3233/IP-230003_ref10",
+        "unstructured": "European Commission. Research, D.-G. f., & Innovation. (2011). Towards responsible research and innovation in the information and communication technologies and security technologies fields: Publications Office."
+      },
+      {
+        "key": "10.3233/IP-230003_ref15",
+        "unstructured": "European Commission, Directorate-General for Communications Networks, Technology C., Peijl, S., Denny, E., Koring, E., …Walker, A. (2022). Study to support an impact assessment on enhancing the use of data in Europe: Publications Office of the European Union. Brussels, Belgium."
+      },
+      {
+        "key": "10.3233/IP-230003_ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26116/techreg.2020.003"
+      },
+      {
+        "key": "10.3233/IP-230003_ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.respol.2021.104330"
+      },
+      {
+        "key": "10.3233/IP-230003_ref21",
+        "unstructured": "Hardinges, J., Wells, P., Blandford, A., Tennison, J., & Scott, A. (2019). Data trusts: lessons from three pilots. London: Open Data Institute."
+      },
+      {
+        "key": "10.3233/IP-230003_ref22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Howarth, D., & Griggs, S. (2015). Poststructuralist discourse theory and critical policy studies: interests, identities and policy change. In F. Fischer (Ed.), Handbook of Critical Policy Studies: Edward Elgar Publishing.",
+        "DOI": "10.4337/9781783472352.00012"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref23",
+        "doi-asserted-by": "publisher",
+        "first-page": "117",
+        "DOI": "10.3233/SJI-150873",
+        "article-title": "Open data, open cities: Experiences from the helsinki metropolitan area. case helsinki region infoshare www. hri. fi.",
+        "volume": "31",
+        "author": "Jaakola",
+        "year": "2015",
+        "journal-title": "Statistical Journal of the IAOS"
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/IP-230003_ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.15353/joci.v8i2.3042",
+        "article-title": "Open Government Data and the Right to Information: Opportunities and Obstacles.",
+        "volume": "8",
+        "author": "Janssen",
+        "year": "2012",
+        "journal-title": "Journal of Community Informatics"
+      },
+      {
+        "key": "10.3233/IP-230003_ref25",
+        "unstructured": "Jasanoff, S. (2016). The ethics of invention: technology and the human future: WW Norton & Company."
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref26",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1016/j.giq.2015.11.003",
+        "article-title": "Managing complexity across multiple dimensions of liquid open data: The case of the Danish Basic Data Program.",
+        "volume": "33",
+        "author": "Jetzek",
+        "year": "2016",
+        "journal-title": "Government Information Quarterly"
+      },
+      {
+        "key": "10.3233/IP-230003_ref27",
+        "unstructured": "Jetzek, T., Avital, M., & Bjørn-Andersen, N. (2013). Generating Value from Open Government Data. Paper presented at the 34th International Conference on Information Systems (ICIS), Milan."
+      },
+      {
+        "issue": "5",
+        "key": "10.3233/IP-230003_ref28",
+        "doi-asserted-by": "publisher",
+        "first-page": "62",
+        "DOI": "10.1145/3064940",
+        "article-title": "Responsible research and innovation in the digital age.",
+        "volume": "60",
+        "author": "Jirotka",
+        "year": "2017",
+        "journal-title": "Communications of the ACM"
+      },
+      {
+        "key": "10.3233/IP-230003_ref29",
+        "doi-asserted-by": "publisher",
+        "first-page": "231",
+        "DOI": "10.3233/IP-150357",
+        "article-title": "Open data licensing: More than meets the eye.",
+        "volume": "20",
+        "author": "Khayyat",
+        "year": "2015",
+        "journal-title": "Information Polity"
+      },
+      {
+        "key": "10.3233/IP-230003_ref30",
+        "unstructured": "Kitchin, R. (2022). The Data Revolution: A critical analysis of Big Data, Open Data, Data Infrastructures, London: SAGE."
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/IP-230003_ref31",
+        "doi-asserted-by": "publisher",
+        "first-page": "38",
+        "DOI": "10.1080/00480169.2011.633308",
+        "article-title": "OpenData: Digital-Era Governance Thoroughbred or New Public Management Trojan Horse?",
+        "volume": "2",
+        "author": "Longo",
+        "year": "2011",
+        "journal-title": "Public Policy & Governance Review"
+      },
+      {
+        "key": "10.3233/IP-230003_ref32",
+        "doi-asserted-by": "publisher",
+        "first-page": "29",
+        "DOI": "10.26116/techreg.2020.004",
+        "article-title": "Tools for Data Governance.",
+        "volume": "2020",
+        "author": "Madison",
+        "year": "2020",
+        "journal-title": "Technology and Regulation"
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/IP-230003_ref33",
+        "doi-asserted-by": "publisher",
+        "first-page": "140",
+        "DOI": "10.1080/13662716.2016.1146124",
+        "article-title": "From market fixing to market-creating: a new framework for innovation policy.",
+        "volume": "23",
+        "author": "Mazzucato",
+        "year": "2016",
+        "journal-title": "Industry and Innovation"
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/IP-230003_ref34",
+        "doi-asserted-by": "publisher",
+        "first-page": "205395172094808",
+        "DOI": "10.1177/2053951720948087",
+        "article-title": "Emerging models of data governance in the age of datafication.",
+        "volume": "7",
+        "author": "Micheli",
+        "year": "2020",
+        "journal-title": "Big Data & Society"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref36",
+        "doi-asserted-by": "publisher",
+        "first-page": "42",
+        "DOI": "10.1177/0192512114541163",
+        "article-title": "Evaluating the role of online data availability: The case of economic and institutional transparency in sixteen Latin American nations.",
+        "volume": "36",
+        "author": "Murillo",
+        "year": "2015",
+        "journal-title": "International Political Science Review"
+      },
+      {
+        "issue": "4",
+        "key": "10.3233/IP-230003_ref37",
+        "first-page": "777",
+        "article-title": "Desirable Inefficiency.",
+        "volume": "70",
+        "author": "Ohm",
+        "year": "2018",
+        "journal-title": "Florida Law Review"
+      },
+      {
+        "issue": "3",
+        "key": "10.3233/IP-230003_ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1287/orsc.3.3.398",
+        "article-title": "The Duality of Technology: Rethinking the Concept of Technology in Organizations.",
+        "volume": "3",
+        "author": "Orlikowski",
+        "year": "1992",
+        "journal-title": "Organization Science"
+      },
+      {
+        "key": "10.3233/IP-230003_ref39",
+        "first-page": "26",
+        "article-title": "Responsible Innovation and Responsible Research and Innovation.",
+        "author": "Owen",
+        "year": "2019",
+        "journal-title": "Handbook on Science and Public Policy"
+      },
+      {
+        "key": "10.3233/IP-230003_ref40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.respol.2020.104132",
+        "article-title": "Organisational institutionalisation of responsible innovation.",
+        "author": "Owen",
+        "year": "2021",
+        "journal-title": "Research Policy"
+      },
+      {
+        "issue": "3",
+        "key": "10.3233/IP-230003_ref41",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.1007/s44206-022-00021-3",
+        "article-title": "The Politics of Data in EU Law: Will It Succeed?",
+        "volume": "1",
+        "author": "Pagallo",
+        "year": "2022",
+        "journal-title": "Digital Society"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref42",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1177/03063127211048945",
+        "article-title": "The politics of scaling.",
+        "volume": "52",
+        "author": "Pfotenhauer",
+        "year": "2022",
+        "journal-title": "Social Studies of Science"
+      },
+      {
+        "key": "10.3233/IP-230003_ref43",
+        "first-page": "101",
+        "article-title": "Rule by Data: The End of Markets?",
+        "volume": "83",
+        "author": "Pistor",
+        "year": "2020",
+        "journal-title": "Law and Contemporary Problems"
+      },
+      {
+        "issue": "5",
+        "key": "10.3233/IP-230003_ref44",
+        "doi-asserted-by": "publisher",
+        "first-page": "439",
+        "DOI": "10.1080/01442872.2020.1723519",
+        "article-title": "The political economy of digital data: introduction to the special issue.",
+        "volume": "41",
+        "author": "Prainsack",
+        "year": "2020",
+        "journal-title": "Policy Studies"
+      },
+      {
+        "key": "10.3233/IP-230003_ref45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/23299460.2022.2061306",
+        "article-title": "Two tribes or more? The historical emergence of discourse coalitions of responsible research and innovation (rri) and Responsible Research and Innovation (RRI)",
+        "author": "Randles",
+        "year": "2022",
+        "journal-title": "Journal of Responsible Innovation"
+      },
+      {
+        "key": "10.3233/IP-230003_ref46",
+        "doi-asserted-by": "publisher",
+        "first-page": "473",
+        "DOI": "10.3233/IP-220004",
+        "article-title": "The effects of open government data on the inclusiveness of governance networks: Identifying management strategies and success factors.",
+        "volume": "27",
+        "author": "Reggi",
+        "year": "2022",
+        "journal-title": "Information Polity"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref47",
+        "doi-asserted-by": "publisher",
+        "first-page": "81",
+        "DOI": "10.1007/s11948-016-9761-6",
+        "article-title": "A Mobilising Concept? Unpacking Academic Representations of Responsible Research and Innovation.",
+        "volume": "23",
+        "author": "Ribeiro",
+        "year": "2017",
+        "journal-title": "Science and Engineering Ethics"
+      },
+      {
+        "issue": "3",
+        "key": "10.3233/IP-230003_ref48",
+        "doi-asserted-by": "publisher",
+        "first-page": "613",
+        "DOI": "10.1080/15309576.2019.1568884",
+        "article-title": "Open Government Data as an Innovation Process: Lessons from a Living Lab Experiment.",
+        "volume": "43",
+        "author": "Ruijer",
+        "year": "2020",
+        "journal-title": "Public Performance & Management Review"
+      },
+      {
+        "key": "10.3233/IP-230003_ref49",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.3233/IP-160012",
+        "article-title": "Utilization of open government data: A systematic literature review of types, conditions, effects and users.",
+        "volume": "22",
+        "author": "Safarov",
+        "year": "2017",
+        "journal-title": "Information Polity"
+      },
+      {
+        "key": "10.3233/IP-230003_ref50",
+        "doi-asserted-by": "publisher",
+        "first-page": "491",
+        "DOI": "10.3233/IP-220008",
+        "article-title": "Whose open data is it anyway? An exploratory study of open government data relevance and implications for democratic inclusion.",
+        "volume": "27",
+        "author": "Schwoerer",
+        "year": "2022",
+        "journal-title": "Information Polity"
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/IP-230003_ref51",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1111/1467-6478.00252",
+        "article-title": "‘Law in Context’ Revisited.",
+        "volume": "30",
+        "author": "Selznick",
+        "year": "2003",
+        "journal-title": "Journal of Law and Society"
+      },
+      {
+        "key": "10.3233/IP-230003_ref52",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.3233/IP-170045",
+        "article-title": "Barriers to innovating with open government data: Exploring experiences across service phases and user types.",
+        "volume": "23",
+        "author": "Smith",
+        "year": "2018",
+        "journal-title": "Information Polity"
+      },
+      {
+        "key": "10.3233/IP-230003_ref53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Stilgoe, J. (2020). Who’s driving innovation: New Technologies and the Collaborative State. Palgrave Macmillan.",
+        "DOI": "10.1007/978-3-030-32320-2"
+      },
+      {
+        "issue": "9",
+        "key": "10.3233/IP-230003_ref54",
+        "doi-asserted-by": "publisher",
+        "first-page": "1568",
+        "DOI": "10.1016/j.respol.2013.05.008",
+        "article-title": "Developing a framework for responsible innovation.",
+        "volume": "42",
+        "author": "Stilgoe",
+        "year": "2013",
+        "journal-title": "Research Policy"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref55",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.3233/IP-150353",
+        "article-title": "Driving factors of service innovation using open government data: An exploratory study of entrepreneurs in two countries.",
+        "volume": "20",
+        "author": "Susha",
+        "year": "2015",
+        "journal-title": "Information Polity"
+      },
+      {
+        "key": "10.3233/IP-230003_ref56",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1177/2053951717736335",
+        "article-title": "What is data justice? The case for connecting digital rights and freedoms globally.",
+        "author": "Taylor",
+        "year": "2017",
+        "journal-title": "4"
+      },
+      {
+        "key": "10.3233/IP-230003_ref57",
+        "doi-asserted-by": "publisher",
+        "first-page": "897",
+        "DOI": "10.1007/s13347-020-00441-4",
+        "article-title": "Public Actors Without Public Values: Legitimacy, Domination and the Regulation of the Technology Sector.",
+        "volume": "34",
+        "author": "Taylor",
+        "year": "2021",
+        "journal-title": "Philosophy & Technology"
+      },
+      {
+        "issue": "2",
+        "key": "10.3233/IP-230003_ref58",
+        "doi-asserted-by": "publisher",
+        "first-page": "355",
+        "DOI": "10.1080/17579961.2022.2113671",
+        "article-title": "(Re)making data markets: an exploration of the regulatory challenges.",
+        "volume": "14",
+        "author": "Taylor",
+        "year": "2022",
+        "journal-title": "Law, Innovation and Technology"
+      },
+      {
+        "key": "10.3233/IP-230003_ref59",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1177/2053951719858114",
+        "article-title": "What is responsible and sustainable data science?",
+        "author": "Taylor",
+        "year": "2019",
+        "journal-title": "6"
+      },
+      {
+        "issue": "1",
+        "key": "10.3233/IP-230003_ref60",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1002/poi3.275",
+        "article-title": "Open Government Data: the OECD’s Swiss Army Knife in the transformation of government [Manuscript submitted for publication]",
+        "volume": "14",
+        "author": "Valli Buttow",
+        "year": "2022",
+        "journal-title": "Policy & Internet"
+      },
+      {
+        "key": "10.3233/IP-230003_ref61",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1177/20539517221124587",
+        "article-title": "Public sector information in the European Union policy: The misbalance between economy and individuals.",
+        "author": "Valli Buttow",
+        "year": "2022",
+        "journal-title": "9"
+      },
+      {
+        "key": "10.3233/IP-230003_ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00146-022-01437-8"
+      },
+      {
+        "key": "10.3233/IP-230003_ref63",
+        "first-page": "573",
+        "article-title": "A relational theory of data governance.",
+        "volume": "131",
+        "author": "Viljoen",
+        "year": "2021",
+        "journal-title": "Yale LJ"
+      },
+      {
+        "key": "10.3233/IP-230003_ref64",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1177/20539517211034312",
+        "article-title": "Design choices: Mechanism design and platform capitalism.",
+        "author": "Viljoen",
+        "year": "2021",
+        "journal-title": "8"
+      },
+      {
+        "key": "10.3233/IP-230003_ref65",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Yanow, D. (2015). Making sense of policy practices: interpretation and meaning. In F. Fischer (Ed.), Handbook of Critical Policy Studies. Cheltenham, UK: Edward Elgar Publishing.",
+        "DOI": "10.4337/9781783472352.00031"
+      },
+      {
+        "key": "10.3233/IP-230003_ref66",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.14763/2021.3.1572",
+        "article-title": "Embedding European values in data governance: a case for public data commons.",
+        "author": "Zygmuntowski",
+        "year": "2021",
+        "journal-title": "10"
+      }
+    ],
+    "container-title": [
+      "Information Polity"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://content.iospress.com/download?id=10.3233/IP-230003",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2026-04-29T11:28:54Z",
+      "timestamp": 1777462134000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/full/10.3233/IP-230003"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          27
+        ]
+      ]
+    },
+    "references-count": 58,
+    "journal-issue": {
+      "issue": "3"
+    },
+    "URL": "https://doi.org/10.3233/ip-230003",
+    "relation": {},
+    "ISSN": [
+      "1570-1255",
+      "1875-8754"
+    ],
+    "issn-type": [
+      {
+        "value": "1570-1255",
+        "type": "print"
+      },
+      {
+        "value": "1875-8754",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          27
+        ]
+      ]
+    }
+  }
+}

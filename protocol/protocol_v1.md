@@ -26,13 +26,15 @@ described as one. Any later change to these rules gets a new version number
 | Unit | Definition | Value |
 |---|---|---|
 | Retrieved record instance | one record returned by one search or lookup, counted within each RQ | 3,507 (sum over RQs) |
-| Distinct retrieved DOI | one DOI, however often it was retrieved | 2,047 (from the retrieval ledgers; ledgers not in this repository) |
+| Distinct retrieved DOI | one DOI, however often it was retrieved | 2,047 (distinct DOIs over the five screening ledgers in `data/raw/retrieval_ledgers/`) |
 | Screened record | distinct DOI within one RQ after within-RQ deduplication | 3,221 (sum over RQs) |
 | Placement | one publication included under one RQ | 250 (50 per RQ) |
 | Unique publication | one DOI-identified publication, whatever the number of placements | 189 |
 
-All values except 2,047 are re-derived and checked by `src/07_audit_tables.py`
-(see `results/audit/audit_checks.csv`).
+All values are re-derived and checked by `src/07_audit_tables.py`
+(see `results/audit/audit_checks.csv`); 3,507, 3,221, 189 and 2,047 are also
+recounted from the original retrieval ledgers by `src/14_retrieval_recount.py`
+(`results/audit/retrieval_recount.csv`).
 
 ## 3. Sources and search
 

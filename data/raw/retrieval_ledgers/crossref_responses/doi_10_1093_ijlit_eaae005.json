@@ -1,0 +1,230 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ],
+      "date-time": "2026-07-07T03:05:56Z",
+      "timestamp": 1783393556826,
+      "version": "3.54.6"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              25
+            ]
+          ],
+          "date-time": "2024-02-25T00:00:00Z",
+          "timestamp": 1708819200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 86,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The present article analyses the main legal features of the EU Data Act, identifying some innovative aspects and shortcomings. Moving from the general approach elaborated by the Union towards data governance—a value-based approach flowing from the idea of enforcing the strategic autonomy of the Union—the article considers first the most relevant piece of legislation that complements the DA, that is, the EU Data Governance Act, and then assesses the DA in light of both the original proposal of the European Commission and the position adopted by the two EU co-legislatures—the European Parliament and the Council. An overview of the major competitive legal approaches to the governance of IoT data (namely, the USA and Chinese approaches) is also discussed, stressing possible synergies and conflicts with the EU’s approach.</jats:p>",
+    "DOI": "10.1093/ijlit/eaae005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2024-01-28T23:37:16Z",
+      "timestamp": 1706485036000
+    },
+    "page": "399-412",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "The EU Data Act in context: a legal assessment"
+    ],
+    "prefix": "10.1093",
+    "volume": "31",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3281-5426",
+        "authenticated-orcid": false,
+        "given": "Federico",
+        "family": "Casolari",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carlotta",
+        "family": "Buttaboni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luciano",
+        "family": "Floridi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          25
+        ]
+      ]
+    },
+    "container-title": [
+      "International Journal of Law and Information Technology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/ijlit/article-pdf/31/4/399/56963829/eaae005.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/ijlit/article-pdf/31/4/399/56963829/eaae005.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          23
+        ]
+      ],
+      "date-time": "2026-02-23T06:27:08Z",
+      "timestamp": 1771828028000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/ijlit/article/31/4/399/7614016"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            25
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            30
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/ijlit/eaae005",
+    "relation": {},
+    "ISSN": [
+      "0967-0769",
+      "1464-3693"
+    ],
+    "issn-type": [
+      {
+        "value": "0967-0769",
+        "type": "print"
+      },
+      {
+        "value": "1464-3693",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          1
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          1
+        ]
+      ]
+    }
+  }
+}

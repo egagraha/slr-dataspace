@@ -1,0 +1,202 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2026-10-31T06:02:23Z",
+      "timestamp": 1793426543518,
+      "version": "4.5.0"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              6
+            ]
+          ],
+          "date-time": "2024-07-06T00:00:00Z",
+          "timestamp": 1720224000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 187,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper aims to evaluate the concept of data sovereignty as applied to data spaces, particularly the Common European Data Space (CEDS). The CEDS aims to develop a single European data market through nine domain-specific data spaces: health, industrial and manufacturing, agriculture, finance, mobility, Green Deal, energy, public administration, and skills. It aims to do this by providing a secure and trustworthy technical architecture, a robust data-sharing business model realized through effective governance, and ensuring data sovereignty. Ensuring data sovereignty, however, is challenging when different agents all claim authority over their data within a data space. This paper focuses on three data sovereign agents in the CEDS—individual, organization, and state—to examine how data sovereignty can be implemented in data spaces based on current European Union regulations and whether shortcomings still need to be addressed.</jats:p>",
+    "DOI": "10.1093/ijlit/eaae006",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2024-05-29T10:27:31Z",
+      "timestamp": 1716978451000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "Will the real data sovereign please stand up? An EU policy response to sovereignty in data spaces"
+    ],
+    "prefix": "10.1093",
+    "volume": "32",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4850-0111",
+        "authenticated-orcid": false,
+        "given": "Mark",
+        "family": "Ryan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Paula",
+        "family": "Gürtler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Artur",
+        "family": "Bogucki",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          6
+        ]
+      ]
+    },
+    "container-title": [
+      "International Journal of Law and Information Technology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/ijlit/article-pdf/doi/10.1093/ijlit/eaae006/58461471/eaae006.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/ijlit/article-pdf/doi/10.1093/ijlit/eaae006/58461471/eaae006.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2025-03-30T15:44:32Z",
+      "timestamp": 1743349472000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/ijlit/article/doi/10.1093/ijlit/eaae006/7708555"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/ijlit/eaae006",
+    "relation": {},
+    "ISSN": [
+      "0967-0769",
+      "1464-3693"
+    ],
+    "issn-type": [
+      {
+        "value": "0967-0769",
+        "type": "print"
+      },
+      {
+        "value": "1464-3693",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published-other": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "article-number": "eaae006"
+  }
+}

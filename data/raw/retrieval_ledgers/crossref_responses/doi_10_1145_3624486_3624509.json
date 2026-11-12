@@ -1,0 +1,358 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2026-10-23T20:30:29Z",
+      "timestamp": 1792787429791,
+      "version": "4.5.0"
+    },
+    "publisher-location": "New York, NY, USA",
+    "reference-count": 19,
+    "publisher": "ACM",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              17
+            ]
+          ],
+          "date-time": "2023-10-17T00:00:00Z",
+          "timestamp": 1697500800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Flexible, scaLable and secUre decentralIzeD Operating System",
+        "award": [
+          "101070473"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "101070473"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "dl.acm.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          17
+        ]
+      ]
+    },
+    "DOI": "10.1145/3624486.3624509",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2023-10-17T14:16:25Z",
+      "timestamp": 1697552185000
+    },
+    "page": "77-85",
+    "update-policy": "https://doi.org/10.1145/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Enabling Compute and Data Sovereignty with Infrastructure-Level Data Spaces"
+    ],
+    "prefix": "10.1145",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0654-1855",
+        "authenticated-orcid": false,
+        "given": "Jacopo",
+        "family": "Marino",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Control and Computer Engineering, Politecnico di Torino, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0203-9094",
+        "authenticated-orcid": false,
+        "given": "Leonardo",
+        "family": "Camiciotti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "TOP-IX Consortium, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-5047-1691",
+        "authenticated-orcid": false,
+        "given": "Francesco",
+        "family": "Cheinasso",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ArubaKube, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-3111-9525",
+        "authenticated-orcid": false,
+        "given": "Alessandro",
+        "family": "Olivero",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ArubaKube, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6134-7890",
+        "authenticated-orcid": false,
+        "given": "Fulvio",
+        "family": "Risso",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Control and Computer Engineering, Politecnico di Torino, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "320",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_2_1_1_1",
+        "unstructured": "Catena-X. 2023. Catena-X. https://catena-x.net"
+      },
+      {
+        "key": "e_1_3_2_1_2_1",
+        "unstructured": "Jon Dugan Seth Elliott Bruce A. Mah Jeff Poskanzer and Kaustubh Prabhu. 2023. iPerf. https://iperf.fr"
+      },
+      {
+        "key": "e_1_3_2_1_3_1",
+        "unstructured": "Eclipse Foundation. 2023. Eclipse Dataspace Connector. https://projects.eclipse.org/projects/technology.edc"
+      },
+      {
+        "key": "e_1_3_2_1_4_1",
+        "unstructured": "Engineering. 2023. TRUE Connector. https://www.eng.it/en/case-studies/true-connector-per-facilitare-la-condivisione-di-dati-in-gaiax"
+      },
+      {
+        "key": "e_1_3_2_1_5_1",
+        "unstructured": "Envoy Project Authors. 2023. Envoy. https://www.envoyproxy.io"
+      },
+      {
+        "key": "e_1_3_2_1_6_1",
+        "unstructured": "European Commission. 2022. The European Data Act. https://digital-strategy.ec.europa.eu/en/library/data-act-proposal-regulation-harmonised-rules-fair-access-and-use-data"
+      },
+      {
+        "key": "e_1_3_2_1_7_1",
+        "unstructured": "European Commission. 2022. The European Data Governance Act. https://digital-strategy.ec.europa.eu/en/policies/data-governance-act"
+      },
+      {
+        "key": "e_1_3_2_1_8_1",
+        "unstructured": "Fraunhofer ISST. 2023. Dataspace Connector. https://www.isst.fraunhofer.de/en/business-units/data-business/technologies/Dataspace-Connector.html"
+      },
+      {
+        "key": "e_1_3_2_1_9_1",
+        "unstructured": "Gaia-X. 2023. Gaia-X. https://gaia-x.eu"
+      },
+      {
+        "key": "e_1_3_2_1_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2053951720982012"
+      },
+      {
+        "key": "e_1_3_2_1_11_1",
+        "unstructured": "International Data Spaces Association. 2023. International Data Spaces Website. https://internationaldataspaces.org"
+      },
+      {
+        "key": "e_1_3_2_1_12_1",
+        "unstructured": "International Data Spaces e. V.2023. IDS Reference Architecture Model. https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0"
+      },
+      {
+        "key": "e_1_3_2_1_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TCC.2022.3229163"
+      },
+      {
+        "key": "e_1_3_2_1_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/poi3.10"
+      },
+      {
+        "key": "e_1_3_2_1_15_1",
+        "unstructured": "Liqo. 2023. Liqo. https://liqo.io"
+      },
+      {
+        "key": "e_1_3_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lars Nagel and Douwe Lycklama. 2021. Design Principles for Data Spaces - Position Paper. https://doi.org/10.5281/zenodo.5105744",
+        "DOI": "10.5281/zenodo.5105744"
+      },
+      {
+        "key": "e_1_3_2_1_17_1",
+        "unstructured": "Proton AG. 2018. General Data Protection Regulation (GDPR) Website. https://gdpr.eu/what-is-gdpr/"
+      },
+      {
+        "key": "e_1_3_2_1_18_1",
+        "unstructured": "The Apache Software Foundation. 2023. ab - Apache HTTP server benchmarking tool. https://httpd.apache.org/docs/2.4/programs/ab.html"
+      },
+      {
+        "key": "e_1_3_2_1_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/BDCloud.2015.62"
+      }
+    ],
+    "event": {
+      "name": "ESAAM 2023: 3rd Eclipse Security, AI, Architecture and Modelling Conference on Cloud to Edge Continuum",
+      "location": "Ludwigsburg Germany",
+      "acronym": "ESAAM 2023"
+    },
+    "container-title": [
+      "Proceedings of the 3rd Eclipse Security, AI, Architecture and Modelling Conference on Cloud to Edge Continuum"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://dl.acm.org/doi/10.1145/3624486.3624509",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://dl.acm.org/doi/pdf/10.1145/3624486.3624509",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2025-06-18T13:49:46Z",
+      "timestamp": 1750254586000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dl.acm.org/doi/10.1145/3624486.3624509"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          17
+        ]
+      ]
+    },
+    "references-count": 19,
+    "alternative-id": [
+      "10.1145/3624486.3624509",
+      "10.1145/3624486"
+    ],
+    "URL": "https://doi.org/10.1145/3624486.3624509",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-10-17",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

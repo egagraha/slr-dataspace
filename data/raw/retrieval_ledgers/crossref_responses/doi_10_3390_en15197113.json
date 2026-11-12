@@ -1,0 +1,494 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T01:14:29Z",
+      "timestamp": 1792804469700,
+      "version": "4.5.0"
+    },
+    "reference-count": 29,
+    "publisher": "MDPI AG",
+    "issue": "19",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2022-09-27T00:00:00Z",
+          "timestamp": 1664236800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "SPRI-Basque Government",
+        "award": [
+          "KK-2021/00049"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "KK-2021/00049"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "https://ror.org/00pz2fp31",
+            "id-type": "ROR",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Energies"
+    ],
+    "abstract": "<jats:p>To boost data spaces and benefit from the great opportunities that they present, data sovereignty must be provided by Distributed Usage Control (DUC). Assuming that DUC will be managed by implementing and enforcing policies, notable efforts have already been undertaken in the context of Access Control (AC) regarding policy analysis due to the impact of low-quality policies on security. In this regard, this paper proposes that policy analysis in the DUC context should be understood as an extension of the AC, which is further affected by other challenging features, chief among which are context-aware control and extended control through action requirements. This paper presents a novel Context-Aware Policy Analysis (CAPA) algorithm for detecting inconsistencies and redundancies for DUC policies by supporting a large set of heterogeneous conditions. In this regard, the dependent relationship of conditions is formulated which will lead to more efficient conflict detection. By implementing this concept, a novel tree structure that combines a resource and a policy structure is presented to search for and compare relevant rules from policies. Built on the tree structure and through the formalization of rule conflicts, CAPA is developed and the security and performance it provides is tested in a wind energy use case.</jats:p>",
+    "DOI": "10.3390/en15197113",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2022-09-27T23:12:12Z",
+      "timestamp": 1664320332000
+    },
+    "page": "7113",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Context-Aware Policy Analysis for Distributed Usage Control"
+    ],
+    "prefix": "10.3390",
+    "volume": "15",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8988-4986",
+        "authenticated-orcid": false,
+        "given": "Gonzalo",
+        "family": "Gil",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Tekniker, Basque Research and Technology Alliance (BRTA), Iñaki Goenaga 5, 20600 Eibar, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9970-4803",
+        "authenticated-orcid": false,
+        "given": "Aitor",
+        "family": "Arnaiz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tekniker, Basque Research and Technology Alliance (BRTA), Iñaki Goenaga 5, 20600 Eibar, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8451-556X",
+        "authenticated-orcid": false,
+        "given": "Mariví",
+        "family": "Higuero",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Escuela de Ingeniería de Bilbao, Plaza Ingeniero Torres Quevedo 1, 48013 Bilbao, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco Javier",
+        "family": "Diez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Tekniker, Basque Research and Technology Alliance (BRTA), Iñaki Goenaga 5, 20600 Eibar, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7093-0586",
+        "authenticated-orcid": false,
+        "given": "Eduardo",
+        "family": "Jacob",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Escuela de Ingeniería de Bilbao, Plaza Ingeniero Torres Quevedo 1, 48013 Bilbao, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "unstructured": "Scaria, E., Berghmans, A., Pont, M., Arnaut, C., and Leconte, S. (2022, June 15). Study on Data Sharing between Companies in Europe: Final Report, Publications Office. Available online: https://data.europa.eu/doi/10.2759/354943."
+      },
+      {
+        "key": "ref_2",
+        "unstructured": "European Commission (2022, June 15). A European Strategy for Data | Shaping Europe. Available online: https://digital-strategy.ec.europa.eu/en/policies/strategy-data."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1016/j.rser.2015.11.050",
+        "article-title": "Big data driven smart energy management: From big data to big insights",
+        "volume": "56",
+        "author": "Zhou",
+        "year": "2016",
+        "journal-title": "Renew. Sustain. Energy Rev."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "549",
+        "DOI": "10.1007/s12599-019-00614-2",
+        "article-title": "Data Sovereignty and Data Space Ecosystems",
+        "volume": "61",
+        "author": "Jarke",
+        "year": "2019",
+        "journal-title": "Bus. Inf. Syst. Eng."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1038/529019a",
+        "article-title": "Renewables: Share data on wind energy",
+        "volume": "529",
+        "author": "Kusiak",
+        "year": "2016",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.5194/wes-1-1-2016",
+        "article-title": "Long-term Research Challenges in Wind Energy—A Research Agenda by the European Academy of Wind Energy",
+        "volume": "1",
+        "author": "Peinke",
+        "year": "2016",
+        "journal-title": "Wind Energy Sci."
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Leahy, K., Gallagher, C., O’Donovan, P., and O’Sullivan, D.T.J. (2019). Issues with Data Quality for Wind Turbine Condition Monitoring and Reliability Analyses. Energies, 12.",
+        "DOI": "10.3390/en12020201"
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "López De Calle, K., Ferreiro, S., Roldán-Paraponiaris, C., and Ulazia, A. (2019). A Context-Aware Oil Debris-Based Health Indicator for Wind Turbine Gearbox Condition Monitoring. Energies, 12.",
+        "DOI": "10.3390/en12173373"
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gil, G., Arnaiz, A., Higuero, M., and Diez, F.J. (2022). Assessment Framework for the Identification and Evaluation of Main Features for Distributed Usage Control Solutions. ACM Trans. Priv. Secur.",
+        "DOI": "10.1145/3561511"
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1109/MC.2011.225",
+        "article-title": "Sticky Policies: An Approach for Managing Privacy across Multiple Parties",
+        "volume": "44",
+        "author": "Pearson",
+        "year": "2011",
+        "journal-title": "Computer"
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3209668",
+        "article-title": "The Challenge of Access Control Policies Quality",
+        "volume": "10",
+        "author": "Bertino",
+        "year": "2018",
+        "journal-title": "J. Data Inf. Qual."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sandhu, R., and Park, J. (2003). Usage Control: A Vision for Next Generation Access Control. International Workshop on Mathematical Methods, Models, and Architectures for Computer Network Security, Springer.",
+        "DOI": "10.1007/978-3-540-45215-7_2"
+      },
+      {
+        "key": "ref_13",
+        "first-page": "54",
+        "article-title": "Analysis and Comparison of Access Control Policies Validation Mechanisms",
+        "volume": "7",
+        "author": "Aqib",
+        "year": "2014",
+        "journal-title": "Int. J. Comput. Netw. Inf. Secur."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3295749",
+        "article-title": "Methods and Tools for Policy Analysis",
+        "volume": "51",
+        "author": "Davari",
+        "year": "2019",
+        "journal-title": "ACM Comput. Surv."
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.cosrev.2010.02.002",
+        "article-title": "Usage control in computer security: A survey",
+        "volume": "4",
+        "author": "Lazouski",
+        "year": "2010",
+        "journal-title": "Comput. Sci. Rev."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1145/984334.984339",
+        "article-title": "The UCON ABC usage control model",
+        "volume": "7",
+        "author": "Park",
+        "year": "2004",
+        "journal-title": "ACM Trans. Inf. Syst. Secur."
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3183342",
+        "article-title": "Data Usage Control for Distributed Systems",
+        "volume": "21",
+        "author": "Kelbert",
+        "year": "2018",
+        "journal-title": "ACM Trans. Priv. Secur."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hilty, M., Pretschner, A., Basin, D., Schaefer, C., and Walter, T. (2007). A Policy Language for Distributed Usage Control. European Symposium on Research in Computer Security, Springer.",
+        "DOI": "10.1007/978-3-540-74835-9_35"
+      },
+      {
+        "key": "ref_19",
+        "unstructured": "Otto, B., Steinbuss, S., Teuscher, A., and Lohmann, S. (2022, June 15). IDSA Reference Architecture Model. Available online: https://internationaldataspaces.org//wp-content/uploads/IDS-Reference-Architecture-Model-3.0-2019.pdf."
+      },
+      {
+        "key": "ref_20",
+        "unstructured": "Andreas, E., Christian, J., Robin, B., Arghavan, H., Sebastian, B., Christian, K., Pascal, B., Gerd, B., Mark, G., and Fabian, B. (2022, June 15). Usage Control in the International Data Spaces 3.0. Available online: https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Position-Paper-Usage-Control-in-the-IDS-V3.pdf."
+      },
+      {
+        "key": "ref_21",
+        "unstructured": "Bader, S.R., and Maleshkova, M. (2019, January 3). Towards Enforceable Usage Policies for Industry 4.0. Proceedings of the International Workshop on Large Scale RDF Analytics (LASCAR) at Extended Semantic Web Conference (ESWC), Portorož, Slovenia."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang, C., Sun, J., Wang, X., and Si, Y. (2009, January 23–24). Inconsistency Management of Role Base Access Control Policy. Proceedings of the 2009 International Conference on E-Business and Information System Security, Wuhan, China.",
+        "DOI": "10.1109/EBISS.2009.5138002"
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1109/2.485845",
+        "article-title": "Role-based access control models",
+        "volume": "29",
+        "author": "Sandhu",
+        "year": "1996",
+        "journal-title": "Computer"
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sun, L., Wang, H., Tao, X., Zhang, Y., and Yang, J. (2011, January 16–18). Privacy Preserving Access Control Policy and Algorithms for Conflicting Problems. Proceedings of the 2011IEEE 10th International Conference on Trust, Security and Privacy in Computing and Communications, Changsha, China.",
+        "DOI": "10.1109/TrustCom.2011.34"
+      },
+      {
+        "key": "ref_25",
+        "unstructured": "Aqib, M., and Shaikh, R.A. (2014, January 1–2). An Algorithm to Detect Inconsistencies in Access Control Policies. Proceedings of the Intl. Conf. on Advances in Computing, Communication and Information Technology (CCIT’14), London, UK, China."
+      },
+      {
+        "key": "ref_26",
+        "unstructured": "Organization for the Advancement of Structured Information Standards (OASIS) (2022, June 15). eXtensible Access Control Markup Language (XACML) Version 3.0. Available online: http://docs.oasisopen.org/xacml/3.0/xacml-3.0-core-spec-os-en.pdf."
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mohan, A., Blough, D.M., Kurc, T., Post, A., and Saltz, J. (2011, January 12–15). Detection of Conflicts and Inconsistencies in Taxonomy-Based Authorization Policies. Proceedings of the 2011 IEEE International Conference on Bioinformatics and Biomedicine, Atlanta, GA, USA.",
+        "DOI": "10.1109/BIBM.2011.79"
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.jnca.2016.12.001",
+        "article-title": "Elimination of policy conflict to improve the PDP evaluation performance",
+        "volume": "80",
+        "author": "Deng",
+        "year": "2017",
+        "journal-title": "J. Netw. Comput. Appl."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peters, V.A., Hill, R.R., Stinebaugh, J.A., and Veers, P.S. (2009). Wind Turbine Reliability Database Update, Sandia National Laboratories.",
+        "DOI": "10.2172/983696"
+      }
+    ],
+    "container-title": [
+      "Energies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1996-1073/15/19/7113/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T00:40:48Z",
+      "timestamp": 1760143248000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1996-1073/15/19/7113"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          27
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "19",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "en15197113"
+    ],
+    "URL": "https://doi.org/10.3390/en15197113",
+    "relation": {},
+    "ISSN": [
+      "1996-1073"
+    ],
+    "issn-type": [
+      {
+        "value": "1996-1073",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          27
+        ]
+      ]
+    }
+  }
+}

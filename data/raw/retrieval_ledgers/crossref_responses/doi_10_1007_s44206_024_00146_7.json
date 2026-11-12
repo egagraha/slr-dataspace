@@ -1,0 +1,1097 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2026-11-06T03:53:21Z",
+      "timestamp": 1793937201122,
+      "version": "4.8.0"
+    },
+    "reference-count": 91,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              14
+            ]
+          ],
+          "date-time": "2024-11-14T00:00:00Z",
+          "timestamp": 1731542400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              14
+            ]
+          ],
+          "date-time": "2024-11-14T00:00:00Z",
+          "timestamp": 1731542400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100030993",
+        "name": "Università della Svizzera italiana",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/100030993",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "DISO"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Digital sovereignty is a popular yet still emerging concept. It is claimed by and related to various global actors, whose narratives are often competing and mutually inconsistent. This article offers a mapping of the types of national digital sovereignty that are emerging, while testing their effectiveness in response to radical changes and challenges. To do this, we systematically analyse a corpus of 271 peer-reviewed articles to identify descriptive features (<jats:italic>how</jats:italic> digital sovereignty is pursued) and value features (<jats:italic>why</jats:italic> digital sovereignty is pursued), which we use to produce four models: the <jats:italic>rights-based model, market-oriented model, centralisation model</jats:italic>, and <jats:italic>state-based model</jats:italic>. We evaluate their effectiveness within a framework of <jats:italic>robust governance</jats:italic> that accounts for the models’ ability to absorb the disruptions caused by technological advancements, geopolitical changes, and evolving societal norms. We find that none of the models fully combine comprehensive regulation of digital technologies with a sufficient degree of responsiveness to fast-paced technological innovation and social and economic shifts. This paper’s analysis offers valuable lessons to policymakers who wish to implement an effective and robust form of digital sovereignty.</jats:p>",
+    "DOI": "10.1007/s44206-024-00146-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          14
+        ]
+      ],
+      "date-time": "2024-11-14T12:43:46Z",
+      "timestamp": 1731588226000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 81,
+    "title": [
+      "Digital Sovereignty: A Descriptive Analysis and a Critical Evaluation of Existing Models"
+    ],
+    "prefix": "10.1007",
+    "volume": "3",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-9483-9850",
+        "authenticated-orcid": false,
+        "given": "Samuele",
+        "family": "Fratini",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emmie",
+        "family": "Hine",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claudio",
+        "family": "Novelli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Huw",
+        "family": "Roberts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luciano",
+        "family": "Floridi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "3",
+        "key": "146_CR1",
+        "first-page": "579",
+        "volume": "87",
+        "author": "H. J. Allen",
+        "year": "2019",
+        "unstructured": "Allen, H. J. (2019). Regulatory sandboxes. George Washington Law Review, 87(3), 579–645.",
+        "journal-title": "George Washington Law Review"
+      },
+      {
+        "key": "146_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1108/S0733-558X20150000044005",
+        "volume-title": "Institutions and ideals: Philip Selznick’s Legacy for organizational studies",
+        "author": "C. Ansell",
+        "year": "2015",
+        "unstructured": "Ansell, C., Boin, A., & Farjoun, M. (2015). Dynamic conservatism: How institutions change to remain the same. In Institutions and ideals: Philip Selznick’s Legacy for organizational studies (Vol. 44, pp. 89–119, Research in the Sociology of Organizations). Emerald Group Publishing Limited. https://doi.org/10.1108/S0733-558X20150000044005"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1111/padm.12874",
+        "volume": "101",
+        "author": "C. Ansell",
+        "year": "2023",
+        "unstructured": "Ansell, C., Sørensen, E., & Torfing, J. (2023). Public administration and politics meet turbulence: The search for robust governance responses. Public Administration, 101(1), 3–22. https://doi.org/10.1111/padm.12874",
+        "journal-title": "Public Administration"
+      },
+      {
+        "key": "146_CR4",
+        "unstructured": "Ansell, C., Sørensen, E., Torfing, J., & Trondal, J. (2024). Robust governance in turbulent times, Elements in Public Policy. https://www.cambridge.org/core/elements/robust-governance-in-turbulent-times/AB44DBE9AA636390EC114E8A428BF188"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "43",
+        "DOI": "10.1093/ppmgov/gvx013",
+        "volume": "1",
+        "author": "C. Ansell",
+        "year": "2018",
+        "unstructured": "Ansell, C., & Trondal, J. (2018). Governing turbulence: An organizational- institutional agenda. Perspectives on Public Management and Governance, 1(1), 43–57. https://doi.org/10.1093/ppmgov/gvx013",
+        "journal-title": "Perspectives on Public Management and Governance"
+      },
+      {
+        "key": "146_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.4000/chinaperspectives.6973",
+        "volume": "2",
+        "author": "S. Arsène",
+        "year": "2016",
+        "unstructured": "Arsène, S. (2016). Global internet governance in chinese academic literature: Rebalancing a Hegemonic World order? China Perspectives, 2, 25–35. https://doi.org/10.4000/chinaperspectives.6973",
+        "journal-title": "China Perspectives"
+      },
+      {
+        "key": "146_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "232",
+        "DOI": "10.1016/j.comcom.2020.04.020",
+        "volume": "157",
+        "author": "S. C. Arum",
+        "year": "2020",
+        "unstructured": "Arum, S. C., Grace, D., & Mitchell, P. D. (2020, May). A review of wireless communication using high-altitude platforms for extended coverage and capacity. Computer Communications, 157, 232–256. https://doi.org/10.1016/j.comcom.2020.04.020",
+        "journal-title": "Computer Communications"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "337",
+        "DOI": "10.1080/09662839.2022.2101887",
+        "volume": "31",
+        "author": "R. Bellanova",
+        "year": "2022",
+        "unstructured": "Bellanova, R., Carrapico, H., & Duez, D. (2022). Digital/Sovereignty and European security integration: An introduction. European Security, 31(3), 337–355. https://doi.org/10.1080/09662839.2022.2101887",
+        "journal-title": "European Security"
+      },
+      {
+        "key": "146_CR9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780197649268.001.0001",
+        "volume-title": "Digital empires: The global battle to regulate technology",
+        "author": "A. Bradford",
+        "year": "2023",
+        "unstructured": "Bradford, A. (2023). Digital empires: The global battle to regulate technology. Oxford University Press."
+      },
+      {
+        "key": "146_CR10",
+        "unstructured": "Bromberg, L., Godwin, A., & Ramsay, I. (2017). Fintech sandboxes: Achieving a balance between regulation and innovation. SSRN Scholarly Paper. Rochester, NY. https://papers.ssrn.com/abstract=3090844"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1017/err.2022.38",
+        "volume": "14",
+        "author": "J. Chamberlain",
+        "year": "2023",
+        "unstructured": "Chamberlain, J. (2023). The risk-based approach of the European Union’s proposed artificial intelligence regulation: Some comments from a Tort Law perspective. European Journal of Risk Regulation, 14(1), 1–13. https://doi.org/10.1017/err.2022.38",
+        "journal-title": "European Journal of Risk Regulation"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR12",
+        "first-page": "639",
+        "volume": "63",
+        "author": "A. Chander",
+        "year": "2013",
+        "unstructured": "Chander, A. (2013). How law made silicon valley. Emory Law Journal, 63(3), 639–694.",
+        "journal-title": "Emory Law Journal"
+      },
+      {
+        "key": "146_CR13",
+        "first-page": "49",
+        "volume": "90",
+        "author": "A. Chander",
+        "year": "2023",
+        "unstructured": "Chander, A., & Schwartz, P. (2023). Privacy and/or trade. University of Chicago Law Review, 90, 49–136.",
+        "journal-title": "University of Chicago Law Review"
+      },
+      {
+        "key": "146_CR14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chander, A., & Sun, H. (2021). Sovereignty 2.0. Vanderbilt Law Review, 55.",
+        "DOI": "10.2139/ssrn.3904949"
+      },
+      {
+        "key": "146_CR15",
+        "unstructured": "Chi, S. (2023). China’s investment in AI expected to reach $38.1b in 2027. China Daily. Retrieved August 23, 2023, from https://global.chinadaily.com.cn/a/202308/23/WS64e5b34fa31035260b81dc9f.html"
+      },
+      {
+        "key": "146_CR16",
+        "volume-title": "Data sovereignty: From the digital silk road to the return of the state",
+        "author": "T. Christakis",
+        "year": "2023",
+        "unstructured": "Christakis, T. (2023). European digital sovereignty, data protection, and the push toward data localization. In Data sovereignty: From the digital silk road to the return of the state. Oxford University Press."
+      },
+      {
+        "issue": "10",
+        "key": "146_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "2305",
+        "DOI": "10.1177/1461444819865984",
+        "volume": "21",
+        "author": "S. Couture",
+        "year": "2019",
+        "unstructured": "Couture, S., & Toupin, S. (2019). What does the notion of “Sovereignty” mean when referring to the digital? New Media & Society, 21(10), 2305–2322. https://doi.org/10.1177/1461444819865984",
+        "journal-title": "New Media & Society"
+      },
+      {
+        "key": "146_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Creemers, R. (2020). China’s conception of cyber sovereignty: Rhetoric and realization. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3532421",
+        "DOI": "10.2139/ssrn.3532421"
+      },
+      {
+        "key": "146_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "213",
+        "DOI": "10.1007/978-3-031-10260-8_12",
+        "volume-title": "U.S. leadership in a world of uncertainties",
+        "author": "F. Douzet",
+        "year": "2022",
+        "unstructured": "Douzet, F., & Taillat, S. (2022). Prepping for long-term competition? U.S. leadership in cyberspace from Trump to Biden. In M. Stricof & I. Vagnoux (Eds..), U.S. leadership in a world of uncertainties (pp. 213–234). Springer International Publishing. https://doi.org/10.1007/978-3-031-10260-8_12"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "61",
+        "DOI": "10.1515/popets-2015-0005",
+        "volume": "2015",
+        "author": "R. Ensafi",
+        "year": "2015",
+        "unstructured": "Ensafi, R., Winter, P., Mueen, A., & Crandall, J. R. (2015). Analyzing the Great Firewall of China over space and time. Proceedings on Privacy Enhancing Technologies, 2015(1), 61–76. https://doi.org/10.1515/popets-2015-0005",
+        "journal-title": "Proceedings on Privacy Enhancing Technologies"
+      },
+      {
+        "key": "146_CR21",
+        "unstructured": "Ewe, K. (2023). Vietnam amps up authoritarian online censorship in the name of child safety. TIME. Retrieved October 12, 2023, from https://time.com/6322914/vietnam-tiktok-social-media-censorship-child-safety/"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1080/09662839.2022.2102896",
+        "volume": "31",
+        "author": "B. Farrand",
+        "year": "2022",
+        "unstructured": "Farrand, B., & Carrapico, H. (2022). Digital sovereignty and taking back control: From regulatory capitalism to regulatory mercantilism in EU cybersecurity. European Security, 31(3), 435–453. https://doi.org/10.1080/09662839.2022.2102896",
+        "journal-title": "European Security"
+      },
+      {
+        "issue": "11",
+        "key": "146_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.56397/LE.2023.11.07",
+        "volume": "2",
+        "author": "J. Feng",
+        "year": "2023",
+        "unstructured": "Feng, J., Yu, Y., & Xu, T. (2023). Content regulation laws for chinese ISPs: Legal responsibilities in free speech and filtering of harmful content. Law & Economy, 2(11), 53–59.",
+        "journal-title": "Law & Economy"
+      },
+      {
+        "key": "146_CR80",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Floridi, L. (2021). The end of an era: From self-regulation to hard law for the digital industry. Philosophy & Technology, 34(4), 619–22. https://doi.org/10.1007/s13347-021-00493-0",
+        "DOI": "10.1007/s13347-021-00493-0"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1386/jdmp.10.1.33_1",
+        "volume": "10",
+        "author": "T. Flew",
+        "year": "2019",
+        "unstructured": "Flew, T., Martin, F., & Suzor, N. (2019). Internet regulation as media policy: Rethinking the question of digital communication platform governance. Journal of Digital Media & Policy, 10(1), 33–50. https://doi.org/10.1386/jdmp.10.1.33_1",
+        "journal-title": "Journal of Digital Media & Policy"
+      },
+      {
+        "key": "146_CR81",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fratini, S. (2024). Performing privacy culture. The platform Threema and the contestation of surveillance made in Switzerland. Studi culturali, 1, 3–26. https://doi.org/10.1405/113065",
+        "DOI": "10.1405/113065"
+      },
+      {
+        "key": "146_CR82",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fratini, S., & Musiani, F. (2024). Data localization as contested and narrated security in the age of digital sovereignty: The case of Switzerland. Information, Communication & Society, June, 1–19. https://doi.org/10.1080/1369118X.2024.2362302",
+        "DOI": "10.1080/1369118X.2024.2362302"
+      },
+      {
+        "key": "146_CR25",
+        "unstructured": "Fonte, G., & Cao, E. (2021). Italy’s Draghi vetoes third chinese takeover this year. Reuters, Retrieved November 23, 2021, from, sec. Deals. https://www.reuters.com/markets/deals/italys-draghi-vetoes-third-chinese-takeover-this-year-2021-11-23/"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "347",
+        "DOI": "10.1111/gove.12035",
+        "volume": "26",
+        "author": "F. Fukuyama",
+        "year": "2013",
+        "unstructured": "Fukuyama, F. (2013). What Is governance? Governance, 26(3), 347–368. https://doi.org/10.1111/gove.12035",
+        "journal-title": "Governance"
+      },
+      {
+        "issue": "2",
+        "key": "146_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "139",
+        "DOI": "10.1080/13669877.2018.1517381",
+        "volume": "23",
+        "author": "M. E. Gonçalves",
+        "year": "2020",
+        "unstructured": "Gonçalves, M. E. (2020). The risk-based approach under the new EU data protection regulation: A critical perspective. Journal of Risk Research, 23(2), 139–152. https://doi.org/10.1080/13669877.2018.1517381",
+        "journal-title": "Journal of Risk Research"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "125",
+        "DOI": "10.1007/s00146-023-01729-7",
+        "volume": "39",
+        "author": "G. Gordon",
+        "year": "2024",
+        "unstructured": "Gordon, G. (2024). Digital sovereignty, digital infrastructures, and quantum horizons. AI and Society, 39(1), 125–137. https://doi.org/10.1007/s00146-023-01729-7",
+        "journal-title": "AI and Society"
+      },
+      {
+        "key": "146_CR29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7249/RRA176-1",
+        "volume-title": "Chinese views of big data analytics",
+        "author": "D. Grossman",
+        "year": "2020",
+        "unstructured": "Grossman, D., Curriden, C., Ma, L., Polley, L., Williams, J. D., & Cortez, C. (2020). Chinese views of big data analytics. RAND Corporation. https://doi.org/10.7249/RRA176-1"
+      },
+      {
+        "key": "146_CR30",
+        "unstructured": "Guest, P. (2023). Britain admits defeat in controversial fight to break encryption. Wired, Retrieved September 6, 2023, from https://www.wired.com/story/britain-admits-defeat-online-safety-bill-encryption/"
+      },
+      {
+        "issue": "5",
+        "key": "146_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "256",
+        "DOI": "10.1007/s42979-020-00277-x",
+        "volume": "1",
+        "author": "S. R. Gundu",
+        "year": "2020",
+        "unstructured": "Gundu, S. R., Panem, C. A., & Thimmapuram, A. (2020). Hybrid IT and multi cloud an emerging trend and improved performance in cloud computing. SN Computer Science, 1(5), 256. https://doi.org/10.1007/s42979-020-00277-x",
+        "journal-title": "SN Computer Science"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "38",
+        "DOI": "10.3917/mouv.079.0038",
+        "volume": "79",
+        "author": "A. Haché",
+        "year": "2014",
+        "unstructured": "Haché, A. (2014). La Souveraineté Technologique. Mouvements, 79(3), 38–48. https://doi.org/10.3917/mouv.079.0038",
+        "journal-title": "Mouvements"
+      },
+      {
+        "key": "146_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hacker, P. (2020). AI regulation in Europe. SSRN Scholarly Paper. Rochester, NY. https://doi.org/10.2139/ssrn.3556532",
+        "DOI": "10.2139/ssrn.3556532"
+      },
+      {
+        "issue": "2",
+        "key": "146_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "229",
+        "DOI": "10.1080/13563467.2020.1841137",
+        "volume": "26",
+        "author": "E. Helleiner",
+        "year": "2021",
+        "unstructured": "Helleiner, E. (2021). The diversity of economic nationalism. New Political Economy, 26(2), 229–238. https://doi.org/10.1080/13563467.2020.1841137",
+        "journal-title": "New Political Economy"
+      },
+      {
+        "issue": "4",
+        "key": "146_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "591",
+        "DOI": "10.1177/1049732316665344",
+        "volume": "27",
+        "author": "M. M. Hennink",
+        "year": "2017",
+        "unstructured": "Hennink, M. M., Kaiser, B. N., & Marconi, V. C. (2017). Code saturation versus meaning saturation: How many interviews are enough? Qualitative Health Research, 27(4), 591–608. https://doi.org/10.1177/1049732316665344",
+        "journal-title": "Qualitative Health Research"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "156",
+        "DOI": "10.1080/17579961.2020.1727094",
+        "volume": "12",
+        "author": "R. Herian",
+        "year": "2020",
+        "unstructured": "Herian, R. (2020). Blockchain, GDPR, and fantasies of data sovereignty. Law, Innovation and Technology, 12(1), 156–174. https://doi.org/10.1080/17579961.2020.1727094",
+        "journal-title": "Law, Innovation and Technology"
+      },
+      {
+        "key": "146_CR83",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hine, E. (2022). The impact of Australia’s news media bargaining code on journalism, democracy, and the battle to regulate big tech. In J. Mökander & M. Ziosi (Eds.), The 2021 yearbook of the digital ethics lab (pp. 63–74). Springer International Publishing. https://doi.org/10.1007/978-3-031-09846-8_5",
+        "DOI": "10.1007/978-3-031-09846-8_5"
+      },
+      {
+        "issue": "4",
+        "key": "146_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "405",
+        "DOI": "10.1080/14494035.2018.1504488",
+        "volume": "37",
+        "author": "M. Howlett",
+        "year": "2018",
+        "unstructured": "Howlett, M., Capano, G., & Ramesh, M. (2018). Designing for robustness: Surprise, agility and improvisation in policy design. Policy and Society, 37(4), 405–421. https://doi.org/10.1080/14494035.2018.1504488",
+        "journal-title": "Policy and Society"
+      },
+      {
+        "key": "146_CR38",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hummel, P., Braun, M., Tretter, M., & Dabrock, P. (2021). Data sovereignty: A review. Big Data and Society, 8(1). https://doi.org/10.1177/2053951720982012",
+        "DOI": "10.1177/2053951720982012"
+      },
+      {
+        "key": "146_CR100",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Katz, A. (2024). Sedating Democracy’s Watchdogs: Critical reflections on Canada’s proposed online news act. Columbia Journal of Law & the Arts, 46(3). Available at SSRN: https://ssrn.com/abstract=4458514",
+        "DOI": "10.52214/jla.v46i3.11234"
+      },
+      {
+        "key": "146_CR39",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Keane, M., & Wu, H. (2018). Lofty ambitions, new territories, and turf battles: China’s platforms “Go Out”’. Media Industries Journal, 5(1). https://doi.org/10.3998/mij.15031809.0005.104",
+        "DOI": "10.3998/mij.15031809.0005.104"
+      },
+      {
+        "key": "146_CR40",
+        "unstructured": "Knockel, J., Dalek, J., Meletti, L., & Ermoshina, K. (2023). Not OK on VK: An analysis of in-platform censorship on Russia’s VKontakt. https://hdl.handle.net/1807/129345"
+      },
+      {
+        "key": "146_CR41",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kretschmer, M., Schlesinger, P., & Furgal, U. (2021). The emergence of platform regulation in the UK: An empirical-legal study. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3888149",
+        "DOI": "10.2139/ssrn.3888149"
+      },
+      {
+        "issue": "8",
+        "key": "146_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1583",
+        "DOI": "10.1177/01634437231174351",
+        "volume": "45",
+        "author": "A. Kumar",
+        "year": "2023",
+        "unstructured": "Kumar, A., & Thussu, D. (2023). Media, digital sovereignty and geopolitics: The case of the Tiktok ban in India. Media, Culture & Society, 45(8), 1583–1599. https://doi.org/10.1177/01634437231174351",
+        "journal-title": "Media, Culture & Society"
+      },
+      {
+        "key": "146_CR43",
+        "unstructured": "Leloup, D. (2023). Brazil bans Telegram in latest stage of troubled relationship with app. Le Monde.Fr, Retrieved April 27, 2023, from https://www.lemonde.fr/en/pixels/article/2023/04/27/brazil-bans-telegram-in-latest-stage-of-troubled-relationship-with-app_6024575_13.html"
+      },
+      {
+        "key": "146_CR84",
+        "unstructured": "Lim, J. (2022). Digital Joseon: Digital transformation under North Korea’s five-year plan. North Korean Review, 18(1), 72–105. https://www.jstor.org/stable/27160576"
+      },
+      {
+        "issue": "2",
+        "key": "146_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "131",
+        "DOI": "10.1080/00380237.2018.1544514",
+        "volume": "52",
+        "author": "J. Low",
+        "year": "2019",
+        "unstructured": "Low, J. (2019). A pragmatic definition of the concept of theoretical saturation. Sociological Focus, 52(2), 131–139. https://doi.org/10.1080/00380237.2018.1544514",
+        "journal-title": "Sociological Focus"
+      },
+      {
+        "key": "146_CR45",
+        "unstructured": "Mahapatra, S. (2021). Digital surveillance and the threat to civil liberties in India. Social Science Open Access Repository. https://nbn-resolving.org/urn:nbn:de:0168-ssoar-73130-3"
+      },
+      {
+        "key": "146_CR46",
+        "volume-title": "Made in China 2025 as a challenge in global trade governance: Analysis and recommendations",
+        "author": "A. Malkin",
+        "year": "2018",
+        "unstructured": "Malkin, A. (2018). Made in China 2025 as a challenge in global trade governance: Analysis and recommendations. Centre for International Governance Innovation."
+      },
+      {
+        "key": "146_CR47",
+        "volume-title": "Anthem frontiers of global political economy",
+        "author": "M. Mazzucato",
+        "year": "2014",
+        "unstructured": "Mazzucato, M. (2014). The entrepreneurial state: Debunking Public vs. Private sector myths. In Anthem frontiers of global political economy (Revised ed.). Anthem Press.",
+        "edition": "Revised"
+      },
+      {
+        "key": "146_CR48",
+        "unstructured": "Moerel, L., & Timmers, P. (2021). Reflections on digital sovereignty. SSRN Scholarly Paper. Rochester, NY. https://papers.ssrn.com/abstract=3772777"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1080/09662839.2022.2101883",
+        "volume": "31",
+        "author": "L. Monsees",
+        "year": "2022",
+        "unstructured": "Monsees, L., & Lambach, D. (2022). Digital sovereignty, geopolitical imaginaries, and the reproduction of European identity. European Security, 31(3), 377–394. https://doi.org/10.1080/09662839.2022.2101883",
+        "journal-title": "European Security"
+      },
+      {
+        "key": "146_CR50",
+        "unstructured": "Motamedi, M. (2024). Iran unveils plan for tighter internet rules to promote local platforms. Al Jazeera. Retrieved February 24, 2024, from https://www.aljazeera.com/news/2024/2/24/iran-unveils-plan-for-tighter-internet-rules-to-promote-local-platforms"
+      },
+      {
+        "issue": "6",
+        "key": "146_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "785",
+        "DOI": "10.1080/1369118X.2022.2049850",
+        "volume": "25",
+        "author": "F. Musiani",
+        "year": "2022",
+        "unstructured": "Musiani, F. (2022). Infrastructuring digital sovereignty: A research agenda for an infrastructure-based sociology of digital self-determination practices. Information, Communication & Society, 25(6), 785–800. https://doi.org/10.1080/1369118X.2022.2049850",
+        "journal-title": "Information, Communication & Society"
+      },
+      {
+        "key": "146_CR52",
+        "unstructured": "Navlakha, M. (2024). Which countries have banned TikTok? Mashable. Retrieved March 14, 2024, from https://mashable.com/article/tiktok-ban-countries"
+      },
+      {
+        "key": "146_CR85",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Novelli, C., Casolari, F., Rotolo, A., Taddeo, M., & Floridi, L. (2023). Taking AI risks seriously: A new assessment model for the AI Act. AI & Society, July. https://doi.org/10.1007/s00146-023-01723-z",
+        "DOI": "10.1007/s00146-023-01723-z"
+      },
+      {
+        "key": "146_CR86",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Novelli, C., Casolari, F., Hacker, P., Spedicato, G., & Floridi, L. (2024). Generative AI in EU law: Liability, privacy, intellectual property, and cybersecurity. SSRN Scholarly Paper. Rochester, NY. https://doi.org/10.2139/ssrn.4694565",
+        "DOI": "10.2139/ssrn.4694565"
+      },
+      {
+        "key": "146_CR53",
+        "unstructured": "NVIDIA Corporation. (2023). Form 10-Q. https://d18rn0p25nwr6d.cloudfront.net/CIK-0001045810/19771e6b-cc29-4027-899e-51a0c386111e.pdf"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "257",
+        "DOI": "10.1080/17544750.2019.1572633",
+        "volume": "12",
+        "author": "J. C. Plantin",
+        "year": "2019",
+        "unstructured": "Plantin, J. C., & De Seta, G. (2019). WeChat as infrastructure: The techno-nationalist shaping of Chinese digital platforms. Chinese Journal of Communication, 12(3), 257–273. https://doi.org/10.1080/17544750.2019.1572633",
+        "journal-title": "Chinese Journal of Communication"
+      },
+      {
+        "key": "146_CR55",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Pohle, J., & Thiel, T. (2020). Digital sovereignty. Internet Policy Review, 9(4). https://doi.org/10.14763/2020.4.1532",
+        "DOI": "10.14763/2020.4.1532"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "221",
+        "DOI": "10.1111/padm.12872",
+        "volume": "101",
+        "author": "W. Pot",
+        "year": "2023",
+        "unstructured": "Pot, W., Scherpenisse, J., & ’t Hart, P. (2023). Robust governance for the long term and the heat of the moment: Temporal strategies for coping with dual crises. Public Administration, 101(1), 221–235. https://doi.org/10.1111/padm.12872",
+        "journal-title": "Public Administration"
+      },
+      {
+        "issue": "6",
+        "key": "146_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "801",
+        "DOI": "10.1080/1369118X.2022.2056498",
+        "volume": "25",
+        "author": "R. Prasad",
+        "year": "2022",
+        "unstructured": "Prasad, R. (2022). People as data, data as oil: The digital sovereignty of the Indian State. Information, Communication & Society, 25(6), 801–815. https://doi.org/10.1080/1369118X.2022.2056498",
+        "journal-title": "Information, Communication & Society"
+      },
+      {
+        "key": "146_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "43",
+        "DOI": "10.1093/oso/9780198833079.003.0003",
+        "volume-title": "Negotiating internet governance",
+        "author": "R. Radu",
+        "year": "2019",
+        "unstructured": "Radu, R. (2019). Revisiting the origins: The internet and its early governance. In R. Radu (Ed.), Negotiating internet governance (pp. 43–74). Oxford University Press. https://doi.org/10.1093/oso/9780198833079.003.0003"
+      },
+      {
+        "key": "146_CR59",
+        "unstructured": "Rahman, Z. (2023). Censorship and content filtering. Business Post BD. Retrieved February 18, 2023, from https://businesspostbd.com/opinion-todays-paper/2023-02-18/censorship-and-content-filtering-2023-02-18"
+      },
+      {
+        "key": "146_CR87",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Rao, Y. (2023). Discourse as infrastructure: How “New Infrastructure” policies re-infrastructure China. Global Media and China, 8(3), 254–270. https://doi.org/10.1177/20594364231198605",
+        "DOI": "10.1177/20594364231198605"
+      },
+      {
+        "issue": "3",
+        "key": "146_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "572",
+        "DOI": "10.1017/S1752971915000081",
+        "volume": "7",
+        "author": "M. Raymond",
+        "year": "2015",
+        "unstructured": "Raymond, M., & DeNardis, L. (2015). Multistakeholderism: Anatomy of an inchoate global institution. International Theory, 7(3), 572–616.",
+        "journal-title": "International Theory"
+      },
+      {
+        "issue": "1",
+        "key": "146_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1080/13523260.2023.2269809",
+        "volume": "45",
+        "author": "M. Raymond",
+        "year": "2023",
+        "unstructured": "Raymond, M., & Sherman, J. (2023). Authoritarian multilateralism in the global cyber regime complex: The double transformation of an international diplomatic practice. Contemporary Security Policy, 45(1), 110–140. https://doi.org/10.1080/13523260.2023.2269809",
+        "journal-title": "Contemporary Security Policy"
+      },
+      {
+        "key": "146_CR62",
+        "unstructured": "Rembert, R. L. (2022). TikTok, WeChat, and national security: Toward a U.S. data privacy framework. Oklahoma Law Review, 74, 463–501"
+      },
+      {
+        "key": "146_CR89",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Roberts, H. (2024). Digital sovereignty: A normative approach. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4699167",
+        "DOI": "10.2139/ssrn.4699167"
+      },
+      {
+        "key": "146_CR88",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Roberts, H., Cowls, J., Casolari, F., Morley, J., Taddeo, M., & Floridi, L. (2021). Safeguarding European values with digital sovereignty: An analysis of statements and policies. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3937345",
+        "DOI": "10.2139/ssrn.3937345"
+      },
+      {
+        "key": "146_CR90",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Roberts, H., Hine, E., & Floridi, L. (2023). Digital sovereignty, digital expansionism, and the prospects for global AI Governance. In M. Timoteo, B. Verri, & R. Nanni (Eds.), Quo Vadis, Sovereignty? (Vol. 154, pp. 51–75). Philosophical Studies Series. Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-41566-1_4",
+        "DOI": "10.1007/978-3-031-41566-1_4"
+      },
+      {
+        "key": "146_CR63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/j.ctv301hg5",
+        "volume-title": "Turbulence in world politics: A theory of change and continuity",
+        "author": "J. N. Rosenau",
+        "year": "2018",
+        "unstructured": "Rosenau, J. N. (2018). Turbulence in world politics: A theory of change and continuity. Princeton University Press."
+      },
+      {
+        "issue": "2",
+        "key": "146_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "215",
+        "DOI": "10.1111/j.1748-5991.2012.01153.x",
+        "volume": "7",
+        "author": "H. Rothstein",
+        "year": "2013",
+        "unstructured": "Rothstein, H., Borraz, O., & Huber, M. (2013). Risk and the limits of governance: Exploring varied patterns of risk-based governance across Europe. Regulation & Governance, 7(2), 215–235. https://doi.org/10.1111/j.1748-5991.2012.01153.x",
+        "journal-title": "Regulation & Governance"
+      },
+      {
+        "key": "146_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "580",
+        "DOI": "10.1093/oxfordhb/9780199811755.013.001",
+        "volume-title": "The Oxford handbook of qualitative research",
+        "author": "J. Saldaña",
+        "year": "2014",
+        "unstructured": "Saldaña, J. (2014). Coding and analysis strategies. In J. Saldaña & P. Leavy (Eds.), The Oxford handbook of qualitative research (pp. 580–598). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780199811755.013.001"
+      },
+      {
+        "key": "146_CR66",
+        "unstructured": "Schreieck, M., Wiesche, M., & Krcmar, H. (2016). Modularization of digital services for urban transportation."
+      },
+      {
+        "issue": "1",
+        "key": "146_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1111/padm.12875",
+        "volume": "101",
+        "author": "F. Scognamiglio",
+        "year": "2023",
+        "unstructured": "Scognamiglio, F., Sancino, A., Caló, F., Jacklin-Jarvis, C., & Rees, J. (2023). The public sector and co-creation in turbulent times: A systematic literature review on robust governance in the COVID-19 emergency. Public Administration, 101(1), 53–70. https://doi.org/10.1111/padm.12875",
+        "journal-title": "Public Administration"
+      },
+      {
+        "key": "146_CR68",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Scott, J., & Marshall, G. (2015). Ideal type. Oxford Reference, 2015, https://doi.org/10.1093/oi/authority.20110803095956574",
+        "DOI": "10.1093/oi/authority.20110803095956574"
+      },
+      {
+        "key": "146_CR69",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sivetc, L. (2021, April). Controlling free expression “by Infrastructure” in the Russian Internet: The consequences of RuNet sovereignization. First Monday. https://doi.org/10.5210/fm.v26i5.11698",
+        "DOI": "10.5210/fm.v26i5.11698"
+      },
+      {
+        "key": "146_CR70",
+        "volume-title": "Theory Redux",
+        "author": "N. Srnicek",
+        "year": "2017",
+        "unstructured": "Srnicek, N. (2017). Platform capitalism. In Theory Redux. Polity."
+      },
+      {
+        "key": "146_CR71",
+        "unstructured": "Statista (2023). Number of internet users in China 2023. https://www.statista.com/statistics/265140/number-of-internet-users-in-china/"
+      },
+      {
+        "key": "146_CR72",
+        "volume-title": "Speech by Breton on the cybersecurity of 5G networks",
+        "author": "T. Breton",
+        "year": "2023",
+        "unstructured": "Breton, T. (2023). Speech by Breton on the cybersecurity of 5G networks. European Commission. https://ec.europa.eu/commission/presscorner/detail/en/speech_23_3314"
+      },
+      {
+        "key": "146_CR73",
+        "first-page": "1",
+        "volume-title": "Data protection and privacy: enforcing rights in a changing world",
+        "author": "J. Thumfart",
+        "year": "2021",
+        "unstructured": "Thumfart, J. (2021). The norm development of digital sovereignty between China, Russia, the EU and the US: From the late 1990s to the Covid-crisis 2020/21 as catalytic event. In Data protection and privacy: enforcing rights in a changing world (Vol. 14, pp. 1–44). Hart Publishing."
+      },
+      {
+        "issue": "1",
+        "key": "146_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1007/s44206-022-00030-2",
+        "volume": "2",
+        "author": "M. Tretter",
+        "year": "2023",
+        "unstructured": "Tretter, M. (2023). Sovereignty in the digital and contact tracing apps. Digital Society, 2(1), 2. https://doi.org/10.1007/s44206-022-00030-2",
+        "journal-title": "Digital Society"
+      },
+      {
+        "issue": "2",
+        "key": "146_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "270",
+        "DOI": "10.1017/err.2021.52",
+        "volume": "13",
+        "author": "J. Truby",
+        "year": "2022",
+        "unstructured": "Truby, J., Dean Brown, R., Ibrahim, I. A., & Caudevilla Parellada, O. (2022). A sandbox approach to regulating high-risk artificial intelligence applications. European Journal of Risk Regulation, 13(2), 270–294. https://doi.org/10.1017/err.2021.52",
+        "journal-title": "European Journal of Risk Regulation"
+      },
+      {
+        "key": "146_CR76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780429273957",
+        "volume-title": "Indigenous data sovereignty and policy",
+        "author": "M. Walter",
+        "year": "2020",
+        "unstructured": "Walter, M., Kukutai, T., Russo Carroll, S., & Rodriguez-Lonebear, D. (2020). Indigenous data sovereignty and policy (1st ed.).Routledge. https://doi.org/10.4324/9780429273957",
+        "edition": "1st ed."
+      },
+      {
+        "issue": "12",
+        "key": "146_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "610",
+        "DOI": "10.3390/jrfm15120610",
+        "volume": "15",
+        "author": "P. B. Washington",
+        "year": "2022",
+        "unstructured": "Washington, P. B., Ur Rehman, S., & Lee, E. (2022). Nexus between regulatory sandbox and performance of digital banks—A study on UK digital banks. Journal of Risk and Financial Management, 15(12), 610. https://doi.org/10.3390/jrfm15120610",
+        "journal-title": "Journal of Risk and Financial Management"
+      },
+      {
+        "key": "146_CR78",
+        "first-page": "694",
+        "volume-title": "Proceedings of the International AAAI Conference on Web and Social Media",
+        "author": "X. Yang",
+        "year": "2021",
+        "unstructured": "Yang, X., Yang, Q., & Wilson, C. (2021). Penny for your thoughts: Searching for the 50 cent party on Sina Weibo. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 9, pp. 694–697)."
+      },
+      {
+        "issue": "3",
+        "key": "146_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "417",
+        "DOI": "10.1093/cjip/poab005",
+        "volume": "14",
+        "author": "J. Zeng",
+        "year": "2021",
+        "unstructured": "Zeng, J. (2021). Securitization of artificial intelligence in China. The Chinese Journal of International Politics, 14(3), 417–445. https://doi.org/10.1093/cjip/poab005",
+        "journal-title": "The Chinese Journal of International Politics"
+      }
+    ],
+    "container-title": [
+      "Digital Society"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44206-024-00146-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s44206-024-00146-7/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44206-024-00146-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2025-02-18T17:46:48Z",
+      "timestamp": 1739900808000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s44206-024-00146-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          14
+        ]
+      ]
+    },
+    "references-count": 91,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "146"
+    ],
+    "URL": "https://doi.org/10.1007/s44206-024-00146-7",
+    "relation": {},
+    "ISSN": [
+      "2731-4650",
+      "2731-4669"
+    ],
+    "issn-type": [
+      {
+        "value": "2731-4650",
+        "type": "print"
+      },
+      {
+        "value": "2731-4669",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          14
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "8 May 2024",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "24 October 2024",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "14 November 2024",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors report there are no competing interests to declare.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "59"
+  }
+}

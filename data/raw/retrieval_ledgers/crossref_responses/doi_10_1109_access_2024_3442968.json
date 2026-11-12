@@ -1,0 +1,908 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2026-10-25T12:26:28Z",
+      "timestamp": 1792931188423,
+      "version": "4.5.0"
+    },
+    "reference-count": 111,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2024-01-01T00:00:00Z",
+          "timestamp": 1704067200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001602",
+        "name": "Science Foundation Ireland",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SFI/12/RC/2289_P2"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SFI/12/RC/2289_P2"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001602",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Access"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "10.1109/access.2024.3442968",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2024-08-13T13:38:35Z",
+      "timestamp": 1723556315000
+    },
+    "page": "112637-112658",
+    "source": "Crossref",
+    "is-referenced-by-count": 29,
+    "title": [
+      "Empowering Dataspace 4.0: Unveiling Promise of Decentralized Data-Sharing"
+    ],
+    "prefix": "10.1109",
+    "volume": "12",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2857-6979",
+        "authenticated-orcid": false,
+        "given": "Saeed Hamood",
+        "family": "Alsamhi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Insight Centre for Data Analytics, University of Galway, Galway, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1069-3993",
+        "authenticated-orcid": false,
+        "given": "Ammar",
+        "family": "Hawbani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Computer Science, Shenyang Aerospace University, Shenyang, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2264-9014",
+        "authenticated-orcid": false,
+        "given": "Santosh",
+        "family": "Kumar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of CSE, IIIT Naya Raipur, Naya Raipur, Chhattisgarh, India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3886-9898",
+        "authenticated-orcid": false,
+        "given": "Mohan",
+        "family": "Timilsina",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Insight Centre for Data Analytics, University of Galway, Galway, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1796-344X",
+        "authenticated-orcid": false,
+        "given": "Majjed",
+        "family": "Al-Qatf",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Insight Centre for Data Analytics, University of Galway, Galway, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rafiqul",
+        "family": "Haque",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Insight Centre for Data Analytics, University of Galway, Galway, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Farhan M. A.",
+        "family": "Nashwan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science and Engineering, College of Informatics, Korea University, Seongbuk-gu, Seoul, Republic of Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5829-6850",
+        "authenticated-orcid": false,
+        "given": "Liang",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Computer Science, Shenyang Aerospace University, Shenyang, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8236-6433",
+        "authenticated-orcid": false,
+        "given": "Edward",
+        "family": "Curry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Insight Centre for Data Analytics, University of Galway, Galway, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "volume-title": "Dataspace 4.0",
+        "year": "2023"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.20944/preprints202305.0529.v1",
+        "article-title": "Dataspace in the sky: A novel decentralized framework to secure drones data sharing in B5G for industry 4.0 toward industry 5.0",
+        "author": "Alsamhi",
+        "year": "2023"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COMST.2023.3329472"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/jiot.2024.3412224"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JIOT.2024.3367249"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/tsusc.2024.3409329"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/widm.1521"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2024.3392838"
+      },
+      {
+        "key": "ref9",
+        "first-page": "1",
+        "article-title": "Industrial data space-digital sovereignty over data",
+        "volume-title": "Proc. Digitising Eur. Ind. WG2 Meeting",
+        "volume": "8",
+        "author": "Scerri"
+      },
+      {
+        "key": "ref10",
+        "article-title": "A blockchain-based approach for secure, transparent and accountable personal data sharing",
+        "author": "Alansari",
+        "year": "2020"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0135545"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hbm.25120"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4018/978-1-4666-6539-2.ch074"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-023-02115-5"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bcra.2021.100006"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2022.3164081"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0282257"
+      },
+      {
+        "key": "ref18",
+        "article-title": "Blockchain-empowered trustworthy data sharing: Fundamentals, applications, and challenges",
+        "author": "Nguyen",
+        "year": "2023",
+        "journal-title": "arXiv:2303.06546"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jksuci.2022.01.019"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-93975-5_22"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICBC48266.2020.9169441"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2020.09.160"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/LCSYS.2023.3290470"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.future.2022.11.010"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/25120"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iot.2023.100754"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/access.2023.3240237"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-70604-3_2"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3502741"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MIC.2022.3209804"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/fi14060161"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42979-020-00315-8"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/PERCOMW.2004.1276914"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/INFOCOMWKSHPS51825.2021.9484474"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12911-020-01275-y"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TII.2019.2942190"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2980765.2980768"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4236/jis.2018.91008"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2021.3065880"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TrustCom50675.2020.00251"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/fi14110341"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12525-019-00362-x"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/eSmarTA56775.2022.9935421"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.iotcps.2023.04.006"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/drones6070177"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cie.2016.07.013"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3050220.3050224"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bushor.2015.03.008"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/eSmarTA59349.2023.10293744"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comnet.2012.12.018"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/HICSS.2016.488"
+      },
+      {
+        "key": "ref52",
+        "volume-title": "Logistics & Supply Chain Management",
+        "author": "Christopher",
+        "year": "2016"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207543.2018.1518610"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mser.2020.100604"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijpe.2015.02.020"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apenergy.2017.06.054"
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/C-CODE58145.2023.10139871"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/app11073186"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/J.ENG.2017.05.015"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s22155918"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207543.2018.1488086"
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3447568.3448537"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/BigData59044.2023.10386401"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/VR.2019.8797733"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-29665-0"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jii.2023.100438"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1742-6596/2311/1/012006"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41587-023-01770-3"
+      },
+      {
+        "key": "ref69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/SW-200371"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4337/9781784717766.00019"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2020.3032450"
+      },
+      {
+        "key": "ref72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ett.4255"
+      },
+      {
+        "key": "ref73",
+        "first-page": "21260",
+        "article-title": "Bitcoin: A peer-to-peer electronic cash system",
+        "author": "Nakamoto",
+        "year": "2008",
+        "journal-title": "Decentralized Bus. Rev."
+      },
+      {
+        "key": "ref74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.dcan.2020.06.002"
+      },
+      {
+        "key": "ref75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/machines9090193"
+      },
+      {
+        "key": "ref76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10686967.2018.1404373"
+      },
+      {
+        "key": "ref77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TGCN.2022.3195479"
+      },
+      {
+        "key": "ref78",
+        "volume-title": "The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology",
+        "author": "Mougayar",
+        "year": "2016"
+      },
+      {
+        "key": "ref79",
+        "volume-title": "Blockchain: Blueprint for a New Economy",
+        "author": "Swan",
+        "year": "2015"
+      },
+      {
+        "key": "ref80",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207543.2018.1533261"
+      },
+      {
+        "key": "ref81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijinfomgt.2017.12.005"
+      },
+      {
+        "key": "ref82",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/info8020044"
+      },
+      {
+        "key": "ref83",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10916-016-0574-6"
+      },
+      {
+        "issue": "6",
+        "key": "ref84",
+        "first-page": "71",
+        "article-title": "Blockchain technology: Beyond Bitcoin",
+        "volume": "2",
+        "author": "Crosby",
+        "year": "2016",
+        "journal-title": "Appl. Innov."
+      },
+      {
+        "key": "ref85",
+        "first-page": "190",
+        "article-title": "RIF primer",
+        "volume-title": "Proc. W3C Recommendation",
+        "volume": "22",
+        "author": "Morgenstern"
+      },
+      {
+        "key": "ref86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1135777.1135784"
+      },
+      {
+        "key": "ref87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4018/978-1-60960-593-3.ch008"
+      },
+      {
+        "key": "ref88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-030-37439-6_1"
+      },
+      {
+        "key": "ref89",
+        "article-title": "Federated learning: Strategies for improving communication efficiency",
+        "author": "Koneč ný",
+        "year": "2016",
+        "journal-title": "arXiv:1610.05492"
+      },
+      {
+        "key": "ref90",
+        "first-page": "374",
+        "article-title": "Towards federated learning at scale: System design",
+        "volume-title": "Proc. Mach. Learn. Syst.",
+        "volume": "1",
+        "author": "Bonawitz"
+      },
+      {
+        "key": "ref91",
+        "first-page": "429",
+        "article-title": "Federated optimization in heterogeneous networks",
+        "volume-title": "Proc. Mach. Learn. Syst.",
+        "volume": "2",
+        "author": "Li"
+      },
+      {
+        "key": "ref92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.future.2023.06.001"
+      },
+      {
+        "key": "ref93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1561/9781601988195"
+      },
+      {
+        "key": "ref94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41746-020-00323-1"
+      },
+      {
+        "key": "ref95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3298981"
+      },
+      {
+        "key": "ref96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2023.3323399"
+      },
+      {
+        "key": "ref97",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICC.2019.8761315"
+      },
+      {
+        "key": "ref98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2023/9992393"
+      },
+      {
+        "key": "ref99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TGCN.2021.3132561"
+      },
+      {
+        "key": "ref100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JIOT.2023.3263598"
+      },
+      {
+        "key": "ref101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1080192.1080198"
+      },
+      {
+        "key": "ref102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/CCNC.2007.155"
+      },
+      {
+        "key": "ref103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/514191.514206"
+      },
+      {
+        "key": "ref104",
+        "first-page": "1",
+        "article-title": "Implementing pushback: Router-based defense against DDoS attacks",
+        "volume-title": "Proc. NDSS",
+        "author": "Ioannidis"
+      },
+      {
+        "key": "ref105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/3-540-45748-8_8"
+      },
+      {
+        "key": "ref106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2017.2727054"
+      },
+      {
+        "key": "ref107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TSG.2021.3088309"
+      },
+      {
+        "key": "ref108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4236/ijcns.2009.23025"
+      },
+      {
+        "key": "ref109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2196/24460"
+      },
+      {
+        "key": "ref110",
+        "volume-title": "A secure peer-to-peer application framework",
+        "author": "Koskela",
+        "year": "2015"
+      },
+      {
+        "key": "ref111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comnet.2006.02.001"
+      }
+    ],
+    "container-title": [
+      "IEEE Access"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx8/6287639/10380310/10634457.pdf?arnumber=10634457",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          1
+        ]
+      ],
+      "date-time": "2024-09-01T00:11:20Z",
+      "timestamp": 1725149480000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/10634457/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 111,
+    "URL": "https://doi.org/10.1109/access.2024.3442968",
+    "relation": {},
+    "ISSN": [
+      "2169-3536"
+    ],
+    "issn-type": [
+      {
+        "value": "2169-3536",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  }
+}

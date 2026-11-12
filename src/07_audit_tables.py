@@ -4,7 +4,7 @@ Rebuilds machine-readable versions of the search log and of the 250 placements
 from data/raw/References-Lists.md and checks that every count reported in the
 manuscript reconciles. Nothing here changes the corpus.
 
-Input : data/raw/References-Lists.md, results/prisma_counts.csv,
+Input : data/raw/References-Lists.md, results/prisma_counts.csv, results/audit/retrieval_recount.csv,
         results/evidence_by_rq.csv, data/processed/corpus_189.csv
 Output: results/audit/search_log.csv            one row per search or lookup
         results/audit/placements.csv            one row per RQ placement (publication-RQ link)
@@ -173,9 +173,10 @@ for rq in RQS:
 tot = Counter(p["evidence_placement"] for p in placements)
 check("evidence A/S/M over 250 placements (manuscript: 146/30/74)", "146/30/74",
       f"{tot['A']}/{tot['S']}/{tot['M']}", hard=False)
-checks.append(dict(check="2,047 distinct retrieved DOIs", expected=2047, observed="not reproducible",
-                   status="not checkable", severity="soft",
-                   note="the per-query retrieval ledgers are not in the repository; the figure is taken from the list"))
+# distinct retrieved DOIs: recounted from the original ledgers by src/14_retrieval_recount.py
+recount = {r["rq"]: r for r in csv.DictReader((OUT / "retrieval_recount.csv").open(encoding="utf-8"))}
+check("2,047 distinct retrieved DOIs (data/raw/retrieval_ledgers)", 2047,
+      int(recount["all RQs (each DOI once)"]["screened_distinct"]))
 
 with (OUT / "audit_checks.csv").open("w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=["check", "expected", "observed", "status", "severity", "note"])

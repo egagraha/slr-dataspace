@@ -1,0 +1,983 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          8
+        ]
+      ],
+      "date-time": "2026-06-08T21:58:45Z",
+      "timestamp": 1780955925007,
+      "version": "3.54.1"
+    },
+    "reference-count": 72,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100014013",
+        "name": "UK Research and Innovation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "10066635"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "10066635"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100014013",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100014013",
+        "name": "UK Research and Innovation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "10042569"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "10042569"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100014013",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Computer Law &amp; Security Review"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.clsr.2026.106303",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2026-04-10T08:26:02Z",
+      "timestamp": 1775809562000
+    },
+    "page": "106303",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "C",
+    "title": [
+      "Neutrality and competitiveness of data intermediaries under the DGA: Reality strikes back"
+    ],
+    "prefix": "10.1016",
+    "volume": "61",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6465-2700",
+        "authenticated-orcid": false,
+        "given": "Santiago Andrés",
+        "family": "Azcoitia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Palumbo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandra",
+        "family": "Papageorgiou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tervel",
+        "family": "Bobev",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3962-9303",
+        "authenticated-orcid": false,
+        "given": "George",
+        "family": "Konstantinidis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.clsr.2026.106303_b1",
+        "series-title": "Permacrisis: A plan to fix a fractured world",
+        "author": "Brown",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b2",
+        "series-title": "Modeling the global economic impact of AI",
+        "author": "Bughin",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b3",
+        "unstructured": "IDC. The Global impact of AI on the economy and jobs. echnical report, 2024."
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b4",
+        "series-title": "Value of data - policy implications",
+        "author": "Coyle",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b5",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/3572751.3572755",
+        "article-title": "A survey of data marketplaces and their business models",
+        "author": "Azcoitia",
+        "year": "2022",
+        "journal-title": "ACM SIGMOD Rec"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b6",
+        "unstructured": "European Commission. A European strategy for data. Technical report, (COM(2020) 66 final). 2020."
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b7",
+        "series-title": "Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European Data Governance and amending Regulation (EU) 2018/1724 (Data Governance Act)",
+        "author": "European Parliament and European Council",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b8",
+        "series-title": "Data governance act: Article-by-article commentary",
+        "author": "Specht-Riemenschneider",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b9",
+        "series-title": "Study to support an impact assessment on enhancing the use of data in Europe",
+        "author": "van der Peijl",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b10",
+        "first-page": "270",
+        "article-title": "The data governance act: – promoting or restricting data intermediaries?",
+        "volume": "23",
+        "author": "Von Ditfurth",
+        "year": "2022",
+        "journal-title": "Compét Regul Netw Ind"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b11",
+        "unstructured": "Draghi M. The future of European competitiveness. Technical report, 2024."
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b12",
+        "series-title": "Einige bemerkungen aus oekonomischer sicht",
+        "author": "Kerber",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b13",
+        "article-title": "Reconciling conflicting interests in data through data governance. An analytical framework (and a brief discussion of the data governance act draft, the data act draft, the AI regulation draft, as well as the GDPR)",
+        "author": "Von Grafenstein",
+        "year": "2022",
+        "journal-title": "SSRN Electron J"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b14",
+        "author": "European Parliament and European Council",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b15",
+        "unstructured": "European Data Protection Board, European Data Protection Supervisor. Joint opinion 03/2021. Technical report 03, 2021."
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b16",
+        "article-title": "Regulating data intermediaries: The impact of the data governance act on the EU’s data economy",
+        "volume": "50",
+        "author": "Carovano",
+        "year": "2023",
+        "journal-title": "Comput Law & Secur Rev"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b17",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1093/grurint/ikad014",
+        "article-title": "Looking at the data governance act and beyond: How to better integrate data intermediaries in the market order for data sharing",
+        "volume": "72",
+        "author": "Richter",
+        "year": "2023",
+        "journal-title": "GRUR Int"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b18",
+        "series-title": "Implementing the data governance act – guidance document",
+        "author": "European Commission",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b19",
+        "author": "European Commission",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b20",
+        "series-title": "EU Register of Data Intermediation Services [accessed on december 2025]",
+        "author": "European Commission",
+        "year": "2025"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b21",
+        "series-title": "Citip white paper on the definition of data intermediation services",
+        "author": "Bobev",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b22",
+        "series-title": "Mapping the landscape of data intermediaries — Emerging models for more inclusive data governance",
+        "author": "Micheli",
+        "year": "2023"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.clsr.2026.106303_b23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2307/794286",
+        "article-title": "Competition, contract, and vertical integration",
+        "volume": "69",
+        "author": "Kessler",
+        "year": "1959",
+        "journal-title": "Yale Law J",
+        "ISSN": "https://id.crossref.org/issn/0044-0094",
+        "issn-type": "print"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b24",
+        "series-title": "Data Act – The path to the digital decade",
+        "author": "European Commission and Directorate-General for Communication",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b25",
+        "series-title": "Commission staff working document impact assessment report, accompanying the document proposal for the data governance act",
+        "author": "European Commission",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b26",
+        "series-title": "D2.1. Definition and analysis of the EU and worldwide data market trends and industrial needs for growth",
+        "author": "Simon",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b27",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s12525-022-00547-x",
+        "article-title": "Business model archetypes for data marketplaces in the automotive industry",
+        "volume": "32",
+        "author": "Bergman",
+        "year": "2022",
+        "journal-title": "Electron Mark"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b28",
+        "series-title": "Proc. of the 1st international workshop on data economy",
+        "article-title": "Measuring the price of data in commercial data marketplaces",
+        "author": "Azcoitia",
+        "year": "2022"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.clsr.2026.106303_b29",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1145/3572751.3572757",
+        "article-title": "Revisiting online data markets in 2022: A seller and buyer perspective",
+        "volume": "51",
+        "author": "Kennedy",
+        "year": "2022",
+        "journal-title": "ACM SIGMOD Rec"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.clsr.2026.106303_b30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1933",
+        "DOI": "10.14778/3407790.3407800",
+        "article-title": "Data market platforms: trading data assets to solve data problems",
+        "volume": "13",
+        "author": "Fernandez",
+        "year": "2020",
+        "journal-title": "Proc the VLDB Endow"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b31",
+        "series-title": "Infonomics: how to monetize, manage, and measure information as an asset for competitive advantage",
+        "author": "Laney",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b32",
+        "series-title": "Information rules: A strategic guide to the network economy",
+        "author": "Shapiro",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b33",
+        "series-title": "Proceedings of the 20th international conference on artificial intelligence and statistics",
+        "article-title": "Communication-efficient learning of deep networks from decentralized data",
+        "volume": "vol. 54",
+        "author": "McMahan",
+        "year": "2017"
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.clsr.2026.106303_b34",
+        "first-page": "1",
+        "article-title": "Advances and open problems in federated learning",
+        "volume": "14",
+        "author": "Kairouz",
+        "year": "2021",
+        "journal-title": "Found Trends® Mach Learn"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.clsr.2026.106303_b35",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1109/MSP.2020.2975749",
+        "article-title": "Federated learning: Challenges, methods, and future directions",
+        "volume": "37",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "IEEE Signal Process Mag"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b36",
+        "series-title": "A survey on federated learning systems: Vision, hype and reality for data privacy and protection, 35 (4)",
+        "first-page": "3347",
+        "author": "Li",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b37",
+        "doi-asserted-by": "crossref",
+        "first-page": "4586",
+        "DOI": "10.1109/TKDE.2020.3045927",
+        "article-title": "A survey on data pricing: From economics to data science",
+        "volume": "34",
+        "author": "Pei",
+        "year": "2022",
+        "journal-title": "IEEE Trans Knowl Data Eng"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b38",
+        "series-title": "Proceedings of the 2019 international conference on management of data",
+        "article-title": "Towards model-based pricing for machine learning in a data marketplace",
+        "author": "Chen",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b39",
+        "series-title": "Proceedings of the 2019 ACM conference on economics and computation",
+        "article-title": "A marketplace for data: An algorithmic solution",
+        "author": "Agarwal",
+        "year": "2019"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.clsr.2026.106303_b40",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.14778/3447689.3447700",
+        "article-title": "Dealer: An end-to-end model marketplace with differential privacy",
+        "volume": "14",
+        "author": "Liu",
+        "year": "2021",
+        "journal-title": "Proc the VLDB Endow"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b41",
+        "series-title": "International conference on artificial intelligence and statistics, AISTATS 2022, 28-30 March 2022, virtual event",
+        "first-page": "11422",
+        "article-title": "Data appraisal without data sharing",
+        "volume": "vol. 151",
+        "author": "Xu",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b42",
+        "series-title": "International conference on machine learning",
+        "first-page": "42081",
+        "article-title": "Addressing budget allocation and revenue allocation in data market environments using an adaptive sampling algorithm",
+        "author": "Zhao",
+        "year": "2023"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.clsr.2026.106303_b43",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1093/ojls/gqu011",
+        "article-title": "Information concepts in law: Generic dreams and definitional daylight",
+        "volume": "35",
+        "author": "Bygrave",
+        "year": "2015",
+        "journal-title": "Oxf J Leg Stud"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.clsr.2026.106303_b44",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1093/idpl/ipad019",
+        "article-title": "Code as personal data: implications for data protection law and regulation of algorithms",
+        "volume": "13",
+        "author": "Purtova",
+        "year": "2023",
+        "journal-title": "Int Data Priv Law"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b45",
+        "series-title": "Private data valuation and fair payment in data marketplaces",
+        "author": "Tian",
+        "year": "2023"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.clsr.2026.106303_b46",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ipm.2024.103849",
+        "article-title": "Get by how much you pay: A novel data pricing scheme for data trading",
+        "volume": "61",
+        "author": "Lu",
+        "year": "2024",
+        "journal-title": "Inf Process Manage"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.clsr.2026.106303_b47",
+        "doi-asserted-by": "crossref",
+        "first-page": "10700",
+        "DOI": "10.1109/JIOT.2019.2940820",
+        "article-title": "Incentive mechanism for reliable federated learning: A joint optimization approach to combining reputation and contract theory",
+        "volume": "6",
+        "author": "Kang",
+        "year": "2019",
+        "journal-title": "IEEE Internet Things J"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b48",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.eswa.2023.123071",
+        "article-title": "TiFLCS-MARP: Client selection and model pricing for federated learning in data markets",
+        "volume": "245",
+        "author": "Sun",
+        "year": "2024",
+        "journal-title": "Expert Syst Appl"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b49",
+        "series-title": "Collaborative machine learning markets with data-replication-robust payments",
+        "author": "Ohrimenko",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b50",
+        "series-title": "Proceedings of the fourteenth annual ACM-SIAM symposium on discrete algorithms",
+        "article-title": "Competitiveness via consensus",
+        "volume": "vol. 3",
+        "author": "Goldberg",
+        "year": "2003"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.clsr.2026.106303_b51",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1016/j.geb.2006.02.003",
+        "article-title": "Competitive auctions",
+        "volume": "55",
+        "author": "Goldberg",
+        "year": "2006",
+        "journal-title": "Games Econom Behav"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b52",
+        "article-title": "A theory of pricing private data",
+        "author": "Li",
+        "year": "2015",
+        "journal-title": "ACM Trans Database Syst"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b53",
+        "series-title": "Theory and applications of models of computation",
+        "first-page": "1",
+        "article-title": "Differential privacy: A survey of results",
+        "author": "Dwork",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b54",
+        "series-title": "IConference 2015 proceedings",
+        "article-title": "A pricing model for data markets",
+        "author": "Heckman",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b55",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.cie.2017.08.008",
+        "article-title": "Data pricing strategy based on data quality",
+        "volume": "112",
+        "author": "Yu",
+        "year": "2017",
+        "journal-title": "Comput Ind Eng"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.clsr.2026.106303_b56",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1155/2019/5964068",
+        "article-title": "Big data market optimization pricing model based on data quality",
+        "volume": "2019",
+        "author": "Yang",
+        "year": "2019",
+        "journal-title": "Complexity"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b57",
+        "series-title": "The eleventh international conference on learning representations",
+        "article-title": "LAVA: Data valuation without pre-specified learning algorithms",
+        "author": "Just",
+        "year": "2023"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.clsr.2026.106303_b58",
+        "doi-asserted-by": "crossref",
+        "first-page": "4433",
+        "DOI": "10.14778/3685800.3685893",
+        "article-title": "DataPrice: An interactive system for pricing datasets in data marketplaces",
+        "volume": "17",
+        "author": "Zhu",
+        "year": "2024",
+        "journal-title": "Proc VLDB Endow",
+        "ISSN": "https://id.crossref.org/issn/2150-8097",
+        "issn-type": "print"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.clsr.2026.106303_b59",
+        "doi-asserted-by": "crossref",
+        "first-page": "580",
+        "DOI": "10.1016/j.jretai.2023.11.003",
+        "article-title": "Dynamic pricing: Definition, implications for managers, and future research directions",
+        "volume": "99",
+        "author": "Kopalle",
+        "year": "2023",
+        "journal-title": "J Retail"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.clsr.2026.106303_b60",
+        "first-page": "1928",
+        "article-title": "Online pricing with reserve price constraint for personal data markets",
+        "volume": "34",
+        "author": "Niu",
+        "year": "2020",
+        "journal-title": "IEEE Trans Knowl Data Eng"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moor D. Data markets with dynamic arrival of buyers and sellers. In: Proceedings of the 14th workshop on the economics of networks, systems and computation. 2019, p. 1–6.",
+        "DOI": "10.1145/3338506.3340270"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zheng Z, Peng Y, Wu F, Tang S, Chen G. An online pricing mechanism for mobile crowdsensing data markets. In: Proceedings of the 18th ACM international symposium on mobile ad hoc networking and computing. 2017, p. 1–10.",
+        "DOI": "10.1145/3084041.3084044"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.clsr.2026.106303_b63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1038",
+        "DOI": "10.1109/TBDATA.2023.3254152",
+        "article-title": "A survey of data pricing for data marketplaces",
+        "volume": "9",
+        "author": "Zhang",
+        "year": "2023",
+        "journal-title": "IEEE Trans Big Data"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.clsr.2026.106303_b64",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1049/cmu2.12759",
+        "article-title": "Survey of research on confidential computing",
+        "volume": "18",
+        "author": "Feng",
+        "year": "2024",
+        "journal-title": "IET Commun"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b65",
+        "series-title": "A fully homomorphic encryption scheme",
+        "author": "Gentry",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b66",
+        "series-title": "ISO/IEC 22989:2022. Information technology — Artificial intelligence — Artificial intelligence concepts and terminology",
+        "author": "International Organization for Standardization",
+        "year": "2022"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.clsr.2026.106303_b67",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1111/rego.12349",
+        "article-title": "Comparing definitions of data and information in data protection law and machine learning: A useful way forward to meaningfully regulate algorithms?",
+        "volume": "16",
+        "author": "Gellert",
+        "year": "2022",
+        "journal-title": "Regul Gov"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b68",
+        "series-title": "The philosophy of information",
+        "author": "Floridi",
+        "year": "2011"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.clsr.2026.106303_b69",
+        "doi-asserted-by": "crossref",
+        "first-page": "1043",
+        "DOI": "10.1093/grurint/ikab077",
+        "article-title": "Machine learning models under the copyright microscope: is EU copyright fit for purpose?",
+        "volume": "70",
+        "author": "Otero",
+        "year": "2021",
+        "journal-title": "GRUR Int"
+      },
+      {
+        "issue": "14s",
+        "key": "10.1016/j.clsr.2026.106303_b70",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3595292",
+        "article-title": "I know what you trained last summer: A survey on stealing machine learning models and defences",
+        "volume": "55",
+        "author": "Oliynyk",
+        "year": "2023",
+        "journal-title": "ACM Comput Surv"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b71",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schlosser R, Boissier M. Dynamic pricing under competition on online marketplaces: A data-driven approach. In: Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery & data mining. 2018, p. 705–14.",
+        "DOI": "10.1145/3219819.3219833"
+      },
+      {
+        "key": "10.1016/j.clsr.2026.106303_b72",
+        "series-title": "Public consultation on the European data union strategy",
+        "author": "European Commission",
+        "year": "2025"
+      }
+    ],
+    "container-title": [
+      "Computer Law &amp; Security Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2212473X26000441?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2212473X26000441?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          8
+        ]
+      ],
+      "date-time": "2026-06-08T21:13:38Z",
+      "timestamp": 1780953218000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2212473X26000441"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "references-count": 72,
+    "alternative-id": [
+      "S2212473X26000441"
+    ],
+    "URL": "https://doi.org/10.1016/j.clsr.2026.106303",
+    "relation": {},
+    "ISSN": [
+      "2212-473X"
+    ],
+    "issn-type": [
+      {
+        "value": "2212-473X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Neutrality and competitiveness of data intermediaries under the DGA: Reality strikes back",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Computer Law & Security Review",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.clsr.2026.106303",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "106303"
+  }
+}

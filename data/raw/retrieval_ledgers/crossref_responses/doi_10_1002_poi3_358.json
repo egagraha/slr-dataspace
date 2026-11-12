@@ -1,0 +1,646 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2026-10-27T19:51:55Z",
+      "timestamp": 1793130715430,
+      "version": "4.5.0"
+    },
+    "reference-count": 85,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              5
+            ]
+          ],
+          "date-time": "2023-09-05T00:00:00Z",
+          "timestamp": 1693872000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000266",
+        "name": "Engineering and Physical Sciences Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "EP/S022503/1 ‐ project reference 2576186"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EP/S022503/1 ‐ project reference 2576186"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000266",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Policy &amp;amp; Internet"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>How does the European Union balance the need to migrate data to the cloud with the imperative of reducing its dependence on foreign cloud providers? Cloud computing is a critical technology for the competitiveness of the European Union (EU) in the digital economy. This paper argues that the EU is adopting a host of regulatory requirements and industrial policy tools—which fall under the umbrella term of ‘data sovereignty’—not only to protect the confidentiality of European data, but also to counter the dominance of US vendors in the European cloud market. To demonstrate how data sovereignty principles are woven into current EU policy initiatives, the paper presents two case studies: Gaia‐X and the European Alliance for Industrial Data, Edge, and Cloud. Linking data sovereignty to the lack of a competitive European cloud ecosystem sheds light on the strategic dimension of cloud computing in a way that treating them separately would not do.</jats:p>",
+    "DOI": "10.1002/poi3.358",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2023-09-05T12:46:21Z",
+      "timestamp": 1693917981000
+    },
+    "page": "12-32",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "The cloud sovereignty nexus: How the European Union seeks to reverse strategic dependencies in its digital ecosystem"
+    ],
+    "prefix": "10.1002",
+    "volume": "16",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4624-867X",
+        "authenticated-orcid": false,
+        "given": "Filippo Gualtiero",
+        "family": "Blancato",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science University College London London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_11_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13600834.2020.1794617"
+      },
+      {
+        "key": "e_1_2_11_3_1",
+        "unstructured": "ACN. (2021).Strategia cloud Italia. Ministro per l'innovazione tecnologica e la transizione digitale.https://innovazione.gov.it/dipartimento/focus/strategia-cloud-italia/"
+      },
+      {
+        "key": "e_1_2_11_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ACCESS.2021.3073203"
+      },
+      {
+        "key": "e_1_2_11_5_1",
+        "unstructured": "Authority for Consumers & Markets (ACM). (2022).Market study into cloud services.https://www.acm.nl/en/publications/market-study-cloud-services"
+      },
+      {
+        "key": "e_1_2_11_6_1",
+        "unstructured": "Autolitano S. &Pawlowska A.(2021).Europe's quest for digital sovereignty: GAIA‐X as a case study. Istituto Affari Internazionali IAI Papers 21.https://www.iai.it/en/pubblicazioni/europes-quest-digital-sovereignty-gaia-x-case-study"
+      },
+      {
+        "key": "e_1_2_11_7_1",
+        "unstructured": "Bayart B. &Martin J. O.(2018).Thierry Breton: ‘C'est aux Gafa de s'adapter à nos règles pas l'inverse’. Le Figaro.https://www.lefigaro.fr/secteur/high-tech/2018/04/06/32001-20180406ARTFIG"
+      },
+      {
+        "key": "e_1_2_11_8_1",
+        "unstructured": "Bmwk. (2019).Press release on Franco‐German common work on a secure and trustworthy data infrastructure.https://www.bmwk.de/Redaktion/EN/Pressemitteilungen/2019/20191029-press-release-on-franco-german-common-work-on-a-secure-and-trustworthy-data-infrastructure.html"
+      },
+      {
+        "key": "e_1_2_11_9_1",
+        "unstructured": "Bonfiglio F.(2021).Gaia‐X vision and strategy.https://gaia-x.eu/wp-content/uploads/2021/12/Vision-Strategy.pdf"
+      },
+      {
+        "key": "e_1_2_11_10_1",
+        "unstructured": "Breton T.(2020).We have one chance to bring Europe to the top of the race in the data economy but we have to act jointly & fast. Together with the future Alliance on Industrial Data and Cloud we see GaiaX as a key contributor to achieve our ambition.https://twitter.com/thierrybreton/status/1329072397043916802?lang=en-GB"
+      },
+      {
+        "key": "e_1_2_11_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5325/jinfopoli.7.2017.0327"
+      },
+      {
+        "key": "e_1_2_11_12_1",
+        "unstructured": "BSA. (2021).The CLOUD act and the European Union: Myths vs facts.https://www.bsa.org/files/policy-filings/02282019CLOUDACTEUMythvsFact.pdf"
+      },
+      {
+        "key": "e_1_2_11_13_1",
+        "unstructured": "BSI. (2020).Cloud computing compliance criteria catalogue.https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2020/C5_2020.pdf?__blob=publicationFile&v=3"
+      },
+      {
+        "key": "e_1_2_11_14_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Byrne D. Corrado C. &Sichel D.(2018).The rise of cloud computing: Minding your P's Q's and K's. National Bureau of Economic Research Working Paper.https://doi.org/10.3386/w25188",
+        "DOI": "10.3386/w25188"
+      },
+      {
+        "key": "e_1_2_11_15_1",
+        "volume-title": "The big switch: Rewiring the world, from Edison to Google",
+        "author": "Carr N. G.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_11_16_1",
+        "unstructured": "Council of the EU. (2023Juanuary 25).Electronic evidence: Council confirms agreement with the European parliament on new rules to improve cross‐border access to e‐evidence[Press release].https://www.consilium.europa.eu/en/press/press-releases/2023/01/25/electronic-evidence-council-confirms-agreement-with-the-european-parliament-on-new-rules-to-improve-cross-border-access-to-e-evidence/"
+      },
+      {
+        "key": "e_1_2_11_17_1",
+        "volume-title": "Cogs and monsters. What economics is, and what it should be",
+        "author": "Coyle D.",
+        "year": "2021"
+      },
+      {
+        "key": "e_1_2_11_18_1",
+        "first-page": "326",
+        "article-title": "The un‐territoriality of data",
+        "volume": "125",
+        "author": "Daskal J.",
+        "year": "2015",
+        "journal-title": "Yale Law Journal"
+      },
+      {
+        "key": "e_1_2_11_19_1",
+        "unstructured": "Data Act. (2022).Official text.https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2022%3A68%3AFIN"
+      },
+      {
+        "key": "e_1_2_11_20_1",
+        "unstructured": "Digital Markets Act. (2020).https://eur-lex.europa.eu/legal-content/en/TXT/?uri=COM%3A2020%3A842%3AFIN"
+      },
+      {
+        "key": "e_1_2_11_21_1",
+        "unstructured": "ENISA. (2011).Security and resilience in governmental clouds. ENISA Report.https://www.enisa.europa.eu/publications/security-and-resilience-in-governmental-clouds"
+      },
+      {
+        "key": "e_1_2_11_22_1",
+        "unstructured": "European Commission. (2004). Guidelines on the assessment of horizontal mergers under the council regulation on the control of concentrations between undertakings.Official Journal of the European Union.https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52004XC0205(02)&from=EN#:~:text=In%20order%20to%20measure%20concentration in%20the%20market%20(18)"
+      },
+      {
+        "key": "e_1_2_11_23_1",
+        "unstructured": "European Commission. (2018).Regulation on European Production and Preservation Orders for electronic evidence in criminal matters.https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52018PC0225#:~:text=The%20European%20Production%20Order%20and proceedings%20for%20concrete%20criminal%20offences"
+      },
+      {
+        "key": "e_1_2_11_24_1",
+        "unstructured": "European Commission. (2019).European commission cloud strategy.https://ec.europa.eu/info/publications/european-commission-cloud-strategy_en"
+      },
+      {
+        "key": "e_1_2_11_25_1",
+        "unstructured": "European Commission. (2020a).Advanced technologies for industry—At watch. Technology Focus on Cloud Computing.https://ati.ec.europa.eu/news/technology-watch-cloud-computing"
+      },
+      {
+        "key": "e_1_2_11_26_1",
+        "unstructured": "European Commission. (2020b).A European strategy for data.https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1593073685620&uri=CELEX%3A52020DC0066"
+      },
+      {
+        "key": "e_1_2_11_27_1",
+        "unstructured": "European Commission. (2021a).Declaration of the European alliance for industrial data edge and cloud.https://digital-strategy.ec.europa.eu/en/policies/cloud-alliance#:~:text=The%20European%20Alliance%20for%20Industrial States%20representatives%20and%20relevant%20experts"
+      },
+      {
+        "key": "e_1_2_11_28_1",
+        "unstructured": "European Commission. (2021b).Strategic dependencies and capacities. Staff Working Document Accompanying the 2020 New Industrial Strategy.https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021SC0352&from=en"
+      },
+      {
+        "key": "e_1_2_11_29_1",
+        "unstructured": "European Commission. (2021c).State aid: Commission adopts revised State aid rules. Press release.https://ec.europa.eu/commission/presscorner/detail/en/IP_21_6245"
+      },
+      {
+        "key": "e_1_2_11_30_1",
+        "unstructured": "European Commission. (2021d).EU strategic dependencies and capacities: Second stage of in‐depth reviews.https://ec.europa.eu/docsroom/documents/48878"
+      },
+      {
+        "key": "e_1_2_11_31_1",
+        "unstructured": "European Commission. (2022).Commission implementing decision on the adequate level of protection of personal data under EU‐US data privacy framework.https://commission.europa.eu/system/files/2022-12/Draft%20adequacy%20decision%20on%20EU-US%20Data%20Privacy%20Framework_0.pdf"
+      },
+      {
+        "key": "e_1_2_11_32_1",
+        "unstructured": "European Industrial Technology Roadmap. (2021).https://ec.europa.eu/newsroom/repository/document/2021-18/European_CloudEdge_Technology_Investment_Roadmap_for_publication_pMdz85DSw6nqPppq8hE9S9RbB8_76223.pdf"
+      },
+      {
+        "key": "e_1_2_11_33_1",
+        "unstructured": "European Internet Forum (EIF). (2021).The European alliance for industrial data and cloud—Panel discussion—Full recording.https://www.youtube.com/watch?v=guc7OEdii6A"
+      },
+      {
+        "key": "e_1_2_11_34_1",
+        "unstructured": "Falknerath R. &Rosenzweig P.(2012).Op‐ed: Encryption not restriction is the key to safe cloud computing.https://www.nextgov.com/it-modernization/2012/10/op-ed-encryption-not-restriction-key-safe-cloud-computing/58608/"
+      },
+      {
+        "key": "e_1_2_11_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13347-020-00423-6"
+      },
+      {
+        "key": "e_1_2_11_36_1",
+        "unstructured": "Forrester. (2022).The state of the cloud in North America 2022: Modernization and cloud native will be the new normal.https://www.forrester.com/press-newsroom/the-state-of-cloud-in-north-america-2022/#:~:text=Key%20findings%3A %25%20of%20infrastructure%20decision%2Dmakers"
+      },
+      {
+        "key": "e_1_2_11_37_1",
+        "unstructured": "Fox‐Martin A.(2022).Advancing digital sovereignty on Europe's terms. Google Cloud Blog.https://cloud.google.com/blog/products/identity-security/advancing-digital-sovereignty-on-europes-terms"
+      },
+      {
+        "key": "e_1_2_11_38_1",
+        "unstructured": "Gaia‐X. (2020a).GAIA‐X: A pitch towards Europe.https://www.data-infrastructure.eu/GAIAX/Redaktion/EN/Publications/gaia-x-a-pitch-towards-europe.pdf?__blob=publicationFile&v=6"
+      },
+      {
+        "key": "e_1_2_11_39_1",
+        "unstructured": "Gaia‐X. (2020b).GAIA‐X: Policy rules and architecture of standards.https://www.data-infrastructure.eu/GAIAX/Redaktion/EN/Publications/gaia-x-policy-rules-and-architecture-of-standards.pdf?__blob=publicationFile&v=3"
+      },
+      {
+        "key": "e_1_2_11_40_1",
+        "unstructured": "Gaia‐X. (2021).Gaia‐X members' list.https://www.data-infrastructure.eu/GAIAX/Redaktion/EN/Downloads/gaia-press-release-march-31-list-en.pdf?__blob=publicationFile&v=3"
+      },
+      {
+        "key": "e_1_2_11_41_1",
+        "unstructured": "Gaia‐X. (2022).Gaia‐X architecture document.https://docs.gaia-x.eu/technical-committee/architecture-document/22.10/"
+      },
+      {
+        "key": "e_1_2_11_42_1",
+        "unstructured": "Garman M.(2022).AWS digital sovereignty pledge: Control without compromise. AWS Security Blog.https://aws.amazon.com/blogs/security/aws-digital-sovereignty-pledge-control-without-compromise/"
+      },
+      {
+        "key": "e_1_2_11_43_1",
+        "unstructured": "Gartner. (2022).Gartner forecasts worldwide public cloud end‐user spending to reach nearly $500 billion in 2022.https://www.gartner.com/en/newsroom/press-releases/2022-04-19-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-500-billion-in-2022"
+      },
+      {
+        "key": "e_1_2_11_44_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Geradin D. Bania K. Katsifis D. &Circiumaru A.(2022).The regulation of cloud computing: Getting it right.https://doi.org/10.2139/ssrn.4285731",
+        "DOI": "10.2139/ssrn.4285731"
+      },
+      {
+        "key": "e_1_2_11_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780198716662.003.0014"
+      },
+      {
+        "key": "e_1_2_11_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780195152661.001.0001"
+      },
+      {
+        "key": "e_1_2_11_47_1",
+        "unstructured": "Goujard C.(2021).French cloud firm warns Microsoft Alibaba to ‘respect’ Gaia‐X rules.https://pro.politico.eu/news/143447"
+      },
+      {
+        "key": "e_1_2_11_48_1",
+        "unstructured": "Goujard C. &Cerulus L.(2021).Inside Gaia‐X: How chaos and infighting are killing Europe's grand cloud project. Politico.https://www.politico.eu/article/chaos-and-infighting-are-killing-europes-grand-cloud-project/"
+      },
+      {
+        "key": "e_1_2_11_49_1",
+        "unstructured": "Gronlier P.(2022).Compliance as code. Gaia‐X Blog.https://gaia-x.eu/news/latest-news/gaia-x-compliance-as-code/"
+      },
+      {
+        "key": "e_1_2_11_50_1",
+        "volume-title": "General Purpose Technologies and Economic Growth",
+        "author": "Helpman E.",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_11_51_1",
+        "unstructured": "Herr T.(2020a).Better to be realistic about the security opportunities of cloud computing. Lawfare Blog.https://www.lawfareblog.com/better-be-realistic-about-security-opportunities-cloud-computing"
+      },
+      {
+        "key": "e_1_2_11_52_1",
+        "unstructured": "Herr T.(2020b).Four myths about the cloud: The geopolitics of cloud computing. Report Atlantic Council.https://www.atlanticcouncil.org/in-depth-research-reports/report/four-myths-about-the-cloud-the-geopolitics-of-cloud-computing/"
+      },
+      {
+        "key": "e_1_2_11_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ijlit/eaw006"
+      },
+      {
+        "key": "e_1_2_11_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2053951720982012"
+      },
+      {
+        "key": "e_1_2_11_55_1",
+        "unstructured": "Ionos. (2019).The controversial cloud act.https://cloud.ionos.co.uk/white-paper/cloud-act"
+      },
+      {
+        "key": "e_1_2_11_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/poi3.10"
+      },
+      {
+        "key": "e_1_2_11_57_1",
+        "unstructured": "Joint Declaration on Cloud. (2020).Towards a next generation cloud for Europe.https://digital-strategy.ec.europa.eu/en/news/towards-next-generation-cloud-europe"
+      },
+      {
+        "key": "e_1_2_11_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0010414088021001004"
+      },
+      {
+        "key": "e_1_2_11_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10842-011-0106-5"
+      },
+      {
+        "key": "e_1_2_11_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10842-014-0188-y"
+      },
+      {
+        "key": "e_1_2_11_61_1",
+        "unstructured": "Lessig L.(2000).Code is law. Harvard Magazine.https://www.harvardmagazine.com/2000/01/code-is-law-html"
+      },
+      {
+        "key": "e_1_2_11_62_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lianos I.(2019).The future of competition policy in Europe. Some reflections on the interaction between industrial policy and competition law. CLES Policy Paper Faculty of Laws.https://www.ucl.ac.uk/cles/sites/cles/files/cles_policy_paper_1_2019.pdf",
+        "DOI": "10.2139/ssrn.3383954"
+      },
+      {
+        "key": "e_1_2_11_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jaenfo/jny013"
+      },
+      {
+        "key": "e_1_2_11_64_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mell P. &Grance T.(2011).The NIST definition of cloud computing.https://csrc.nist.gov/publications/detail/sp/800-145/final",
+        "DOI": "10.6028/NIST.SP.800-145"
+      },
+      {
+        "key": "e_1_2_11_65_1",
+        "volume-title": "Will the Internet fragment? Sovereignty, globalization, and cyberspace",
+        "author": "Mueller M.",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_11_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/poi3.305"
+      },
+      {
+        "key": "e_1_2_11_67_1",
+        "unstructured": "OVHCloud. (2021).The European cloud industry: A market worth €300bn+ by 2027‐2030. Could half of this potential growth slip through Europe's hands?https://corporate.ovhcloud.com/en-gb/newsroom/news/europe-cloud-challenges-key-and-five-scenarios-impact/"
+      },
+      {
+        "key": "e_1_2_11_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.9734/BJEMT/2016/23193"
+      },
+      {
+        "key": "e_1_2_11_69_1",
+        "volume-title": "Waving the flag of digital sovereignty",
+        "author": "Propp K.",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_11_70_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.21428/9885764c.16189670",
+        "volume-title": "European cybersecurity regulation takes a sovereign turn",
+        "author": "Propp K.",
+        "year": "2022"
+      },
+      {
+        "key": "e_1_2_11_71_1",
+        "unstructured": "Rapport n° 7 Sénat. (2019).Le devoir de souveraineté numérique.http://www.senat.fr/rap/r19-007-1/r19-007-1.html"
+      },
+      {
+        "key": "e_1_2_11_72_1",
+        "unstructured": "Renda A.(2022).The data act: Six impossible things before breakfst?https://www.ceps.eu/the-data-act-six-impossible-things-before-breakfast/"
+      },
+      {
+        "key": "e_1_2_11_73_1",
+        "unstructured": "Sanders C.(2022).Microsoft cloud for sovereignty: The most flexible and comprehensive solution for digital sovereignty. Microsoft Blog.https://blogs.microsoft.com/blog/2022/07/19/microsoft-cloud-for-sovereignty-the-most-flexible-and-comprehensive-solution-for-digital-sovereignty/"
+      },
+      {
+        "key": "e_1_2_11_74_1",
+        "unstructured": "Scaleway. (2021).Full steam ahead towards a true multi‐cloud offering to deliver on broken promises. Scaleway Blog.https://blog.scaleway.com/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/"
+      },
+      {
+        "key": "e_1_2_11_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781119653554"
+      },
+      {
+        "issue": "6",
+        "key": "e_1_2_11_76_1",
+        "first-page": "1681",
+        "article-title": "Legal access to the global cloud",
+        "volume": "118",
+        "author": "Schwartz P. M.",
+        "year": "2018",
+        "journal-title": "Columbia Law Review"
+      },
+      {
+        "key": "e_1_2_11_77_1",
+        "unstructured": "Smith. (2021).Answering Europe's call: Storing and processing EU data in the EU. EU Policy Blog.https://blogs.microsoft.com/eupolicy/2021/05/06/eu-data-boundary/"
+      },
+      {
+        "key": "e_1_2_11_78_1",
+        "unstructured": "Stratégie Nationale Cloud: Lancement du Plan Industriel de Soutien à la Filière. (2021).https://www.entreprises.gouv.fr/fr/actualites/numerique/strategie-nationale-cloud-lancement-du-plan-industriel-de-soutien-la-filiere"
+      },
+      {
+        "key": "e_1_2_11_79_1",
+        "unstructured": "Stupp. (2022).European cloud restrictions could limit U.S. providers' reach. Wall Street Journal.https://www.wsj.com/articles/european-cloud-restrictions-could-limit-u-s-providers-reach-11656430248?mod=article_inline"
+      },
+      {
+        "key": "e_1_2_11_80_1",
+        "unstructured": "Synergy Group. (2020).Amazon and Microsoft lead the cloud in all major European countries.https://www.srgresearch.com/articles/amazon-microsoft-lead-cloud-market-all-major-european-countries"
+      },
+      {
+        "key": "e_1_2_11_81_1",
+        "unstructured": "Synergy Group. (2021b).Huge cloud market still growing at 34% per year; Amazon Microsoft & Google now account for 65% of the total.https://www.srgresearch.com/articles/huge-cloud-market-is-still-growing-at-34-per-year-amazon-microsoft-and-google-now-account-for-65-of-all-cloud-revenues"
+      },
+      {
+        "key": "e_1_2_11_82_1",
+        "unstructured": "Synergy Group. (2022).European cloud providers continue to grow but still lose market share.https://www.srgresearch.com/articles/european-cloud-providers-continue-to-grow-but-still-lose-market-share"
+      },
+      {
+        "key": "e_1_2_11_83_1",
+        "unstructured": "Veld S. I. 'T.(2021).Parliamentary question. The Commission's strategy towards GaiaX an initiative sponsored by Chinese companies| E‐005217/2021 | European Parliament.https://www.europarl.europa.eu/doceo/document/E-9-2021-005217_EN.html"
+      },
+      {
+        "key": "e_1_2_11_84_1",
+        "first-page": "1",
+        "article-title": "The cost of cloud, a trillion dollar paradox",
+        "author": "Wang S.",
+        "year": "2021",
+        "journal-title": "Andreessen Horowitz"
+      },
+      {
+        "key": "e_1_2_11_85_1",
+        "unstructured": "Westendardp L. &O'Brien P.(2022).Gaia‐X board member blames lobbying for project's gridlock. Politico PRO.https://pro.politico.eu/news/152350"
+      },
+      {
+        "key": "e_1_2_11_86_1",
+        "unstructured": "World Economic Forum. (2022).Regulatory technology for the 21st century. White Paper.https://www.weforum.org/whitepapers/regulatory-technology-for-the-21st-century/"
+      }
+    ],
+    "container-title": [
+      "Policy &amp; Internet"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/poi3.358",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2024-10-27T14:10:46Z",
+      "timestamp": 1730038246000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/poi3.358"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ]
+    },
+    "references-count": 85,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/poi3.358"
+    ],
+    "URL": "https://doi.org/10.1002/poi3.358",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1944-2866",
+      "1944-2866"
+    ],
+    "issn-type": [
+      {
+        "value": "1944-2866",
+        "type": "print"
+      },
+      {
+        "value": "1944-2866",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-02-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-07-26",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2023-09-05",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

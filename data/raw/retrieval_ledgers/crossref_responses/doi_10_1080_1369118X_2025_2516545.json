@@ -1,0 +1,510 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2026-10-25T01:20:04Z",
+      "timestamp": 1792891204927,
+      "version": "4.5.0"
+    },
+    "reference-count": 51,
+    "publisher": "Informa UK Limited",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              17
+            ]
+          ],
+          "date-time": "2025-06-17T00:00:00Z",
+          "timestamp": 1750118400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Federal Ministry of Education and Research of Germany",
+        "award": [
+          "16KIS1380"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "16KIS1380"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Information, Communication &amp; Society"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          25
+        ]
+      ]
+    },
+    "DOI": "10.1080/1369118x.2025.2516545",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2025-06-17T07:30:22Z",
+      "timestamp": 1750145422000
+    },
+    "page": "417-434",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "European ambitions captured by American clouds: digital sovereignty through Gaia-X?"
+    ],
+    "prefix": "10.1080",
+    "volume": "29",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3245-056X",
+        "authenticated-orcid": false,
+        "given": "Andreas",
+        "family": "Baur",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Amsterdam Institute for Social Science Research (AISSR), University of Amsterdam",
+            "place": [
+              "Amsterdam, The Netherlands"
+            ]
+          },
+          {
+            "name": "International Centre for Ethics in the Sciences and Humanities (IZEW), University of Tübingen",
+            "place": [
+              "Tübingen, Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jcms.13594"
+      },
+      {
+        "key": "e_1_3_4_3_1",
+        "unstructured": "Ahrens M. (2021 December 10). Welcome and keynote Gaia-X Summit 2021. YouTube. https://youtu.be/V0qQlFbxuqs"
+      },
+      {
+        "key": "e_1_3_4_4_1",
+        "unstructured": "Altmaier P. (2021 November 19). Gaia-X Summit21 Message. YouTube. https://youtu.be/Ig-psQR4FYs"
+      },
+      {
+        "issue": "14",
+        "key": "e_1_3_4_5_1",
+        "first-page": "1",
+        "article-title": "Europe’s quest for digital sovereignty: GAIA-X as a case study",
+        "volume": "21",
+        "author": "Autolitano S.",
+        "year": "2021",
+        "unstructured": "Autolitano, S., & Pawlowska, A. (2021). Europe’s quest for digital sovereignty: GAIA-X as a case study. IAI Papers, 21(14), 1–23.",
+        "journal-title": "IAI Papers"
+      },
+      {
+        "key": "e_1_3_4_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14650045.2022.2151902"
+      },
+      {
+        "key": "e_1_3_4_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09662839.2022.2101887"
+      },
+      {
+        "key": "e_1_3_4_8_1",
+        "unstructured": "bitkom. (2019). Digitale Souveränität: Anforderungen an Technologie- und Kompetenzfelder mit Schlüsselfunktion. https://www.bitkom.org/sites/main/files/2020-01/200116_stellungnahme_digitale-souveranitat.pdf"
+      },
+      {
+        "key": "e_1_3_4_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/poi3.358"
+      },
+      {
+        "key": "e_1_3_4_10_1",
+        "volume-title": "GAIA-X: Driver of digital innovation in Europe. Featuring the next generation of data infrastructure",
+        "author": "BMWi",
+        "year": "2020",
+        "unstructured": "BMWi. (2020). GAIA-X: Driver of digital innovation in Europe. Featuring the next generation of data infrastructure. https://www.bmwk.de/Redaktion/EN/Publikationen/gaia-x-driver-of-digital-innovation-ineurope.pdf"
+      },
+      {
+        "key": "e_1_3_4_11_1",
+        "unstructured": "Bonfiglio F. (2022 November 3). Gaia-X – balancing data economies and mobilising data intelligence. https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/docs/vmw-case-study-gaia-balancing-data-economies-mobilising.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_4_12_1",
+        "first-page": "1",
+        "article-title": "The Brussels effect",
+        "volume": "107",
+        "author": "Bradford A.",
+        "year": "2012",
+        "unstructured": "Bradford, A. (2012). The Brussels effect. Northwestern University Law Review, 107(1), 1–68.",
+        "journal-title": "Northwestern University Law Review"
+      },
+      {
+        "key": "e_1_3_4_13_1",
+        "unstructured": "Breton T. (2020 September 11). Europe: The keys to sovereignty. https://ec.europa.eu/commission/commissioners/2019-2024/breton/announcements/europe-keys-sovereignty_en"
+      },
+      {
+        "key": "e_1_3_4_14_1",
+        "unstructured": "Bundesregierung. (2020 October 20). Drucksache 19/23508. Deutscher Bundestag. https://dserver.bundestag.de/btd/19/235/1923508.pdf"
+      },
+      {
+        "key": "e_1_3_4_15_1",
+        "unstructured": "Dachwitz I. Biselli A. & Rudl T. (2019). Schornsteine zu Cloudspeichern. https://netzpolitik.org/2019/schornsteine-zu-cloudspeichern/"
+      },
+      {
+        "key": "e_1_3_4_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/9781137483591_1"
+      },
+      {
+        "key": "e_1_3_4_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13501763.2024.2358984"
+      },
+      {
+        "key": "e_1_3_4_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09662839.2022.2102896"
+      },
+      {
+        "key": "e_1_3_4_19_1",
+        "unstructured": "Fermigier S. & Franck S. (2020 November 23). Gaia-X: A trojan horse for Big Tech in Europe. EURACTIV. https://www.euractiv.com/section/digital/opinion/gaia-x-a-trojan-horse-for-big-tech-in-europe/"
+      },
+      {
+        "key": "e_1_3_4_20_1",
+        "unstructured": "GAIA-X. (2020 November 18). Summit20 Position statements by cloud service providers on implementing GAIA X principles. YouTube. https://youtu.be/kFPtXQkiBY8"
+      },
+      {
+        "key": "e_1_3_4_21_1",
+        "unstructured": "GAIA-X. (2021a). Gaia-X Architecture Document: 21.06 Release. https://community.gaia-x.eu/s/5rDZrGLwjfEL7Qn"
+      },
+      {
+        "key": "e_1_3_4_22_1",
+        "unstructured": "GAIA-X. (2021b). Gaia-X labelling framework. https://gaia-x.eu/sites/default/files/2021-11/Gaia-X%20Labelling%20Framework_0.pdf"
+      },
+      {
+        "key": "e_1_3_4_23_1",
+        "unstructured": "GAIA-X. (2022). Architecture document – 22.04 release. https://gaia-x.eu/publication/gaia-x-architecture-document-22-04-release/"
+      },
+      {
+        "key": "e_1_3_4_24_1",
+        "first-page": "254",
+        "volume-title": "SAGE Handbook of social media",
+        "author": "Gillespie T.",
+        "year": "2017",
+        "unstructured": "Gillespie, T. (2017). Regulation of and by platforms. In J. Burgess, A. Marwick, & T. Poell (Eds.), SAGE Handbook of social media (pp. 254–278). SAGE."
+      },
+      {
+        "key": "e_1_3_4_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14650045.2022.2050070"
+      },
+      {
+        "key": "e_1_3_4_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1369118X.2019.1573914"
+      },
+      {
+        "key": "e_1_3_4_27_1",
+        "unstructured": "Goujard C. (2021a November 17). Huawei Alibaba sponsorship overshadows European cloud Gaia-X’s summit. POLITICO. https://www.politico.eu/article/huawei-alibaba-sponsorship-overshadows-european-cloud-gaia-xs-summit/"
+      },
+      {
+        "key": "e_1_3_4_28_1",
+        "unstructured": "Goujard C. (2021b November 19). Gaia-X CEO defends European cloud project after French provider slams door. POLITICO. https://www.politico.eu/article/gaia-x-ceo-francesco-bonfiglio-european-cloud-project-france-exit/"
+      },
+      {
+        "key": "e_1_3_4_29_1",
+        "unstructured": "GXFS. (2022). A European ecosystem for creating value from data. https://www.gxfs.eu/a-european-ecosystem-for-creating-value-from-data/"
+      },
+      {
+        "key": "e_1_3_4_30_1",
+        "unstructured": "Hoedemaekers J. (2021 November 12). Gaia-X CEO Francesco Bonfiglio: “We need to grow to 75% cloud adoption in Europe.” Agoria. https://www.agoria.be/en/services/expertise/digitalisation/datatech-datacenters/gaia-x-ceo-francesco-bonfiglio-we-need-to-grow-to-75-cloud-adoption-in-europe"
+      },
+      {
+        "key": "e_1_3_4_31_1",
+        "unstructured": "Jones L. (2020 January 14). Gaia X: Microsoft backtracks and wants to join Europe’s Public Cloud. https://winbuzzer.com/2020/01/14/gaia-x-microsoft-backtracks-and-wants-to-join-europes-public-cloud-xcxwbn/"
+      },
+      {
+        "key": "e_1_3_4_32_1",
+        "unstructured": "Klute N. (2024 January 15). A necessity instead of a wishful thinking: We should talk more about resilience and less about sovereignty. GXFS.EU. https://www.gxfs.eu/a-necessity-instead-of-a-wishful-thinking/"
+      },
+      {
+        "key": "e_1_3_4_33_1",
+        "unstructured": "Krempl S. (2021 February 4). Gaia-X: ‘Wir brauchen niemand aus dem Silicon Valley oder China’. heise online. https://www.heise.de/news/Gaia-X-Wir-brauchen-niemand-aus-dem-Silicon-Valley-oder-China-5045417.html"
+      },
+      {
+        "key": "e_1_3_4_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/gove.12690"
+      },
+      {
+        "key": "e_1_3_4_35_1",
+        "unstructured": "Lechelle Y. (2021 November 30). Full steam ahead towards a true multicloud o ering to deliver on broken promises. https://blog.scaleway.com/full-steam-ahead-towards-a-true-multi-cloud-offering-to-deliver-on-broken-promises/"
+      },
+      {
+        "key": "e_1_3_4_36_1",
+        "unstructured": "Le Maire B. (2021 November 19). Closing Gaia-X Summit. YouTube. https://youtu.be/uDE1kGsen9Q"
+      },
+      {
+        "key": "e_1_3_4_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14763/2024.2.1768"
+      },
+      {
+        "key": "e_1_3_4_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9780367816742-18"
+      },
+      {
+        "key": "e_1_3_4_39_1",
+        "unstructured": "Matthäus A. (2021 February 18). GAIA-X Board of Directors gives green light to Palantir. Cryptshare. https://blog.cryptshare.com/en/gaia-x-board-of-directors-gives-green-light-to-palantir"
+      },
+      {
+        "key": "e_1_3_4_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1369118X.2022.2049850"
+      },
+      {
+        "key": "e_1_3_4_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13501763.2023.2172060"
+      },
+      {
+        "key": "e_1_3_4_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13501763.2023.2251036"
+      },
+      {
+        "key": "e_1_3_4_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14763/2020.4.1532"
+      },
+      {
+        "key": "e_1_3_4_44_1",
+        "unstructured": "Richter F. (2023). Big three dominate the global cloud market. https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/"
+      },
+      {
+        "key": "e_1_3_4_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13501763.2024.2348618"
+      },
+      {
+        "key": "e_1_3_4_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13501763.2023.2248204"
+      },
+      {
+        "key": "e_1_3_4_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s44206-022-00025-z"
+      },
+      {
+        "key": "e_1_3_4_48_1",
+        "unstructured": "Speed R. (2024 January 8). Gaia-X project doesn’t have a future claims Nextcloud boss. The Register. https://www.theregister.com/2024/01/08/gaiax_future/"
+      },
+      {
+        "key": "e_1_3_4_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14763/2019.2.1414"
+      },
+      {
+        "key": "e_1_3_4_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oso/9780190889760.001.0001"
+      },
+      {
+        "key": "e_1_3_4_51_1",
+        "unstructured": "von der Leyen U. (2020). State of the union address by President von der Leyen at the European Parliament Plenary. https://ec.europa.eu/commission/presscorner/detail/ov/SPEECH_20_1655"
+      },
+      {
+        "key": "e_1_3_4_52_1",
+        "unstructured": "Zhang M. (2023 October 10). Top 10 cloud service providers globally in 2023. Dgtl Infra. https://dgtlinfra.com/top-cloud-service-providers/"
+      }
+    ],
+    "container-title": [
+      "Information, Communication &amp; Society"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2025.2516545",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          12
+        ]
+      ],
+      "date-time": "2026-02-12T18:14:39Z",
+      "timestamp": 1770920079000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2516545"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            25
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/1369118X.2025.2516545"
+    ],
+    "URL": "https://doi.org/10.1080/1369118x.2025.2516545",
+    "relation": {},
+    "ISSN": [
+      "1369-118X",
+      "1468-4462"
+    ],
+    "issn-type": [
+      {
+        "value": "1369-118X",
+        "type": "print"
+      },
+      {
+        "value": "1468-4462",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rics20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rics20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2024-07-31",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-06-02",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-06-17",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

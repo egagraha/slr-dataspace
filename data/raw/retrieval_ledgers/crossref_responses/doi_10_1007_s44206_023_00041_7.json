@@ -1,0 +1,557 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2026-09-30T10:33:50Z",
+      "timestamp": 1790764430523,
+      "version": "4.1.0"
+    },
+    "reference-count": 27,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              29
+            ]
+          ],
+          "date-time": "2023-03-29T00:00:00Z",
+          "timestamp": 1680048000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              29
+            ]
+          ],
+          "date-time": "2023-03-29T00:00:00Z",
+          "timestamp": 1680048000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Strategic Research Council at the Academy of Finland",
+        "award": [
+          "327391"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "327391"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "University of Turku (UTU) including Turku University Central Hospital"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "DISO"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The European Union (EU) has been pursuing a new strategy under the umbrella label of digital sovereignty. Data is an important element in this strategy. To this end, a specific Data Governance Act was enacted in 2022. This new regulation builds upon two ideas: reuse of data held by public sector bodies and voluntary sharing of data under the label of data altruism. This short commentary reviews the main content of the new regulation. Based on the review, a few points are also raised about potential challenges.</jats:p>",
+    "DOI": "10.1007/s44206-023-00041-7",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2023-03-29T13:02:33Z",
+      "timestamp": 1680094953000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Reflections on the Data Governance Act"
+    ],
+    "prefix": "10.1007",
+    "volume": "2",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5147-3084",
+        "authenticated-orcid": false,
+        "given": "Jukka",
+        "family": "Ruohonen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sini",
+        "family": "Mickelsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "41_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.2966/scrip.100413.435",
+        "volume": "10",
+        "author": "B Custers",
+        "year": "2013",
+        "unstructured": "Custers, B., van der Hof, S., Schermer, B., Appleby-Arnold, S., & Brockdorff, N. (2013). Informed Consent in Social Media Use - The Gap Between User Expectations and EU Personal Data Protection Law. SCRIPTed, 10, 435–457.",
+        "journal-title": "SCRIPTed"
+      },
+      {
+        "key": "41_CR2",
+        "unstructured": "European Commission. (2022a). Communication from the Commission to the European Parliament and the Council: A European Health Data Space: Harnessing the Power of Health Data for People, Patients and Innovation. COM(2022) 196 final. Available online in January 2023: https://health.ec.europa.eu/system/files/2022-05/com_2022-196_en.pdf."
+      },
+      {
+        "key": "41_CR3",
+        "unstructured": "European Commission. (2022b). Proposal for a Regulation of the European Parliament and of the Council on Harmonised Rules on Fair Access to and Use of Data (Data Act). COM/2022/68 final. Available online in January 2023: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2022%3A68%3AFIN."
+      },
+      {
+        "key": "41_CR4",
+        "unstructured": "European Commission. (2022c). Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European Data Governance and Amending Regulation (EU) 2018/1724 (Data Governance Act). Available online in January 2023: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R0868 &qid=1673517089264."
+      },
+      {
+        "key": "41_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "597",
+        "DOI": "10.1007/s12027-018-0546-z",
+        "volume": "19",
+        "author": "EG González",
+        "year": "2019",
+        "unstructured": "González, E. G., & de Hert, P. (2019). Understanding the Legal Provisions that Allow Processing and Profiling of Personal Data–An Analysis of GDPR Provisions and Principles. ERA Forum, 19, 597–621.",
+        "journal-title": "ERA Forum"
+      },
+      {
+        "key": "41_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1184",
+        "DOI": "10.1016/j.ijinfomgt.2016.08.002",
+        "volume": "36",
+        "author": "J Henriksen-Bulmer",
+        "year": "2016",
+        "unstructured": "Henriksen-Bulmer, J., & Jeary, S. (2016). Re-Identification Attacks–A Systematic Literature Review. International Journal of Information Management, 36, 1184–1192.",
+        "journal-title": "International Journal of Information Management"
+      },
+      {
+        "key": "41_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.1007/s10270-022-00998-y",
+        "volume": "22",
+        "author": "K Hjerppe",
+        "year": "2023",
+        "unstructured": "Hjerppe, K., Ruohonen, J., & Leppänen, V. (2023). Extracting LPL Privacy Policy Purposes from Annotated Web Service Source Code. Software and Systems Modeling, 22, 331–349.",
+        "journal-title": "Software and Systems Modeling"
+      },
+      {
+        "key": "41_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jurcys, P., Compagnucci, M. C., & Fenwick, M. (2022). The Future of International Data Transfers: Managing Legal Risk with a “User-Held” Data Model. Computer Law & Security Review, 46, 105691.",
+        "DOI": "10.1016/j.clsr.2022.105691"
+      },
+      {
+        "key": "41_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "165",
+        "DOI": "10.1007/s40012-021-00336-5",
+        "volume": "9",
+        "author": "A Kapoor",
+        "year": "2021",
+        "unstructured": "Kapoor, A., & Nanda, A. (2021). Non-Personal Data Sharing: Potential, Pathways and Problems. CSI Transactions on ICT, 9, 165–169.",
+        "journal-title": "CSI Transactions on ICT"
+      },
+      {
+        "key": "41_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "484",
+        "DOI": "10.1002/epa2.1160",
+        "volume": "8",
+        "author": "PD König",
+        "year": "2022",
+        "unstructured": "König, P. D. (2022). Fortress Europe 4.0? An Analysis of EU Data Governance Through the Lens of the Resource Regime Concept. European Policy Analysis, 8, 484–504.",
+        "journal-title": "European Policy Analysis"
+      },
+      {
+        "key": "41_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "34",
+        "DOI": "10.1145/3195179",
+        "volume": "61",
+        "author": "J Lahtiranta",
+        "year": "2018",
+        "unstructured": "Lahtiranta, J., & Hyrynsalmi, S. (2018). Crude and Rude? Communications of the ACM, 61, 34–35.",
+        "journal-title": "Communications of the ACM"
+      },
+      {
+        "key": "41_CR12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lambach, D., & Oppermann, K. (2022). Narratives of Digital Sovereignty in German Political Discourse. Governance, (pp. 1–17).",
+        "DOI": "10.1111/gove.12690"
+      },
+      {
+        "key": "41_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "626",
+        "DOI": "10.24908/ss.v15i5.6424",
+        "volume": "15",
+        "author": "T Lehtiniemi",
+        "year": "2017",
+        "unstructured": "Lehtiniemi, T. (2017). Personal Data Spaces: An Intervention in Surveillance Capitalism? Surveillance & Society, 15, 626–639.",
+        "journal-title": "Surveillance & Society"
+      },
+      {
+        "key": "41_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1177/1461444819861955",
+        "volume": "22",
+        "author": "T Lehtiniemi",
+        "year": "2020",
+        "unstructured": "Lehtiniemi, T., & Haapoja, J. (2020). Data Agency at Stake: MyData Activism and Alternative Frames of Equal Participation. New Media & Society, 22, 87–104.",
+        "journal-title": "New Media & Society"
+      },
+      {
+        "key": "41_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "759",
+        "DOI": "10.1007/s00146-020-00970-8",
+        "volume": "35",
+        "author": "B Lundgren",
+        "year": "2020",
+        "unstructured": "Lundgren, B. (2020). How Software Developers Can Fix Part of GDPR’s Problem of Click-Through Consents. AI & SOCIETY, 35, 759–760.",
+        "journal-title": "AI & SOCIETY"
+      },
+      {
+        "key": "41_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "104",
+        "DOI": "10.1016/j.diin.2015.09.006",
+        "volume": "15",
+        "author": "A Mantelero",
+        "year": "2015",
+        "unstructured": "Mantelero, A., & Vaciago, G. (2015). Data Protection in a Big Data Society. Ideas for a Future Regulation. Digital Investigation, 15, 104–109.",
+        "journal-title": "Digital Investigation"
+      },
+      {
+        "key": "41_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s11948-021-00282-0",
+        "volume": "27",
+        "author": "A McKeown",
+        "year": "2021",
+        "unstructured": "McKeown, A., Mourby, M., Harrison, P., Walker, S., Sheehan, M., & Singh, I. (2021). Ethical Issues in Consent for the Reuse of Data in Health Data Platforms. Science and Engineering Ethics, 27, 1–21.",
+        "journal-title": "Science and Engineering Ethics"
+      },
+      {
+        "key": "41_CR18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Narayanan, A., & Shmatikov, V. (2008). Robust De-Anonymization of Large Sparse Datasets. In Proceedings of the IEEE Symposium on Security and Privacy (S &P 2008) (pp. 111–125). Oakland: IEEE.",
+        "DOI": "10.1109/SP.2008.33"
+      },
+      {
+        "key": "41_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "3069",
+        "DOI": "10.1038/s41467-019-10933-3",
+        "volume": "10",
+        "author": "L Rocher",
+        "year": "2019",
+        "unstructured": "Rocher, L., Hendrickx, J. M., & de Montjoye, Y. (2019). Estimating the Success of Re-Identifications in Incomplete Datasets Using Generative Models. Nature Communications, 10, 3069.",
+        "journal-title": "Nature Communications"
+      },
+      {
+        "key": "41_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "439",
+        "DOI": "10.1007/s11023-021-09566-7",
+        "volume": "31",
+        "author": "J Ruohonen",
+        "year": "2021",
+        "unstructured": "Ruohonen, J. (2021). The Treatchery of Images in the Digital Sovereignty Debate. Minds and Machines, 31, 439–456.",
+        "journal-title": "Minds and Machines"
+      },
+      {
+        "key": "41_CR21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.is.2021.101876",
+        "volume": "106",
+        "author": "J Ruohonen",
+        "year": "2022",
+        "unstructured": "Ruohonen, J., & Hjerppe, K. (2022). The GDPR Enforcement Fines at Glance. Information Systems, 106, 101876.",
+        "journal-title": "Information Systems"
+      },
+      {
+        "key": "41_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s44206-022-00025-z",
+        "volume": "1",
+        "author": "H Sheikh",
+        "year": "2022",
+        "unstructured": "Sheikh, H. (2022). European Digital Sovereignty: A Layered Approach. Digital Society, 1, 1–25.",
+        "journal-title": "Digital Society"
+      },
+      {
+        "key": "41_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "564",
+        "DOI": "10.1016/j.healthpol.2019.03.012",
+        "volume": "123",
+        "author": "LL Skovgaard",
+        "year": "2019",
+        "unstructured": "Skovgaard, L. L., Wadmann, S., & Hoeyer, K. (2019). A Review of Attitudes Towards the Reuse of Health Data Among People in the European Union: The Primacy of Purpose and the Common Good. Health Policy, 123, 564–571.",
+        "journal-title": "Health Policy"
+      },
+      {
+        "key": "41_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "205395171986259",
+        "DOI": "10.1177/2053951719862594",
+        "volume": "6",
+        "author": "J Starkbaum",
+        "year": "2019",
+        "unstructured": "Starkbaum, J., & Felt, U. (2019). Negotiating the Reuse of Health-Data: Research, Big Data, and the European General Data Protection Regulation. Big Data & Society, 6, 2053951719862594.",
+        "journal-title": "Big Data & Society"
+      },
+      {
+        "key": "41_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1007/s10603-018-9399-7",
+        "volume": "42",
+        "author": "I van Ooijen",
+        "year": "2019",
+        "unstructured": "van Ooijen, I., & Vrabec, H. U. (2019). Does the GDPR Enhance Consumers’ Control over Personal Data? An Analysis from a Behavioural Perspective. Journal of Consumer Policy, 42, 91–107.",
+        "journal-title": "Journal of Consumer Policy"
+      },
+      {
+        "key": "41_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "115",
+        "DOI": "10.1186/s13690-022-00866-7",
+        "volume": "80",
+        "author": "J Vukovic",
+        "year": "2022",
+        "unstructured": "Vukovic, J., Ivankovic, D., Habl, C., & Dimnjakovic, J. (2022). Enablers and Barriers to the Secondary Use of Health Data in Europe: General Data Protection Regulation Perspective. Archives of Public Health, 80, 115.",
+        "journal-title": "Archives of Public Health"
+      },
+      {
+        "key": "41_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "4515",
+        "DOI": "10.1007/s10586-022-03691-3",
+        "volume": "25",
+        "author": "M Zichichi",
+        "year": "2022",
+        "unstructured": "Zichichi, M., Ferretti, S., D’Angelo, G., & Rodríguez-Doncel, V. (2022). Data Governance Through a Multi-DLT Architecture in View of the GDPR. Cluster Computing, 25, 4515–4542.",
+        "journal-title": "Cluster Computing"
+      }
+    ],
+    "container-title": [
+      "Digital Society"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44206-023-00041-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s44206-023-00041-7/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44206-023-00041-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2023-06-20T09:07:16Z",
+      "timestamp": 1687252036000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s44206-023-00041-7"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          29
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "41"
+    ],
+    "URL": "https://doi.org/10.1007/s44206-023-00041-7",
+    "relation": {},
+    "ISSN": [
+      "2731-4650",
+      "2731-4669"
+    ],
+    "issn-type": [
+      {
+        "value": "2731-4650",
+        "type": "print"
+      },
+      {
+        "value": "2731-4669",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          29
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "30 January 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "2 March 2023",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "29 March 2023",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "There is a conflict of interest with other researchers funded by the same grant (no. 327391) from the Strategic Research Council at the Academy of Finland.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of Interest"
+        }
+      }
+    ],
+    "article-number": "10"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "doi": "10.1145/3543873.3587659",
+  "title": "Towards a Semantic Approach for Linked Dataspace, Model and Data Cards",
+  "authors": [
+    "Andy Donald",
+    "Apostolos Galanopoulos",
+    "Edward Curry",
+    "Emir Muñoz",
+    "Ihsan Ullah",
+    "M. A. Waskow",
+    "Maciej Dabrowski",
+    "Manan Kalra"
+  ],
+  "year": 2023,
+  "date": "2023-04-30",
+  "dates": [
+    "2023-04-30",
+    "2023-04-30",
+    "2023-04-30",
+    "2023-04-30"
+  ],
+  "type": "proceedings-article",
+  "venue": "Companion Proceedings of the ACM Web Conference 2023",
+  "abstract": "",
+  "evidence_url": "https://doi.org/10.1145/3543873.3587659",
+  "evidence_basis": "Title and bibliographic metadata",
+  "in_window": true
+}

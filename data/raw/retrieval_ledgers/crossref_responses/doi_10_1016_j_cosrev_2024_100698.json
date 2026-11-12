@@ -1,0 +1,1343 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2026-09-10T05:45:19Z",
+      "timestamp": 1789019119737,
+      "version": "build-2803163510"
+    },
+    "reference-count": 125,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              3
+            ]
+          ],
+          "date-time": "2024-12-03T00:00:00Z",
+          "timestamp": 1733184000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100002428",
+        "name": "Austrian Science Fund",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "V 759-N"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "V 759-N"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002428",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007601",
+        "name": "Horizon 2020",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100007601",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100010665",
+        "name": "EU Framework Programme for Research and Innovation Marie Skłodowska-Curie Actions",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "860801"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "860801"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100010665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Computer Science Review"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cosrev.2024.100698",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          9
+        ]
+      ],
+      "date-time": "2024-12-09T03:18:48Z",
+      "timestamp": 1733714328000
+    },
+    "page": "100698",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "special_numbering": "C",
+    "title": [
+      "A comprehensive review of usage control frameworks"
+    ],
+    "prefix": "10.1016",
+    "volume": "56",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6020-5572",
+        "authenticated-orcid": false,
+        "given": "Ines",
+        "family": "Akaichi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sabrina",
+        "family": "Kirrane",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b1",
+        "doi-asserted-by": "crossref",
+        "first-page": "477",
+        "DOI": "10.1108/JEIM-03-2018-0058",
+        "article-title": "Usage control architecture options for data sovereignty in business ecosystems",
+        "volume": "32",
+        "author": "Zrenner",
+        "year": "2019",
+        "journal-title": "J. Enterp. Inf. Manag."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b2",
+        "author": "European Parliament and Council of the European Union",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b3",
+        "series-title": "Directive (EU) 2019/790 of the European parliament and of the council of 17 april 2019 on copyright and related rights in the digital single market and amending directives 96/9/EC and 2001/29/EC",
+        "author": "European Parliament and Council of the European Union",
+        "year": "2019"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cosrev.2024.100698_b4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3507910",
+        "article-title": "Governance of autonomous agents on the web: Challenges and opportunities",
+        "volume": "22",
+        "author": "Kampik",
+        "year": "2022",
+        "journal-title": "ACM Trans. Internet Technol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.cosrev.2024.100698_b5",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1145/984334.984339",
+        "article-title": "The UCONABC usage control model",
+        "volume": "7",
+        "author": "Park",
+        "year": "2004",
+        "journal-title": "ACM Trans. Inf. Syst. Secur."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.cosrev.2024.100698_b6",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1145/1151030.1151053",
+        "article-title": "Distributed usage control",
+        "volume": "49",
+        "author": "Pretschner",
+        "year": "2006",
+        "journal-title": "Commun. ACM"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b7",
+        "series-title": "Computer Security – ESORICS 2007",
+        "first-page": "531",
+        "article-title": "A policy language for distributed usage control",
+        "author": "Hilty",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b8",
+        "series-title": "IDS reference architecture model version 3.0",
+        "author": "Otto",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b9",
+        "series-title": "Rules and Reasoning: 7th International Joint Conference, RuleML+RR 2023, Oslo, Norway, September 18–20, 2023, Proceedings",
+        "first-page": "34",
+        "article-title": "GUCON: a generic graph pattern based policy framework for usage control enforcement",
+        "author": "Akaichi",
+        "year": "2023"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cosrev.2024.100698_b10",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1109/MSP.2008.101",
+        "article-title": "Usage control enforcement: Present and future",
+        "volume": "6",
+        "author": "Pretschner",
+        "year": "2008",
+        "journal-title": "IEEE Secur. Priv."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b11",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/j.cose.2015.06.002",
+        "article-title": "SecKit: A model-based security toolkit for the Internet of Things",
+        "volume": "54",
+        "author": "Neisse",
+        "year": "2015",
+        "journal-title": "Comput. Secur."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b12",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/j.future.2017.05.039",
+        "article-title": "Policy-based usage control for a trustworthy data sharing platform in smart cities",
+        "volume": "107",
+        "author": "Cao",
+        "year": "2020",
+        "journal-title": "Future Gener. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b13",
+        "series-title": "Grids, P2P and Services Computing",
+        "first-page": "133",
+        "article-title": "A proposal on enhancing XACML with continuous usage control features",
+        "author": "Colombo",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b14",
+        "series-title": "Designing Data Spaces",
+        "first-page": "129",
+        "article-title": "Data usage control",
+        "author": "Jung",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b15",
+        "unstructured": "C. Jung, A. Eitel, R. Schwarz, Enhancing cloud security with context-aware usage control policies, in: Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI), Vol. P-232, 2014, pp. 211–222."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b16",
+        "series-title": "TrustBus",
+        "first-page": "79",
+        "article-title": "A prototype for enforcing usage control policies based on XACML",
+        "author": "Lazouski",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b17",
+        "series-title": "Collaborative Approaches for Cyber Security in Cyber-Physical Systems",
+        "first-page": "209",
+        "article-title": "UCON+: Comprehensive model, architecture and implementation for usage control and continuous authorization",
+        "author": "Hariri",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b18",
+        "series-title": "International Conference on Runtime Verification",
+        "first-page": "360",
+        "article-title": "MONPOLY: Monitoring usage-control policies",
+        "author": "Basin",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b19",
+        "series-title": "Trust, Privacy and Security in Digital Business",
+        "first-page": "83",
+        "article-title": "Usage control in service-oriented architectures",
+        "author": "Pretschner",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b20",
+        "series-title": "Proceedings of ACM Symposium on Access Control Models and Technologies",
+        "first-page": "11",
+        "article-title": "A posteriori compliance control",
+        "author": "Etalle",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b21",
+        "first-page": "1",
+        "article-title": "Toward a usage-based security framework for collaborative computing systems",
+        "volume": "11",
+        "author": "Zhang",
+        "year": "2008",
+        "journal-title": "ACM Trans. Inf. Syst. Secur."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b22",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.cosrev.2010.02.002",
+        "article-title": "Usage control in computer security: A survey",
+        "volume": "4",
+        "author": "Lazouski",
+        "year": "2010",
+        "journal-title": "Comp. Sci. Rev."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b23",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1016/j.cose.2014.03.009",
+        "article-title": "SoNeUCONABC, an expressive usage control model for web-based social networks",
+        "volume": "43",
+        "author": "González-Manzano",
+        "year": "2014",
+        "journal-title": "Comput. Secur."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b24",
+        "series-title": "Security and Trust Management",
+        "first-page": "81",
+        "article-title": "A use-based approach for enhancing UCON",
+        "author": "Grompanopoulos",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "R. Gopalan, A. Antön, J. Doyle, UCON LEGAL: A usage control model for HIPAA, in: IHI’12 - Proceedings of the 2nd ACM SIGHIT International Health Informatics Symposium, ISBN: 9781450307819, 2012, pp. 227–236.",
+        "DOI": "10.1145/2110363.2110391"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Kern, R. Anderl, Using Digital Twin Data for the Attribute-Based Usage Control of Value-Added Networks, in: 2020 7th International Conference on Software Defined Systems, SDS 2020, ISBN: 9781728172194, 2020, pp. 29–36.",
+        "DOI": "10.1109/SDS49854.2020.9143921"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b27",
+        "series-title": "Security and Privacy in Communication Networks",
+        "first-page": "326",
+        "article-title": "Context-aware usage control for android",
+        "author": "Bai",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b28",
+        "series-title": "Proceedings of the 12th ACM Symposium on Access Control Models and Technologies",
+        "first-page": "71",
+        "article-title": "Towards a VMM-based usage control framework for OS kernel integrity protection",
+        "author": "Xu",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b29",
+        "doi-asserted-by": "crossref",
+        "first-page": "685",
+        "DOI": "10.1007/s10009-020-00600-0",
+        "article-title": "Specifying and verifying usage control models and policies in TLA <sup>+</sup>",
+        "volume": "23",
+        "author": "Grompanopoulos",
+        "year": "2021",
+        "journal-title": "Int. J. Softw. Tools Technol. Transfer"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "A. Gouglidis, C. Grompanopoulos, A. Mavridou, Formal verification of usage control models a case study of use CON using TLA+, in: Electronic Proceedings in Theoretical Computer Science, Vol. 272, EPTCS, 2018, pp. 52–64.",
+        "DOI": "10.4204/EPTCS.272.5"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b31",
+        "first-page": "627",
+        "article-title": "Formal specification of concurrent enforcement UCON model with ctl logic",
+        "volume": "vol. 11633 LNCS",
+        "author": "Lili",
+        "year": "2019"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cosrev.2024.100698_b32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1342",
+        "DOI": "10.1016/j.jnca.2011.03.019",
+        "article-title": "Applying a usage control model in an operating system kernel",
+        "volume": "34",
+        "author": "Teigão",
+        "year": "2011",
+        "journal-title": "J. Netw. Comput. Appl."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b33",
+        "series-title": "Extensible access control markup language (XACML) version 3.0.",
+        "author": "Rissanen",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b34",
+        "series-title": "2012 International Conference for Internet Technology and Secured Transactions",
+        "first-page": "202",
+        "article-title": "Usage control in cloud systems",
+        "author": "Lazouski",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b35",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1016/j.future.2016.04.010",
+        "article-title": "Usage control on cloud systems",
+        "volume": "63",
+        "author": "Carniani",
+        "year": "2016",
+        "journal-title": "Future Gener. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b36",
+        "series-title": "Security and Trust Management",
+        "first-page": "118",
+        "article-title": "Smart parental advisory: A usage control and deep learning-based framework for dynamic parental control on smart TV",
+        "author": "Giorgi",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b37",
+        "series-title": "Proceedings of the 31st Annual ACM Symposium on Applied Computing",
+        "first-page": "2049",
+        "article-title": "Enhancing android permission through usage control: A BYOD use-case",
+        "author": "Martinelli",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "F. Martinelli, C. Michailidou, P. Mori, A. Saracino, Managing QoS in Smart Buildings Through Software Defined Network and Usage Control, in: 2019 IEEE International Conference on Pervasive Computing and Communications Workshops, PerCom Workshops, 2019, pp. 626–632.",
+        "DOI": "10.1109/PERCOMW.2019.8730751"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b39",
+        "first-page": "38",
+        "article-title": "Usage control enforcement - A survey",
+        "volume": "vol. 6908",
+        "author": "Nyre",
+        "year": "2011"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.cosrev.2024.100698_b40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3561511",
+        "article-title": "Assessment framework for the identification and evaluation of main features for distributed usage control solutions",
+        "volume": "26",
+        "author": "Gil",
+        "year": "2022",
+        "journal-title": "ACM Trans. Priv. Secur."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b41",
+        "series-title": "2018 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications/ 12th IEEE International Conference on Big Data Science and Engineering",
+        "first-page": "289",
+        "article-title": "LUCON: Data flow control for message-based IoT systems",
+        "author": "Schütte",
+        "year": "2018"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.cosrev.2024.100698_b42",
+        "doi-asserted-by": "crossref",
+        "first-page": "356",
+        "DOI": "10.1177/1534484305278283",
+        "article-title": "Writing Integrative Literature Reviews: Guidelines and Examples",
+        "volume": "4",
+        "author": "Torraco",
+        "year": "2005",
+        "journal-title": "Hum. Resour. Dev. Rev."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.cosrev.2024.100698_b43",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1057/ejis.2012.26",
+        "article-title": "A method for taxonomy development and its application in information systems",
+        "volume": "22",
+        "author": "Nickerson",
+        "year": "2013",
+        "journal-title": "Eur. J. Inf. Syst."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b44",
+        "series-title": "Proceedings of ACM Symposium on Access Control Models and Technologies",
+        "first-page": "123",
+        "article-title": "A general obligation model and continuity-enhanced policy enforcement engine for usage control",
+        "author": "Katt",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b45",
+        "series-title": "Proceedings of the International Conference on Systems and Networks Communications",
+        "first-page": "1",
+        "article-title": "Usage control requirements in mobile and ubiquitous computing applications",
+        "author": "Hilty",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b46",
+        "unstructured": "P. Kumari, Requirements Analysis for Privacy in Social Networks, in: International Workshop for Technical, Economic and Legal Aspects of Business Models for Virtual Goods 2010, 2010."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.cosrev.2024.100698_b47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/su12093885",
+        "article-title": "Data usage and access control in industrial data spaces: Implementation using FIWARE",
+        "volume": "12",
+        "author": "Munoz-Arcentales",
+        "year": "2020",
+        "journal-title": "Sustainability"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b48",
+        "unstructured": "F.J.G. Clemente, G. Martínez Pérez, J.A. Botía Blaya, A.F. Gómez Skarmeta, Representing Security Policies in Web Information Systems, in: Proceedings of the 14th International WWW Conference Policy Management for the Web, PM4W, 2005, pp. 10–16."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b49",
+        "series-title": "ISSE 2004 - Securing Electronic Business Processes, Highlights of the Information Security Solutions Europe 2004 Conference",
+        "first-page": "198",
+        "article-title": "Dealing with privacy obligations in enterprises",
+        "author": "Mont",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b50",
+        "series-title": "2012 IEEE Sixth International Conference on Software Security and Reliability",
+        "first-page": "41",
+        "article-title": "Flexible data-driven security for android",
+        "author": "Feth",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b51",
+        "series-title": "2020 IEEE 45th Conference on Local Computer Networks",
+        "first-page": "204",
+        "article-title": "IntentKeeper: Intent-oriented data usage control for federated data analytics",
+        "author": "Cirillo",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b52",
+        "series-title": "Proceedings of the 14th International Conference on Mobile and Ubiquitous Multimedia",
+        "first-page": "400",
+        "article-title": "Understanding usage control requirements in pervasive memory augmentation systems",
+        "author": "Bexheti",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b53",
+        "series-title": "International Conference on Health Informatics",
+        "first-page": "331",
+        "article-title": "Access and usage control requirements for patient controlled record type of healthcare information system",
+        "author": "Rath",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b54",
+        "series-title": "2020 Global Internet of Things Summit",
+        "first-page": "1",
+        "article-title": "Evaluation methodology for distributed data usage control solutions",
+        "author": "Gil",
+        "year": "2020"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.cosrev.2024.100698_b55",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1145/1239971.1239972",
+        "article-title": "Requirements for scalable access control and security management architectures",
+        "volume": "7",
+        "author": "Keromytis",
+        "year": "2007",
+        "journal-title": "ACM Trans. Internet Technol."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b56",
+        "series-title": "European Symposium on Research in Computer Security",
+        "first-page": "98",
+        "article-title": "On obligations",
+        "author": "Hilty",
+        "year": "2005"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b57",
+        "series-title": "Trust Management",
+        "first-page": "411",
+        "article-title": "Monitors for usage control",
+        "author": "Hilty",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b58",
+        "series-title": "First ACM Conference on Data and Application Security and Privacy, CODASPY 2011, San Antonio, TX, USA, February 21-23, 2011, Proceedings",
+        "first-page": "85",
+        "article-title": "Distributed data usage control for web applications: a social network implementation",
+        "author": "Kumari",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b59",
+        "series-title": "Proceedings of the 6th International Conference on Information Systems Security and Privacy",
+        "first-page": "397",
+        "article-title": "A systematic approach toward extracting technically enforceable policies from data usage control requirements",
+        "author": "Hosseinzadeh",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b60",
+        "series-title": "2013 IEEE Symposium on Security and Privacy Workshops",
+        "first-page": "13",
+        "article-title": "How usage control and provenance tracking get together - A data protection perspective",
+        "author": "Bier",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b61",
+        "series-title": "4th IEEE International Workshop on Policies for Distributed Systems and Networks",
+        "first-page": "63",
+        "article-title": "A policy language for a pervasive computing environment",
+        "author": "Kagal",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b62",
+        "series-title": "Expressive and Enforceable Information Security Policies",
+        "author": "Chong",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b63",
+        "series-title": "Proceedings of the 10th ACM Workshop on Digital Rights Management",
+        "first-page": "73",
+        "article-title": "An interoperable usage management framework",
+        "author": "Jamkhedkar",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b64",
+        "first-page": "590",
+        "article-title": "An architecture for providing data usage and access control in data sharing ecosystems",
+        "volume": "vol. 160",
+        "author": "Munoz-Arcentales",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b65",
+        "series-title": "Risks and Security of Internet and Systems",
+        "article-title": "Towards a full support of obligations in XACML",
+        "author": "Kateb",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b66",
+        "series-title": "A Framework for Usage Control Policy Enforcement",
+        "author": "Weber",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b67",
+        "series-title": "2012 IEEE 23rd International Symposium on Software Reliability Engineering",
+        "first-page": "151",
+        "article-title": "Data loss prevention based on data-driven usage control",
+        "author": "Wüchner",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b68",
+        "doi-asserted-by": "crossref",
+        "unstructured": "T. Wüchner, S. Müller, R. Fischer, Compliance-Preserving Cloud Storage Federation Based on Data-Driven Usage Control, in: 2013 IEEE 5th International Conference on Cloud Computing Technology and Science, Vol. 2, 2013, pp. 285–288.",
+        "DOI": "10.1109/CloudCom.2013.149"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b69",
+        "series-title": "2011 Sixth International Conference on Availability, Reliability and Security",
+        "first-page": "230",
+        "article-title": "A trustworthy usage control enforcement framework",
+        "author": "Neisse",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b70",
+        "series-title": "Critical Information Infrastructures Security",
+        "first-page": "212",
+        "article-title": "A framework for privacy protection and usage control of personal data in a smart city scenario",
+        "author": "Baldini",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b71",
+        "series-title": "2017 IEEE Trustcom/BigDataSE/ICESS",
+        "first-page": "1056",
+        "article-title": "Implementing usage control in Internet of Things: A smart home use case",
+        "author": "La Marra",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b72",
+        "series-title": "Security, Privacy, and Anonymity in Computation, Communication, and Storage",
+        "first-page": "545",
+        "article-title": "Improving MQTT by inclusion of usage control",
+        "author": "La Marra",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b73",
+        "series-title": "2018 17th IEEE International Conference on Trust, Security and Privacy in Computing and Communications/ 12th IEEE International Conference on Big Data Science and Engineering",
+        "first-page": "1844",
+        "article-title": "Privacy preserving distributed attribute computation for usage control in the Internet of Things",
+        "author": "Costantino",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b74",
+        "series-title": "Proceedings of the 4th ACM Workshop on Cyber-Physical System Security",
+        "first-page": "27",
+        "article-title": "Too long, did not enforce: A qualitative hierarchical risk-aware data usage control model for complex policies in distributed environments",
+        "author": "Martinelli",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b75",
+        "series-title": "Security and Privacy Trends in the Industrial Internet of Things",
+        "first-page": "115",
+        "article-title": "A distributed usage control framework for industrial internet of things",
+        "author": "La Marra",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b76",
+        "series-title": "2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing",
+        "first-page": "356",
+        "article-title": "Obligation management in usage control systems",
+        "author": "Martinelli",
+        "year": "2019"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.cosrev.2024.100698_b77",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1109/MCOM.001.1900712",
+        "article-title": "Pushing forward security in network slicing by leveraging continuous usage control",
+        "volume": "58",
+        "author": "Martini",
+        "year": "2020",
+        "journal-title": "IEEE Commun. Mag."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b78",
+        "series-title": "2019 IFIP/IEEE Symposium on Integrated Network and Service Management",
+        "first-page": "25",
+        "article-title": "Enhancing security in ETSI open source MANO with usage control capability",
+        "author": "La Marra",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b79",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O. Osliak, P. Mori, A. Saracino, Usage Control for Industrial Control System, in: Collaborative Approaches for Cyber Security in Cyber-Physical Systems, 2023, pp. 191–207.",
+        "DOI": "10.1007/978-3-031-16088-2_9"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b80",
+        "series-title": "2009 Third International Conference on Network and System Security",
+        "first-page": "246",
+        "article-title": "xDUCON: Coordinating usage control policies in distributed domains",
+        "author": "Russello",
+        "year": "2009"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.cosrev.2024.100698_b81",
+        "doi-asserted-by": "crossref",
+        "first-page": "440",
+        "DOI": "10.1007/s11623-016-0633-7",
+        "article-title": "Datenschutz und datenanalyse",
+        "volume": "40",
+        "author": "Steinebach",
+        "year": "2016",
+        "journal-title": "Datenschutz und Datensicherheit - DuD"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b82",
+        "series-title": "Logics in Artificial Intelligence",
+        "first-page": "29",
+        "article-title": "An event-condition-action logic programming language",
+        "author": "Alferes",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b83",
+        "series-title": "ODRL information model 2.2",
+        "author": "Iannella",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b84",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1145/2363.2433",
+        "article-title": "Generative communication in linda",
+        "volume": "7",
+        "author": "Gelernter",
+        "year": "1985",
+        "journal-title": "ACM Trans. Program. Lang. Syst."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b85",
+        "series-title": "IFIP Working Conference Data Base Management",
+        "first-page": "1",
+        "article-title": "Data semantics",
+        "author": "Abrial",
+        "year": "1974"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b86",
+        "series-title": "STM",
+        "first-page": "64",
+        "article-title": "Enforcement of U-XACML history-based usage control policy",
+        "author": "Martinelli",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b87",
+        "series-title": "Rule Technologies: Foundations, Tools, and Applications",
+        "first-page": "360",
+        "article-title": "Towards formal semantics for ODRL policies",
+        "author": "Steyskal",
+        "year": "2015"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.cosrev.2024.100698_b88",
+        "first-page": "311",
+        "article-title": "Access control and the resource description framework: A survey",
+        "volume": "8",
+        "author": "Kirrane",
+        "year": "2017",
+        "journal-title": "Semantic Web"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b89",
+        "series-title": "Conflict Detection and Resolution of XACML Policies",
+        "author": "Huonder",
+        "year": "2010"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.cosrev.2024.100698_b90",
+        "first-page": "709",
+        "article-title": "Analysis of ontologies and policy languages to represent information flows in GDPR",
+        "volume": "15",
+        "author": "Esteves",
+        "year": "2021",
+        "journal-title": "Semant. Web J."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b91",
+        "series-title": "Proceedings of the Workshop on Semantic Web for Social Good Co-Located with 17th International Semantic Web Conference, Vol. 2182",
+        "article-title": "Data privacy vocabularies and controls: Semantic web for transparency and privacy",
+        "author": "Bonatti",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b92",
+        "series-title": "ESWC",
+        "first-page": "481",
+        "article-title": "GDPRtEXT - GDPR as a linked data resource",
+        "author": "Pandit",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b93",
+        "unstructured": "T. Pellegrini, A. Schönhofer, S. Kirrane, S. Steyskal, A. Fensel, O. Panasiuk, V. Mireles-Chavez, T. Thurner, A. Polleres, M. Dörfler, GENEALOGY AND CLASSIFICATION OF RIGHTS EXPRESSION LANGUAGES-PRELIMINARY RESULTS, in: Proceedings of the 21st International Legal Informatics Symposium, 2018, pp. 243–250."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b94",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/s13218-020-00677-4",
+        "article-title": "Machine understandable policies and GDPR compliance checking",
+        "volume": "34",
+        "author": "Bonatti",
+        "year": "2020",
+        "journal-title": "KI - Künstliche Intelligenz"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b95",
+        "series-title": "Ad-Hoc, Mobile, and Wireless Networks - 16th International Conference on Ad Hoc Networks and Wireless",
+        "first-page": "342",
+        "article-title": "Policy management and enforcement using OWL and SWRL for the internet of things",
+        "author": "Dautov",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b96",
+        "series-title": "ESWC",
+        "first-page": "270",
+        "article-title": "GConsent - A consent ontology based on the GDPR",
+        "author": "Pandit",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b97",
+        "first-page": "124",
+        "article-title": "Privacy CURE: Consent comprehension made easy",
+        "volume": "580",
+        "author": "Drozd",
+        "year": "2020",
+        "journal-title": "ICT Syst. Secur. Priv. Prot."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b98",
+        "first-page": "647",
+        "article-title": "Consent through the lens of semantics: state of the art survey and best practices",
+        "volume": "15",
+        "author": "Kurteva",
+        "year": "2021",
+        "journal-title": "Semantic Web"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b99",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.15623/ijret.2014.0309011",
+        "article-title": "Usability guidelines for usable user interface",
+        "volume": "03",
+        "author": "Mazumder",
+        "year": "2014",
+        "journal-title": "Int. J. Res. Eng. Technol."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b100",
+        "series-title": "SPECIAL-Usability Testing Report V2",
+        "author": "Milosevic",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b101",
+        "series-title": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computed, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation",
+        "first-page": "1",
+        "article-title": "Verification techniques for policy based systems",
+        "author": "Karafili",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b102",
+        "series-title": "ICPE 2015 - Proceedings of the 6th ACM/SPEC International Conference on Performance Engineering",
+        "first-page": "333",
+        "article-title": "How to build a benchmark",
+        "author": "von Kistowski",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b103",
+        "series-title": "Applied Cryptography and Network Security",
+        "first-page": "409",
+        "article-title": "A fully decentralized data usage control enforcement infrastructure",
+        "author": "Kelbert",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b104",
+        "article-title": "Trust and reputation for Internet of Things: Fundamentals, taxonomy, and open research challenges",
+        "volume": "145",
+        "author": "Abdalla",
+        "year": "2019",
+        "journal-title": "J. Netw. Comput. Appl."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b105",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/j.websem.2007.03.002",
+        "article-title": "A survey of trust in computer science and the semantic web",
+        "volume": "5",
+        "author": "Artz",
+        "year": "2007",
+        "journal-title": "J. Web Semant."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b106",
+        "doi-asserted-by": "crossref",
+        "unstructured": "V. Siegert, A. Kirchhoff, M. Gaedke, ConTED: Towards Content Trust for the Decentralized Web, in: Proceedings of WI-IAT 2022, 2022, pp. 604–611.",
+        "DOI": "10.1109/WI-IAT55865.2022.00095"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b107",
+        "doi-asserted-by": "crossref",
+        "unstructured": "V. Siegert, M. Noura, M. Gaedke, aTLAS: A Testbed to Examine Trust for a Redecentralized Web, in: Proceedings of WI-IAT 2020, 2020, pp. 411–416.",
+        "DOI": "10.1109/WIIAT50758.2020.00060"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b108",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1109/ACCESS.2013.2259892",
+        "article-title": "A survey of multi-agent trust management systems",
+        "volume": "1",
+        "author": "Yu",
+        "year": "2013",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b109",
+        "series-title": "Joint Proceedings of the ESWC 2023 Workshops and Tutorials Co-Located with 20th European Semantic Web Conference",
+        "article-title": "Trust awareness for redecentralized web applications (Position paper)",
+        "author": "Siegert",
+        "year": "2023"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cosrev.2024.100698_b110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3447867",
+        "article-title": "Hardware information flow tracking",
+        "volume": "54",
+        "author": "Hu",
+        "year": "2021",
+        "journal-title": "ACM Comput. Surv."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.cosrev.2024.100698_b111",
+        "first-page": "1",
+        "article-title": "Survey of approaches for security verification of hardware/software systems",
+        "volume": "19",
+        "author": "Demir",
+        "year": "2016",
+        "journal-title": "ACM J. Emerg. Technol. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b112",
+        "doi-asserted-by": "crossref",
+        "first-page": "2481",
+        "DOI": "10.1109/TKDE.2019.2936353",
+        "article-title": "Sticky policies: A survey",
+        "volume": "32",
+        "author": "Miorandi",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Knowl. Data Eng."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b113",
+        "series-title": "Data Privacy Management and Autonomous Spontaneus Security",
+        "first-page": "122",
+        "article-title": "Representation-independent data usage control",
+        "author": "Pretschner",
+        "year": "2012"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.cosrev.2024.100698_b114",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3183342",
+        "article-title": "Data usage control for distributed systems",
+        "volume": "21",
+        "author": "Kelbert",
+        "year": "2018",
+        "journal-title": "ACM Trans. Priv. Secur."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cosrev.2024.100698_b115",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.1007/s00779-019-01330-0",
+        "article-title": "User consent modeling for ensuring transparency and compliance in smart cities",
+        "volume": "24",
+        "author": "Fernández",
+        "year": "2020",
+        "journal-title": "Pers. Ubiquitous Comput."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b116",
+        "doi-asserted-by": "crossref",
+        "first-page": "143734",
+        "DOI": "10.1109/ACCESS.2020.3014565",
+        "article-title": "A consent model for blockchain-based health data sharing platforms",
+        "volume": "8",
+        "author": "Jaiman",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b117",
+        "series-title": "The Semantic Web: ESWC 2018 Satellite Events",
+        "first-page": "131",
+        "article-title": "A scalable consent, transparency and compliance architecture",
+        "author": "Kirrane",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b118",
+        "unstructured": "K. Fatema, E. Hadziselimovic, H. Pandit, C. Debruyne, D. Lewis, D. O’Sullivan, Compliance through informed consent: Semantic based consent permission and data management model, in: Privacy and the Semantic Web – Policy and Technology Workshop (PrivOn 2017). Co-Located with ISWC 2017, 2017."
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b119",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O. Drozd, S. Kirrane, Privacy CURE: Consent comprehension made easy, in: 35th IFIP International Conference on ICT Systems Security and Privacy Protection, 2020.",
+        "DOI": "10.1007/978-3-030-58201-2_9"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b120",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Raschke, A. Küpper, O. Drozd, S. Kirrane, Designing a GDPR-compliant and usable privacy dashboard, in: Privacy and Identity Management. the Smart Revolution. Privacy and Identity 2017. IFIP Advances in Information and Communication Technology, 2017.",
+        "DOI": "10.1007/978-3-319-92925-5_14"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b121",
+        "series-title": "Computer Safety, Reliability, and Security",
+        "first-page": "337",
+        "article-title": "Transparent personal data processing: The road ahead",
+        "author": "Bonatti",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b122",
+        "series-title": "Regulation (EU) 2022/868 of the European parliament and of the council of 30 may 2022 on European data governance and amending regulation (EU) 2018/1724 (Data gover- nance act)",
+        "author": "European Commission",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b123",
+        "series-title": "Proposal for a regulation of the European parliament and of the council on harmonised rules on fair access to and use of data (data act)",
+        "author": "European Commission",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b124",
+        "series-title": "Proposal for a regulation of the European parliament and of the council laying down harmonised rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts",
+        "author": "European Commission",
+        "year": "2024"
+      },
+      {
+        "key": "10.1016/j.cosrev.2024.100698_b125",
+        "series-title": "Data privacy laws and regulations around the world",
+        "author": "Securiti Research Team",
+        "year": "2024"
+      }
+    ],
+    "container-title": [
+      "Computer Science Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1574013724000819?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1574013724000819?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2026-03-23T16:33:53Z",
+      "timestamp": 1774283633000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1574013724000819"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "references-count": 125,
+    "alternative-id": [
+      "S1574013724000819"
+    ],
+    "URL": "https://doi.org/10.1016/j.cosrev.2024.100698",
+    "relation": {},
+    "ISSN": [
+      "1574-0137"
+    ],
+    "issn-type": [
+      {
+        "value": "1574-0137",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A comprehensive review of usage control frameworks",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Computer Science Review",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cosrev.2024.100698",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Authors. Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "100698"
+  }
+}

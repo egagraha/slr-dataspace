@@ -1,0 +1,1742 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2026-10-22T15:57:09Z",
+      "timestamp": 1792684629119,
+      "version": "4.5.0"
+    },
+    "reference-count": 155,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2024-05-01T00:00:00Z",
+          "timestamp": 1714521600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2024-05-01T00:00:00Z",
+          "timestamp": 1714521600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              12
+            ]
+          ],
+          "date-time": "2024-03-12T00:00:00Z",
+          "timestamp": 1710201600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "390621612"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "390621612"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "EXC-2023"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "EXC-2023"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Data &amp; Knowledge Engineering"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.datak.2024.102301",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2024-03-19T12:31:38Z",
+      "timestamp": 1710851498000
+    },
+    "page": "102301",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "special_numbering": "C",
+    "title": [
+      "The unresolved need for dependable guarantees on security, sovereignty, and trust in data ecosystems"
+    ],
+    "prefix": "10.1016",
+    "volume": "151",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2101-5562",
+        "authenticated-orcid": false,
+        "given": "Johannes",
+        "family": "Lohmöller",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jan",
+        "family": "Pennekamp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roman",
+        "family": "Matzutt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carolin Victoria",
+        "family": "Schneider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eduard",
+        "family": "Vlad",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Trautwein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Klaus",
+        "family": "Wehrle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.datak.2024.102301_b1",
+        "series-title": "2019 IEEE International Conference on Industrial Cyber Physical Systems",
+        "first-page": "31",
+        "article-title": "Towards an infrastructure enabling the internet of production",
+        "author": "Pennekamp",
+        "year": "2019"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b2",
+        "doi-asserted-by": "crossref",
+        "first-page": "561",
+        "DOI": "10.1007/s12525-019-00362-x",
+        "article-title": "Designing a multi-sided data platform: Findings from the international data spaces case",
+        "volume": "29",
+        "author": "Otto",
+        "year": "2019",
+        "journal-title": "Electron Markets"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.datak.2024.102301_b3",
+        "doi-asserted-by": "crossref",
+        "first-page": "635",
+        "DOI": "10.1007/s12599-019-00609-z",
+        "article-title": "Interview with reinhold achatz on data sovereignty and data ecosystems",
+        "volume": "61",
+        "author": "Otto",
+        "year": "2019",
+        "journal-title": "Bus. Inf. Syst. Eng."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b4",
+        "series-title": "IDS reference architecture model (version 4.0)",
+        "author": "Otto",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b5",
+        "series-title": "Gaia-X architecture document",
+        "author": "Gaia-X Technical Committee",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b6",
+        "series-title": "Hawaii International Conference on System Sciences",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.24251/HICSS.2021.739",
+        "article-title": "A taxonomy for data ecosystems",
+        "author": "Gelhaar",
+        "year": "2021"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b7",
+        "doi-asserted-by": "crossref",
+        "first-page": "477",
+        "DOI": "10.1108/JEIM-03-2018-0058",
+        "article-title": "Usage control architecture options for data sovereignty in business ecosystems",
+        "volume": "32",
+        "author": "Zrenner",
+        "year": "2019",
+        "journal-title": "JEIM"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b8",
+        "series-title": "Collaborative Approaches for Cyber Security in Cyber-Physical Systems",
+        "first-page": "123",
+        "article-title": "Towards collaborative security approaches based on the European digital sovereignty ecosystem",
+        "author": "Ibrahim",
+        "year": "2023"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b9",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2196/25120",
+        "article-title": "Revolutionizing medical data sharing using advanced privacy-enhancing technologies: technical, legal, and ethical synthesis",
+        "volume": "23",
+        "author": "Scheibner",
+        "year": "2021",
+        "journal-title": "J. Med. Internet Res."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b10",
+        "series-title": "2021 IEEE/ACS 18th International Conference on Computer Systems and Applications",
+        "first-page": "1",
+        "article-title": "Towards distributed healthcare systems – virtual data pooling between cancer registries as backbone of care and research",
+        "author": "Appenzeller",
+        "year": "2021"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b11",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1515/popets-2017-0047",
+        "article-title": "Unlynx: A decentralized system for privacy-conscious data sharing",
+        "volume": "2017",
+        "author": "Froelicher",
+        "year": "2017",
+        "journal-title": "Proc. Privacy Enhancing Technol."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b12",
+        "series-title": "Designing Data Spaces",
+        "article-title": "Legal aspects of IDS: data sovereignty - what does it imply?",
+        "author": "Duisberg",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b13",
+        "series-title": "The Semantic Web – ISWC 2020",
+        "first-page": "176",
+        "article-title": "The international data spaces information model – an ontology for sovereign exchange of digital content",
+        "volume": "vol. 12507",
+        "author": "Bader",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b14",
+        "series-title": "Security Engineering: A Guide to Building Dependable Distributed Systems",
+        "author": "Anderson",
+        "year": "2020"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/2053951720982012",
+        "article-title": "Data sovereignty: A review",
+        "volume": "8",
+        "author": "Hummel",
+        "year": "2021",
+        "journal-title": "Big Data Soc."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b16",
+        "series-title": "Proceedings of the 1st International Workshop on Data Ecosystems",
+        "first-page": "51",
+        "article-title": "On the need for strong sovereignty in data ecosystems",
+        "volume": "vol. 3306",
+        "author": "Lohmöller",
+        "year": "2022"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b17",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ipm.2021.102529",
+        "article-title": "Blockchain-based privacy preservation for supply chains supporting lightweight multi-hop information accountability",
+        "volume": "58",
+        "author": "Bader",
+        "year": "2021",
+        "journal-title": "Inf. Process. Manage."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3606693",
+        "article-title": "An interdisciplinary survey on information flows in supply chains",
+        "volume": "56",
+        "author": "Pennekamp",
+        "year": "2024",
+        "journal-title": "ACM Comput. Surv."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.datak.2024.102301_b19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1026",
+        "DOI": "10.1109/TDSC.2018.2844814",
+        "article-title": "Efficient fine-grained data sharing mechanism for electronic medical record systems with mobile devices",
+        "volume": "17",
+        "author": "Ma",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Dependable Secure Comput."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b20",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1109/OJCS.2020.2992630",
+        "article-title": "Federated learning for vehicular internet of things: recent advances and open issues",
+        "volume": "1",
+        "author": "Du",
+        "year": "2020",
+        "journal-title": "IEEE Open J. Comput. Soc."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b21",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/sdata.2016.18",
+        "article-title": "The FAIR guiding principles for scientific data management and stewardship",
+        "volume": "3",
+        "author": "Wilkinson",
+        "year": "2016",
+        "journal-title": "Sci. Data"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b22",
+        "unstructured": "J. Gelhaar, B. Otto, Challenges in the Emergence of Data Ecosystems, in: Pacific Asia Conference on Information Systems, (PACIS), Dubai, 2020."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b23",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1109/MNET.2021.9387709",
+        "article-title": "The road to European digital sovereignty with Gaia-X and IDSA",
+        "volume": "35",
+        "author": "Braud",
+        "year": "2021",
+        "journal-title": "IEEE Netw."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b24",
+        "series-title": "Proceedings of the 19th Annual International Conference on Digital Government Research: Governance in the Data Age",
+        "first-page": "1",
+        "article-title": "What is a data ecosystem?",
+        "author": "Oliveira",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b25",
+        "series-title": "Towards Self-sovereign, Decentralized Personal Data Sharing and Identity Management",
+        "author": "Schanzenbach",
+        "year": "2020"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.datak.2024.102301_b26",
+        "doi-asserted-by": "crossref",
+        "first-page": "5189",
+        "DOI": "10.3390/s21155189",
+        "article-title": "A review of attacks, vulnerabilities, and defenses in industry 4.0 with new challenges on data sovereignty ahead",
+        "volume": "21",
+        "author": "Pedreira",
+        "year": "2021",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.datak.2024.102301_b27",
+        "doi-asserted-by": "crossref",
+        "first-page": "2305",
+        "DOI": "10.1177/1461444819865984",
+        "article-title": "What does the notion of sovereignty mean when referring to the digital?",
+        "volume": "21",
+        "author": "Couture",
+        "year": "2019",
+        "journal-title": "New Media Soc."
+      },
+      {
+        "issue": "3–4",
+        "key": "10.1016/j.datak.2024.102301_b28",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1002/poi3.10",
+        "article-title": "Government cloud computing and national data sovereignty: government cloud computing and national data sovereignty",
+        "volume": "4",
+        "author": "Irion",
+        "year": "2012",
+        "journal-title": "POI"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b29",
+        "article-title": "A delimitation of data sovereignty from digital and technological sovereignty",
+        "volume": "vol. 306",
+        "author": "Hellmeier",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b30",
+        "series-title": "Proceedings of the 28th European Conference on Information Systems",
+        "article-title": "Service dominant logic perspective on data ecosystems-a case study based morphology.",
+        "author": "Azkan",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b31",
+        "series-title": "Proceedings of the 8th International Conference on Theory and Practice of Electronic Governance",
+        "first-page": "351",
+        "article-title": "Building an open data ecosystem: An Irish experience",
+        "author": "Lee",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b32",
+        "series-title": "2012 16th International Conference on Intelligence in Next Generation Networks",
+        "first-page": "202",
+        "article-title": "Towards a user-centric personal data ecosystem the role of the bank of individuals’ data",
+        "author": "Moiso",
+        "year": "2012"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b33",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1109/TII.2019.2915846",
+        "article-title": "A global manufacturing big data ecosystem for fault detection in predictive maintenance",
+        "volume": "16",
+        "author": "Yu",
+        "year": "2020",
+        "journal-title": "IEEE Trans. Ind. Inform."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.datak.2024.102301_b34",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.3390/fi12060105",
+        "article-title": "SOLIOT—decentralized data control and interactions for IoT",
+        "volume": "12",
+        "author": "Bader",
+        "year": "2020",
+        "journal-title": "Future Internet"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b35",
+        "unstructured": "https://datasharingcoalition.eu/about-the-data-sharing-coalition/. Accessed 9 August 2022, 2022."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b36",
+        "unstructured": "https://ihan.fi/. Accessed 9 August 2022, 2022."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b37",
+        "doi-asserted-by": "crossref",
+        "first-page": "12",
+        "DOI": "10.1109/IOTM.0001.1800022",
+        "article-title": "A standard-based open source IoT Platform: FIWARE",
+        "volume": "2",
+        "author": "Cirillo",
+        "year": "2019",
+        "journal-title": "IEEE Internet Things M."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b38",
+        "unstructured": "https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/CEF+Digital+Home. Accessed 9 August 2022, 2022."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b39",
+        "unstructured": "https://www.bdva.eu/. Accessed 9 August 2022, 2022."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b40",
+        "series-title": "2023 Smart City Symposium Prague",
+        "first-page": "1",
+        "article-title": "Data marketplace research: A review of the state-of-the-art with a focus on smart cities and on edge data exchange and trade",
+        "author": "Palviainen",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b41",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1017/dap.2020.14",
+        "article-title": "Emerging health data platforms: from individual control to collective data governance",
+        "volume": "2",
+        "author": "Kariotis",
+        "year": "2020",
+        "journal-title": "Data Policy"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b42",
+        "unstructured": "ETSI GR CIM 007 V1.1.1: Security and Privacy, Tech. rep., France, 2022."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b43",
+        "series-title": "Catena-X: datenstandards für die autobranche, tagesspiegel background digitalisierung & KI",
+        "author": "Voß",
+        "year": "2021"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.datak.2024.102301_b44",
+        "doi-asserted-by": "crossref",
+        "first-page": "2226",
+        "DOI": "10.3390/s18072226",
+        "article-title": "Industrial data space architecture implementation using FIWARE",
+        "volume": "18",
+        "author": "Alonso",
+        "year": "2018",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b45",
+        "series-title": "Framework for the IDS Certification Scheme 2.0",
+        "author": "Menz",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b46",
+        "unstructured": "https://www.iso.org/isoiec-27001-information-security.html. Accessed 16 February 2023, 2023."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b47",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1109/MSP.2008.101",
+        "article-title": "Usage control enforcement: present and future",
+        "volume": "6",
+        "author": "Pretschner",
+        "year": "2008",
+        "journal-title": "IEEE Secur. Privacy Mag."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b48",
+        "series-title": "Open Content Licensing: Cultivating the Creative Commons",
+        "article-title": "Open digital rights language (ODRL)",
+        "author": "Ianella",
+        "year": "2007"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b49",
+        "doi-asserted-by": "crossref",
+        "first-page": "589",
+        "DOI": "10.1007/s10115-018-1323-6",
+        "article-title": "Investigations into data ecosystems: A systematic mapping study",
+        "volume": "61",
+        "author": "Oliveira",
+        "year": "2019",
+        "journal-title": "Knowl. Inf. Syst."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b50",
+        "series-title": "2013 IEEE 5th International Conference on Cloud Computing Technology and Science",
+        "first-page": "266",
+        "article-title": "Towards data handling requirements-aware cloud computing",
+        "author": "Henze",
+        "year": "2013"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3467022",
+        "article-title": "Knowledge-driven data ecosystems toward data transparency",
+        "volume": "14",
+        "author": "Geisler",
+        "year": "2022",
+        "journal-title": "J. Data Inf. Qual."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b52",
+        "doi-asserted-by": "crossref",
+        "first-page": "590",
+        "DOI": "10.1016/j.procs.2019.11.042",
+        "article-title": "An architecture for providing data usage and access control in data sharing ecosystems",
+        "volume": "160",
+        "author": "Munoz-Arcentales",
+        "year": "2019",
+        "journal-title": "Procedia Comput. Sci."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b53",
+        "series-title": "Designing Data Spaces",
+        "article-title": "Building trust in data spaces",
+        "author": "Huber",
+        "year": "2022"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b54",
+        "first-page": "124",
+        "article-title": "Data as infrastructure? A study of data sharing legal regimes",
+        "volume": "21",
+        "author": "Ducuing",
+        "year": "2020",
+        "journal-title": "Compet. Regul. Netw. Ind."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b55",
+        "article-title": "How data governance technologies can democratize data sharing for community well-being",
+        "volume": "3",
+        "author": "Wu",
+        "year": "2021",
+        "journal-title": "Data Policy"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b56",
+        "series-title": "Privacy Symposium 2022 - Data Protection Law International Convergence and Compliance with Innovative Technologies",
+        "article-title": "Multi-party computation in the GDPR",
+        "author": "Helminger",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b57",
+        "series-title": "Helmholtz Open Science Briefing: Helmholtz in der Nationalen Forschungsdateninfrastruktur (NFDI): Report des Helmholtz Open Science Forums",
+        "author": "Weisweiler",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b58",
+        "series-title": "myneData: towards a trusted and user-controlled ecosystem for sharing personal data",
+        "author": "Matzutt",
+        "year": "2017"
+      },
+      {
+        "issue": "16",
+        "key": "10.1016/j.datak.2024.102301_b59",
+        "doi-asserted-by": "crossref",
+        "first-page": "7547",
+        "DOI": "10.3390/app11167547",
+        "article-title": "Cooperative approaches to data sharing and analysis for industrial internet of things ecosystems",
+        "volume": "11",
+        "author": "Baars",
+        "year": "2021",
+        "journal-title": "Appl. Sci."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b60",
+        "series-title": "Security and Privacy Trends in the Industrial Internet of Things",
+        "first-page": "115",
+        "article-title": "A distributed usage control framework for industrial internet of things",
+        "author": "Marra",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b61",
+        "series-title": "2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications",
+        "first-page": "1141",
+        "article-title": "TradeChain: decoupling traceability and identity in blockchain enabled supply chains",
+        "author": "Malik",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b62",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1101/2021.02.24.432489",
+        "article-title": "Truly privacy-preserving federated analytics for precision medicine with multiparty homomorphic encryption",
+        "author": "Froelicher",
+        "year": "2021",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b63",
+        "doi-asserted-by": "crossref",
+        "first-page": "5022",
+        "DOI": "10.1109/ACCESS.2019.2962729",
+        "article-title": "A secure and lightweight data sharing scheme for internet of medical things",
+        "volume": "8",
+        "author": "Lu",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b64",
+        "series-title": "Annual Computer Security Applications Conference",
+        "first-page": "510",
+        "article-title": "Privacy-preserving production process parameter exchange",
+        "author": "Pennekamp",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b65",
+        "first-page": "265",
+        "article-title": "Data reliability and trustworthiness through digital transmission contracts",
+        "volume": "vol. 12731",
+        "author": "Mangel",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b66",
+        "series-title": "2020 International Conference on Information Networking",
+        "first-page": "529",
+        "article-title": "A secure and practical decentralized ecosystem for shareable education material",
+        "author": "Matzutt",
+        "year": "2020"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b67",
+        "doi-asserted-by": "crossref",
+        "first-page": "1416",
+        "DOI": "10.1109/TII.2020.2982942",
+        "article-title": "Achieving accountable and efficient data sharing in industrial internet of things",
+        "volume": "17",
+        "author": "Huang",
+        "year": "2021",
+        "journal-title": "IEEE Trans. Ind. Inform."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.datak.2024.102301_b68",
+        "doi-asserted-by": "crossref",
+        "first-page": "996",
+        "DOI": "10.1109/TDSC.2017.2725953",
+        "article-title": "Block design-based key agreement for group data sharing in cloud computing",
+        "volume": "16",
+        "author": "Shen",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Dependable Secure Comput."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b69",
+        "series-title": "2017 IEEE 4th International Conference on Cyber Security and Cloud Computing",
+        "first-page": "333",
+        "article-title": "HDFT++ hybrid data flow tracking for saas cloud services",
+        "author": "Fromm",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b70",
+        "first-page": "1",
+        "article-title": "A survey of proxy re-encryption for secure data sharing in cloud computing",
+        "author": "Qin",
+        "year": "2016",
+        "journal-title": "IEEE Trans. Serv. Comput."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b71",
+        "series-title": "Proceedings of the 21st ACM on Symposium on Access Control Models and Technologies",
+        "first-page": "81",
+        "article-title": "Data-centric access control for cloud computing",
+        "author": "Pasquier",
+        "year": "2016"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b72",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/2535929",
+        "article-title": "DepSky: dependable and secure storage in a cloud-of-clouds",
+        "volume": "9",
+        "author": "Bessani",
+        "year": "2013",
+        "journal-title": "ACM Trans. Storage"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b73",
+        "doi-asserted-by": "crossref",
+        "first-page": "556",
+        "DOI": "10.1109/TDSC.2012.26",
+        "article-title": "Ensuring distributed accountability for data sharing in the cloud",
+        "volume": "9",
+        "author": "Sundareswaran",
+        "year": "2012",
+        "journal-title": "IEEE Trans. Dependable Secure Comput."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b74",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.is.2020.101671",
+        "article-title": "Cryptdice: distributed data protection system for secure cloud data storage and computation",
+        "volume": "96",
+        "author": "Rafique",
+        "year": "2021",
+        "journal-title": "Inf. Syst."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.datak.2024.102301_b75",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0250992",
+        "article-title": "CESCR: CP-ABE for efficient and secure sharing of data in collaborative ehealth with revocation and no dummy attribute",
+        "volume": "16",
+        "author": "Edemacu",
+        "year": "2021",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b76",
+        "series-title": "Public Key Cryptography – PKC 2011",
+        "first-page": "53",
+        "article-title": "Ciphertext-policy attribute-based encryption:?An expressive, efficient, and provably secure realization",
+        "volume": "vol. 6571",
+        "author": "Waters",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b77",
+        "first-page": "184",
+        "article-title": "SDSBT: A secure multi-party data sharing platform based on blockchain and TEE",
+        "volume": "vol. 12653",
+        "author": "Lei",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b78",
+        "first-page": "337",
+        "article-title": "Transparent personal data processing: the road ahead",
+        "volume": "vol. 10489",
+        "author": "Bonatti",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b79",
+        "series-title": "ECIS 2023 Research Papers",
+        "article-title": "Unleashing the potential of data ecosystems: establishing digital trust through trust-enhancing technologies",
+        "author": "Schäfer",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b80",
+        "doi-asserted-by": "crossref",
+        "first-page": "15132",
+        "DOI": "10.1109/ACCESS.2018.2806881",
+        "article-title": "A survey on big data market: pricing, trading and protection",
+        "volume": "6",
+        "author": "Liang",
+        "year": "2018",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b81",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jnca.2022.103465",
+        "article-title": "Revealing the landscape of privacy-enhancing technologies in the context of data markets for the IoT: A systematic literature review",
+        "volume": "207",
+        "author": "Garrido",
+        "year": "2022",
+        "journal-title": "J. Netw. Comput. Appl."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b82",
+        "series-title": "The Era of Borderless Data Is Ending",
+        "author": "McCabe",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b83",
+        "series-title": "Proceedings 2014 Network and Distributed System Security Symposium",
+        "article-title": "Enhanced certificate transparency and end-to-end encrypted mail",
+        "author": "Ryan",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b84",
+        "first-page": "250",
+        "article-title": "An overview on data security in cloud computing",
+        "volume": "vol. 661",
+        "author": "kacha",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b85",
+        "series-title": "Proceedings of the 7th ACM Workshop on Encrypted Computing & Applied Homomorphic Cryptography - WAHC’19",
+        "first-page": "45",
+        "article-title": "nGraph-HE2: A high-throughput framework for neural network inference on encrypted data",
+        "author": "Boemer",
+        "year": "2019"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b86",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1145/984334.984339",
+        "article-title": "The UCON ABC usage control model",
+        "volume": "7",
+        "author": "Park",
+        "year": "2004",
+        "journal-title": "ACM Trans. Inf. Syst. Secur."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b87",
+        "series-title": "Computer Security – ESORICS 2005",
+        "first-page": "98",
+        "article-title": "On obligations",
+        "volume": "vol. 3679",
+        "author": "Hilty",
+        "year": "2005"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b88",
+        "series-title": "Computer Security – ESORICS 2007",
+        "first-page": "531",
+        "article-title": "A policy language for distributed usage control",
+        "volume": "vol. 4734",
+        "author": "Hilty",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b89",
+        "series-title": "Proceedings of the Third ACM Conference on Data and Application Security and Privacy - CODASPY ’13",
+        "first-page": "71",
+        "article-title": "Data usage control enforcement in distributed systems",
+        "author": "Kelbert",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b90",
+        "series-title": "Applied Cryptography and Network Security",
+        "first-page": "409",
+        "article-title": "A fully decentralized data usage control enforcement infrastructure",
+        "volume": "vol. 9092",
+        "author": "Kelbert",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b91",
+        "series-title": "Usage control specification, enforcement, and robustness: A survey",
+        "author": "Akaichi",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b92",
+        "series-title": "Usage control in the international data spaces",
+        "author": "Steinbuss",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b93",
+        "series-title": "Leveraging Applications of Formal Methods, Verification and Validation. Practice",
+        "first-page": "366",
+        "article-title": "Evolving data space technologies: lessons learned from an IDS connector reference implementation",
+        "volume": "vol. 13704",
+        "author": "Pampus",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b94",
+        "series-title": "Proceedings of the 6th International Conference on Information Systems Security and Privacy",
+        "first-page": "397",
+        "article-title": "A systematic approach toward extracting technically enforceable policies from data usage control requirements",
+        "author": "Hosseinzadeh",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b95",
+        "series-title": "SoK: hardware-supported trusted execution environments",
+        "author": "Schneider",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b96",
+        "series-title": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security",
+        "first-page": "1231",
+        "article-title": "Hecate: lifting and shifting on-premises workloads to an untrusted cloud",
+        "author": "Ge",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b97",
+        "series-title": "A survey of published attacks on intel SGX",
+        "author": "Nilsson",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b98",
+        "series-title": "Proceedings 2017 Network and Distributed System Security Symposium",
+        "article-title": "T-SGX: eradicating controlled-channel attacks against enclave programs",
+        "author": "Shih",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b99",
+        "series-title": "Proceedings 2018 Network and Distributed System Security Symposium",
+        "article-title": "ZeroTrace : oblivious memory primitives from intel SGX",
+        "author": "Sasy",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b100",
+        "series-title": "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security",
+        "first-page": "3582",
+        "article-title": "Poster: bridging trust gaps: data usage transparency in federated data ecosystems",
+        "author": "Lohmöller",
+        "year": "2023"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.datak.2024.102301_b101",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1109/MSEC.2021.3103461",
+        "article-title": "Certificate transparency in google chrome: past, present, and future",
+        "volume": "19",
+        "author": "Stark",
+        "year": "2021",
+        "journal-title": "IEEE Secur. Privacy"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b102",
+        "series-title": "Advances in Cryptology – CRYPTO 2010",
+        "first-page": "465",
+        "article-title": "Non-interactive verifiable computing: outsourcing computation to untrusted workers",
+        "volume": "vol. 6223",
+        "author": "Gennaro",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b103",
+        "series-title": "2013 IEEE Symposium on Security and Privacy",
+        "first-page": "238",
+        "article-title": "Pinocchio: nearly practical verifiable computation",
+        "author": "Parno",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b104",
+        "series-title": "2020 IEEE 13th International Conference on Cloud Computing",
+        "first-page": "445",
+        "article-title": "Towards tracking data flows in cloud architectures",
+        "author": "Kunz",
+        "year": "2020"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b105",
+        "doi-asserted-by": "crossref",
+        "first-page": "178",
+        "DOI": "10.1109/TDSC.2015.2399296",
+        "article-title": "Data lineage in malicious environments",
+        "volume": "13",
+        "author": "Backes",
+        "year": "2016",
+        "journal-title": "IEEE Trans. Dependable Secure Comput."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b106",
+        "article-title": "Bitcoin: A peer-to-peer electronic cash system",
+        "author": "Nakamoto",
+        "year": "2008",
+        "journal-title": "Decentralized Bus. Rev."
+      },
+      {
+        "issue": "37",
+        "key": "10.1016/j.datak.2024.102301_b107",
+        "article-title": "A next-generation smart contract and decentralized application platform",
+        "volume": "3",
+        "author": "Buterin",
+        "year": "2014",
+        "journal-title": "White Pap."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b108",
+        "series-title": "Proceedings of the 12th ACM Workshop on Workshop on Privacy in the Electronic Society",
+        "first-page": "83",
+        "article-title": "Distributed privacy-preserving transparency logging",
+        "author": "Pulls",
+        "year": "2013"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b109",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pmed.1001779",
+        "article-title": "UK Biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age",
+        "volume": "12",
+        "author": "Sudlow",
+        "year": "2015",
+        "journal-title": "PLoS Med."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.datak.2024.102301_b110",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1093/ije/dym276",
+        "article-title": "The UK Biobank sample handling and storage protocol for the collection, processing and archiving of human blood and urine",
+        "volume": "37",
+        "author": "Elliott",
+        "year": "2008",
+        "journal-title": "Int. J. Epidemiol."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b111",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1080/09505430600890693",
+        "article-title": "Biobanks, national identity and imagined communities: the case of UK biobank",
+        "volume": "15",
+        "author": "Busby",
+        "year": "2006",
+        "journal-title": "Sci. Cult."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b112",
+        "unstructured": "https://www.bio-itworld.com/news/2020/08/26/uk-biobank-contracts-with-dnanexus-aws-to-build-data-analysis-platform. Accessed 16 February 2023, 2023."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b113",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2147/BSAM.S100899",
+        "article-title": "Biobank sustainability: Current status and future prospects",
+        "volume": "5",
+        "author": "Doucet",
+        "year": "2017",
+        "journal-title": "BSAM"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b114",
+        "unstructured": "https://www.ukbiobank.ac.uk/media/llupxihh/20210309-access-procedures-v2-0-final.pdf. Accessed 16 February 2023, 2023."
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.datak.2024.102301_b115",
+        "doi-asserted-by": "crossref",
+        "first-page": "8344",
+        "DOI": "10.1073/pnas.1914598117",
+        "article-title": "Towards formalizing the GDPR’s notion of singling out",
+        "volume": "117",
+        "author": "Cohen",
+        "year": "2020",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.datak.2024.102301_b116",
+        "doi-asserted-by": "crossref",
+        "first-page": "668",
+        "DOI": "10.1056/NEJMsr1809937",
+        "article-title": "The all of us research program",
+        "volume": "381",
+        "author": "The All of Us Research Program Investigators",
+        "year": "2019",
+        "journal-title": "N. Engl. J. Med."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b117",
+        "unstructured": "https://www.ukbiobank.ac.uk/enable-your-research/apply-for-access. Accessed 16 February 2023, 2023."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b118",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1016/j.cose.2017.09.014",
+        "article-title": "An efficient privacy mechanism for electronic health records",
+        "volume": "72",
+        "author": "Anjum",
+        "year": "2018",
+        "journal-title": "Comput. Secur."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b119",
+        "series-title": "2014 International Conference on Data Science & Engineering",
+        "first-page": "200",
+        "article-title": "Disclosure risk of individuals: A k-anonymity study on health care data related to Indian population",
+        "author": "Panackal",
+        "year": "2014"
+      },
+      {
+        "issue": "20",
+        "key": "10.1016/j.datak.2024.102301_b120",
+        "doi-asserted-by": "crossref",
+        "first-page": "2290",
+        "DOI": "10.1001/jama.2010.1686",
+        "article-title": "Enhancing the feasibility of large cohort studies",
+        "volume": "304",
+        "author": "Manolio",
+        "year": "2010",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b121",
+        "unstructured": "https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank/news/uk-biobank-creates-cloud-based-health-data-analysis-platform-to-unleash-the-imaginations-of-the-world-s-best-scientific-mind. Accessed 16 February 2023, 2023."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b122",
+        "unstructured": "https://www.ukbiobank.ac.uk/media/nt0p5s1k/gdpr.pdf. Accessed 26 July 2023, 2018."
+      },
+      {
+        "issue": "9822",
+        "key": "10.1016/j.datak.2024.102301_b123",
+        "doi-asserted-by": "crossref",
+        "first-page": "1173",
+        "DOI": "10.1016/S0140-6736(12)60404-8",
+        "article-title": "What makes UK Biobank special?",
+        "volume": "379",
+        "author": "Collins",
+        "year": "2012",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b124",
+        "series-title": "Proceedings of the 4th ACM Workshop on Cyber-Physical System Security",
+        "first-page": "39",
+        "article-title": "An ecosystem and IoT device architecture for building trust in the industrial data space",
+        "author": "Brost",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b125",
+        "series-title": "Proceedings of the ACM Workshop on Cyber-Physical Systems Security & Privacy - CPS-SPC’19",
+        "first-page": "27",
+        "article-title": "Dataflow challenges in an internet of production: A security & privacy perspective",
+        "author": "Pennekamp",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b126",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Pennekamp, J. Lohmöller, E. Vlad, J. Loos, N. Rodemann, P. Sapel, I.B. Fink, S. Schmitz, C. Hopmann, M. Jarke, G. Schuh, K. Wehrle, M. Henze, Designing Secure and Privacy-Preserving Information Systems for Industry Benchmarking, in: Proceedings of the 35th International Conference on Advanced Information Systems Engineering, (CAiSE ’23), 2023, http://dx.doi.org/10.1007/978-3-031-34560-9_29.",
+        "DOI": "10.1007/978-3-031-34560-9_29"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b127",
+        "doi-asserted-by": "crossref",
+        "first-page": "1426",
+        "DOI": "10.1108/IJPPM-07-2020-0393",
+        "article-title": "Implementation of supply chain 4.0 in the food and beverage industry: Perceived drivers and barriers",
+        "volume": "71",
+        "author": "Ali",
+        "year": "2022",
+        "journal-title": "IJPPM"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b128",
+        "doi-asserted-by": "crossref",
+        "first-page": "3243",
+        "DOI": "10.1109/JIOT.2020.2966402",
+        "article-title": "FactDAG: formalizing data interoperability in an internet of production",
+        "volume": "7",
+        "author": "Gleim",
+        "year": "2020",
+        "journal-title": "IEEE Internet Things J."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b129",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.54648/EUCL2023003",
+        "article-title": "Article: the german supply chain law: A first step towards more corporate sustainability",
+        "volume": "20",
+        "author": "Rühmkorf",
+        "year": "2023",
+        "journal-title": "EUCL"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b130",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1007/s00146-021-01294-x",
+        "article-title": "The AI gambit: Leveraging artificial intelligence to combat climate change—opportunities, challenges, and recommendations",
+        "volume": "38",
+        "author": "Cowls",
+        "year": "2023",
+        "journal-title": "AI Soc."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b131",
+        "doi-asserted-by": "crossref",
+        "first-page": "86448",
+        "DOI": "10.1109/ACCESS.2020.2992441",
+        "article-title": "Future trends and current state of smart city concepts: A survey",
+        "volume": "8",
+        "author": "Kirimtat",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b132",
+        "first-page": "391",
+        "article-title": "Digital twin and its application to power grid online analysis",
+        "author": "Zhou",
+        "year": "2019",
+        "journal-title": "CSEE JPES"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.datak.2024.102301_b133",
+        "doi-asserted-by": "crossref",
+        "first-page": "2820",
+        "DOI": "10.1109/COMST.2017.2720195",
+        "article-title": "Smart meter data privacy: A survey",
+        "volume": "19",
+        "author": "Asghar",
+        "year": "2017",
+        "journal-title": "IEEE Commun. Surv. Tutor."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b134",
+        "doi-asserted-by": "crossref",
+        "first-page": "13960",
+        "DOI": "10.1109/ACCESS.2019.2894819",
+        "article-title": "Application of big data and machine learning in smart grid, and associated security concerns: A review",
+        "volume": "7",
+        "author": "Hossain",
+        "year": "2019",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b135",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.3390/info9010018",
+        "article-title": "Smart card data mining of public transport destination: A literature review",
+        "volume": "9",
+        "author": "Li",
+        "year": "2018",
+        "journal-title": "Information"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b136",
+        "first-page": "88",
+        "article-title": "Smart mobility and public transport: opportunities and challenges in rural and urban areas",
+        "volume": "7",
+        "author": "Porru",
+        "year": "2020",
+        "journal-title": "J. Traffic Transp. Eng. (Engl. Ed.)"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b137",
+        "series-title": "12th International Conference on Evaluation and Assessment in Software Engineering",
+        "article-title": "Systematic mapping studies in software engineering",
+        "author": "Petersen",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b138",
+        "series-title": "Proceedings of the 17th International Conference on Availability, Reliability and Security",
+        "first-page": "1",
+        "article-title": "You shall not compute on my data: access policies for privacy-preserving data marketplaces and an implementation for a distributed market using MPC",
+        "author": "More",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b139",
+        "series-title": "2017 IEEE 33rd International Conference on Data Engineering",
+        "first-page": "223",
+        "article-title": "Trading data in good faith: integrating truthfulness and privacy preservation in data markets",
+        "author": "Niu",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b140",
+        "series-title": "2021 IEEE 23rd Int Conf on High Performance Computing & Communications; 7th Int Conf on Data Science & Systems; 19th Int Conf on Smart City; 7th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application",
+        "first-page": "237",
+        "article-title": "TeeSwap: private data exchange using smart contract and trusted execution environment",
+        "author": "Chen",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b141",
+        "first-page": "226",
+        "article-title": "Privacy-preserving analytics for data markets using MPC",
+        "volume": "vol. 619",
+        "author": "Koch",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b142",
+        "series-title": "Proceedings of the 1st International Workshop on Data Economy",
+        "first-page": "15",
+        "article-title": "KRAKEN: A privacy-preserving data market for authentic data",
+        "author": "Koch",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b143",
+        "series-title": "Proceedings of the Tenth ACM Conference on Data and Application Security and Privacy",
+        "first-page": "144",
+        "article-title": "Evaluation of secure remote offering service for information bank",
+        "author": "Kayaba",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b144",
+        "series-title": "2021 IEEE International Conference on Blockchain (Blockchain)",
+        "first-page": "394",
+        "article-title": "A peer-to-peer ownership-preserving data marketplace",
+        "author": "Serrano",
+        "year": "2021"
+      },
+      {
+        "issue": "20",
+        "key": "10.1016/j.datak.2024.102301_b145",
+        "doi-asserted-by": "crossref",
+        "first-page": "31435",
+        "DOI": "10.1007/s11042-021-10827-x",
+        "article-title": "Towards an optimized security approach to IoT devices with confidential healthcare data exchange",
+        "volume": "80",
+        "author": "Andreas",
+        "year": "2021",
+        "journal-title": "Multimed. Tools Appl."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b146",
+        "first-page": "19",
+        "article-title": "Experiences in trusted cloud computing",
+        "volume": "vol. 10394",
+        "author": "Oliver",
+        "year": "2017"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.datak.2024.102301_b147",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1109/TKDE.2018.2822727",
+        "article-title": "Achieving data truthfulness and privacy preservation in data markets",
+        "volume": "31",
+        "author": "Niu",
+        "year": "2019",
+        "journal-title": "IEEE Trans. Knowl. Data Eng."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b148",
+        "doi-asserted-by": "crossref",
+        "first-page": "4521",
+        "DOI": "10.1109/JIOT.2018.2886410",
+        "article-title": "On data sovereignty in cloud-based computation offloading for smart cities applications",
+        "volume": "6",
+        "author": "Esposito",
+        "year": "2019",
+        "journal-title": "IEEE Internet Things J."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b149",
+        "first-page": "32",
+        "article-title": "Privacy-preserving information markets for computing statistical data",
+        "volume": "vol. 5628",
+        "author": "Kiayias",
+        "year": "2009"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b150",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.13052/jicts2245-800X.635",
+        "article-title": "Experiences in trusted cloud computing",
+        "volume": "6",
+        "author": "Oliver",
+        "year": "2018",
+        "journal-title": "JICTS"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b151",
+        "series-title": "Grids, P2P and Services Computing",
+        "first-page": "133",
+        "article-title": "A proposal on enhancing XACML with continuous usage control features",
+        "author": "Colombo",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b152",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/j.future.2017.05.039",
+        "article-title": "Policy-based usage control for a trustworthy data sharing platform in smart cities",
+        "volume": "107",
+        "author": "Cao",
+        "year": "2020",
+        "journal-title": "Future Gener. Comput. Syst."
+      },
+      {
+        "key": "10.1016/j.datak.2024.102301_b153",
+        "series-title": "2020 IEEE 45th Conference on Local Computer Networks",
+        "first-page": "204",
+        "article-title": "IntentKeeper: intent-oriented data usage control for federated data analytics",
+        "author": "Cirillo",
+        "year": "2020"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.datak.2024.102301_b154",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3183342",
+        "article-title": "Data usage control for distributed systems",
+        "volume": "21",
+        "author": "Kelbert",
+        "year": "2018",
+        "journal-title": "ACM Trans. Priv. Secur."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.datak.2024.102301_b155",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1109/MSPEC.2020.9099920",
+        "article-title": "The rise of confidential computing: big tech companies are adopting a new security model to protect data while it’s in use-[news]",
+        "volume": "57",
+        "author": "Rashid",
+        "year": "2020",
+        "journal-title": "IEEE Spectr."
+      }
+    ],
+    "container-title": [
+      "Data &amp; Knowledge Engineering"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0169023X24000259?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0169023X24000259?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2026-05-14T03:50:21Z",
+      "timestamp": 1778730621000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0169023X24000259"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "references-count": 155,
+    "alternative-id": [
+      "S0169023X24000259"
+    ],
+    "URL": "https://doi.org/10.1016/j.datak.2024.102301",
+    "relation": {},
+    "ISSN": [
+      "0169-023X"
+    ],
+    "issn-type": [
+      {
+        "value": "0169-023X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "The unresolved need for dependable guarantees on security, sovereignty, and trust in data ecosystems",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Data & Knowledge Engineering",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.datak.2024.102301",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Author(s). Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102301"
+  }
+}

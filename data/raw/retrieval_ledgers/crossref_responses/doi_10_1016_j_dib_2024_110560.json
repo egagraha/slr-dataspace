@@ -1,0 +1,980 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2026-10-31T20:31:29Z",
+      "timestamp": 1793478689494,
+      "version": "4.5.0"
+    },
+    "reference-count": 88,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2024-08-01T00:00:00Z",
+          "timestamp": 1722470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2024-08-01T00:00:00Z",
+          "timestamp": 1722470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              23
+            ]
+          ],
+          "date-time": "2024-05-23T00:00:00Z",
+          "timestamp": 1716422400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100014440",
+        "name": "Government of Spain Ministry of Science Innovation and Universities",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100014440",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000900",
+        "name": "European Commission Joint Research Centre",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000900",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "M02.0005"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "M02.0005"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Data in Brief"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.dib.2024.110560",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          31
+        ]
+      ],
+      "date-time": "2024-05-31T11:47:07Z",
+      "timestamp": 1717156027000
+    },
+    "page": "110560",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 18,
+    "special_numbering": "C",
+    "title": [
+      "Evaluation and utilisation of privacy enhancing technologies—A data spaces perspective"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "J.M.",
+        "family": "Auñón",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Hurtado-Ramírez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Porras-Díaz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Irigoyen-Peña",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Rahmian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Y.",
+        "family": "Al-Khazraji",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Soler-Garrido",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0411-741X",
+        "authenticated-orcid": false,
+        "given": "A.",
+        "family": "Kotsev",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0001",
+        "unstructured": "AEPD-EDPS Joint Paper - 10 Misunderstandings about Machine Learning — Edps.europa.eu."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0002",
+        "unstructured": "Pequin An end-to-end toolchain for verifiable computation, snarks, and probabilistic proofs, 2022."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0003",
+        "unstructured": "Abhishek Mahadevan Raju, A. Corchero, A.K., 2024. BDVA and COE DSC joint white paper on combining data spaces and PETS."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0004",
+        "series-title": "Computer Security–ESORICS 2010: 15th European Symposium on Research in Computer Security, Athens, Greece",
+        "first-page": "151",
+        "article-title": "A certifying compiler for zero-knowledge proofs of knowledge based on σ-protocols",
+        "author": "Almeida",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0005",
+        "first-page": "1749",
+        "article-title": "From keys to databases—real-world applications of secure multi-party computation",
+        "volume": "61",
+        "author": "Archer",
+        "year": "2018",
+        "journal-title": "Comput. J."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0006",
+        "unstructured": "E. Bagdasaryan, A. Veit, Y. Hua, D. Estrin, V. Shmatikov, 2020. How to backdoor federated learning 108, 2938–2948. URL: https://proceedings.mlr.press/v108/bagdasaryan20a.html."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0007",
+        "series-title": "Advances in Cryptology—CRYPTO’91: Proceedings 11",
+        "first-page": "420",
+        "article-title": "Efficient multiparty protocols using circuit randomization",
+        "author": "Beaver",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0008",
+        "series-title": "2014 IEEE Symposium on Security and Privacy",
+        "first-page": "459",
+        "article-title": "Zerocash: decentralized anonymous payments from bitcoin",
+        "author": "Ben Sasson",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0009",
+        "unstructured": "D.J. Beutel, T. Topal, A. Mathur, X. Qiu, J. Fernandez-Marques, Y. Gao, L. Sani, H.L. Kwing, T. Parcollet, P.P.d. Gusmão, N.D. Lane, 2022. Flower: a friendly federated learning research framework. arXiv:2007.14390."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0010",
+        "unstructured": "D. Bogdanov, L. Kamm, B. Kubo, R. Rebane, V. Sokk, R. Talviste, 2015. Students and taxes: a privacy-preserving social study using secure computation. URL: https://eprint.iacr.org/2015/1159."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0011",
+        "series-title": "Financial Cryptography and Data Security",
+        "first-page": "57",
+        "article-title": "Deploying secure multiparty computation for financial data analysis",
+        "author": "Bogdanov",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0012",
+        "series-title": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security",
+        "first-page": "1175",
+        "article-title": "Practical secure aggregation for privacy-preserving machine learning",
+        "author": "Bonawitz",
+        "year": "2017"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0013",
+        "series-title": "Proceedings of the 11th ACM Conference on Computer and Communications Security",
+        "first-page": "132",
+        "article-title": "Direct anonymous attestation",
+        "author": "Brickell",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0014",
+        "series-title": "Fully Homomorphic Encryption in Real World Applications",
+        "author": "Chatterjee",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1016/j.ins.2020.02.037",
+        "article-title": "A trainingintegrity privacy-preserving federated learning scheme with trusted execution environment",
+        "volume": "522",
+        "author": "Chen",
+        "year": "2020",
+        "journal-title": "Inf. Sci. (N.Y.)"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0016",
+        "unstructured": "I. Chillotti, N. Gama, M. Georgieva, M. Izabach`ene, 2016. TFHE: fast fully homomorphic encryption library."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0017",
+        "unstructured": "I. Chillotti, N. Gama, M. Georgieva, M. Izabach`ene, 2018. Tfhe: fast fully homomorphic encryption over the torus. Cryptology ePrint Archive, Paper 2018/421. URL: https://eprint.iacr.org/2018/421."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1001/jama.2018.5630",
+        "article-title": "HIPAA and protecting health information in the 21st century",
+        "volume": "320",
+        "author": "Cohen",
+        "year": "2018",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0019",
+        "unstructured": "M. Craglia, H.J. Scholten, M. Micheli, J. Hradec, I. Calzada, S. Luitjens, M. Ponti, J. Boter, 2021. Digitranscope: key findings. H. Scholten, M. Craglia, M. Micheli, J. Hradec, I. Calzada, S. Luitjens, et al. (2021). Digitranscope: Key Findings, Publications Office of the European Union: Luxembourg."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1561/0400000042",
+        "article-title": "The algorithmic foundations of differential privacy",
+        "volume": "9",
+        "author": "Dwork",
+        "year": "2014",
+        "journal-title": "Found. Trends. Theor. Comput. Sci."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "e28071",
+        "DOI": "10.1371/journal.pone.0028071",
+        "article-title": "A systematic review of re-identification attacks on health data",
+        "volume": "6",
+        "author": "El Emam",
+        "year": "2011",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1038/s41746-020-00376-2",
+        "article-title": "Deep learning-enabled medical computer vision",
+        "volume": "4",
+        "author": "Esteva",
+        "year": "2021",
+        "journal-title": "NPJ Digit. Med."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0023",
+        "unstructured": "European Commission, 2020. A European strategy for data. EC Staff Working Document."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0024",
+        "unstructured": "European Commission, 2020. Regulation of the European parliament and of the council—On the European health data space."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0025",
+        "unstructured": "European Commission, 2022. EC Staff Working Document on Data Spaces."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0026",
+        "unstructured": "European Commission, 2023. Commission Implementing Regulation (EU) 2023/138 of 21 December 2022 laying down a list of specific high-value datasets and the arrangements for their publication and re-use."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0027",
+        "unstructured": "European Commission, 2023. Glossary of the European Data Protection Supervisor (EDPS)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0028",
+        "unstructured": "European Commission, 2023. Proposal for a Regulation on harmonised rules on fair access to and use of data (Data Act), COM/2022/68 final."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0029",
+        "unstructured": "European Commission, 2023 Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0030",
+        "unstructured": "European Commission, 2023. Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act)."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "70",
+        "DOI": "10.1561/3300000019",
+        "article-title": "A pragmatic introduction to secure multi-party computation",
+        "volume": "2",
+        "author": "Evans",
+        "year": "2018",
+        "journal-title": "Found. Trends Privacy Security"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0032",
+        "unstructured": "Gaboardi, M., Hay, M., Vadhan, S., 2020. A programming framework for opendp."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0033",
+        "series-title": "A Fully Homomorphic Encryption Scheme",
+        "author": "Gentry",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0034",
+        "series-title": "Proceedings of the 33rd International Conference on Very large Data Bases",
+        "first-page": "758",
+        "article-title": "Fast data anonymization with low information loss",
+        "author": "Ghinita",
+        "year": "2007"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "6578",
+        "DOI": "10.1016/j.eswa.2015.04.034",
+        "article-title": "Med-node: a computer-assisted melanoma diagnosis system using non-dermoscopic images",
+        "volume": "42",
+        "author": "Giotis",
+        "year": "2015",
+        "journal-title": "Expert Syst. Appl."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0036",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/BF00195207",
+        "article-title": "Definitions and properties of zero knowledge proof systems",
+        "volume": "7",
+        "author": "Goldreich",
+        "year": "1994",
+        "journal-title": "J. Cryptol."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0037",
+        "series-title": "Symposium on the Theory of Computing",
+        "article-title": "The knowledge complexity of interactive proof-systems",
+        "author": "Goldwasser",
+        "year": "1985"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0038",
+        "unstructured": "Halevi, S., Shoup, V., 2020. Design and implementation of helib: a homomorphic encryption library. URL: https://eprint.iacr.org/2020/1481."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0039",
+        "unstructured": "Hard, A., Rao, K., Mathews, R., Ramaswamy, S., Beaufays, F., Augenstein, S., Eichner, H., Kiddon, C., Ramage, D., 2019. Federated learning for mobile keyboard prediction."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0040",
+        "unstructured": "Hardy, S., Henecka, W., Ivey-Law, H., Nock, R., Patrini, G., Smith, G., Thorne, B., 2017. Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption. arXiv:1711.10677."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0041",
+        "series-title": "Advances in Neural Information Processing Systems",
+        "article-title": "Fedml: a research library and benchmark for federated machine learning",
+        "author": "He",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0042",
+        "first-page": "1",
+        "article-title": "From NASA to EU: the evolution of the TRL scale in public sector innovation",
+        "volume": "22",
+        "author": "H´eder",
+        "year": "2017",
+        "journal-title": "Innovat. J."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0043",
+        "unstructured": "Hradec, J., Ostlaender, N., Bernini, A., et al., 2023. Fables: framework for autonomous behaviour-rich language-driven emotion-enabled synthetic populations."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0044",
+        "series-title": "Proceedings of the 9th on Workshop on Encrypted Computing & Applied Homomorphic Cryptography",
+        "first-page": "11",
+        "article-title": "Pyfhel: python for homomorphic encryption libraries",
+        "author": "Ibarrondo",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0045",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s21238142",
+        "article-title": "Deep learning-based transfer learning for classification of skin cancer",
+        "volume": "21",
+        "author": "Jain",
+        "year": "2021",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0046",
+        "doi-asserted-by": "crossref",
+        "first-page": "8142",
+        "DOI": "10.3390/s21238142",
+        "article-title": "Deep learning-based transfer learning for classification of skin cancer",
+        "volume": "21",
+        "author": "Jain",
+        "year": "2021",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0047",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1561/2200000083",
+        "article-title": "Advances and open problems in federated learning",
+        "volume": "14",
+        "author": "Kairouz",
+        "year": "2021",
+        "journal-title": "Found. Trends Mach. Learn."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0048",
+        "doi-asserted-by": "crossref",
+        "first-page": "4037",
+        "DOI": "10.1109/TIT.2017.2685505",
+        "article-title": "The composition theorem for differential privacy",
+        "volume": "63",
+        "author": "Kairouz",
+        "year": "2013",
+        "journal-title": "IEEE Trans. Inf. Theory"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0049",
+        "series-title": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security",
+        "article-title": "MP-SPDZ: a versatile framework for multi-party computation",
+        "author": "Keller",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0050",
+        "series-title": "Advances in Cryptology – EUROCRYPT 2018",
+        "first-page": "158",
+        "article-title": "Overdrive: making spdz great again",
+        "author": "Keller",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0051",
+        "doi-asserted-by": "crossref",
+        "first-page": "eabk3283",
+        "DOI": "10.1126/sciadv.abk3283",
+        "article-title": "The use of differential privacy for census data and its impact on redistricting: the case of the 2020 US. census",
+        "volume": "7",
+        "author": "Kenny",
+        "year": "2021",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0052",
+        "doi-asserted-by": "crossref",
+        "first-page": "20265",
+        "DOI": "10.1038/s41598-020-77258-w",
+        "article-title": "Validation of deep learning natural language processing algorithm for keyword extraction from pathology reports in electronic health records",
+        "volume": "10",
+        "author": "Kim",
+        "year": "2020",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0053",
+        "unstructured": "Knott, B., Venkataraman, S., Hannun, A., Sengupta, S., Ibrahim, M., van der Maaten, L., 2021. Crypten: secure multi-party computation meets machine learning, in: arXiv:2109.00984."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0054",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1016/j.media.2016.07.007",
+        "article-title": "Large scale deep learning for computer aided detection of mammographic lesions",
+        "volume": "35",
+        "author": "Kooi",
+        "year": "2017",
+        "journal-title": "Med. Image Anal."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0055",
+        "unstructured": "Li, T., Sahu, A.K., Zaheer, M., Sanjabi, M., Talwalkar, A., Smith, V., 2020. Federated optimization in heterogeneous networks. arXiv:1812.06127."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0056",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1145/3387108",
+        "article-title": "Secure multiparty computation",
+        "volume": "64",
+        "author": "Lindell",
+        "year": "2020",
+        "journal-title": "Commun. ACM"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0057",
+        "series-title": "Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security",
+        "first-page": "2968",
+        "article-title": "Zkcnn: zero knowledge proofs for convolutional neural network predictions and accuracy",
+        "author": "Liu",
+        "year": "2021"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0058",
+        "series-title": "Proceedings of the 18th ACM Workshop on Privacy in the Electronic Society (WPES@CCS)",
+        "first-page": "50",
+        "article-title": "zksk: a library for composable zero-knowledge proofs",
+        "author": "Lueks",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0059",
+        "unstructured": "L. Lyu, H. Yu, X. Ma, C. Chen, L. Sun, J. Zhao, Q. Yang, P.S. Yu, 2022. Privacy and robustness in federated learning: attacks and defenses. arXiv:2012.06337."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0060",
+        "unstructured": "H.B. McMahan, E. Moore, D. Ramage, S. Hampson, B.A. Arcas, 2016. Communication-efficient learning of deep networks from decentralized data."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0061",
+        "unstructured": "J. M´en´etrey, C. G¨ottel, M. Pasin, P. Felber, V. Schiavoni, 2022. An exploratory study of attestation mechanisms for trusted execution environments. arXiv preprint arXiv:2204.06790."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0062",
+        "article-title": "A review on data anonymization technique for data publishing",
+        "volume": "1",
+        "author": "Mogre",
+        "year": "2012",
+        "journal-title": "Int. J. Eng. Res. Technol. (IJERT)"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0063",
+        "unstructured": "Narayanan, A., Shmatikov, V., 2007. How to break anonymity of the Netflix prize dataset."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0064",
+        "unstructured": "Narra, K.G., Lin, Z., Wang, Y., Balasubramaniam, K., Annavaram, M., 2019. Privacy-preserving inference in machine learning services using trusted execution environments. arXiv preprint arXiv:1912.03485."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0065",
+        "unstructured": "Nilsson, A., Bideh, P.N., Brorsson, J., 2020. A survey of published attacks on Intel SGX. arXiv preprint arXiv:2006.13598."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0066",
+        "unstructured": "I.E. Olatunji, J. Rauch, M. Katzensteiner, M. Khosla, 2022. A review of anonymization for healthcare data. Big data."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0067",
+        "article-title": "Pad-ufes-20: a skin lesion dataset composed of patient data and clinical images collected from smartphones",
+        "volume": "32",
+        "author": "Pacheco",
+        "year": "2020",
+        "journal-title": "Data Br."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0068",
+        "series-title": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+        "first-page": "1",
+        "article-title": "Generative agents: interactive simulacra of human behavior",
+        "author": "Park",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0069",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1145/2856449",
+        "article-title": "Pinocchio: nearly practical verifiable computation",
+        "volume": "59",
+        "author": "Parno",
+        "year": "2016",
+        "journal-title": "Commun. ACM"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0070",
+        "series-title": "Advances in Neural Information Processing Systems 32",
+        "first-page": "8024",
+        "article-title": "Pytorch: an imperative style, high-performance deep learning library",
+        "author": "Paszke",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0071",
+        "doi-asserted-by": "crossref",
+        "first-page": "e310",
+        "DOI": "10.1002/spy2.310",
+        "article-title": "On the security of ring learning with error-based key exchange protocol against signal leakage attack",
+        "volume": "6",
+        "author": "Pursharthi",
+        "year": "2023",
+        "journal-title": "Security Privacy"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0072",
+        "unstructured": "S. Reddi, Z. Charles, M. Zaheer, Z. Garrett, K. Rush, J. Koneˇcny´, S. Kumar, H.B. McMahan, 2021. Adaptive federated optimization. arXiv:2003.00295."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0073",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41746-020-00323-1",
+        "article-title": "The future of digital health with federated learning",
+        "volume": "3",
+        "author": "Rieke",
+        "year": "2020",
+        "journal-title": "NPJ Digit. Med."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0074",
+        "series-title": "2015 IEEE Trustcom/BigDataSE/Ispa",
+        "first-page": "57",
+        "article-title": "Trusted execution environment: what it is, and what it is not",
+        "author": "Sabt",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0075",
+        "doi-asserted-by": "crossref",
+        "unstructured": "B. Schoenmakers, 2023. Mpyc multiparty computation in python.",
+        "DOI": "10.1007/978-3-642-27739-9_7-2"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0076",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1145/359168.359176",
+        "article-title": "How to share a secret",
+        "volume": "22",
+        "author": "Shamir",
+        "year": "1979",
+        "journal-title": "Commun. ACM"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0077",
+        "unstructured": "Shastri, A., Wu, D., Chua, L., Zhu, R., Davidi, T., Sheng, Y., Mintz, J., 2022. Private Computation Framework 2.0."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0078",
+        "doi-asserted-by": "crossref",
+        "first-page": "907",
+        "DOI": "10.3390/rs11080907",
+        "article-title": "Evaluation of the potential of convolutional neural networks and random forests for multi-class segmentation of sentinel-2 imagery",
+        "volume": "11",
+        "author": "Syrris",
+        "year": "2019",
+        "journal-title": "Remote Sens. (Basel)"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0079",
+        "unstructured": "J. Tang, A. Korolova, X. Bai, X. Wang, X. Wang, 2017. Privacy loss in apple's implementation of differential privacy on macos 10.12."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0080",
+        "unstructured": "X. Tang, L. Shi, X. Wang, K. Charbonnet, S. Tang, S. Sun, 2024. Zero-knowledge proof vulnerability analysis and security auditing. Cryptology ePrint Archive."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0081",
+        "doi-asserted-by": "crossref",
+        "unstructured": "P. Tschandl, 2018. The HAM10000 dataset, a large collection of multisource dermatoscopic images of common pigmented skin lesions. URL: 10.7910/DVN/DBW86T.",
+        "DOI": "10.1038/sdata.2018.161"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0082",
+        "unstructured": "United Nations, 2023. United Nations Sustainable Development Goals."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0083",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s40537-016-0043-6",
+        "article-title": "A survey of transfer learning",
+        "volume": "3",
+        "author": "Weiss",
+        "year": "2016",
+        "journal-title": "J. Big Data"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0084",
+        "first-page": "209",
+        "article-title": "Differential privacy: a primer for a non-technical audience",
+        "volume": "21",
+        "author": "Wood",
+        "year": "2018",
+        "journal-title": "Vand. J. Entertain. Technol. Law"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0085",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Y. Yu, Y. Li, M.H. Au, W. Susilo, K.K.R. Choo, X. Zhang, 2016. Public cloud data auditing with practical key update and zero knowledge privacy, in: Liu, J.K., Steinfeld, R. (Eds.), Information Security and Privacy, Springer International Publishing, Cham. pp. 389–405.",
+        "DOI": "10.1007/978-3-319-40253-6_24"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0086",
+        "unstructured": "Zama, 2022. Concrete: TFHE Compiler that converts python programs into FHE equivalent."
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0087",
+        "series-title": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security",
+        "first-page": "2039",
+        "article-title": "Zero knowledge proofs for decision tree predictions and accuracy",
+        "author": "Zhang",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.dib.2024.110560_bib0088",
+        "unstructured": "Y. Zhao, M. Li, L. Lai, N. Suda, D. Civin, V. Chandra, 2018. Federated learning with non-IID data URL: https://arxiv.org/abs/1806.00582, 10.48550/ARXIV.1806.00582."
+      }
+    ],
+    "container-title": [
+      "Data in Brief"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340924005274?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340924005274?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2025-05-20T00:28:45Z",
+      "timestamp": 1747700925000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352340924005274"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "references-count": 88,
+    "alternative-id": [
+      "S2352340924005274"
+    ],
+    "URL": "https://doi.org/10.1016/j.dib.2024.110560",
+    "relation": {
+      "is-supplemented-by": [
+        {
+          "id-type": "uri",
+          "id": "https://joint-research-centre.ec.europa.eu/scientific-activities-z/data-ecosystems-and-enablers_en",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "2352-3409"
+    ],
+    "issn-type": [
+      {
+        "value": "2352-3409",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Evaluation and utilisation of privacy enhancing technologies—A data spaces perspective",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Data in Brief",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.dib.2024.110560",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Author(s). Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "110560"
+  }
+}
