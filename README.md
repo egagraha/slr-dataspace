@@ -69,6 +69,11 @@ src/             01_parse_reference_list.py   list -> corpus_189.csv, prisma_cou
                  17_upgrade_coding_files.py   blank coding files for the M -> A upgrade (two coders)
                  18_upgrade_agreement.py      agreement and kappa; with --apply, writes the agreed
                                               upgrades into data/raw/References-Lists.md
+                 19_full_ledger_coding_files.py  blank coding files for every ledger row not settled
+                                              by the sample (Package 3, two coders)
+                 20_full_coding_agreement.py  agreement and kappa on the full-ledger coding
+                 21_full_tension_sensitivity.py  sample + full-round codes -> S1-S4 over the whole
+                                              ledger (prints SKIPPED until the coding is resolved)
                  drawio_lib.py                small draw.io writer and PNG exporter
 protocol/        protocol_v1.md               rules as applied (written after the selection, not pre-registered)
                  eligibility_rules.csv        one row per eligibility rule
@@ -90,7 +95,9 @@ results/audit/   search_log.csv, placements.csv, evidence_by_rq_placement.csv, a
 results/evidence/ source_claims.csv (claim ledger); double_coding/ (files for two coders, instructions);
                  final_tension_codes.csv (the 50 agreed codes); sensitivity_tensions.csv (support per
                  tension under S1-S4); upgrade/ (M -> A upgrade: abstract retrieval log,
-                 coding files for two coders, instructions, agreement, decisions)
+                 coding files for two coders, instructions, agreement, decisions); full_coding/
+                 (Package 3: full-ledger coding files, carried-over sample codes, instructions);
+                 final_tension_codes_full.csv and sensitivity_tensions_full.csv once that coding is resolved
 private/         answer key of the screening sample; git-ignored until both screeners are finished
 figures/         *.drawio (editable source) and *.png, black and white. Manuscript figure numbers:
                  Fig. 1 fig_bib_1_records_per_year, Fig. 2 fig_bib_2_evidence_by_rq,

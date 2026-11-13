@@ -1,0 +1,51 @@
+claim_id,cite_key,evidence_level_at_coding,tension,claim_type,counter,decision
+CL-02b18a6f,Zhang2026,M,T0,proposal,,sentence changed in the manuscript (new claim_id); coded again
+CL-04435970,Santipantakis2026,A,T2,proposal,,carried over
+CL-09d06b38,Qin2026,M,NA,description,,sentence changed in the manuscript (new claim_id); coded again
+CL-0f0bdf7c,Baur2025,A,T1,finding,,carried over
+CL-0f698db3,Inigo2022,A,T0,proposal,,carried over
+CL-0fa3237f,Lazarotto2022,A,T1,finding,,carried over
+CL-16f4a523,Lazarotto2022,A,T0,description,,carried over
+CL-1d6209f3,Bacco2024,A,T0,description,,carried over
+CL-1d6209f3,OttoJarke2019,context,T0,description,,carried over
+CL-1e115f93,Galij2025,A,T3,finding,,carried over
+CL-1e115f93,Guo2023,context,NA,description,,carried over
+CL-203c201a,Firdausy2022c,A,T0,proposal,,carried over
+CL-26a679a0,Casolari2023,A,T1,finding,,carried over
+CL-2d9a08b9,Fotiou2026,S,T3,finding,1,carried over
+CL-3100207e,Santana2025,A,T0,finding,,carried over
+CL-39fc08d5,SanchezSerna2026,S,T2,finding,,carried over
+CL-3e5a2071,Calvo2026,A,T3,finding,1,carried over
+CL-4a61a6d1,Galij2025,A,T3,finding,,carried over
+CL-4cc83638,Le2023,A,T1,finding,,carried over
+CL-618c2179,Bonura2022,A,T3,description,,carried over
+CL-6eb0ff99,Morabito2023,A,T0,proposal,,carried over
+CL-72ce488b,Baur2025,A,T1,finding,,carried over
+CL-74c2ce6d,OttoJarke2019,context,T0,description,,carried over
+CL-77a55289,Bonura2022,A,T0,description,,carried over
+CL-77a55289,Zhu2025,A,T0,proposal,,carried over
+CL-7df821b4,DelRe2024,A,T1,finding,,carried over
+CL-7df821b4,KhandpurSingh2025,S,T2,finding,,carried over
+CL-8153e2d8,Galij2025,A,T3,finding,,carried over
+CL-82bf1589,Parziale2025,A,T1,finding,,carried over
+CL-85b2aecc,Uslander2022,A,T0,proposal,,carried over
+CL-8a19c216,Wong2022,A,T1,finding,,carried over
+CL-8d07640e,Oliveira2024,A,T1,proposal,,carried over
+CL-8e5e6868,Su2025,A,T1,finding,,carried over
+CL-8e5e6868,Xia2024,context,T1,finding,,carried over
+CL-9437ed81,Le2023,A,T0,description,,carried over
+CL-9543047d,CerveraDeLaCruz2026,A,T1,finding,,carried over
+CL-9543047d,Toscano2026,A,T0,review_assessment,,carried over
+CL-96cb706b,Christakis2023,A,T1,finding,,carried over
+CL-9a7cc5ef,Giess2025,M,T0,finding,,coded at level M (T0/NA only); source now A; coded again
+CL-b4772838,Jung2022,S,T0,description,,carried over
+CL-b80e7795,Giess2024,A,T0,finding,,carried over
+CL-c6321144,Hmimou2025,A,T2,proposal,,carried over
+CL-cee94d86,Le2023,A,T0,finding,,carried over
+CL-cee94d86,Schardong2022,A,T0,description,,carried over
+CL-de2e97e7,Siska2024,S,T3,finding,,carried over
+CL-e2ea0b5c,Bonura2022,A,T0,description,,carried over
+CL-e4156ed0,Noardo2024,A,T0,finding,,carried over
+CL-e4156ed0,Soininen2026,S,T2,proposal,,carried over
+CL-e5be1a25,Giess2025,M,T0,finding,,coded at level M (T0/NA only); source now A; coded again
+CL-fca6c870,Prinz2022,A,T0,description,,carried over
