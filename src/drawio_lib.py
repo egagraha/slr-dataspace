@@ -4,6 +4,7 @@ editable in draw.io after they have been generated.
 """
 import shutil
 import subprocess
+import time
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -100,8 +101,24 @@ def export_png(drawio_path, png_path, scale=3):
         return False
     cmd = [binary, "--no-sandbox", "-x", "-f", "png", "-s", str(scale), "-b", "10",
            "-o", str(png_path), str(drawio_path)]
-    res = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
-    ok = Path(png_path).exists()
+    png_path = Path(png_path)
+    png_path.unlink(missing_ok=True)  # so a stale PNG is never mistaken for a fresh export
+    # Some draw.io desktop versions (seen with 32.6.10) write the PNG but never exit.
+    # Wait for the process, or for the PNG to exist with a stable size, at most 180 s.
+    proc = subprocess.Popen(cmd, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, text=True)
+    last, stable, start = -1, 0, time.monotonic()
+    while proc.poll() is None and time.monotonic() - start < 180:
+        size = png_path.stat().st_size if png_path.exists() else -1
+        stable = stable + 1 if size > 0 and size == last else 0
+        if stable >= 4:  # unchanged for 2 s
+            break
+        last = size
+        time.sleep(0.5)
+    if proc.poll() is None:
+        proc.kill()
+    err = proc.communicate()[1] or ""
+    out = ""
+    ok = png_path.exists() and png_path.stat().st_size > 0
     if not ok:
-        print(res.stdout[-400:], res.stderr[-400:])
+        print(out[-400:], err[-400:])
     return ok

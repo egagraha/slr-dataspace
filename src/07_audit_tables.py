@@ -171,7 +171,7 @@ for rq in RQS:
               int(old[rq][lvl]), ev_pl[rq][lvl], hard=False,
               note="evidence_by_rq.csv uses the highest level of the publication across RQs")
 tot = Counter(p["evidence_placement"] for p in placements)
-check("evidence A/S/M over 250 placements (manuscript: 146/30/74)", "146/30/74",
+check("evidence A/S/M over 250 placements (manuscript: 219/30/1)", "219/30/1",
       f"{tot['A']}/{tot['S']}/{tot['M']}", hard=False)
 # distinct retrieved DOIs: recounted from the original ledgers by src/14_retrieval_recount.py
 recount = {r["rq"]: r for r in csv.DictReader((OUT / "retrieval_recount.csv").open(encoding="utf-8"))}

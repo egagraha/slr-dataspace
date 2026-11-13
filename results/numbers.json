@@ -17,9 +17,9 @@
  "n_distinct_venues": 95,
  "n_year_differs_openalex": 11,
  "evidence_total": {
-  "A": 112,
-  "M": 60,
-  "S": 17
+  "A": 171,
+  "S": 17,
+  "M": 1
  },
  "top_countries": [
   [

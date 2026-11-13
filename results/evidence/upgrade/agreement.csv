@@ -1,0 +1,7 @@
+measure,n,raw_agreement,cohen_kappa
+relevant_to_rq,73,0.836,0.380
+gap_assessment,73,0.315,0.072
+Ega: relevant_to_rq,73,no 9 / unclear 7 / yes 57,
+Ega: gap_assessment,73,holds 66 / not_supported 2 / revise 5,
+Alexis: relevant_to_rq,73,no 2 / unclear 3 / yes 68,
+Alexis: gap_assessment,73,holds 17 / not_supported 2 / revise 54,
