@@ -1,0 +1,199 @@
+claim_id,cite_key,doi,rq,evidence_level,claim_type,tension,counter,year,primary_field,passage_beyond_abstract,coded_in
+CL-04435970,Santipantakis2026,10.1016/j.dib.2026.112675,RQ3,A,proposal,T2,,2026,Computer Science,0,sample (carried over)
+CL-0f0bdf7c,Baur2025,10.1080/1369118x.2025.2516545,RQ1,A,finding,T1,,2025,Social Sciences,1,sample (carried over)
+CL-0f698db3,Inigo2022,10.1109/iecon49645.2022.9968592,RQ3,A,proposal,T0,,2022,Engineering,0,sample (carried over)
+CL-0fa3237f,Lazarotto2022,10.37307/j.2196-9817.2022.05.04,RQ1,A,finding,T1,,2022,Social Sciences,0,sample (carried over)
+CL-16f4a523,Lazarotto2022,10.37307/j.2196-9817.2022.05.04,RQ1,A,description,T0,,2022,Social Sciences,0,sample (carried over)
+CL-1d6209f3,Bacco2024,10.1016/j.dib.2024.110969,RQ1,A,description,T0,,2024,Computer Science,0,sample (carried over)
+CL-1d6209f3,OttoJarke2019,10.1007/s12525-019-00362-x,RQ1,context,description,T0,,2019,not in corpus,0,sample (carried over)
+CL-1e115f93,Galij2025,10.3390/app15179841,RQ2,A,finding,T3,,2025,Computer Science,1,sample (carried over)
+CL-1e115f93,Guo2023,10.1109/ccisp59915.2023.10355841,RQ2,context,description,NA,,2023,not in corpus,0,sample (carried over)
+CL-203c201a,Firdausy2022c,10.1007/978-3-031-17834-4_14,RQ3,A,proposal,T0,,2022,Computer Science,0,sample (carried over)
+CL-26a679a0,Casolari2023,10.1093/ijlit/eaae005,RQ1,A,finding,T1,,2023,Social Sciences,1,sample (carried over)
+CL-2d9a08b9,Fotiou2026,10.1007/s41019-025-00320-y,RQ2,S,finding,T3,1,2026,Computer Science,1,sample (carried over)
+CL-3100207e,Santana2025,10.1109/mitp.2025.3545214,RQ4,A,finding,T0,,2025,Computer Science,0,sample (carried over)
+CL-39fc08d5,SanchezSerna2026,10.1016/j.dib.2026.112668,RQ2,S,finding,T2,,2026,Computer Science,1,sample (carried over)
+CL-3e5a2071,Calvo2026,10.1016/j.dib.2026.112882,RQ2,A,finding,T3,1,2026,Computer Science,1,sample (carried over)
+CL-4a61a6d1,Galij2025,10.3390/app15179841,RQ2,A,finding,T3,,2025,Computer Science,1,sample (carried over)
+CL-4cc83638,Le2023,10.1017/dap.2023.41,RQ5,A,finding,T1,,2023,Computer Science,1,sample (carried over)
+CL-618c2179,Bonura2022,10.1007/978-3-030-98636-0_5,RQ5,A,description,T3,,2022,Computer Science,1,sample (carried over)
+CL-6eb0ff99,Morabito2023,10.1145/3603166.3632239,RQ2,A,proposal,T0,,2023,Computer Science,0,sample (carried over)
+CL-72ce488b,Baur2025,10.1080/1369118x.2025.2516545,RQ4,A,finding,T1,,2025,Social Sciences,1,sample (carried over)
+CL-74c2ce6d,OttoJarke2019,10.1007/s12525-019-00362-x,RQ1,context,description,T0,,2019,not in corpus,0,sample (carried over)
+CL-77a55289,Bonura2022,10.1007/978-3-030-98636-0_5,RQ5,A,description,T0,,2022,Computer Science,0,sample (carried over)
+CL-77a55289,Zhu2025,10.3390/app15105472,RQ5,A,proposal,T0,,2025,Computer Science,0,sample (carried over)
+CL-7df821b4,DelRe2024,10.3390/info15080444,RQ4,A,finding,T1,,2024,Social Sciences,1,sample (carried over)
+CL-7df821b4,KhandpurSingh2025,10.1007/s41019-025-00311-z,RQ4,S,finding,T2,,2025,Computer Science,1,sample (carried over)
+CL-8153e2d8,Galij2025,10.3390/app15179841,RQ4,A,finding,T3,,2025,Computer Science,1,sample (carried over)
+CL-82bf1589,Parziale2025,10.1163/15718093-bja10158,RQ1,A,finding,T1,,2025,Social Sciences,1,sample (carried over)
+CL-85b2aecc,Uslander2022,10.1007/978-3-030-93975-5_19,RQ3,A,proposal,T0,,2022,Engineering,0,sample (carried over)
+CL-8a19c216,Wong2022,10.1017/dap.2021.40,RQ1,A,finding,T1,,2022,Social Sciences,1,sample (carried over)
+CL-8d07640e,Oliveira2024,10.5220/0012699600003690,RQ3,A,proposal,T1,,2024,Social Sciences,1,sample (carried over)
+CL-8e5e6868,Su2025,10.17645/pag.10413,RQ4,A,finding,T1,,2025,Social Sciences,1,sample (carried over)
+CL-8e5e6868,Xia2024,10.2147/rmhp.s450082,RQ4,context,finding,T1,,2024,not in corpus,1,sample (carried over)
+CL-9437ed81,Le2023,10.1017/dap.2023.41,RQ2,A,description,T0,,2023,Computer Science,0,sample (carried over)
+CL-9543047d,CerveraDeLaCruz2026,10.3389/fmed.2025.1699941,RQ4,A,finding,T1,,2026,Medicine,1,sample (carried over)
+CL-9543047d,Toscano2026,10.3390/info17070695,RQ4,A,review_assessment,T0,,2026,Engineering,0,sample (carried over)
+CL-96cb706b,Christakis2023,10.1093/oso/9780197582794.003.0015,RQ1,A,finding,T1,,2023,Social Sciences,1,sample (carried over)
+CL-b4772838,Jung2022,10.1007/978-3-030-93975-5_8,RQ2,S,description,T0,,2022,Computer Science,0,sample (carried over)
+CL-b80e7795,Giess2024,10.24251/hicss.2024.511,RQ4,A,finding,T0,,2024,Computer Science,0,sample (carried over)
+CL-c6321144,Hmimou2025,10.1007/s41019-025-00317-7,RQ3,A,proposal,T2,,2025,Computer Science,1,sample (carried over)
+CL-cee94d86,Le2023,10.1017/dap.2023.41,RQ5,A,finding,T0,,2023,Computer Science,0,sample (carried over)
+CL-cee94d86,Schardong2022,10.3390/s22155641,RQ5,A,description,T0,,2022,Computer Science,0,sample (carried over)
+CL-de2e97e7,Siska2024,10.5220/0012734600003711,RQ5,S,finding,T3,,2024,Computer Science,1,sample (carried over)
+CL-e2ea0b5c,Bonura2022,10.1007/978-3-030-98636-0_5,RQ2,A,description,T0,,2022,Computer Science,0,sample (carried over)
+CL-e4156ed0,Noardo2024,10.3390/rs16203824,RQ3,A,finding,T0,,2024,Social Sciences,0,sample (carried over)
+CL-e4156ed0,Soininen2026,10.1016/j.dib.2026.112678,RQ3,S,proposal,T2,,2026,Computer Science,1,sample (carried over)
+CL-fca6c870,Prinz2022,10.1007/978-3-030-93975-5_10,RQ5,A,description,T0,,2022,Computer Science,1,sample (carried over)
+CL-04435970,Chrysakis2025,10.1109/eeite65381.2025.11166007,RQ3,A,proposal,T0,,2025,Agricultural and Biological Sciences,0,full round
+CL-0b9f0341,Galij2025,10.3390/app15179841,RQ4,A,finding,T3,,2025,Computer Science,1,full round
+CL-0c5d1a92,Arroyo2025,10.1016/j.hlpt.2025.100977,RQ4,context,finding,T1,,2025,not in corpus,0,full round
+CL-0c5d1a92,Borowicz2024,10.1093/ijlit/eaae015,RQ4,A,finding,T1,,2024,Social Sciences,0,full round
+CL-0c5d1a92,Xia2024,10.2147/rmhp.s450082,RQ4,context,finding,T1,,2024,not in corpus,0,full round
+CL-0f0bdf7c,SanchezSerna2026,10.1016/j.dib.2026.112668,RQ1,S,finding,T2,,2026,Computer Science,0,full round
+CL-0f698db3,Ahle2022,10.1007/978-3-030-93975-5_24,RQ3,A,description,T0,,2022,Engineering,1,full round
+CL-0f698db3,Choque2026,10.1007/s10922-026-10037-6,RQ3,A,finding,T2,,2026,Computer Science,1,full round
+CL-0fa3237f,Tyagi2026,10.1016/j.clsr.2026.106381,RQ1,A,finding,T1,,2026,Social Sciences,0,full round
+CL-1201b6f5,Tokuda2025,10.1007/978-981-96-3531-3_7,RQ5,A,finding,T3,1,2025,Computer Science,0,full round
+CL-1448eeec,CerveraDeLaCruz2026,10.3389/fmed.2025.1699941,RQ4,A,finding,T1,,2026,Medicine,0,full round
+CL-1448eeec,Katrakazas2026,10.1109/mdm71479.2026.00097,RQ4,A,finding,T1,,2026,Social Sciences,0,full round
+CL-1448eeec,Toscano2026,10.3390/info17070695,RQ4,A,proposal,T0,,2026,Engineering,0,full round
+CL-1448eeec,Wong2022,10.1017/dap.2021.40,RQ4,A,finding,T1,,2022,Social Sciences,0,full round
+CL-16f4a523,Terzis2023,10.1177/09685332231165692,RQ1,A,description,T0,,2023,Social Sciences,0,full round
+CL-1c3555cc,Tokuda2025,10.1007/978-981-96-3531-3_7,RQ5,A,finding,T3,1,2025,Computer Science,0,full round
+CL-217a232e,Firdausy2022a,10.1109/cbi54897.2022.00020,RQ3,context,proposal,T0,,2022,not in corpus,0,full round
+CL-243029f6,Oliveira2024,10.5220/0012699600003690,RQ4,A,review_assessment,T0,,2024,Social Sciences,0,full round
+CL-2474fd2f,Carrapico2025,10.17645/pag.10331,RQ1,A,finding,T1,,2025,Social Sciences,0,full round
+CL-2474fd2f,Ryan2024,10.1093/ijlit/eaae006,RQ1,A,finding,T1,,2024,Social Sciences,0,full round
+CL-2867eeab,Azcoitia2026,10.1016/j.clsr.2026.106303,RQ1,A,finding,T1,,2026,Social Sciences,0,full round
+CL-2867eeab,Carovano2023,10.1016/j.clsr.2023.105830,RQ1,A,finding,T1,,2023,Social Sciences,0,full round
+CL-2867eeab,vonDitfurth2022,10.1177/17835917221141324,RQ1,A,finding,T1,,2022,Social Sciences,1,full round
+CL-2bce401a,Hellmeier2025,10.24251/hicss.2025.520,RQ2,A,proposal,T0,,2025,Computer Science,0,full round
+CL-2bce401a,Prinz2022,10.1007/978-3-030-93975-5_10,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-2c0e4674,Giess2024,10.24251/hicss.2024.511,RQ3,A,finding,T0,,2024,Computer Science,0,full round
+CL-2d4e1987,Su2025,10.17645/pag.10413,RQ1,A,description,T0,,2025,Social Sciences,0,full round
+CL-2d9a08b9,Galij2025,10.3390/app15179841,RQ2,A,finding,T3,,2025,Computer Science,1,full round
+CL-3100207e,Firdausy2022c,10.1007/978-3-031-17834-4_14,RQ4,A,description,T0,,2022,Computer Science,0,full round
+CL-3100207e,Fotiou2026,10.1007/s41019-025-00320-y,RQ4,S,finding,T3,1,2026,Computer Science,1,full round
+CL-3100207e,Hmimou2025,10.1007/s41019-025-00317-7,RQ4,A,description,T0,,2025,Computer Science,0,full round
+CL-3100207e,Kovach2026,10.1016/j.cosrev.2025.100819,RQ4,A,description,T0,,2026,Computer Science,0,full round
+CL-3100207e,Schleimer2023,10.24251/hicss.2023.447,RQ4,A,description,T0,,2023,Engineering,0,full round
+CL-3327965d,Carovano2023,10.1016/j.clsr.2023.105830,RQ1,A,description,T0,,2023,Social Sciences,0,full round
+CL-33457875,Feth2025,10.1007/978-3-031-69994-8_5,RQ1,A,description,T0,,2025,Social Sciences,0,full round
+CL-33457875,Zorrilla2025,10.3390/info16110927,RQ1,A,proposal,T0,,2025,"Business, Management and Accounting",0,full round
+CL-39fc08d5,Le2023,10.1017/dap.2023.41,RQ2,A,finding,T3,,2023,Computer Science,1,full round
+CL-39fc08d5,Schardong2022,10.3390/s22155641,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-3c8a35cb,Lamo2026,10.12688/openreseurope.24687.1,RQ5,A,proposal,T0,,2026,Computer Science,0,full round
+CL-3c8b94fd,Firdausy2022a,10.1109/cbi54897.2022.00020,RQ3,context,proposal,T0,,2022,not in corpus,0,full round
+CL-3e5a2071,Angulo2022,10.3233/faia220321,RQ2,A,proposal,T0,,2022,Computer Science,0,full round
+CL-3e5a2071,Morabito2023,10.1145/3603166.3632239,RQ2,A,proposal,T0,,2023,Computer Science,0,full round
+CL-3e5a2071,Siska2024,10.5220/0012734600003711,RQ2,S,finding,T3,,2024,Computer Science,0,full round
+CL-49ab0b28,Firdausy2022c,10.1007/978-3-031-17834-4_14,RQ3,A,description,T0,,2022,Computer Science,0,full round
+CL-49ab0b28,Hmimou2025,10.1007/s41019-025-00317-7,RQ3,A,description,T0,,2025,Computer Science,0,full round
+CL-49ab0b28,Santana2025,10.1109/mitp.2025.3545214,RQ3,A,finding,T2,,2025,Computer Science,0,full round
+CL-49ab0b28,Schleimer2023,10.24251/hicss.2023.447,RQ3,A,description,T0,,2023,Engineering,0,full round
+CL-49ab0b28,Staebler2024,10.5220/0012916700003825,RQ3,A,description,T0,,2024,Computer Science,0,full round
+CL-4a61a6d1,Guo2023,10.1109/ccisp59915.2023.10355841,RQ2,context,description,NA,,2023,not in corpus,0,full round
+CL-4cc83638,SanchezSerna2026,10.1016/j.dib.2026.112668,RQ5,S,finding,T2,,2026,Computer Science,0,full round
+CL-4cc83638,Schardong2022,10.3390/s22155641,RQ5,A,finding,T3,,2022,Computer Science,1,full round
+CL-4d36602a,Ahmadian2024,10.1145/3685651.3685657,RQ2,S,proposal,T0,,2024,Computer Science,0,full round
+CL-4d36602a,Hajszan2026,10.1145/3771554,RQ2,A,proposal,T0,,2026,Computer Science,0,full round
+CL-4d36602a,Schuiki2025,10.5220/0013372900003899,RQ2,S,proposal,T0,,2025,Computer Science,0,full round
+CL-5c41d6fd,Baur2025,10.1080/1369118x.2025.2516545,RQ4,A,finding,T1,,2025,Social Sciences,0,full round
+CL-5c41d6fd,Ryan2024,10.1093/ijlit/eaae006,RQ4,A,finding,T1,,2024,Social Sciences,0,full round
+CL-5d8d2808,Hellmeier2025,10.24251/hicss.2025.520,RQ2,A,proposal,T0,,2025,Computer Science,0,full round
+CL-5d8d2808,Prinz2022,10.1007/978-3-030-93975-5_10,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-5dcd6967,Firdausy2022c,10.1007/978-3-031-17834-4_14,RQ3,A,proposal,T0,,2022,Computer Science,0,full round
+CL-5e6dbd27,OttoJarke2019,10.1007/s12525-019-00362-x,RQ3,context,finding,T0,,2019,not in corpus,0,full round
+CL-618c2179,Zhu2025,10.3390/app15105472,RQ5,A,finding,T3,1,2025,Computer Science,1,full round
+CL-63299e4b,LiuPolyzos2025,10.14722/impact.2025.23070,RQ2,S,finding,T3,1,2025,Computer Science,0,full round
+CL-669b35c7,Ishihara2025,10.5220/0013460600003967,RQ3,A,finding,T2,,2025,"Business, Management and Accounting",1,full round
+CL-669b35c7,Santana2025,10.1109/mitp.2025.3545214,RQ3,A,finding,T2,,2025,Computer Science,0,full round
+CL-67151781,Ruohonen2023,10.1007/s44206-023-00041-7,RQ1,A,description,T0,,2023,Social Sciences,0,full round
+CL-67c3d1dc,Baur2025,10.1080/1369118x.2025.2516545,RQ1,A,finding,T1,,2025,Social Sciences,0,full round
+CL-6d8c3fa1,Su2025,10.17645/pag.10413,RQ4,A,finding,T0,,2025,Social Sciences,0,full round
+CL-6d8c3fa1,Yakovleva2024,10.1093/oso/9780192899248.003.0005,RQ4,A,finding,T1,,2024,Social Sciences,0,full round
+CL-6e6fcbba,Jung2022,10.1007/978-3-030-93975-5_8,RQ2,S,description,T3,,2022,Computer Science,1,full round
+CL-6eb0ff99,Angulo2022,10.3233/faia220321,RQ2,A,proposal,T0,,2022,Computer Science,0,full round
+CL-6eb0ff99,Calvo2026,10.1016/j.dib.2026.112882,RQ2,A,proposal,T0,,2026,Computer Science,0,full round
+CL-6eb0ff99,Siska2024,10.5220/0012734600003711,RQ2,S,finding,T3,,2024,Computer Science,0,full round
+CL-725ca655,Marino2023,10.1145/3624486.3624509,RQ2,S,proposal,T0,,2023,Computer Science,0,full round
+CL-72ce488b,Ryan2024,10.1093/ijlit/eaae006,RQ4,A,finding,T1,,2024,Social Sciences,0,full round
+CL-74c2ce6d,Bacco2024,10.1016/j.dib.2024.110969,RQ1,A,description,T0,,2024,Computer Science,0,full round
+CL-77a55289,Ahmmed2026,10.3390/app16105084,RQ5,A,finding,T3,1,2026,Computer Science,0,full round
+CL-77a55289,Bacco2024FL,10.1109/metroagrifor63043.2024.10948754,RQ5,A,proposal,T0,,2024,Computer Science,0,full round
+CL-7a93f196,LiQuinn2024,10.1016/j.clsr.2023.105913,RQ1,A,description,T0,,2024,Social Sciences,0,full round
+CL-7ba4c24c,Casolari2023,10.1093/ijlit/eaae005,RQ1,A,finding,T0,,2023,Social Sciences,0,full round
+CL-7ba4c24c,Drechsler2025,10.4337/9781035338689.00011,RQ1,A,finding,T0,,2025,Social Sciences,0,full round
+CL-7ba4c24c,Straub2025,10.1007/978-3-031-69994-8_4,RQ1,A,finding,T1,,2025,Social Sciences,0,full round
+CL-7bd26d9d,Borowicz2025,10.1016/j.dib.2025.111964,RQ3,S,finding,T2,,2025,Social Sciences,0,full round
+CL-7bd26d9d,Oliveira2024,10.5220/0012699600003690,RQ3,A,proposal,T2,,2024,Social Sciences,0,full round
+CL-7bd26d9d,Puura2025,10.1016/j.dib.2025.112361,RQ3,S,finding,T2,,2025,Social Sciences,1,full round
+CL-7bd26d9d,Toscano2026,10.3390/info17070695,RQ3,A,proposal,T0,,2026,Engineering,0,full round
+CL-7df821b4,Lohmoller2024,10.1016/j.datak.2024.102301,RQ4,S,finding,T3,,2024,Computer Science,0,full round
+CL-8153e2d8,KhandpurSingh2025,10.1007/s41019-025-00311-z,RQ4,S,finding,T3,,2025,Computer Science,1,full round
+CL-8153e2d8,Lohmoller2024,10.1016/j.datak.2024.102301,RQ4,S,finding,T3,,2024,Computer Science,0,full round
+CL-82bf1589,Casarosa2024,10.1017/err.2024.25,RQ1,A,finding,T1,,2024,Social Sciences,0,full round
+CL-82bf1589,CerveraDeLaCruz2026,10.3389/fmed.2025.1699941,RQ1,A,finding,T1,,2026,Medicine,0,full round
+CL-82bf1589,LiQuinn2024,10.1016/j.clsr.2023.105913,RQ1,A,finding,T0,,2024,Social Sciences,0,full round
+CL-82bf1589,Rak2024,10.1017/err.2024.67,RQ1,A,finding,T1,,2024,Social Sciences,0,full round
+CL-82bf1589,Terzis2023,10.1177/09685332231165692,RQ1,A,finding,T1,,2023,Social Sciences,0,full round
+CL-84bcbce4,Chrysakis2025,10.1109/eeite65381.2025.11166007,RQ3,A,proposal,T0,,2025,Agricultural and Biological Sciences,0,full round
+CL-84bcbce4,Santipantakis2026,10.1016/j.dib.2026.112675,RQ3,A,proposal,T2,,2026,Computer Science,0,full round
+CL-84bcbce4,Staebler2024,10.5220/0012916700003825,RQ3,A,finding,T2,,2024,Computer Science,0,full round
+CL-84bcbce4,Theissen2023,10.1145/3543873.3587689,RQ3,A,description,T0,,2023,Computer Science,0,full round
+CL-85b2aecc,Ahle2022,10.1007/978-3-030-93975-5_24,RQ3,A,description,T0,,2022,Engineering,1,full round
+CL-85b2aecc,Choque2026,10.1007/s10922-026-10037-6,RQ3,A,finding,T2,,2026,Computer Science,1,full round
+CL-85b2aecc,Inigo2022,10.1109/iecon49645.2022.9968592,RQ3,A,proposal,T0,,2022,Engineering,0,full round
+CL-87c6f084,Fotiou2025Proxies,10.1109/cscn67557.2025.11230730,RQ2,S,proposal,T0,,2025,Computer Science,0,full round
+CL-87c6f084,Holfelder2022,10.1007/978-3-030-93975-5_25,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-8d07640e,Toscano2026,10.3390/info17070695,RQ3,A,finding,T2,,2026,Engineering,0,full round
+CL-8e5e6868,Buttow2024,10.3233/ip-230003,RQ4,A,finding,T1,,2024,Social Sciences,0,full round
+CL-92519577,Carrapico2025,10.17645/pag.10331,RQ5,A,finding,T1,,2025,Social Sciences,0,full round
+CL-9437ed81,Huber2022,10.1007/978-3-030-93975-5_9,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-9437ed81,Schardong2022,10.3390/s22155641,RQ2,A,description,T0,,2022,Computer Science,1,full round
+CL-9543047d,Wong2022,10.1017/dap.2021.40,RQ4,A,finding,T1,,2022,Social Sciences,0,full round
+CL-96cb706b,Yakovleva2024,10.1093/oso/9780192899248.003.0005,RQ1,A,finding,T1,,2024,Social Sciences,0,full round
+CL-971173eb,Jurcys2022,10.1016/j.clsr.2022.105691,RQ1,context,proposal,T0,,2022,not in corpus,0,full round
+CL-98085f8d,Holfelder2022,10.1007/978-3-030-93975-5_25,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-98085f8d,Marino2023,10.1145/3624486.3624509,RQ2,S,proposal,T0,,2023,Computer Science,0,full round
+CL-9a7cc5ef,Giess2024,10.24251/hicss.2024.511,RQ3,A,finding,T0,,2024,Computer Science,0,full round
+CL-9a7cc5ef,Giess2025,10.1016/j.compind.2024.104212,RQ3,A,finding,T0,,2025,"Business, Management and Accounting",0,full round
+CL-9a7cc5ef,Schleimer2023,10.24251/hicss.2023.447,RQ3,A,proposal,T0,,2023,Engineering,0,full round
+CL-9d0724f4,Huber2022,10.1007/978-3-030-93975-5_9,RQ2,A,description,T0,,2022,Computer Science,0,full round
+CL-9d16a2f2,Yakovleva2024,10.1093/oso/9780192899248.003.0005,RQ1,A,description,T0,,2024,Social Sciences,0,full round
+CL-a167b402,Akaichi2025,10.1016/j.cosrev.2024.100698,RQ2,A,description,T0,,2025,Computer Science,0,full round
+CL-a23b1320,AlaejosHerrero2026,10.12688/openreseurope.24229.2,RQ5,A,finding,T0,,2026,Computer Science,1,full round
+CL-a23b1320,SanchezSerna2026,10.1016/j.dib.2026.112668,RQ5,S,finding,T2,,2026,Computer Science,0,full round
+CL-a24fe7c6,Bacco2024FL,10.1109/metroagrifor63043.2024.10948754,RQ5,A,proposal,T0,,2024,Computer Science,0,full round
+CL-a24fe7c6,Bonura2022,10.1007/978-3-030-98636-0_5,RQ5,A,proposal,T0,,2022,Computer Science,0,full round
+CL-a24fe7c6,Zhu2025,10.3390/app15105472,RQ5,A,finding,T3,1,2025,Computer Science,1,full round
+CL-a45f583d,KhandpurSingh2025,10.1007/s41019-025-00311-z,RQ2,S,finding,T3,,2025,Computer Science,1,full round
+CL-a45f583d,Lohmoller2024,10.1016/j.datak.2024.102301,RQ2,S,finding,T3,,2024,Computer Science,0,full round
+CL-aa986512,Lazarotto2022,10.37307/j.2196-9817.2022.05.04,RQ4,A,description,T0,,2022,Social Sciences,0,full round
+CL-aa986512,Terzis2023,10.1177/09685332231165692,RQ4,A,description,T0,,2023,Social Sciences,0,full round
+CL-b4772838,Cimmino2025,10.1016/j.cose.2024.104282,RQ2,A,proposal,T0,,2025,Computer Science,0,full round
+CL-b4772838,Fotiou2026,10.1007/s41019-025-00320-y,RQ2,S,proposal,T0,,2026,Computer Science,0,full round
+CL-b6031544,Firdausy2022c,10.1007/978-3-031-17834-4_14,RQ4,A,description,T0,,2022,Computer Science,0,full round
+CL-b6031544,Fotiou2026,10.1007/s41019-025-00320-y,RQ4,S,finding,T3,1,2026,Computer Science,1,full round
+CL-b6031544,Schleimer2023,10.24251/hicss.2023.447,RQ4,A,description,T0,,2023,Engineering,0,full round
+CL-b80e7795,Borowicz2025,10.1016/j.dib.2025.111964,RQ4,S,finding,T2,,2025,Social Sciences,0,full round
+CL-b80e7795,Oliveira2024,10.5220/0012699600003690,RQ4,A,proposal,T2,,2024,Social Sciences,0,full round
+CL-cd6995f3,AlaejosHerrero2026,10.12688/openreseurope.24229.2,RQ5,A,finding,T3,1,2026,Computer Science,1,full round
+CL-cd6995f3,Prinz2022,10.1007/978-3-030-93975-5_10,RQ5,A,description,T0,,2022,Computer Science,0,full round
+CL-d06ce494,Prinz2022,10.1007/978-3-030-93975-5_10,RQ5,A,description,T0,,2022,Computer Science,0,full round
+CL-d45d330b,Pampus2025,10.5220/0013569100003967,RQ2,A,finding,T2,,2025,Computer Science,0,full round
+CL-de2e97e7,Calvo2026,10.1016/j.dib.2026.112882,RQ5,A,proposal,T0,,2026,Computer Science,0,full round
+CL-e2ea0b5c,Bacco2024FL,10.1109/metroagrifor63043.2024.10948754,RQ2,A,proposal,T0,,2024,Computer Science,0,full round
+CL-e5be1a25,Giess2025,10.1016/j.compind.2024.104212,RQ3,A,finding,T0,,2025,"Business, Management and Accounting",0,full round
+CL-e999f11d,Qin2026,10.1109/icbdse70225.2026.11635411,RQ5,A,proposal,T0,,2026,Computer Science,0,full round
+CL-ee844fd7,Xia2024,10.2147/rmhp.s450082,RQ1,context,finding,T1,,2024,not in corpus,0,full round
+CL-f78009df,Buttow2024,10.3233/ip-230003,RQ4,A,finding,T1,,2024,Social Sciences,0,full round
+CL-f78009df,Carrapico2025,10.17645/pag.10331,RQ4,A,finding,T1,,2025,Social Sciences,0,full round
+CL-f7ec56d7,Qin2026,10.1109/icbdse70225.2026.11635411,RQ5,A,finding,T3,,2026,Computer Science,0,full round
+CL-f7fc0d7c,Cimmino2025,10.1016/j.cose.2024.104282,RQ2,A,proposal,T0,,2025,Computer Science,0,full round
+CL-f7fc0d7c,Fotiou2026,10.1007/s41019-025-00320-y,RQ2,S,proposal,T0,,2026,Computer Science,0,full round
+CL-f7fc0d7c,Pampus2025,10.5220/0013569100003967,RQ2,A,proposal,T0,,2025,Computer Science,0,full round
+CL-f85f7e8c,AlaejosHerrero2026,10.12688/openreseurope.24229.2,RQ5,A,proposal,T0,,2026,Computer Science,0,full round
+CL-f85f7e8c,Zhang2026,10.1109/icbdse70225.2026.11635328,RQ5,A,proposal,T0,,2026,Computer Science,0,full round
+CL-fa8e681c,Borowicz2025,10.1016/j.dib.2025.111964,RQ4,S,finding,T2,,2025,Social Sciences,0,full round

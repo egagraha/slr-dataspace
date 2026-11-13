@@ -1,0 +1,8 @@
+measure,n,raw_agreement,cohen_kappa
+tension (T1/T2/T3/T0/NA),152,0.592,0.321
+"tension, rows with any NA dropped",149,0.604,0.337
+"any tension (T1-T3) vs T0, rows with any NA dropped",149,0.624,0.230
+claim_type,152,0.447,0.187
+counter,152,0.961,0.000
+Ega: rows coded T1/T2/T3/T0/NA,152,31 / 16 / 21 / 83 / 1,
+Alexis: rows coded T1/T2/T3/T0/NA,152,18 / 12 / 24 / 96 / 2,
